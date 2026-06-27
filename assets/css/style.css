@@ -226,4 +226,34 @@ ul.topic-list li.done { color: var(--text); }
 .resource-list { padding-left: 20px; }
 .resource-list li { margin-bottom: 6px; }
 
+/* Markdown-rendered topic lessons */
+.topic-body h2 {
+  color: var(--accent);
+  margin-top: 36px;
+  border-bottom: 1px solid #262a35;
+  padding-bottom: 6px;
+}
+.topic-body h3 { margin-top: 24px; }
+.topic-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  background: var(--panel);
+}
+.topic-body th, .topic-body td {
+  border: 1px solid #262a35;
+  padding: 8px 12px;
+  text-align: left;
+}
+.topic-body th { background: #1c2030; color: var(--accent); }
+.topic-body strong { color: var(--text); }
+.topic-body ul, .topic-body ol { padding-left: 22px; }
+.topic-body li { margin-bottom: 6px; }
+.topic-body code { background: #1c2030; padding: 2px 6px; border-radius: 4px; }
+.topic-body blockquote {
+  border-left: 3px solid var(--accent);
+  margin: 16px 0; padding: 8px 16px; color: var(--muted);
+  background: var(--panel);
+}
+
 footer { text-align: center; color: var(--muted); padding: 24px; font-size: 13px; }
