@@ -1,0 +1,173 @@
+{
+  "subjects": [
+    {
+      "id": "polity",
+      "name": "Polity",
+      "tier": "A",
+      "order": 1,
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "making-of-constitution",
+          "title": "Making of the Constitution",
+          "status": "not-started"
+        },
+        {
+          "id": "preamble",
+          "title": "Preamble",
+          "status": "not-started"
+        },
+        {
+          "id": "salient-features",
+          "title": "Salient Features of the Constitution",
+          "status": "not-started"
+        },
+        {
+          "id": "fundamental-rights",
+          "title": "Fundamental Rights",
+          "status": "not-started"
+        },
+        {
+          "id": "duties-dpsp",
+          "title": "Fundamental Duties & DPSP",
+          "status": "not-started"
+        },
+        {
+          "id": "union-executive-president",
+          "title": "Union Executive — President & Vice-President",
+          "status": "not-started"
+        },
+        {
+          "id": "union-executive-pm",
+          "title": "Union Executive — PM & Council of Ministers",
+          "status": "not-started"
+        },
+        {
+          "id": "parliament",
+          "title": "Parliament — Lok Sabha & Rajya Sabha",
+          "status": "not-started"
+        },
+        {
+          "id": "judiciary-supreme-court",
+          "title": "Judiciary — Supreme Court & Judicial Review",
+          "status": "not-started"
+        },
+        {
+          "id": "state-executive-legislature",
+          "title": "State Executive & State Legislature",
+          "status": "not-started"
+        },
+        {
+          "id": "high-courts",
+          "title": "High Courts & Subordinate Judiciary",
+          "status": "not-started"
+        },
+        {
+          "id": "centre-state-relations",
+          "title": "Centre-State Relations",
+          "status": "not-started"
+        },
+        {
+          "id": "local-self-government",
+          "title": "Local Self-Government (73rd/74th Amendments)",
+          "status": "not-started"
+        },
+        {
+          "id": "constitutional-bodies",
+          "title": "Constitutional Bodies",
+          "status": "not-started"
+        },
+        {
+          "id": "statutory-bodies",
+          "title": "Non-Constitutional/Statutory Bodies",
+          "status": "not-started"
+        },
+        {
+          "id": "amendments",
+          "title": "Important Constitutional Amendments",
+          "status": "not-started"
+        }
+      ]
+    },
+    {
+      "id": "modern-history",
+      "name": "Modern History",
+      "tier": "A",
+      "order": 2,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "geography",
+      "name": "Indian Geography",
+      "tier": "A",
+      "order": 3,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "economy",
+      "name": "Economy",
+      "tier": "A",
+      "order": 4,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "science-biology",
+      "name": "Science — Biology",
+      "tier": "B",
+      "order": 5,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "science-chemistry",
+      "name": "Science — Chemistry",
+      "tier": "B",
+      "order": 6,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "science-physics",
+      "name": "Science — Physics",
+      "tier": "B",
+      "order": 7,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "ancient-medieval-history",
+      "name": "Ancient & Medieval History",
+      "tier": "B",
+      "order": 8,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "world-geography",
+      "name": "World Geography",
+      "tier": "B",
+      "order": 9,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "art-culture",
+      "name": "Art & Culture",
+      "tier": "B",
+      "order": 10,
+      "breakdownComplete": false,
+      "topics": []
+    },
+    {
+      "id": "static-gk",
+      "name": "Static GK (Awards, Books, Schemes, Days, etc.)",
+      "tier": "C",
+      "order": 11,
+      "breakdownComplete": false,
+      "topics": []
+    }
+  ]
+}
