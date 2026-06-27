@@ -1,0 +1,97 @@
+{
+  "2026-06-27": {
+    "sections": [
+      {
+        "title": "Public Health & Drug Regulation",
+        "items": [
+          {
+            "fact": "Union Ministry of Health and Family Welfare banned 16 irrational Fixed-Dose Combination (FDC) drugs with immediate effect — covering certain skin creams, painkillers, and antibiotic combinations.",
+            "why": "Action taken under Section 26A of the Drugs and Cosmetics Act, 1940. Remember the Act name + section number — SSC likes pairing a regulatory action with its legal basis.",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Appointments",
+        "items": [
+          {
+            "fact": "The Appointments Committee of the Cabinet (ACC) approved Mahesh Dixit (1993-batch IPS, Andhra Pradesh cadre) as the next Director of the Intelligence Bureau (IB) for two years, succeeding Tapan Kumar Deka.",
+            "why": "IB Director is appointed by the ACC, which is chaired by the PM — a useful thread to Union Executive once we cover that topic. Note the cadre/batch detail style of question SSC asks.",
+            "unverified": false
+          },
+          {
+            "fact": "Tushar Mehta was reappointed as Solicitor General of India for a further three-year term (effective from 23 June 2026).",
+            "why": "Solicitor General is a Law Officer of India (along with the Attorney General) — appointed by the Government, not a constitutional post itself. Common SSC confusion: AG (constitutional, Article 76) vs SG (statutory/non-constitutional).",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Defence & International Relations",
+        "items": [
+          {
+            "fact": "India launched 'Operation Amistad' on 26 June 2026 — a humanitarian assistance and disaster relief (HADR) mission to Venezuela after two earthquakes. Two IAF C-17 aircraft carried a 41-member rescue team, 30 tonnes of relief material, 6 tonnes of medicines, and two BHISHM portable field hospitals.",
+            "why": "SSC frequently asks 'name the operation + country + reason' for India's HADR/evacuation missions (e.g., Operation Dost, Operation Kaveri, Operation Ganga). Add 'Amistad → Venezuela → earthquake relief' to that list. BHISHM (Bharat Health Initiative for Sahyog, Hita, and Maitri) field hospitals are also a recurring static-adjacent term.",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Science & Technology",
+        "items": [
+          {
+            "fact": "The Department of Atomic Energy inaugurated the world's first nuclear heat-based hydrogen production facility at IGCAR, Kalpakkam (Tamil Nadu), using heat from the Fast Breeder Test Reactor via an indigenous Copper-Chlorine thermochemical process.",
+            "why": "'World's first' + 'indigenous' + specific location (Kalpakkam, Tamil Nadu) is exactly the shape of a static-GK-style recall question. Note: IGCAR = Indira Gandhi Centre for Atomic Research.",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Environment & Energy",
+        "items": [
+          {
+            "fact": "India's Department of Fertilizers held a Pre-Expression of Interest meeting toward setting up the country's first commercial green urea plant (produced using green hydrogen + captured CO₂ instead of fossil fuels), under the ₹19,744 crore National Green Hydrogen Mission.",
+            "why": "Ties together two static-friendly facts: the National Green Hydrogen Mission's outlay figure, and India's 2070 net-zero target — both are classic static-GK number-recall items.",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Sports",
+        "items": [
+          {
+            "fact": "India defeated New Zealand 2-0 in the final to win the 2026 FIH Women's Hockey Nations Cup. Lalremsiami was named Player of the Match; Deepika finished as joint-highest scorer with 6 goals. Hockey India announced a ₹3 lakh reward per player and ₹1.5 lakh per support staff member.",
+            "why": "Tournament name + winning margin + player names is the standard SSC sports-question format. Note Hockey India's reward amounts too — sometimes asked directly.",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Economy & Finance",
+        "items": [
+          {
+            "fact": "RBI issued the 'Master Directions – RBI (Credit Derivatives) Directions, 2026', effective 25 June 2026, aimed at deepening India's corporate bond market.",
+            "why": "RBI 'Master Directions' naming + effective date is a recurring static-linked current affairs pattern — RBI issues many such directions, and SSC occasionally asks which one relates to which sector.",
+            "unverified": false
+          },
+          {
+            "fact": "The Central Consumer Protection Authority (CCPA) fined Mrs. Bector's and Storia ₹1 lakh each under the Consumer Protection Act, 2019, for misleading '100% product' claims — clarifying that FSSAI compliance does not excuse deceptive front-label advertising.",
+            "why": "Direct law-name recall: Consumer Protection Act, 2019 and the body CCPA. SSC has asked about CCPA's powers before.",
+            "unverified": false
+          }
+        ]
+      },
+      {
+        "title": "Persons in News",
+        "items": [
+          {
+            "fact": "The Prime Minister paid tribute to Bankim Chandra Chattopadhyay on his Jayanti (27 June) — author of 'Anandamath' (1882) and composer of 'Vande Mataram', which became a rallying song of the Indian nationalist movement.",
+            "why": "Classic static-GK trigger: Author–Book–Year(Anandamath, 1882) and Author–Composition(Vande Mataram) pairings are exactly what Static GK 'Books & Authors' questions test. This will get a direct cross-link once we cover Modern History.",
+            "unverified": false
+          }
+        ]
+      }
+    ],
+    "relatedStatic": []
+  }
+}
