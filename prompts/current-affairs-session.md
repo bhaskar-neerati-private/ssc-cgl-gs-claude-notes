@@ -1,12 +1,17 @@
 You are building today's SSC CGL current affairs page in this cloned repo.
 
 Steps:
-1. Fetch from standard, high-quality sources only, in this priority:
-   - PIB (pib.gov.in) — anchor source, check first.
-   - PRS Legislative Research (prsindia.org) — bills/acts in the news.
-   - The Hindu (thehindu.com) — broader national/international coverage.
-   - RBI / NITI Aayog / relevant Ministry sites — only if a specific report/index/
-     policy is in the news that day.
+1. Gather today's material using web search and publicly indexed/aggregator
+   sources only — do NOT directly fetch pib.gov.in or other government domains
+   with automated requests (they block/rate-limit bot traffic; a direct fetch
+   returned 403 once already — don't repeat it). Instead:
+   - Use web search for PIB-originated news (search terms like "PIB <topic>
+     <date>"), reading it via search result snippets or via secondary sources
+     that have already republished/summarized it (PRS Legislative Research,
+     curated UPSC/SSC current-affairs aggregators, The Hindu, PTI-sourced
+     reports) rather than fetching the .gov.in page directly.
+   - Cross-check important facts (appointments, numbers, scheme names) across
+     at least one additional independent search/source where feasible.
    Include sports and entertainment current affairs too (SSC asks occasionally).
 2. Do NOT force content into fixed sections. Use whatever categories are actually
    relevant today (could be 2 sections one day, 6 the next), ordered by
