@@ -23,6 +23,11 @@
           "status": "done"
         },
         {
+          "id": "parts-and-schedules",
+          "title": "Parts and Schedules of the Constitution",
+          "status": "done"
+        },
+        {
           "id": "fundamental-rights",
           "title": "Fundamental Rights",
           "status": "not-started"

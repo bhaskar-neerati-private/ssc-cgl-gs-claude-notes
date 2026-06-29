@@ -1,0 +1,98 @@
+{
+  "topic": "Parts and Schedules of the Constitution",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Anti-Defection Law is contained in which Schedule of the Indian Constitution?",
+          "options": ["Eighth Schedule", "Ninth Schedule", "Tenth Schedule", "Eleventh Schedule"],
+          "answerIndex": 2,
+          "explanation": "The Tenth Schedule, added by the 52nd Amendment (1985), lays down the grounds for disqualification of MPs/MLAs on account of defection.",
+          "source": "Appears repeatedly in SSC CGL-aligned test banks — exact year/paper not independently confirmed",
+          "verified": false
+        },
+        {
+          "text": "State land reform laws were protected from judicial review by being placed under which Schedule?",
+          "options": ["Seventh Schedule", "Eighth Schedule", "Ninth Schedule", "Tenth Schedule"],
+          "answerIndex": 2,
+          "explanation": "The Ninth Schedule was added by the 1st Constitutional Amendment, 1951, specifically to shield certain land reform laws from being struck down for violating Fundamental Rights.",
+          "source": "Appears repeatedly in SSC CGL-aligned test banks — exact year/paper not independently confirmed",
+          "verified": false
+        },
+        {
+          "text": "The Union List, State List, and Concurrent List are mentioned in which Schedule of the Constitution?",
+          "options": ["Fourth Schedule", "Sixth Schedule", "Seventh Schedule", "Ninth Schedule"],
+          "answerIndex": 2,
+          "explanation": "The Seventh Schedule divides legislative subjects into the Union List (Centre), State List (States), and Concurrent List (both).",
+          "source": "Appears repeatedly in SSC CGL-aligned test banks — exact year/paper not independently confirmed",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Which Schedule of the Constitution deals specifically with the administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram?",
+          "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
+          "answerIndex": 1,
+          "explanation": "The Sixth Schedule covers tribal area administration specifically in these four northeastern states with greater autonomy, distinct from the more general Fifth Schedule.",
+          "source": "Not an official PYQ — anticipated based on the common 5th-vs-6th Schedule confusion trap",
+          "verified": false
+        },
+        {
+          "text": "Which Part of the Constitution was added by the 97th Amendment, 2011, dealing with Co-operative Societies?",
+          "options": ["Part IXA", "Part IXB", "Part XIVA", "Part XVI"],
+          "answerIndex": 1,
+          "explanation": "Part IXB was inserted by the 97th Amendment, 2011, giving citizens the right to form co-operative societies.",
+          "source": "Not an official PYQ — anticipated based on the 'lettered Parts are later insertions' pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "How many languages are currently listed in the Eighth Schedule of the Constitution, and how many were there originally?",
+          "options": ["18 now, originally 12", "22 now, originally 14", "25 now, originally 16", "20 now, originally 10"],
+          "answerIndex": 1,
+          "explanation": "The Eighth Schedule started with 14 languages and now lists 22, with additions made by the 21st (1967), 71st (1992), and 92nd (2003) Amendments.",
+          "source": "Not an official PYQ — frequently underrated because students assume the count never changed",
+          "verified": false
+        },
+        {
+          "text": "Which Schedule allocates the number of Rajya Sabha seats to each State and Union Territory?",
+          "options": ["Second Schedule", "Third Schedule", "Fourth Schedule", "Fifth Schedule"],
+          "answerIndex": 2,
+          "explanation": "The Fourth Schedule deals specifically with the allocation of seats in the Rajya Sabha (Council of States).",
+          "source": "Not an official PYQ — an easy-to-overlook Schedule since it's less famous than the 7th, 9th, or 10th",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which Amendment added the Eleventh and Twelfth Schedules to the Constitution, and what do they cover?",
+          "options": [
+            "42nd Amendment — Fundamental Duties",
+            "61st Amendment — Voting age",
+            "73rd & 74th Amendments — Powers of Panchayats and Municipalities",
+            "86th Amendment — Right to Education"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 73rd Amendment (1992) added the Eleventh Schedule (29 Panchayat subjects) and the 74th Amendment (1992) added the Twelfth Schedule (18 Municipality subjects).",
+          "source": "Pattern frequently recurring across SSC CGL/CHSL polity papers in various phrasings",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}
