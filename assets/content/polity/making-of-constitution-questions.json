@@ -1,0 +1,93 @@
+{
+  "topic": "Making of the Constitution",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who was the chairman of the Drafting Committee of the Constitution of India?",
+          "options": ["Sachchidananda Sinha", "Harendra Coomar Mookerjee", "Jawaharlal Nehru", "Dr. B.R. Ambedkar"],
+          "answerIndex": 3,
+          "explanation": "Dr. B.R. Ambedkar chaired the 7-member Drafting Committee, formed on 29 August 1947.",
+          "source": "Confirmed asked in SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Who was the first (temporary) president of the Constituent Assembly?",
+          "options": ["Harendra Coomar Mookerjee", "Sachchidananda Sinha", "B.N. Rau", "J.B. Kripalani"],
+          "answerIndex": 1,
+          "explanation": "Dr. Sachchidananda Sinha, as the oldest member present, chaired the first sitting on 9 December 1946 before Dr. Rajendra Prasad was elected permanent President two days later.",
+          "source": "Widely repeated in SSC CGL test banks — exact year/paper not independently confirmed",
+          "verified": false
+        },
+        {
+          "text": "In which year did India's Constitution come into force?",
+          "options": ["1949", "1950", "1951", "1947"],
+          "answerIndex": 1,
+          "explanation": "Adopted 26 November 1949, but came into force on 26 January 1950 (Republic Day).",
+          "source": "Widely repeated in SSC CGL test banks — exact year/paper not independently confirmed",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Which member of the original Drafting Committee passed away in 1948 and had to be replaced?",
+          "options": ["K.M. Munshi", "D.P. Khaitan", "Alladi Krishnaswami Ayyar", "Syed Mohammad Saadulla"],
+          "answerIndex": 1,
+          "explanation": "D.P. Khaitan died in 1948 and was replaced by T.T. Krishnamachari. B.L. Mitter was the other replacement (due to ill health), replaced by N. Madhava Rau.",
+          "source": "Not an official PYQ — anticipated based on common trap pattern (exact-replacement recall)",
+          "verified": false
+        },
+        {
+          "text": "How many total sittings did the Constituent Assembly hold while drafting the Constitution?",
+          "options": ["9", "11", "13", "15"],
+          "answerIndex": 1,
+          "explanation": "The Assembly held 11 sessions over 165 sitting days, taking 2 years, 11 months, 18 days in total.",
+          "source": "Not an official PYQ — anticipated based on common numeric-recall pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Who was appointed as the Constitutional Advisor to the Constituent Assembly, and prepared the original draft before the Drafting Committee took over?",
+          "options": ["Dr. B.R. Ambedkar", "Sir B.N. Rau", "K.M. Munshi", "Dr. Rajendra Prasad"],
+          "answerIndex": 1,
+          "explanation": "Sir B.N. Rau, a civil servant and constitutional expert, prepared the preliminary draft. He's often overshadowed by Ambedkar in students' memory, but is a distinct, frequently-tested name.",
+          "source": "Not an official PYQ — flagged because this name is easy to overlook and easy to test",
+          "verified": false
+        },
+        {
+          "text": "How many women members were part of the Constituent Assembly?",
+          "options": ["9", "12", "15", "18"],
+          "answerIndex": 2,
+          "explanation": "15 women members were part of the Constituent Assembly, including Sarojini Naidu, Hansa Mehta, and Durgabai Deshmukh.",
+          "source": "Not an official PYQ — an underused but plausible recall fact",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "On which date was the Constitution of India adopted by the Constituent Assembly?",
+          "options": ["15 August 1947", "26 November 1949", "26 January 1950", "9 December 1946"],
+          "answerIndex": 1,
+          "explanation": "Adopted on 26 November 1949 (Constitution Day); came into force on 26 January 1950 (Republic Day). This adoption-vs-enforcement date pair is one of the most recurring question patterns in this topic.",
+          "source": "Pattern frequently recurring across SSC CGL/CHSL polity papers in various phrasings",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

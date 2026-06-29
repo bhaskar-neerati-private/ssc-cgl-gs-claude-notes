@@ -27,7 +27,11 @@ async function renderTopicPage() {
     ? `<span class="tier-badge tier-${meta.tier}">Tier ${meta.tier}</span>`
     : "";
 
+  const topicId = mdPath.split("/").pop().replace(".md", "");
+  const questionsHref = `${topicId}-questions.html`;
+
   container.innerHTML = `
+    <a class="questions-link-banner" href="${questionsHref}">📝 Practice Questions for this topic &rarr;</a>
     <h1>${meta.title || ""} ${tierBadge}</h1>
     <p class="empty-note">${meta.subject || ""} ${meta.date ? "&middot; " + meta.date : ""}</p>
     <div class="topic-body">${marked.parse(body)}</div>

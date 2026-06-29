@@ -36,8 +36,32 @@ Steps:
 5. ALWAYS include a "Free Resources" section in the lesson: books, articles, blogs,
    YouTube videos — each as "Name — link," so the resource can be re-found by name if
    the link breaks. Only suggest free, high-quality, standard sources.
-6. Update progress.json: set this topic's `status` to `"done"`.
-7. Output the exact `git add`, `git commit`, `git push` commands for the user to run.
+6. ALWAYS build a companion Practice Questions page for the topic:
+   - Create /assets/content/<subject-id>/<topic-id>-questions.json with this shape:
+     { "topic": "<Topic Title>", "sections": [
+         { "id": "pyq", "title": "Previous Year Questions", "questions": [...] },
+         { "id": "tricky", "title": "Tricky Questions (Anticipated)", "questions": [...] },
+         { "id": "underrated", "title": "Most Underrated Questions", "questions": [...] },
+         { "id": "frequent", "title": "Most Frequently Asked Question Patterns", "questions": [...] }
+     ]}
+     Each question: { "text", "options" (4), "answerIndex", "explanation", "source", "verified" }.
+   - "Previous Year Questions" must ONLY contain questions you can verify were actually
+     asked in real SSC CGL papers — search for confirmation. Cite the year/paper in
+     `source` and set `verified: true` only when reasonably confident; otherwise set
+     `verified: false` and say so plainly in `source` (e.g. "exact year/paper not
+     independently confirmed"). NEVER fabricate a fake PYQ that looks authoritative.
+   - "Tricky", "Underrated", and "Frequent Pattern" questions are your own anticipated
+     questions, not real PYQs — always set `verified: false` and label `source` as
+     "Not an official PYQ — anticipated...".
+   - Create /static/<subject-id>/<topic-id>-questions.html using the existing
+     questions-page template pattern (`<body data-questions="...">`, loading
+     assets/js/questions-page.js — no marked.js needed for this page).
+   - The lesson page (topic-page.js) automatically injects a "Practice Questions for
+     this topic" banner link as the first line of the lesson — this is handled
+     globally, no per-topic change needed, as long as the questions HTML file exists
+     at `<topic-id>-questions.html` alongside the lesson page.
+7. Update progress.json: set this topic's `status` to `"done"`.
+8. Output the exact `git add`, `git commit`, `git push` commands for the user to run.
    Never run git push yourself.
 
 Quality bar: the user's GS marks depend entirely on this content. Do not cut corners,

@@ -1,0 +1,111 @@
+{
+  "topic": "Salient Features of the Constitution",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who among the following described the Indian Constitution as a 'quasi-federal' state?",
+          "options": ["Dr. B.R. Ambedkar", "Jawaharlal Nehru", "K.C. Wheare", "Granville Austin"],
+          "answerIndex": 2,
+          "explanation": "Constitutional expert K.C. Wheare described India's federal structure as 'quasi-federal' — an intermediate form between unitary and federal.",
+          "source": "Confirmed recurring SSC CGL question format",
+          "verified": true
+        },
+        {
+          "text": "Assertion (A): Indian federalism is called 'Quasi-federal'.\nReason (R): India has an independent judiciary with the power of Judicial Review.\nWhich is correct?",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is NOT the correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both statements are independently true, but judicial review is not what makes India 'quasi-federal' — that comes from the strong-Centre bias (e.g. Emergency provisions), not judicial review.",
+          "source": "Confirmed recurring SSC CGL Assertion-Reason question format",
+          "verified": true
+        },
+        {
+          "text": "The Directive Principles of State Policy (DPSP) were borrowed from the Constitution of which country?",
+          "options": ["USA", "UK", "Canada", "Ireland"],
+          "answerIndex": 3,
+          "explanation": "DPSP, along with the method of Presidential election and nomination of Rajya Sabha members, were borrowed from Ireland's Constitution (1937).",
+          "source": "Confirmed recurring SSC CGL question format",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Which Article of the Constitution lays down the procedure for its own amendment?",
+          "options": ["Article 352", "Article 356", "Article 360", "Article 368"],
+          "answerIndex": 3,
+          "explanation": "Article 368 lays down the three-tier amendment procedure (ordinary law / special majority / special majority + state ratification).",
+          "source": "Not an official PYQ — anticipated based on commonly confused Article-number clustering (352/356/360/368)",
+          "verified": false
+        },
+        {
+          "text": "Which Article declares India to be a 'Union of States' rather than a 'Federation of States'?",
+          "options": ["Article 1", "Article 2", "Article 3", "Article 4"],
+          "answerIndex": 0,
+          "explanation": "Article 1 declares 'India, that is Bharat, shall be a Union of States' — a deliberate phrasing choice reflecting India's quasi-federal character.",
+          "source": "Not an official PYQ — anticipated based on a frequently tested opening-Article fact",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "By which Constitutional Amendment was the voting age in India reduced from 21 to 18 years?",
+          "options": ["59th Amendment, 1988", "61st Amendment, 1988", "73rd Amendment, 1992", "86th Amendment, 2002"],
+          "answerIndex": 1,
+          "explanation": "The 61st Amendment Act, 1988 lowered the voting age from 21 to 18 — a fact often missed since students assume 18 was always the rule.",
+          "source": "Not an official PYQ — an underused but exam-relevant fact",
+          "verified": false
+        },
+        {
+          "text": "Local self-government (Panchayats and Municipalities) was added as a formal third tier of government by which Amendments?",
+          "options": ["42nd & 44th Amendments", "61st & 65th Amendments", "73rd & 74th Amendments", "86th & 97th Amendments"],
+          "answerIndex": 2,
+          "explanation": "The 73rd Amendment (Panchayats) and 74th Amendment (Municipalities), both in 1992, created the third tier of government.",
+          "source": "Not an official PYQ — frequently underrated despite being a high-yield static fact",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "How many Fundamental Duties were originally added to the Constitution by the 42nd Amendment, 1976?",
+          "options": ["8", "10", "11", "12"],
+          "answerIndex": 1,
+          "explanation": "10 Fundamental Duties were added in 1976; an 11th (regarding parents/guardians providing education to children aged 6-14) was added later by the 86th Amendment, 2002.",
+          "source": "Pattern frequently recurring across SSC CGL/CHSL polity papers in various phrasings",
+          "verified": false
+        },
+        {
+          "text": "Match the type of Emergency to its correct Article number: National Emergency, President's Rule, Financial Emergency.",
+          "options": [
+            "352, 356, 360",
+            "356, 352, 360",
+            "360, 356, 352",
+            "352, 360, 356"
+          ],
+          "answerIndex": 0,
+          "explanation": "National Emergency — Article 352; President's Rule (State Emergency) — Article 356; Financial Emergency — Article 360. The numbers climb by 4 in this exact order.",
+          "source": "Pattern frequently recurring — Emergency Article-number matching is a classic SSC CGL question style",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

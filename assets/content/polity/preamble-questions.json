@@ -1,0 +1,93 @@
+{
+  "topic": "Preamble",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The terms 'Socialist' and 'Secular' were added to the Preamble of the Indian Constitution by which Amendment?",
+          "options": ["40th Amendment", "42nd Amendment", "44th Amendment", "52nd Amendment"],
+          "answerIndex": 1,
+          "explanation": "The 42nd Constitutional Amendment Act, 1976 added 'Socialist', 'Secular', and upgraded 'unity' to 'unity and integrity' of the Nation.",
+          "source": "Confirmed recurring SSC CGL question format",
+          "verified": true
+        },
+        {
+          "text": "Before the 42nd Constitutional Amendment Act, 1976, the term 'secular' was mentioned only in which Article of the Constitution?",
+          "options": ["Article 14", "Article 15", "Article 25", "Article 26"],
+          "answerIndex": 2,
+          "explanation": "Article 25 (freedom of religion) was the only place 'secular' appeared before 1976, even though the Preamble itself didn't use the word until the 42nd Amendment.",
+          "source": "Confirmed recurring SSC CGL question format",
+          "verified": true
+        },
+        {
+          "text": "The idea of the Preamble of the Indian Constitution was borrowed from which country's Constitution?",
+          "options": ["United Kingdom", "United States of America", "Ireland", "Canada"],
+          "answerIndex": 1,
+          "explanation": "The opening words 'WE, THE PEOPLE OF...' and the very concept of a Preamble were adapted from the U.S. Constitution.",
+          "source": "Appears frequently in SSC CGL test banks — exact year/paper not independently confirmed",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Which Supreme Court case held that the Preamble is NOT a part of the Constitution?",
+          "options": ["Golaknath case (1967)", "Berubari Union case (1960)", "Kesavananda Bharati case (1973)", "Minerva Mills case (1980)"],
+          "answerIndex": 1,
+          "explanation": "The Berubari Union case (1960) held the Preamble is not part of the Constitution. This was reversed 13 years later by the Kesavananda Bharati case (1973) — a classic 'which case said what, and which one reversed it' trap.",
+          "source": "Not an official PYQ — anticipated based on a well-known reversal pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "In which year was the Kesavananda Bharati case decided, establishing that the Preamble IS part of the Constitution?",
+          "options": ["1967", "1973", "1976", "1980"],
+          "answerIndex": 1,
+          "explanation": "Kesavananda Bharati v. State of Kerala (1973) — also the case that introduced the Basic Structure doctrine.",
+          "source": "Not an official PYQ — frequently glossed over but easy to test as a standalone date",
+          "verified": false
+        },
+        {
+          "text": "Which 1995 Supreme Court case reaffirmed that the Preamble is part of the Constitution?",
+          "options": ["Minerva Mills case", "LIC of India case", "S.R. Bommai case", "Indira Sawhney case"],
+          "answerIndex": 1,
+          "explanation": "The LIC of India case (1995) reaffirmed the Kesavananda Bharati position on the Preamble.",
+          "source": "Not an official PYQ — a lesser-known follow-up case worth knowing",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "How many times has the Preamble of the Indian Constitution been amended so far?",
+          "options": ["Never", "Once", "Twice", "Three times"],
+          "answerIndex": 1,
+          "explanation": "Only once — by the 42nd Amendment Act, 1976. A very commonly tested 'true or false' style fact.",
+          "source": "Pattern frequently recurring across SSC CGL/CHSL polity papers in various phrasings",
+          "verified": false
+        },
+        {
+          "text": "Which of the following is NOT one of the four ideals mentioned in the Preamble?",
+          "options": ["Justice", "Liberty", "Sovereignty", "Fraternity"],
+          "answerIndex": 2,
+          "explanation": "The four ideals are Justice, Liberty, Equality, and Fraternity. 'Sovereignty' is a descriptive word about the State, not one of the four ideals/goals.",
+          "source": "Pattern frequently recurring — tests whether students can distinguish 'descriptive words' from 'ideals' in the Preamble",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}
