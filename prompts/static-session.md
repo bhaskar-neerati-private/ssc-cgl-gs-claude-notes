@@ -33,6 +33,8 @@ Steps:
    topic-page template pattern (a thin HTML file with
    `<body data-md="../../assets/content/<subject-id>/<topic-id>.md">`,
    loading marked.js + topic-page.js, matching other topic pages already in the repo).
+   ALWAYS also load `assets/js/common.js` (sticky header + back-to-top button) — every
+   page in the site includes this script tag right after its main page script.
 5. ALWAYS include a "Free Resources" section in the lesson: books, articles, blogs,
    YouTube videos — each as "Name — link," so the resource can be re-found by name if
    the link breaks. Only suggest free, high-quality, standard sources.
