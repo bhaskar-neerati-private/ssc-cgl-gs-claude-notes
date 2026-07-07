@@ -1,0 +1,176 @@
+{
+  "topic": "Fundamental Rights",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Dr. B.R. Ambedkar described which Article of the Constitution as the 'heart and soul of the Constitution'?",
+          "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+          "answerIndex": 3,
+          "explanation": "Ambedkar called Article 32 the 'heart and soul of the Constitution' because it provides the right to directly approach the Supreme Court for enforcement of Fundamental Rights — without enforcement, the rights would be meaningless.",
+          "source": "SSC CGL — this exact phrasing appears across multiple years' papers; standard Polity PYQ",
+          "verified": true
+        },
+        {
+          "text": "The Right to Property was removed from the list of Fundamental Rights by which Constitutional Amendment?",
+          "options": ["42nd Amendment, 1976", "44th Amendment, 1978", "52nd Amendment, 1985", "86th Amendment, 2002"],
+          "answerIndex": 1,
+          "explanation": "The 44th Amendment (1978), passed by the Janata Party government, deleted Articles 19(1)(f) and 31 from Part III (Fundamental Rights). The Right to Property was relocated to Article 300A as an ordinary constitutional right.",
+          "source": "SSC CGL — one of the most frequently tested Polity facts across CGL, CHSL, and MTS papers",
+          "verified": true
+        },
+        {
+          "text": "Which writ is issued by the court to produce a detained person before it and explain the reason for detention?",
+          "options": ["Mandamus", "Certiorari", "Habeas Corpus", "Quo Warranto"],
+          "answerIndex": 2,
+          "explanation": "Habeas Corpus literally means 'produce the body.' It commands the detaining authority to produce the arrested person before the court and justify the detention. If no lawful justification exists, the person must be released.",
+          "source": "SSC CGL — writ identification questions are standard across GK/Polity sections",
+          "verified": true
+        },
+        {
+          "text": "Article 21A, which guarantees the Right to Education, was inserted into the Constitution by which Amendment Act?",
+          "options": ["73rd Amendment, 1992", "86th Amendment, 2002", "91st Amendment, 2003", "97th Amendment, 2011"],
+          "answerIndex": 1,
+          "explanation": "The 86th Constitutional Amendment Act, 2002, inserted Article 21A, making free and compulsory education a Fundamental Right for all children between the ages of 6 and 14 years.",
+          "source": "SSC CGL — Article 21A and the 86th Amendment are a standard pairing in PYQs",
+          "verified": true
+        },
+        {
+          "text": "Which of the following writs can be issued only against a person holding a public office?",
+          "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+          "answerIndex": 3,
+          "explanation": "Quo Warranto ('by what authority') is issued to inquire into the legality of a claim to a public office. It challenges whether the person has the legal right to hold that position. It cannot be issued against private offices.",
+          "source": "SSC CGL — writ-specific use cases are a recurring pattern in Polity questions",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "A High Court wants to stop a lower tribunal from deciding a case that is clearly beyond the tribunal's jurisdiction — before the tribunal issues its order. Which writ should the High Court issue?",
+          "options": ["Certiorari", "Prohibition", "Mandamus", "Habeas Corpus"],
+          "answerIndex": 1,
+          "explanation": "Prohibition is the preventive writ — issued before a lower court or tribunal makes a decision that would exceed its jurisdiction. Certiorari is the corrective writ, issued after an erroneous decision has already been made. This prevention-vs-correction distinction is the classic exam trap.",
+          "source": "Not an official PYQ — anticipated based on the Prohibition vs Certiorari confusion pattern, which recurs in test banks",
+          "verified": false
+        },
+        {
+          "text": "Article 226 of the Constitution, which empowers High Courts to issue writs, differs from Article 32 in one key way. Which of the following correctly describes this difference?",
+          "options": [
+            "Article 226 is a Fundamental Right; Article 32 is not",
+            "Article 32 can be invoked for any legal right; Article 226 only for Fundamental Rights",
+            "Article 226 covers Fundamental Rights AND any other legal right; Article 32 covers only Fundamental Rights",
+            "Article 226 is invoked in the Supreme Court; Article 32 in the High Court"
+          ],
+          "answerIndex": 2,
+          "explanation": "Article 226 gives High Courts wider writ jurisdiction than the SC's Article 32 — HCs can issue writs for any legal right, not just Fundamental Rights. However, Article 32 itself is a Fundamental Right (the right to move the SC), while Article 226 is not. The SC's power is narrower in scope but carries greater constitutional weight.",
+          "source": "Not an official PYQ — anticipated based on the Art 32 vs 226 comparison, a standard tricky topic",
+          "verified": false
+        },
+        {
+          "text": "Which of the following Fundamental Rights applies to private individuals AND the State, unlike most other FRs which bind only the State?",
+          "options": [
+            "Article 14 (Equality before law)",
+            "Article 19 (Right to Freedom)",
+            "Article 23 (Prohibition of forced labour)",
+            "Article 25 (Freedom of religion)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Articles 17 (untouchability), 23 (forced labour/human trafficking), and 24 (child labour in hazardous work) are the three Fundamental Rights that bind private individuals in addition to the State. Article 23 explicitly covers private employers as well. Most other FRs only protect citizens from State action.",
+          "source": "Not an official PYQ — anticipated based on the 'which FR also binds private parties' pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The Supreme Court's landmark judgment in Maneka Gandhi v. Union of India (1978) is significant primarily because it:",
+          "options": [
+            "Added the Right to Education as a Fundamental Right",
+            "Expanded the scope of Article 21 by holding that the 'procedure' must be fair, just, and reasonable",
+            "Declared the Right to Property as no longer a Fundamental Right",
+            "Suspended Fundamental Rights during the Emergency of 1975"
+          ],
+          "answerIndex": 1,
+          "explanation": "Before Maneka Gandhi (1978), courts interpreted Article 21 narrowly — any legal procedure, however arbitrary, was enough. The SC held that 'procedure established by law' must itself be fair, just, and reasonable. This single interpretation transformed Article 21 into an ever-expanding right covering privacy, livelihood, health, environment, and much more.",
+          "source": "Not an official PYQ — underrated because students often know the case name but not what it actually decided",
+          "verified": false
+        },
+        {
+          "text": "The Doctrine of Eclipse (under Article 13) means that:",
+          "options": [
+            "Pre-constitutional laws that violate FRs are permanently void and cannot be revived",
+            "Pre-constitutional laws inconsistent with FRs become dormant but can revive if the FR is amended away",
+            "Parliament cannot amend Fundamental Rights under any circumstance",
+            "The Supreme Court can eclipse Parliamentary laws that violate the Basic Structure"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Doctrine of Eclipse (from Bhikaji v. State of MP, 1955) holds that pre-constitutional laws inconsistent with FRs are not dead — they are merely 'eclipsed' (dormant). If a constitutional amendment later removes or modifies the FR they conflict with, the old law springs back to life for that area. This is a frequently overlooked nuance of Article 13.",
+          "source": "Not an official PYQ — underrated constitutional doctrine that appears in higher-difficulty GS papers",
+          "verified": false
+        },
+        {
+          "text": "Article 19 originally contained 7 freedoms. Which one was removed and by which Amendment?",
+          "options": [
+            "Right to assembly; 42nd Amendment 1976",
+            "Right to acquire and hold property; 44th Amendment 1978",
+            "Right to education; 86th Amendment 2002",
+            "Right to strike; 91st Amendment 2003"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 19(1)(f) gave citizens the right to acquire, hold, and dispose of property. The 44th Amendment (1978) deleted this clause, reducing the freedoms under Article 19 from 7 to 6. Property rights were simultaneously moved to Article 300A as a non-fundamental constitutional right.",
+          "source": "Not an official PYQ — underrated because students know the 44th Amendment removed property rights but often don't know it specifically deleted 19(1)(f)",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+          "options": [
+            "Right to Equality (Article 14)",
+            "Right to Vote",
+            "Right to Constitutional Remedies (Article 32)",
+            "Right Against Exploitation (Article 23)"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Right to Vote is an important constitutional right but it is NOT a Fundamental Right — it is a statutory right granted by the Representation of the People Act, 1951. The six Fundamental Rights are: Equality, Freedom, Against Exploitation, Freedom of Religion, Cultural & Educational Rights, and Constitutional Remedies.",
+          "source": "One of the most recurring 'which is NOT a FR' pattern questions across SSC papers",
+          "verified": true
+        },
+        {
+          "text": "Under which Article does the Supreme Court have the power to issue writs for enforcement of Fundamental Rights, and under which Article do High Courts have this power?",
+          "options": [
+            "Article 32 (SC) and Article 136 (HC)",
+            "Article 32 (SC) and Article 226 (HC)",
+            "Article 131 (SC) and Article 226 (HC)",
+            "Article 32 (SC) and Article 227 (HC)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 32 empowers the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto) for enforcement of Fundamental Rights. Article 226 empowers High Courts to issue writs for both Fundamental Rights and any other legal purpose — making HC jurisdiction wider in scope.",
+          "source": "Article 32 vs 226 pairing is one of the most consistently asked Polity patterns in SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "Which Article of the Constitution abolishes untouchability and makes its practice a punishable offence?",
+          "options": ["Article 14", "Article 15", "Article 17", "Article 23"],
+          "answerIndex": 2,
+          "explanation": "Article 17 abolishes untouchability in all its forms and makes enforcement of any disability arising from it a punishable offence. Uniquely among Fundamental Rights, it applies to private individuals as well as the State — you do not need State involvement to file a case under it.",
+          "source": "Article 17 identification is a standard SSC Polity question; the 'abolition of untouchability' phrasing is exam-familiar",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
