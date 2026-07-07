@@ -1,0 +1,178 @@
+{
+  "topic": "State Executive & State Legislature",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Governor of a state is appointed by:",
+          "options": [
+            "The President by direct election",
+            "The President by warrant under his hand and seal",
+            "The state legislature by proportional representation",
+            "The Prime Minister in consultation with the Chief Minister"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 155, the Governor of each state is appointed by the President by warrant under his hand and seal. The President acts on the advice of the Council of Ministers (i.e., the Central Government) in making this appointment. Unlike the President, the Governor is never elected — this is a key distinction.",
+          "source": "SSC CGL — Governor's appointment method is one of the most standard state executive questions",
+          "verified": true
+        },
+        {
+          "text": "Under Article 161, the pardoning power of the Governor differs from the President's power under Article 72. The Governor CANNOT pardon:",
+          "options": [
+            "Sentences under state law",
+            "Sentences involving fines",
+            "Death sentences",
+            "Sentences of imprisonment below 5 years"
+          ],
+          "answerIndex": 2,
+          "explanation": "Article 161 gives the Governor pardoning power for offences against state laws. But the Governor cannot pardon death sentences — that power belongs exclusively to the President under Article 72. The Governor also cannot pardon sentences awarded by courts-martial (military tribunals). This Art 72 vs Art 161 distinction is a standard exam pairing.",
+          "source": "SSC CGL — Governor's limited pardoning power vs President's broader power is a recurring PYQ",
+          "verified": true
+        },
+        {
+          "text": "Which of the following states does NOT have a Vidhan Parishad (Legislative Council)?",
+          "options": ["Maharashtra", "Karnataka", "Uttar Pradesh", "Rajasthan"],
+          "answerIndex": 3,
+          "explanation": "Rajasthan has a unicameral legislature — only a Vidhan Sabha. The six states with a Vidhan Parishad are: Andhra Pradesh, Karnataka, Maharashtra, Telangana, Bihar, and Uttar Pradesh. Rajasthan has discussed creating one but has not done so. Tamil Nadu abolished its Vidhan Parishad in 1986.",
+          "source": "SSC CGL — identifying which states have/don't have Vidhan Parishad is a standard static GK question",
+          "verified": true
+        },
+        {
+          "text": "The total strength of the Vidhan Parishad (Legislative Council) of a state shall not exceed what fraction of the total membership of the Vidhan Sabha (Legislative Assembly)?",
+          "options": ["One-fourth", "One-third", "One-half", "Two-thirds"],
+          "answerIndex": 1,
+          "explanation": "Under Article 171, the total number of members in the Vidhan Parishad shall not exceed one-third of the total membership of the Vidhan Sabha. The minimum is 40 members. This cap ensures the upper house doesn't become larger than or equal to the lower house.",
+          "source": "SSC CGL — the one-third cap for Vidhan Parishad is a standard numerical Polity question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "A state wants to abolish its Vidhan Parishad (Legislative Council). What is the correct constitutional procedure under Article 169?",
+          "options": [
+            "The state's Governor can abolish it by an executive order",
+            "The Vidhan Sabha passes a special majority resolution; Parliament then enacts a law giving effect to it",
+            "The Supreme Court must approve the abolition after a petition by the Vidhan Sabha",
+            "The President can abolish it directly on the recommendation of the Governor"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 169, a state cannot abolish its Vidhan Parishad on its own. The procedure is: (1) the Vidhan Sabha passes a resolution by special majority (majority of total membership + 2/3rd of members present and voting) requesting Parliament, and (2) Parliament enacts a law giving effect to the resolution. Parliament here acts as the executing body, not the decision-maker. Tamil Nadu used this process to abolish its Vidhan Parishad in 1986.",
+          "source": "Not an official PYQ — anticipated based on Article 169 procedure being a high-difficulty constitutional procedure question",
+          "verified": false
+        },
+        {
+          "text": "Who administers the oath of office to the Governor of a state?",
+          "options": [
+            "The Chief Justice of India",
+            "The President of India",
+            "The Chief Justice of the concerned High Court",
+            "The outgoing Governor"
+          ],
+          "answerIndex": 2,
+          "explanation": "The oath of office to a Governor is administered by the Chief Justice of the High Court of the concerned state (or the senior-most judge of that HC in CJI's absence). This is different from the President, whose oath is administered by the Chief Justice of India (the SC's CJI). This CJI-vs-HC-CJI distinction is a perennial exam trap.",
+          "source": "Not an official PYQ — anticipated based on the oath-giver for Governor vs President being a classic reversal trap",
+          "verified": false
+        },
+        {
+          "text": "The Governor of a state has 'discretionary powers' which the President does not have in the same degree. Which of the following is a genuine discretionary function of the Governor?",
+          "options": [
+            "Approving the state budget before it is presented in the Vidhan Sabha",
+            "Appointing the Chief Minister when no single party commands a clear majority",
+            "Granting pardon to all prisoners in the state jails on national holidays",
+            "Setting the agenda for each session of the Vidhan Sabha"
+          ],
+          "answerIndex": 1,
+          "explanation": "When no single party has a clear majority in the Vidhan Sabha after an election, the Governor exercises genuine discretion in deciding whom to invite to form the government — assessing who is most likely to command majority support. This is the most significant discretionary function. The President also has this power technically, but conventions are stronger at the Centre.",
+          "source": "Not an official PYQ — anticipated based on the Governor's discretionary powers being a topic of frequent analysis in SSC-level Polity",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The Vidhan Parishad of a state draws its membership from five different sources. Which of the following is NOT one of those sources?",
+          "options": [
+            "Graduates of three or more years' standing elected by graduates",
+            "Members elected by the Vidhan Sabha",
+            "Members directly elected by the voters of the state",
+            "Members nominated by the Governor"
+          ],
+          "answerIndex": 2,
+          "explanation": "Members of the Vidhan Parishad are drawn from: (1) Vidhan Sabha members (1/3rd), (2) local body members (1/3rd), (3) graduates (1/12th), (4) teachers (1/12th), and (5) Governor's nominees (1/6th). Crucially, there is NO direct election by ordinary voters — unlike the Vidhan Sabha, which is directly elected. This is a key structural difference that students often miss.",
+          "source": "Not an official PYQ — underrated because the Vidhan Parishad's five-source composition is rarely taught completely",
+          "verified": false
+        },
+        {
+          "text": "Which constitutional body recommended that a Governor should not be appointed from the state they are to govern, and should not be closely connected to the ruling party at the Centre?",
+          "options": ["Balwantrai Mehta Committee", "Sarkaria Commission", "Punchhi Commission", "Rajmannar Committee"],
+          "answerIndex": 1,
+          "explanation": "The Sarkaria Commission (1988), set up to examine Centre-State relations, made several recommendations about the Governor's role — including that the Governor should be an eminent person from outside the state, not recently active in politics, and not closely affiliated with the ruling party at the Centre. Many of these recommendations remain unimplemented. The Punchhi Commission (2010) revisited and reinforced similar recommendations.",
+          "source": "Not an official PYQ — underrated because Sarkaria Commission is famous for federalism but its specific Governor recommendations are rarely highlighted",
+          "verified": false
+        },
+        {
+          "text": "What is the minimum strength prescribed for a Vidhan Sabha under Article 170?",
+          "options": ["40 members", "60 members", "100 members", "No minimum — Parliament decides"],
+          "answerIndex": 1,
+          "explanation": "Article 170 prescribes that no Vidhan Sabha shall consist of more than 500 members or less than 60 members. However, Parliament can by law provide for a smaller number for states with small populations — Goa, Sikkim, Mizoram, and Puducherry (a UT) have Vidhan Sabhas with fewer than 60 members under special provisions.",
+          "source": "Not an official PYQ — underrated because students remember the 500 maximum but often don't know the 60-minimum rule or the exceptions",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is the correct tenure and security of office for a Governor?",
+          "options": [
+            "Fixed 5-year term; can only be removed by impeachment",
+            "5-year term but holds office at the pleasure of the President; can be recalled anytime",
+            "3-year term renewable once; can be removed by the state legislature",
+            "Permanent appointment; can only be removed by the Supreme Court"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 156, a Governor holds office for a term of five years but 'shall hold office during the pleasure of the President.' This means the Central Government can recall a Governor before the five years are up — no formal procedure is required. The state legislature has no role in the Governor's removal. This is a fundamental difference from the President (who requires impeachment).",
+          "source": "Governor's tenure is one of the most consistently tested state executive questions across SSC papers",
+          "verified": true
+        },
+        {
+          "text": "The 91st Amendment (2003), which capped the size of the Council of Ministers, applies to:",
+          "options": [
+            "Only the Union Council of Ministers",
+            "Only state Councils of Ministers",
+            "Both the Union Council of Ministers and state Councils of Ministers",
+            "Only states with more than 200 Vidhan Sabha seats"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 91st Amendment (2003) inserted provisions under Articles 75(1A) and 164(1A) — the first for the Union and the second for states. Both cap the total Council of Ministers (including PM/CM) at 15% of the total strength of the lower House, with a minimum of 12 ministers. The amendment was prompted by some state governments having 100+ ministers for patronage purposes.",
+          "source": "The 91st Amendment applying to both Union and states is a standard follow-up question after the basic 15% cap fact",
+          "verified": true
+        },
+        {
+          "text": "The Chief Minister of a state is collectively responsible to which body?",
+          "options": [
+            "The Governor of the state",
+            "The Vidhan Sabha",
+            "The Vidhan Parishad (where it exists)",
+            "Both Houses of the state legislature jointly"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 164(2) states that the Council of Ministers shall be collectively responsible to the Legislative Assembly (Vidhan Sabha) of the state. This mirrors the Union level where the CoM is responsible to the Lok Sabha. The Vidhan Parishad (upper house) plays no role in government formation or no-confidence votes — only the Vidhan Sabha matters for this purpose.",
+          "source": "Collective responsibility to Vidhan Sabha is a standard state executive question — the 'not Vidhan Parishad' aspect is the key trap",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
