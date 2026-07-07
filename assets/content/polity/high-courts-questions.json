@@ -1,0 +1,183 @@
+{
+  "topic": "High Courts & Subordinate Judiciary",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The retirement age of a High Court judge is:",
+          "options": ["60 years", "62 years", "65 years", "68 years"],
+          "answerIndex": 1,
+          "explanation": "High Court judges retire at 62 years of age. This is different from Supreme Court judges, who retire at 65. Three extra years at the top — a distinction the exam tests almost every cycle. The 62-year retirement age is prescribed under Article 217 of the Constitution.",
+          "source": "SSC CGL — HC vs SC retirement age is one of the most consistently tested judiciary questions",
+          "verified": true
+        },
+        {
+          "text": "Which Article of the Constitution empowers a High Court to issue writs not only for the enforcement of Fundamental Rights but also for 'any other purpose'?",
+          "options": ["Article 32", "Article 226", "Article 227", "Article 136"],
+          "answerIndex": 1,
+          "explanation": "Article 226 empowers the High Court to issue all five writs — habeas corpus, mandamus, prohibition, certiorari, and quo warranto — both for enforcement of Fundamental Rights and 'for any other purpose.' This 'any other purpose' phrase makes HC's writ jurisdiction broader than the Supreme Court's under Article 32, which is limited to FR enforcement only.",
+          "source": "SSC CGL — Article 226's writ power is one of the most standard HC jurisdiction questions",
+          "verified": true
+        },
+        {
+          "text": "Article 227 of the Constitution confers on a High Court the power of:",
+          "options": [
+            "Original jurisdiction in inter-state disputes",
+            "Superintendence over all courts and tribunals in the state",
+            "Certifying a case as fit for appeal to the Supreme Court",
+            "Trying election petitions for Parliamentary constituencies"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 227 confers on the High Court the power of superintendence over all courts and tribunals throughout the territory in relation to which it exercises jurisdiction — except a court or tribunal constituted by or under any law relating to the armed forces. This power includes calling for returns, making and issuing general rules and prescribing forms for regulating proceedings, and prescribing forms for books, entries, and accounts.",
+          "source": "SSC CGL — Article 227 superintendence power is a standard 'match the article' question",
+          "verified": true
+        },
+        {
+          "text": "The appointment of a District Judge is made by the Governor in consultation with:",
+          "options": [
+            "The State Public Service Commission only",
+            "The High Court of the state",
+            "The Supreme Court of India",
+            "The Union Public Service Commission"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 233, the appointment of persons to be and the posting and promotion of district judges in any state shall be made by the Governor of the state in consultation with the High Court exercising jurisdiction in relation to such state. This ensures judicial independence at the district level — HC consultation is constitutionally mandated, not optional.",
+          "source": "SSC CGL — District Judge appointment procedure under Article 233 is a standard subordinate judiciary question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Who administers the oath of office to a newly appointed High Court judge?",
+          "options": [
+            "The Chief Justice of India",
+            "The Chief Justice of that High Court",
+            "The Governor of the state",
+            "The President of India"
+          ],
+          "answerIndex": 2,
+          "explanation": "The oath of office to a High Court judge is administered by the Governor of the state. This is a classic trap — students often confuse this with the President's oath (administered by CJI) or assume the HC's Chief Justice administers the oath. Under Article 219, every person appointed to be a judge of a High Court shall make and subscribe before the Governor of the state, or some person appointed by him for that purpose, an oath or affirmation.",
+          "source": "Not an official PYQ — anticipated based on the HC oath-giver being a reversal trap compared to President's oath procedure",
+          "verified": false
+        },
+        {
+          "text": "During a National Emergency proclaimed under Article 352, can the right to move a High Court under Article 226 for enforcement of Fundamental Rights be suspended?",
+          "options": [
+            "Yes, by a Presidential order under Article 359",
+            "Yes, automatically upon proclamation of Emergency",
+            "No — Article 226 cannot be suspended even during an Emergency",
+            "Yes, but only if the Emergency lasts more than 6 months"
+          ],
+          "answerIndex": 2,
+          "explanation": "Article 226 (HC writ jurisdiction) cannot be suspended during a National Emergency. Only Article 32 (SC's writ jurisdiction for FRs) can be suspended by a Presidential Order under Article 359. This is a fundamental constitutional safeguard — even when citizens cannot approach the Supreme Court for FR enforcement, they retain the right to approach the High Court under Article 226. It was specifically designed to prevent complete judicial lock-out during emergencies.",
+          "source": "Not an official PYQ — anticipated based on Art 226 vs Art 32 during Emergency being a nuanced distinction tested in higher-level papers",
+          "verified": false
+        },
+        {
+          "text": "High Court judges can be transferred from one High Court to another. Under which Article and by whom?",
+          "options": [
+            "Article 124, by the Chief Justice of India",
+            "Article 222, by the President after consultation with the Chief Justice of India",
+            "Article 217, by the Governor after consultation with the High Court",
+            "Article 231, by Parliament by law"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 222 provides that the President may, after consultation with the Chief Justice of India, transfer a judge from one High Court to any other High Court. The President acts on the advice of the Collegium in practice. The Supreme Court has held that transfer power must be exercised in public interest, not as a punitive measure against judges who deliver inconvenient verdicts. The transferred judge is also entitled to a compensatory allowance.",
+          "source": "Not an official PYQ — anticipated based on HC judge transfer being a frequently discussed but rarely tested provision",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which of the following qualifications is required for appointment as a Supreme Court judge but NOT for a High Court judge?",
+          "options": [
+            "Must be a citizen of India",
+            "Must have been an advocate of a court for at least 10 years",
+            "Must be a 'distinguished jurist' (eligible as an alternative to legal practice)",
+            "Must be at least 35 years of age"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 'distinguished jurist' category exists only for the Supreme Court (Article 124) — it allows eminent legal scholars to be appointed as SC judges without having been a HC judge or advocate. No such category exists for High Courts under Article 217. Also, neither the HC nor the SC has a minimum age requirement specified in the Constitution. This distinction is rarely highlighted in standard notes but frequently tested.",
+          "source": "Not an official PYQ — underrated because the 'distinguished jurist' exclusion for HCs is rarely explicitly taught",
+          "verified": false
+        },
+        {
+          "text": "The salary of a High Court judge is charged to:",
+          "options": [
+            "The Consolidated Fund of India",
+            "The Consolidated Fund of the State",
+            "Both the Consolidated Fund of India and the State, equally",
+            "The contingency fund of the state"
+          ],
+          "answerIndex": 1,
+          "explanation": "The salary and allowances of High Court judges are charged to the Consolidated Fund of the respective State (under Article 229). This is different from Supreme Court judges, whose salaries are charged to the Consolidated Fund of India. Being charged to the Consolidated Fund means these amounts are non-votable — the legislature cannot reduce them through budget cuts. This is a guarantee of judicial independence.",
+          "source": "Not an official PYQ — underrated because students remember the 'Consolidated Fund' principle but confuse which Fund (India vs State) for HC judges",
+          "verified": false
+        },
+        {
+          "text": "A Lok Adalat award (decision) can be challenged by filing an appeal in which court?",
+          "options": [
+            "The High Court under Article 226",
+            "The Supreme Court under Article 136",
+            "The District Court under the Civil Procedure Code",
+            "No court — Lok Adalat awards are final and no appeal lies to any court"
+          ],
+          "answerIndex": 3,
+          "explanation": "Under the Legal Services Authorities Act, 1987, an award made by a Lok Adalat shall be deemed to be a decree of a civil court or order of any other court and shall be final and binding on the parties — and no appeal shall lie to any court against the award. This finality is what makes Lok Adalats effective for dispute resolution. If a party is not satisfied, the only option is to not accept the Lok Adalat settlement and instead pursue litigation in the regular courts from the beginning.",
+          "source": "Not an official PYQ — underrated because Lok Adalat finality trips up students who assume HC judicial review is always available",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "How does Article 226 differ from Article 32 in terms of the scope of writ jurisdiction?",
+          "options": [
+            "Article 32 allows all 5 writs; Article 226 allows only 3 writs",
+            "Article 226 can be used for any purpose including non-FR rights; Article 32 is only for Fundamental Rights",
+            "Article 226 is available only in states; Article 32 covers the whole country including UTs",
+            "Article 32 is broader because it can be invoked by any person; Article 226 only by citizens"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both Article 32 and Article 226 allow all five writs. The key difference is scope: Article 32 (SC) can only be used for enforcement of Fundamental Rights. Article 226 (HC) can be used for FRs AND 'for any other purpose' — meaning any legal right, statutory right, or contractual right. The 'any other purpose' phrase makes Article 226 broader. Dr Ambedkar called Article 32 the 'heart and soul of the Constitution' because the right to approach the SC is itself a FR — but Article 226 gives more practical breadth.",
+          "source": "Article 226 vs Article 32 comparison is the single most-tested HC jurisdiction question in SSC exams",
+          "verified": true
+        },
+        {
+          "text": "Currently, how many High Courts are there in India?",
+          "options": ["21", "23", "25", "28"],
+          "answerIndex": 2,
+          "explanation": "There are currently 25 High Courts in India (as of 2024). The number is less than the number of states (28 states + 8 UTs) because some HCs have jurisdiction over multiple states — e.g., Punjab & Haryana HC covers Punjab, Haryana, and Chandigarh UT. The three oldest HCs (Calcutta, Bombay, Madras) were established in 1862 under the High Courts Act, 1861 — even before the Constitution.",
+          "source": "The current number of HCs is a standard static GK question tested almost every year in SSC exams",
+          "verified": true
+        },
+        {
+          "text": "Under Article 227, a High Court's power of superintendence extends to:",
+          "options": [
+            "Only civil courts in the state",
+            "All courts and tribunals in the state, except courts for armed forces",
+            "Only district courts; not courts of magistrates",
+            "All courts in the state, including military courts"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 227 extends HC superintendence to all courts and tribunals throughout the state's territory — except courts or tribunals constituted under laws relating to the armed forces. This includes civil courts, criminal courts, revenue courts, and even administrative tribunals. The exclusion of military courts is explicit. Superintendence includes calling for records, prescribing rules of procedure, and revising orders that are patently illegal.",
+          "source": "Article 227 scope is a standard 'which courts' pattern question in SSC CGL Polity sections",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
