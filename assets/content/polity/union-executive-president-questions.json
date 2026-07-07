@@ -1,0 +1,186 @@
+{
+  "topic": "Union Executive — President & Vice-President",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who among the following is NOT a part of the Electoral College for the election of the President of India?",
+          "options": [
+            "Elected members of Lok Sabha",
+            "Elected members of Rajya Sabha",
+            "Nominated members of Rajya Sabha",
+            "Elected members of State Legislative Assemblies"
+          ],
+          "answerIndex": 2,
+          "explanation": "Nominated members of Parliament (e.g., the 12 nominated Rajya Sabha members) are NOT part of the Electoral College for the President's election. Only elected members of both Houses of Parliament and elected members of State Legislative Assemblies participate. Nominated MPs can vote in the VP election but not the Presidential one.",
+          "source": "SSC CGL — Electoral College composition is one of the most consistently asked Presidential election questions",
+          "verified": true
+        },
+        {
+          "text": "The President of India can be removed from office through the process of impeachment. The resolution for impeachment must be passed by what majority?",
+          "options": [
+            "Simple majority of members present and voting in both Houses",
+            "Two-thirds majority of total membership of the House initiating the resolution",
+            "Two-thirds majority of members present and voting in the initiating House",
+            "Special majority as defined under Article 368"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 61, impeachment requires a resolution passed by not less than two-thirds of the *total membership* of the House — not merely two-thirds of those present and voting. Total membership is a much harder standard (all seats, including vacant ones), making impeachment extremely difficult in practice.",
+          "source": "SSC CGL — the 'total membership vs present and voting' distinction in impeachment is a recurring PYQ trap",
+          "verified": true
+        },
+        {
+          "text": "Who administers the oath of office to the President of India?",
+          "options": [
+            "The outgoing President",
+            "The Prime Minister",
+            "The Chief Justice of India",
+            "The Vice-President of India"
+          ],
+          "answerIndex": 2,
+          "explanation": "The oath of office to the President is administered by the Chief Justice of India (or, in their absence, the senior-most judge of the Supreme Court). The President, in turn, administers the oath to the Vice-President — a common exam reversal trap.",
+          "source": "SSC CGL — oath-giving sequence between President, VP, and CJI is a standard PYQ",
+          "verified": true
+        },
+        {
+          "text": "The Vice-President of India is the ex-officio Chairman of which House of Parliament?",
+          "options": ["Lok Sabha", "Rajya Sabha", "Both Houses jointly", "Neither — the VP only acts when Parliament is not in session"],
+          "answerIndex": 1,
+          "explanation": "Under Article 64, the Vice-President of India is the ex-officio (by virtue of office) Chairman of the Rajya Sabha. The Speaker of Lok Sabha is separately elected by Lok Sabha members. The VP presides over Rajya Sabha sessions in this role and votes only to break a tie.",
+          "source": "SSC CGL — VP as ex-officio Rajya Sabha Chairman is one of the most frequently asked VP-related questions",
+          "verified": true
+        },
+        {
+          "text": "Under Article 72 of the Constitution, which of the following powers is EXCLUSIVELY held by the President and NOT by the Governor?",
+          "options": [
+            "Remission of sentence under a state law",
+            "Commutation of sentence under a state law",
+            "Pardoning a person convicted by a court-martial",
+            "Granting respite to a pregnant woman on death row"
+          ],
+          "answerIndex": 2,
+          "explanation": "Article 72 gives the President exclusive power to pardon in cases of conviction by court-martial and in cases of offences against Union laws. Governors (Article 161) can only pardon for offences against state laws and cannot pardon court-martial convictions. Death sentences can only be pardoned by the President, not the Governor.",
+          "source": "SSC CGL — Art 72 vs Art 161 distinction is a well-established PYQ pattern",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "The President of India exercises a 'pocket veto' by:",
+          "options": [
+            "Returning the bill to Parliament for reconsideration within 14 days",
+            "Withholding assent and sending the bill to the Supreme Court for review",
+            "Neither giving assent nor returning the bill, keeping it indefinitely",
+            "Referring the bill to a joint committee of Parliament"
+          ],
+          "answerIndex": 2,
+          "explanation": "India's Constitution sets no time limit for the President to give assent to a bill. By neither assenting to nor returning a bill, the President can effectively keep it in limbo indefinitely — the 'pocket veto.' This power is stronger in India than in the USA, where the President has a 10-day limit. President Zail Singh used this on the Indian Post Office (Amendment) Bill, 1986.",
+          "source": "Not an official PYQ — anticipated based on the pocket veto concept appearing in higher-difficulty Polity questions",
+          "verified": false
+        },
+        {
+          "text": "Which of the following statements correctly identifies a difference between the Electoral College for the President and the Electoral College for the Vice-President?",
+          "options": [
+            "Only elected MPs vote for the President; all MPs vote for the VP",
+            "State legislators vote for the President but NOT for the VP; nominated MPs vote for the VP but NOT for the President",
+            "The same Electoral College elects both the President and Vice-President",
+            "Only Rajya Sabha members elect the Vice-President"
+          ],
+          "answerIndex": 1,
+          "explanation": "President: elected MPs of both Houses + elected MLAs of all states (nominated MPs excluded, state legislators included). VP: all members — both elected AND nominated — of both Houses of Parliament, with NO state legislature involvement. The two most common reversals — nominated MPs and state legislators — are both captured here.",
+          "source": "Not an official PYQ — anticipated based on the President vs VP electoral college comparison being a perennial trap",
+          "verified": false
+        },
+        {
+          "text": "The President promulgates an Ordinance under Article 123 when Parliament is not in session. Within how many weeks of Parliament reassembling must this Ordinance be laid before Parliament, after which it lapses?",
+          "options": ["4 weeks", "6 weeks", "8 weeks", "3 months"],
+          "answerIndex": 1,
+          "explanation": "Under Article 123(2), an Ordinance must be laid before both Houses of Parliament when they reassemble and ceases to operate at the expiration of 6 weeks from the date of reassembly, unless disapproved earlier. Parliament can also pass a resolution disapproving it before the 6 weeks are up.",
+          "source": "Not an official PYQ — anticipated based on the Ordinance validity period being a recurring tricky number question",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which President of India was elected unopposed — the only one in Indian history?",
+          "options": ["Dr. Rajendra Prasad", "V.V. Giri", "Neelam Sanjiva Reddy", "A.P.J. Abdul Kalam"],
+          "answerIndex": 2,
+          "explanation": "Neelam Sanjiva Reddy (6th President, 1977–1982) is the only President in Indian history to have been elected unopposed. His election came after V.V. Giri's controversial victory in 1969 where the Congress had split; by 1977, the political consensus around Reddy was strong enough that no opposing candidate was fielded.",
+          "source": "Not an official PYQ — underrated because students know Rajendra Prasad and Kalam but miss Neelam Sanjiva Reddy's unique distinction",
+          "verified": false
+        },
+        {
+          "text": "The 104th Constitutional Amendment (2019) abolished which presidential power related to Parliament composition?",
+          "options": [
+            "Nomination of 12 members to Rajya Sabha",
+            "Nomination of 2 Anglo-Indian members to Lok Sabha",
+            "Appointment of the Speaker of Lok Sabha",
+            "Nomination of members to the National Commission for Minorities"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 104th Amendment (2019) abolished the provision for nomination of Anglo-Indian members to the Lok Sabha and State Legislatures, which had been in the original Constitution. The provision for nominating 12 members to Rajya Sabha (for literature, science, art, social service) still exists under Article 80 and was not affected.",
+          "source": "Not an official PYQ — underrated because students memorise 'President nominates 12 to RS' but rarely know about the abolished Anglo-Indian nomination",
+          "verified": false
+        },
+        {
+          "text": "When the President returns a bill to Parliament for reconsideration and Parliament passes it again without any amendments, what must the President do?",
+          "options": [
+            "Return it once more for a second reconsideration",
+            "Refer it to the Supreme Court for a constitutional opinion",
+            "Give assent — the President is bound to do so",
+            "Call a joint sitting of both Houses to reconsider"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under Article 111, if the President returns a bill and Parliament passes it again — with or without amendments — the President 'shall not withhold assent therefrom.' The suspensive veto gives the President one bite, not two. Note: this does not apply to Money Bills (which the President cannot return at all) or Constitutional Amendment Bills.",
+          "source": "Not an official PYQ — underrated because the 'what happens after the second pass' scenario is rarely explicitly taught",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "The President of India is the 'de jure' executive while the Prime Minister is the 'de facto' executive. This constitutional position is primarily established by which Article?",
+          "options": ["Article 53", "Article 74", "Article 75", "Article 78"],
+          "answerIndex": 1,
+          "explanation": "Article 74(1), as amended by the 42nd and 44th Amendments, explicitly states that the President 'shall act in accordance with' the advice of the Council of Ministers. The President may once send the advice back for reconsideration but is then bound by the reconsidered advice. This is the constitutional anchor for the PM's real executive power.",
+          "source": "One of the most frequently asked 'which article establishes cabinet government' questions in SSC Polity",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct qualification difference between the President and the Vice-President of India?",
+          "options": [
+            "President must be 40 years; VP must be 35 years",
+            "President must be qualified for Lok Sabha; VP must be qualified for Rajya Sabha",
+            "President must be qualified for Rajya Sabha; VP must be qualified for Lok Sabha",
+            "Both must be qualified for Lok Sabha membership"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 58 requires the President to be qualified for election as a member of Lok Sabha. Article 66 requires the Vice-President to be qualified for election as a member of Rajya Sabha. This reversal — President → LS, VP → RS — is one of the most tested qualification distinctions in SSC Polity.",
+          "source": "President vs VP qualification is a standard recurring PYQ pattern across SSC CGL, CHSL, and MTS papers",
+          "verified": true
+        },
+        {
+          "text": "Who was the first woman to be elected President of India?",
+          "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Droupadi Murmu"],
+          "answerIndex": 2,
+          "explanation": "Pratibha Patil (2007–2012) was the first woman President of India (13th President). Droupadi Murmu (2022–present, 15th President) is the first woman from a tribal community to be President. Indira Gandhi was the Prime Minister, not President; Sarojini Naidu was a governor.",
+          "source": "First woman President is a standard SSC static GK question; the Pratibha Patil vs Droupadi Murmu distinction now matters",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
