@@ -2,6 +2,8 @@
 
 Personal, always-available SSC CGL General Studies prep hub, published via GitHub Pages.
 
+Github Pages hosting [here](https://bhaskar-neerati-private.github.io/ssc-cgl-gs-claude-notes/)
+
 - **Static GS** (`/static/`) — one-time, deep, priority-ordered lessons by subject. Built once, used forever for revision.
 - **Current Affairs** (`/current-affairs/`) — daily dashboard with a date picker; each day ends with a "Related Static Facts" block linking news to existing static topics.
 
