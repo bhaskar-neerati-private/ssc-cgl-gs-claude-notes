@@ -1,0 +1,196 @@
+{
+  "topic": "Parliament — Lok Sabha & Rajya Sabha",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following statements about a Money Bill is correct?",
+          "options": [
+            "A Money Bill can be introduced in either House of Parliament",
+            "Rajya Sabha can reject a Money Bill passed by Lok Sabha",
+            "If Rajya Sabha does not return a Money Bill within 14 days, it is deemed passed by both Houses",
+            "The President can return a Money Bill to Parliament for reconsideration"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under Article 109, a Money Bill can only be introduced in Lok Sabha. After LS passes it, it is sent to RS. If RS does not return the bill within 14 days of receiving it, it is deemed to have been passed by both Houses. RS can only make recommendations (which LS may accept or ignore). The President cannot return a Money Bill.",
+          "source": "SSC CGL — Money Bill procedure is one of the most consistently examined parliamentary procedure topics",
+          "verified": true
+        },
+        {
+          "text": "The Speaker of the Lok Sabha can be removed from office by:",
+          "options": [
+            "A resolution passed by a simple majority of members present and voting in Lok Sabha",
+            "An order of the President on the advice of the Prime Minister",
+            "A resolution passed by an effective majority of the total membership of Lok Sabha",
+            "A joint resolution of both Houses of Parliament"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under Article 94, the Speaker can be removed by a resolution passed by an effective majority — a majority of the total membership of the House (more than 50% of all members, not just those present and voting). 14 days' advance notice must also be given before moving such a resolution.",
+          "source": "SSC CGL — Speaker's removal procedure and the 'effective majority' concept are standard PYQ topics",
+          "verified": true
+        },
+        {
+          "text": "Under which Article can the Rajya Sabha, by a resolution passed by two-thirds majority, empower Parliament to make laws on subjects in the State List?",
+          "options": ["Article 246", "Article 248", "Article 249", "Article 250"],
+          "answerIndex": 2,
+          "explanation": "Article 249 gives Rajya Sabha the exclusive power to pass a resolution (by 2/3rd of members present and voting) declaring it necessary in the national interest for Parliament to make laws on any matter in the State List. Such a resolution is valid for one year and can be renewed. This is one of Rajya Sabha's special powers that Lok Sabha does not have.",
+          "source": "SSC CGL — Article 249 is a standard Rajya Sabha special powers question",
+          "verified": true
+        },
+        {
+          "text": "How many times has a joint sitting of both Houses of Parliament been held in India?",
+          "options": ["Once", "Twice", "Three times", "Five times"],
+          "answerIndex": 2,
+          "explanation": "A joint sitting under Article 108 has been convened only three times in Indian history: (1) Dowry Prohibition Bill, 1961; (2) Banking Service Commission (Repeal) Bill, 1978; (3) Prevention of Terrorism Act (POTA), 2002. Joint sittings cannot be called for Money Bills or Constitutional Amendment Bills.",
+          "source": "SSC CGL — 'how many joint sittings' is a recurring factual question in Polity sections",
+          "verified": true
+        },
+        {
+          "text": "The minimum age required to become a member of the Rajya Sabha is:",
+          "options": ["21 years", "25 years", "30 years", "35 years"],
+          "answerIndex": 2,
+          "explanation": "The minimum age for Rajya Sabha membership is 30 years (Article 84). For Lok Sabha, it is 25 years. For the President and Vice-President, it is 35 years. The 30-year age for RS (as a revising upper house) is meant to ensure greater maturity and experience.",
+          "source": "SSC CGL — age qualifications for different constitutional positions are standard static GK",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "A bill is passed by Lok Sabha but Rajya Sabha proposes amendments that Lok Sabha disagrees with. A deadlock persists for six months. The President calls a joint sitting. Who presides over this joint sitting?",
+          "options": [
+            "The Vice-President, as ex-officio Chairman of Rajya Sabha",
+            "The President of India",
+            "The Speaker of Lok Sabha",
+            "The senior-most member of Parliament"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under Article 108(4), the Speaker of Lok Sabha presides over joint sittings of both Houses — NOT the Vice-President/RS Chairman. This is a common reversal trap, since the VP chairs Rajya Sabha. The Speaker's role in joint sittings is one of the most frequently tested and frequently confused facts about Parliament.",
+          "source": "Not an official PYQ — anticipated based on the Speaker-vs-VP joint sitting confusion appearing in test banks",
+          "verified": false
+        },
+        {
+          "text": "Which of the following types of bills CANNOT be the subject of a joint sitting of both Houses of Parliament?",
+          "options": [
+            "An ordinary bill dealing with criminal procedure",
+            "A bill to amend the Indian Penal Code",
+            "A Constitutional Amendment Bill",
+            "A bill creating a new central university"
+          ],
+          "answerIndex": 2,
+          "explanation": "Joint sittings (Article 108) are available only for ordinary bills. Two categories are explicitly excluded: (1) Money Bills — because Lok Sabha's will is already final, and (2) Constitutional Amendment Bills — because both Houses must pass them separately with a special majority. If both Houses disagree on a Constitutional Amendment, the bill simply fails — there is no joint sitting safety valve.",
+          "source": "Not an official PYQ — anticipated based on the 'which bill cannot go to joint sitting' pattern in higher-level SSC papers",
+          "verified": false
+        },
+        {
+          "text": "'Zero Hour' in the Indian Parliament refers to:",
+          "options": [
+            "The first hour of the parliamentary session when the House begins its proceedings",
+            "The informal period immediately after Question Hour when members can raise urgent matters without prior notice",
+            "The time allocated for the opposition to criticise government bills",
+            "The midnight session held for important legislation"
+          ],
+          "answerIndex": 1,
+          "explanation": "Zero Hour is the informal period that begins immediately after the end of Question Hour (hence 'zero' — as if the clock resets). It is not defined in the Constitution or rules — it is a parliamentary practice that evolved in India. During Zero Hour, members can raise urgent matters of public importance without giving the mandatory 10-day advance notice. It has no fixed time limit.",
+          "source": "Not an official PYQ — anticipated based on Zero Hour being a commonly confused concept in parliamentary procedure questions",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The 104th Constitutional Amendment Act (2019) abolished the provision for nominating which category of members to the Lok Sabha?",
+          "options": [
+            "12 nominated members for science and literature",
+            "Anglo-Indian community nominated members",
+            "Nominated members representing Scheduled Tribes",
+            "Members nominated by the President to represent women"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 104th Amendment (2019) abolished the provision under Article 331 for the President to nominate two members of the Anglo-Indian community to the Lok Sabha (and similar provisions for state assemblies). This reduced the maximum Lok Sabha strength from 552 to 550, and the current Lok Sabha has 543 elected seats.",
+          "source": "Not an official PYQ — underrated because most Polity sources still carry the pre-2019 figure of 552; the 104th Amendment often appears without explanation of what it changed",
+          "verified": false
+        },
+        {
+          "text": "A 'starred question' in Parliament differs from an 'unstarred question' primarily because:",
+          "options": [
+            "Starred questions require a written answer; unstarred require oral answers",
+            "Starred questions require an oral answer and allow supplementary questions; unstarred require only a written answer",
+            "Starred questions are asked by ruling party MPs; unstarred by opposition",
+            "Starred questions are asked during Zero Hour; unstarred during Question Hour"
+          ],
+          "answerIndex": 1,
+          "explanation": "A 'starred question' (marked with a *) requires an oral answer from the minister on the floor of the House, and allows the MP to ask supplementary follow-up questions. An 'unstarred question' requires only a written answer placed on the table of the House — no supplementary questions are permitted. Both are asked during Question Hour (the first hour of each sitting).",
+          "source": "Not an official PYQ — underrated because students often reverse starred and unstarred, or confuse them with Zero Hour",
+          "verified": false
+        },
+        {
+          "text": "Under Article 312, Rajya Sabha has the exclusive power to create new All-India Services by passing a resolution with what majority?",
+          "options": [
+            "Simple majority of members present and voting",
+            "Effective majority (majority of total membership)",
+            "Two-thirds majority of members present and voting",
+            "Special majority (2/3rd present + majority of total)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Article 312 allows Rajya Sabha to create new All-India Services (like IAS, IPS) by a resolution passed by not less than two-thirds of members present and voting, declaring it necessary in the national interest. This is the same bar as Article 249 (State List legislation). This power belongs exclusively to Rajya Sabha — Lok Sabha has no equivalent authority.",
+          "source": "Not an official PYQ — underrated because Article 312 is less famous than Article 249 but equally important as an exclusive RS power",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is the correct constitutional definition of Parliament of India?",
+          "options": [
+            "The Lok Sabha and the Rajya Sabha together",
+            "The President, the Lok Sabha, and the Rajya Sabha",
+            "The Prime Minister, the Lok Sabha, and the Rajya Sabha",
+            "The Lok Sabha, the Rajya Sabha, and the Supreme Court"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 79 defines Parliament as consisting of the President and two Houses — the Council of States (Rajya Sabha) and the House of the People (Lok Sabha). Students often define Parliament as just the two Houses, forgetting the President is constitutionally part of Parliament. This matters because a bill cannot become law without Presidential assent.",
+          "source": "Parliament's definition (President + LS + RS) is a consistently asked Polity question across all SSC papers",
+          "verified": true
+        },
+        {
+          "text": "Rajya Sabha is often described as a 'permanent body.' This means:",
+          "options": [
+            "Its members have a permanent (lifetime) tenure",
+            "It cannot be dissolved, even when Lok Sabha is dissolved",
+            "Its membership cannot be changed by any constitutional amendment",
+            "It sits permanently throughout the year without recesses"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rajya Sabha is permanent in the sense that it can never be dissolved — not even when the President dissolves Lok Sabha between elections. One-third of its members retire every two years and are replaced, maintaining continuity. This ensures that India always has a functioning upper house of Parliament, providing stability during political transitions.",
+          "source": "The 'Rajya Sabha cannot be dissolved' fact is one of the most reliably tested RS characteristics across SSC papers",
+          "verified": true
+        },
+        {
+          "text": "The quorum required to constitute a meeting of either House of Parliament is:",
+          "options": [
+            "One-fifth of the total membership",
+            "One-tenth of the total membership",
+            "One-fourth of the total membership",
+            "One-third of the total membership"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 100(3) specifies that the quorum to constitute a meeting of either House shall be one-tenth of the total membership of the House. For Lok Sabha (543 members), this is approximately 55 members. If quorum is not present, the Speaker/Chairman must adjourn the House or suspend the sitting.",
+          "source": "Parliamentary quorum (one-tenth) is a standard numerical question across SSC papers",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
