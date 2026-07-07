@@ -1,0 +1,196 @@
+{
+  "topic": "Judiciary — Supreme Court & Judicial Review",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "At what age do judges of the Supreme Court of India retire?",
+          "options": ["60 years", "62 years", "65 years", "70 years"],
+          "answerIndex": 2,
+          "explanation": "Supreme Court judges retire at 65 years of age (Article 124(2)). High Court judges retire at 62 years. The President and Governors have no fixed retirement age — they serve a 5-year term. This 65 vs 62 distinction (SC vs HC) is a standard exam trap.",
+          "source": "SSC CGL — retirement age of SC vs HC judges is one of the most frequently asked judiciary facts",
+          "verified": true
+        },
+        {
+          "text": "Under which Article does the Supreme Court exercise original jurisdiction in disputes between the Union and the States?",
+          "options": ["Article 129", "Article 131", "Article 136", "Article 141"],
+          "answerIndex": 1,
+          "explanation": "Article 131 grants the Supreme Court exclusive original jurisdiction over disputes between: (a) the Union and one or more States, (b) the Union and States on one side vs States on another, and (c) two or more States among themselves. No other court can hear these inter-governmental disputes at first instance.",
+          "source": "SSC CGL — Article 131 original jurisdiction is a standard SC jurisdiction question",
+          "verified": true
+        },
+        {
+          "text": "Article 141 of the Indian Constitution states that the law declared by the Supreme Court shall be:",
+          "options": [
+            "Binding only on the Supreme Court's own future benches",
+            "Binding on all courts within the territory of India",
+            "Advisory in nature and not binding on High Courts",
+            "Binding only on courts in the state where the case originated"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 141 declares that the law pronounced by the Supreme Court shall be binding on all courts within the territory of India — every High Court, Sessions Court, district court, and tribunal must follow SC precedents. However, the SC itself is not bound by its own decisions — larger benches can overrule smaller bench decisions.",
+          "source": "SSC CGL — Article 141 and its 'binding on all courts' effect is a repeatedly examined constitutional provision",
+          "verified": true
+        },
+        {
+          "text": "A judge of the Supreme Court can be removed from office on grounds of proved misbehaviour or incapacity by:",
+          "options": [
+            "An order of the President alone, without Parliamentary approval",
+            "A resolution of the Supreme Court collegium recommending removal",
+            "An address by both Houses of Parliament passed by special majority, followed by Presidential order",
+            "A resolution of the Lok Sabha alone passed by two-thirds majority"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under Article 124(4), a SC judge is removed by the President only after an address from both Houses of Parliament in the same session. The address must be passed by (a) a majority of the total membership of each House AND (b) a majority of not less than two-thirds of the members present and voting. Both Houses must pass it — Lok Sabha alone is insufficient.",
+          "source": "SSC CGL — SC judge removal procedure and the dual-majority requirement is a standard PYQ",
+          "verified": true
+        },
+        {
+          "text": "Under Article 143, the President of India can seek an advisory opinion from the Supreme Court. Which of the following correctly describes the nature of this opinion?",
+          "options": [
+            "It is binding on the President and must be followed",
+            "It is binding on all High Courts but not the President",
+            "It is not binding — the President may or may not follow it",
+            "It automatically becomes law once the SC gives the opinion"
+          ],
+          "answerIndex": 2,
+          "explanation": "The SC's advisory opinion under Article 143 is not binding on the President or any other authority. It is merely an opinion — the President may choose to act on it or not. Furthermore, the SC is not even obligated to give the opinion — it 'may' give it (the word used in Article 143 is 'may,' not 'shall'). This is fundamentally different from a judgment in a case.",
+          "source": "SSC CGL — advisory jurisdiction and the 'not binding' nature of the opinion is a consistent Polity question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "The Supreme Court's power to grant 'Special Leave to Appeal' under Article 136 is unique because:",
+          "options": [
+            "It applies only to constitutional cases; ordinary civil and criminal cases must use Articles 132–134",
+            "It is discretionary and can be used against decisions of any court or tribunal in India, except military tribunals",
+            "It requires the High Court to certify a substantial question of law before the SC can hear the case",
+            "It is automatically available to every litigant as a matter of right"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 136 gives the SC discretionary power to grant special leave to appeal against any judgment, decree, determination, sentence or order of any court or tribunal in India — except military courts and tribunals. It is NOT a right — the SC can refuse SLP without giving reasons. It covers civil, criminal, constitutional, and all other matters, making it the broadest appellate power. Most cases that reach the SC today arrive as SLPs.",
+          "source": "Not an official PYQ — anticipated based on the SLP vs regular appeal distinction being a high-difficulty Polity question",
+          "verified": false
+        },
+        {
+          "text": "The 99th Constitutional Amendment (2014), which established the National Judicial Appointments Commission (NJAC), was struck down by the Supreme Court in 2015. The primary ground for striking it down was:",
+          "options": [
+            "The NJAC did not have adequate representation from the Bar",
+            "The amendment violated the Basic Structure of the Constitution by compromising judicial independence",
+            "The amendment was not ratified by the required number of state legislatures",
+            "The NJAC violated the equality clause by discriminating between judges of different courts"
+          ],
+          "answerIndex": 1,
+          "explanation": "The SC struck down the 99th Amendment (which created the NJAC) in Supreme Court Advocates on Record Association v. Union of India (2015), holding that it violated the Basic Structure of the Constitution — specifically the principle of judicial independence. Including the Law Minister and two 'eminent persons' in the appointments body gave the executive and non-judicial figures a veto over judicial appointments, which the SC held was constitutionally impermissible.",
+          "source": "Not an official PYQ — anticipated based on the NJAC controversy being a significant recent constitutional event that appears in higher-level GS papers",
+          "verified": false
+        },
+        {
+          "text": "Under the doctrine established in the Three Judges Cases, the Collegium that recommends Supreme Court appointments consists of:",
+          "options": [
+            "The Chief Justice of India alone",
+            "The Chief Justice of India and the 2 senior-most SC judges",
+            "The Chief Justice of India and the 4 senior-most SC judges",
+            "The Chief Justice of India, 2 senior SC judges, and the Law Minister"
+          ],
+          "answerIndex": 2,
+          "explanation": "The third Judges Case (Special Reference, 1998) expanded the collegium to the Chief Justice of India plus the 4 senior-most judges of the Supreme Court — a total of 5 judges. The first collegium (1993) had been CJI + 2 judges. The 1998 expansion was to prevent a 2-1 tie. The Law Minister is not part of the collegium (that was what NJAC proposed, and was struck down).",
+          "source": "Not an official PYQ — anticipated based on the collegium composition being a frequently confused fact in judicial appointment questions",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Public Interest Litigation (PIL) is a significant feature of India's judicial system. Which of the following correctly describes PIL?",
+          "options": [
+            "PIL is defined in Article 32 of the Constitution, which provides for PILs as a special category of writs",
+            "PIL is a constitutional provision added by the 42nd Amendment allowing group litigation",
+            "PIL is a judicial innovation that relaxed the rule of locus standi, allowing any person to approach court on behalf of those unable to do so",
+            "PIL is available only in the Supreme Court, not in High Courts"
+          ],
+          "answerIndex": 2,
+          "explanation": "PIL is a judicial innovation — not found in the Constitution or any statute. It emerged in the early 1980s under Justices P.N. Bhagwati and V.R. Krishna Iyer, who relaxed the doctrine of locus standi (the rule requiring the aggrieved party to file the case personally). Through PIL, any concerned citizen, group, or even a letter to the CJI can trigger judicial action. It is available in both the SC (Article 32) and High Courts (Article 226).",
+          "source": "Not an official PYQ — underrated because students often think PIL is in the Constitution or only in the SC",
+          "verified": false
+        },
+        {
+          "text": "The three qualifications to become a Supreme Court judge include being a citizen, being a High Court judge for 5 years, OR being an HC advocate for 10 years, OR being a 'distinguished jurist.' Which of the following is true about the 'distinguished jurist' qualification?",
+          "options": [
+            "Several legal academics have been appointed under this category",
+            "This qualification was added by the 99th Amendment",
+            "This qualification exists in Article 124 but has never been used to appoint a SC judge in India",
+            "Under this category, the appointment is made directly by the CJI without Presidential involvement"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 'distinguished jurist' qualification (Article 124(3)(c)) allows the President, in consultation with the collegium, to appoint eminent legal scholars or jurists directly to the SC without requiring prior judicial or Bar experience. However, this provision has never been used in India — all SC judges so far have come through the HC judge or HC advocate routes.",
+          "source": "Not an official PYQ — underrated because the distinguished jurist qualification is mentioned in standard texts but its non-use is rarely highlighted",
+          "verified": false
+        },
+        {
+          "text": "The 1973 'Supersession Controversy' in Indian judicial history refers to:",
+          "options": [
+            "The SC superseding the Privy Council as India's highest court",
+            "The executive government bypassing three senior SC judges to appoint a junior judge as CJI",
+            "Parliament superseding an SC judgment through a constitutional amendment",
+            "The collegium superseding the government's recommendation for CJI appointment"
+          ],
+          "answerIndex": 1,
+          "explanation": "In 1973, when CJI Sikri retired, the Indira Gandhi government broke convention by not appointing the senior-most judge. Three senior judges — Justices Shelat, Grover, and Hegde — who had ruled against the government in Kesavananda Bharati were passed over. Justice A.N. Ray was appointed CJI. All three superseded judges resigned in protest. This episode directly triggered the later push for a Collegium System that would keep appointments away from executive influence.",
+          "source": "Not an official PYQ — underrated but critically important context for understanding why the Collegium System was created",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Judicial Review in India means the power of the courts to:",
+          "options": [
+            "Review the personal conduct of judges",
+            "Examine and declare unconstitutional any law or executive action that violates the Constitution",
+            "Review the decisions of the President before they take effect",
+            "Review and approve all legislation before it is passed by Parliament"
+          ],
+          "answerIndex": 1,
+          "explanation": "Judicial Review is the power of the SC (and HCs) to examine the constitutionality of laws passed by Parliament and state legislatures, and executive actions taken by governments. If found to violate the Constitution (particularly Fundamental Rights or the Basic Structure), these laws and actions can be declared void. Notably, Judicial Review is not explicitly mentioned in the Constitution by name — it is inferred from multiple articles including Article 13, 32, 226, etc.",
+          "source": "Judicial Review definition is one of the most consistent Polity conceptual questions across SSC papers",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct minimum qualification of time for a High Court advocate to become a Supreme Court judge?",
+          "options": ["5 years", "7 years", "10 years", "15 years"],
+          "answerIndex": 2,
+          "explanation": "Under Article 124(3)(b), an advocate must have been an advocate of a High Court (or two or more courts in succession) for at least 10 years to qualify for appointment as a SC judge. For HC judges to become SC judges, the minimum is 5 years of High Court judgeship. The 5-year vs 10-year distinction (HC judge vs HC advocate) is frequently tested.",
+          "source": "SC judge qualifications — the 5-year (HC judge) vs 10-year (HC advocate) distinction is a standard recurring question",
+          "verified": true
+        },
+        {
+          "text": "The Supreme Court of India acts as a 'Court of Record.' This means:",
+          "options": [
+            "The SC maintains all records of legislation passed by Parliament",
+            "SC proceedings and judgments are permanently recorded and have evidentiary value; the SC can also punish for contempt",
+            "SC records are sealed and cannot be accessed by the public",
+            "The SC records and archives all treaty obligations of the Indian government"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 129, the SC is a Court of Record — its acts and proceedings are permanently recorded and admitted as evidence of law in all courts. No court can question the authenticity of SC records. As a court of record, it also has the inherent power to punish for contempt of court (both civil and criminal contempt). This power cannot be taken away even by Parliament.",
+          "source": "Court of Record concept is a recurring definitional question in SSC Polity sections",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
