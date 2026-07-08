@@ -1,0 +1,173 @@
+{
+  "topic": "Governor-Generals: Company Era (1773–1856)",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Permanent Settlement of 1793 in Bengal was introduced by:",
+          "options": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "Lord Dalhousie"],
+          "answerIndex": 1,
+          "explanation": "The Permanent Settlement (Zamindari System) was introduced in Bengal, Bihar, and Orissa by Lord Cornwallis in 1793. Under this system, the land revenue demand was permanently fixed — zamindars would pay a fixed annual sum to the Company forever, in exchange for being recognized as hereditary owners of the land. This gave zamindars private property rights but left peasants (ryots) unprotected. The Ryotwari system (direct settlement with cultivators) was introduced later in Madras by Thomas Munro.",
+          "source": "SSC CGL — the Permanent Settlement and Lord Cornwallis is one of the most frequently tested Governor-General pairings",
+          "verified": true
+        },
+        {
+          "text": "Which Governor-General is associated with the abolition of the practice of Sati in India?",
+          "options": ["Lord Wellesley", "Lord William Bentinck", "Lord Dalhousie", "Lord Cornwallis"],
+          "answerIndex": 1,
+          "explanation": "The practice of Sati was abolished by Lord William Bentinck through Regulation XVII of 1829, which declared Sati illegal and punishable as culpable homicide. Bentinck was strongly supported by Raja Ram Mohan Roy, who had campaigned against Sati for years and mobilized public opinion. Roy's petition against Sati and his advocacy were crucial in giving Bentinck the confidence to legislate. This is one of the most important social reform acts in Indian history.",
+          "source": "SSC CGL — Bentinck and Sati abolition (1829) is one of the most consistently tested facts in the Governor-Generals topic",
+          "verified": true
+        },
+        {
+          "text": "The 'Doctrine of Lapse' — under which Indian states with no natural heir were annexed by the British — was the policy of which Governor-General?",
+          "options": ["Lord Wellesley", "Lord Hastings", "Lord Dalhousie", "Lord Cornwallis"],
+          "answerIndex": 2,
+          "explanation": "The Doctrine of Lapse was the policy of Lord Dalhousie (1848-1856). Under this doctrine, if a ruler of a princely state died without a natural (biological) heir, the state would 'lapse' to the British — adopted sons had no right to inherit the throne. States annexed under this policy included Satara (1848), Jaitpur and Sambalpur (1849), Baghat (1850), Udaipur (1852), Jhansi (1853), and Nagpur (1854). The annexation of Jhansi particularly outraged Rani Lakshmibai, who became a major leader in the 1857 Revolt.",
+          "source": "SSC CGL — Doctrine of Lapse and Dalhousie is one of the most standard Governor-Generals PYQs",
+          "verified": true
+        },
+        {
+          "text": "The first passenger railway line in India ran between Bombay (Mumbai) and Thane and was opened in:",
+          "options": ["1848", "1851", "1853", "1856"],
+          "answerIndex": 2,
+          "explanation": "The first passenger railway in India — a 21-mile stretch between Bombay (Bori Bunder) and Thane — was inaugurated on 16 April 1853. This was during Lord Dalhousie's tenure as Governor-General. The train was pulled by three steam locomotives (Sahib, Sindh, Sultan) and carried about 400 guests. Dalhousie was a strong advocate of railways as tools of empire — for moving troops, goods, and information. The electric telegraph came two years earlier (1851, Calcutta to Agra).",
+          "source": "SSC CGL — the first Indian railway date (16 April 1853, Bombay-Thane) is one of the most frequently tested infrastructure facts",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Warren Hastings was the first Governor-General of Bengal. Lord William Bentinck was the first Governor-General of India. What created this distinction?",
+          "options": [
+            "The Regulating Act 1773 created Governor-General of Bengal; the Pitt's India Act 1784 upgraded it to Governor-General of India",
+            "The Regulating Act 1773 created Governor-General of Bengal; the Charter Act 1833 renamed it to Governor-General of India",
+            "Both were the same title — Bentinck was simply the first to be publicly called 'Governor-General of India'",
+            "Bentinck acquired the title after defeating the Marathas and gaining authority over all India"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Regulating Act 1773 created the office of 'Governor-General of Bengal' — giving authority over Bengal but only supervisory powers over Bombay and Madras. The Charter Act 1833 renamed and expanded the office to 'Governor-General of India,' giving direct authority over all British Indian territories. Lord William Bentinck, who was serving as Governor-General of Bengal when the Charter Act came into force, became the first person to hold the title 'Governor-General of India.' Lord Canning, who followed later after 1857, became the first Viceroy.",
+          "source": "Not an official PYQ — anticipated because the GG of Bengal vs GG of India vs Viceroy distinction (three different titles, three different moments) is a nuanced sequence question that higher-difficulty papers test",
+          "verified": false
+        },
+        {
+          "text": "Lord Macaulay's Minute on Education (1835) recommended English as the medium of higher education. Which of the following correctly identifies what he argued?",
+          "options": [
+            "That Sanskrit and Persian were superior to English and should be preserved, but English must also be taught for administrative purposes",
+            "That all existing Sanskrit and Arabic educational institutions should be immediately closed",
+            "That limited educational funds should be spent on English-medium education to create Indians who were 'English in tastes, opinions and intellect'",
+            "That primary education should be in local languages while higher education should be in English"
+          ],
+          "answerIndex": 2,
+          "explanation": "Macaulay's Minute (1835) argued that the limited funds available for education should be spent on English-medium education — not Sanskrit or Arabic. His famous (and controversial) argument was that a single shelf of a good European library was worth the whole native literature of India, and that the goal was to create a class of persons 'Indian in blood and colour, but English in tastes, in opinions, in morals, and in intellect.' He did not call for closing existing institutions immediately. Bentinck accepted this recommendation and issued the English Education Act 1835. This decision shaped Indian education, administration, and eventually the nationalist movement.",
+          "source": "Not an official PYQ — anticipated because Macaulay's exact argument is often quoted incorrectly; the 'Indian in blood, English in intellect' quote and the 'limited funds' argument are the specific points that higher-difficulty papers test",
+          "verified": false
+        },
+        {
+          "text": "Lord Dalhousie annexed Awadh (Oudh) in 1856 — but NOT under the Doctrine of Lapse. What was his stated reason?",
+          "options": [
+            "The Nawab of Awadh had allied with the Russian Empire",
+            "Awadh had no natural heir after the Nawab's death",
+            "The British cited 'misgovernance' and the need to protect the people of Awadh from an incompetent ruler",
+            "Awadh had failed to pay the subsidy under the Subsidiary Alliance for ten consecutive years"
+          ],
+          "answerIndex": 2,
+          "explanation": "The annexation of Awadh (1856) did not use the Doctrine of Lapse (the Nawab Wajid Ali Shah was alive and had heirs). Instead, Dalhousie used the pretext of 'misgovernance' — claiming the Nawab's administration was so incompetent that the people needed British protection. Wajid Ali Shah was deposed and exiled to Calcutta. This annexation had enormous consequences for 1857: the Bengal Army was largely recruited from Awadh, and sepoys' families lived there. Dispossession of their Nawab hit them personally — Awadh's annexation is considered one of the major immediate causes of the 1857 Revolt.",
+          "source": "Not an official PYQ — anticipated because students often assume all Dalhousie annexations used Doctrine of Lapse; the Awadh exception (misgovernance pretext) is specifically tested in higher-difficulty papers",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Lord Metcalfe (1835-36) is remembered as the 'Liberator of the Press' because he:",
+          "options": [
+            "Established the first English-language newspaper in India",
+            "Removed all licensing restrictions on newspapers in India, allowing press freedom for the first time",
+            "Introduced the Freedom of Press Act through the Central Legislature",
+            "Allowed Indian-language newspapers to criticize British policies for the first time"
+          ],
+          "answerIndex": 1,
+          "explanation": "Lord Metcalfe, who served as acting Governor-General for only about a year (1835-36), earned the title 'Liberator of the Press' by removing the Press Regulations — the licensing system that required newspapers to obtain government permission before publishing. Earlier, Lord Wellesley had imposed strict press censorship in 1799. Metcalfe's removal of these restrictions allowed Indian journalism to flourish. Despite his short tenure, this single act gave him a lasting place in Indian history. He was not followed by a permanent GG immediately — Lord Auckland succeeded him in 1836.",
+          "source": "Not an official PYQ — underrated because Metcalfe served for only one year and is often skipped in standard notes; the 'Liberator of the Press' title is tested as a match-the-title question",
+          "verified": false
+        },
+        {
+          "text": "The Treaty of Sagauli (1816), which ended the Anglo-Gurkha War, had which significant long-term consequence?",
+          "options": [
+            "Nepal became a British protectorate and lost all sovereignty",
+            "Nepal ceded the hill territories (Kumaon, Garhwal, Sikkim) and allowed British hill stations and Gurkha recruitment into the British Army",
+            "The Gurkhas were permanently barred from owning land in British India",
+            "Nepal agreed to allow the British to station troops in Kathmandu"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Treaty of Sagauli (1816) after the Anglo-Gurkha War (1814-16) had several long-term consequences: Nepal ceded Sikkim, Kumaon, Garhwal, and parts of the Terai to the British; allowed the British to station a Resident in Kathmandu; and permitted the recruitment of Gurkha soldiers into the British Indian Army. The ceded hill territories allowed the British to establish the famous hill stations — Shimla (which became the summer capital of British India), Mussoorie, Nainital, Dehradun. Gurkha recruitment into the British Army (later the Indian Army) continues to this day.",
+          "source": "Not an official PYQ — underrated because the Anglo-Gurkha War outcome (Sagauli Treaty) is rarely covered but its consequences (hill stations, Gurkha recruitment) are significant and sometimes tested",
+          "verified": false
+        },
+        {
+          "text": "Warren Hastings faced an impeachment trial from 1788-1795. Who led the prosecution against him in the British Parliament?",
+          "options": ["William Pitt the Younger", "Edmund Burke", "Charles James Fox", "Lord Cornwallis"],
+          "answerIndex": 1,
+          "explanation": "Warren Hastings was impeached in 1786 and his trial ran from 1788 to 1795 in the House of Lords. The prosecution was led by Edmund Burke (the famous political philosopher and parliamentarian), assisted by Charles James Fox and Richard Brinsley Sheridan. Burke delivered impassioned speeches against Hastings for alleged corruption, abuse of power, and mistreatment of Indians. Hastings was ultimately acquitted in 1795. The trial was significant not for its verdict but for establishing the principle that Company officials were accountable to Parliament for their actions in India.",
+          "source": "Not an official PYQ — underrated because the Warren Hastings impeachment is covered but Edmund Burke as the prosecuting voice is a specific fact that appears in historical context questions",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is the CORRECT match of Governor-General and their associated policy?",
+          "options": [
+            "Bentinck — Doctrine of Lapse; Dalhousie — Permanent Settlement; Cornwallis — Subsidiary Alliance",
+            "Cornwallis — Permanent Settlement; Wellesley — Subsidiary Alliance; Dalhousie — Doctrine of Lapse",
+            "Wellesley — Permanent Settlement; Hastings — Subsidiary Alliance; Bentinck — Doctrine of Lapse",
+            "Dalhousie — Subsidiary Alliance; Cornwallis — Doctrine of Lapse; Bentinck — Permanent Settlement"
+          ],
+          "answerIndex": 1,
+          "explanation": "The correct matches are: Lord Cornwallis — Permanent Settlement (1793, fixed land revenue with zamindars in Bengal, Bihar, Orissa); Lord Wellesley — Subsidiary Alliance (1798, Indian rulers accept British troops and pay for them, give up foreign policy); Lord Dalhousie — Doctrine of Lapse (1848 onwards, states with no natural heir lapse to British). These three policy-GG pairings are the most frequently tested 'match the following' pattern in SSC CGL Modern History.",
+          "source": "Policy-GG matching (Permanent Settlement/Cornwallis, Subsidiary Alliance/Wellesley, Doctrine of Lapse/Dalhousie) is the single most tested Governor-Generals pattern in SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "Wood's Despatch (1854), issued during Dalhousie's tenure, is significant because:",
+          "options": [
+            "It was the first order to build railways in India",
+            "It provided a comprehensive framework for Indian education — from primary schools to universities — and is called the 'Magna Carta of English Education in India'",
+            "It announced the introduction of the electric telegraph across British India",
+            "It formally established the Indian Civil Service examinations in England"
+          ],
+          "answerIndex": 1,
+          "explanation": "Wood's Despatch (1854), issued by Charles Wood (President of the Board of Control), laid out a comprehensive plan for Indian education at all levels: vernacular primary schools, Anglo-vernacular high schools, and English-medium colleges, culminating in universities at Calcutta, Bombay, and Madras (established 1857). It recommended a grants-in-aid system for private schools and is called the 'Magna Carta of English Education in India.' It built on Macaulay's 1835 decision on English-medium education and created the structured system of education that lasted until independence.",
+          "source": "Wood's Despatch (1854) and its significance as the framework for Indian education is a frequently tested fact during the Dalhousie era questions",
+          "verified": true
+        },
+        {
+          "text": "Which Governor-General is associated with the suppression of Thuggee in India, and who was the officer who carried out the operation?",
+          "options": [
+            "Lord Wellesley; Robert Clive",
+            "Lord William Bentinck; Colonel William Henry Sleeman",
+            "Lord Dalhousie; General Napier",
+            "Lord Cornwallis; Thomas Munro"
+          ],
+          "answerIndex": 1,
+          "explanation": "The suppression of Thuggee (a criminal fraternity that ritually murdered travelers) was carried out during Lord William Bentinck's tenure (1828-35). The operation was led by Colonel William Henry Sleeman, who systematically identified, arrested, and prosecuted Thugs across India. Sleeman's work was published in his book 'Ramaseana' (1836), which provided detailed knowledge about Thug practices and networks. Thousands of Thugs were arrested; the practice was effectively eliminated by the 1840s. Sleeman later became famous for his writings on India and was appointed Resident at Lucknow.",
+          "source": "The Bentinck-Sleeman-Thuggee association is a frequently tested three-way match in SSC CGL Modern History",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
