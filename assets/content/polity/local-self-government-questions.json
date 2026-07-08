@@ -1,0 +1,158 @@
+{
+  "topic": "Local Self-Government (73rd/74th Amendments)",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The 73rd Constitutional Amendment Act, 1992, which deals with Panchayati Raj, added which Schedule to the Constitution?",
+          "options": ["Ninth Schedule", "Tenth Schedule", "Eleventh Schedule", "Twelfth Schedule"],
+          "answerIndex": 2,
+          "explanation": "The 73rd Amendment (1992) added the Eleventh Schedule to the Constitution, listing 29 subjects that may be devolved to Panchayats by state governments. The 74th Amendment added the Twelfth Schedule with 18 subjects for Municipalities. The Ninth Schedule (land reform laws immune from judicial review) and the Tenth Schedule (anti-defection) are completely different.",
+          "source": "SSC CGL — which Schedule was added by 73rd vs 74th Amendment is one of the most consistently tested local self-government questions",
+          "verified": true
+        },
+        {
+          "text": "Under the 73rd Constitutional Amendment, the minimum proportion of seats that must be reserved for women in Panchayat institutions is:",
+          "options": ["One-fourth (25%)", "One-third (33.3%)", "Half (50%)", "Two-fifths (40%)"],
+          "answerIndex": 1,
+          "explanation": "Article 243D mandates that not less than one-third (1/3rd) of the total seats in every Panchayat shall be reserved for women. This is the constitutional floor. Many states have gone beyond this — Rajasthan, Bihar, Uttarakhand, Himachal Pradesh, Madhya Pradesh, and others have by state law raised women's reservation in panchayats to 50%. But the Constitution prescribes only 1/3rd as the minimum. The reservation applies to both ordinary seats and offices of Chairpersons.",
+          "source": "SSC CGL — the 1/3rd women's reservation in panchayats is one of the most frequently tested 73rd Amendment facts",
+          "verified": true
+        },
+        {
+          "text": "Which Article of the Constitution provides for the constitution of a State Election Commission?",
+          "options": ["Article 243I", "Article 243K", "Article 324", "Article 243ZD"],
+          "answerIndex": 1,
+          "explanation": "Article 243K provides for the constitution of a State Election Commission in each state, which is vested with the superintendence, direction, and control of preparation of electoral rolls and conduct of all elections to Panchayats and Municipalities. The State Election Commissioner is appointed by the Governor and has the same security of tenure as a High Court judge. Article 324 deals with the Election Commission of India, which handles Parliamentary and state legislature elections — a completely different body.",
+          "source": "SSC CGL — the Article number for State Election Commission (243K) and distinguishing it from the Election Commission of India (Article 324) is a standard PYQ",
+          "verified": true
+        },
+        {
+          "text": "The 74th Constitutional Amendment Act, 1992, added which Part to the Constitution for urban local bodies?",
+          "options": ["Part IX", "Part IX-A", "Part IX-B", "Part X"],
+          "answerIndex": 1,
+          "explanation": "The 74th Amendment added Part IX-A titled 'The Municipalities' to the Constitution, covering Articles 243P to 243ZG. The 73rd Amendment added Part IX titled 'The Panchayats' (Articles 243 to 243O). Part IX-B (Articles 243ZH to 243ZT) was added later by the 97th Amendment (2011) for cooperative societies. Part X deals with Scheduled and Tribal areas.",
+          "source": "SSC CGL — which Part (IX vs IX-A) belongs to 73rd vs 74th Amendment is a standard constitutional numbering question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "The Gram Sabha under Article 243A is best described as:",
+          "options": [
+            "The elected Gram Panchayat governing a village",
+            "A committee of village elders appointed by the Block Panchayat",
+            "The body consisting of all persons registered on electoral rolls of a Gram Panchayat area",
+            "A sub-committee of the Gram Panchayat for financial oversight"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Gram Sabha (Article 243A) is the body consisting of persons registered in the electoral rolls relating to a village comprised within the area of a Panchayat. It is the entire adult electorate of the village — not an elected body, but the voters' assembly. The Gram Panchayat is the elected body that governs; the Gram Sabha is the broader electorate that holds it accountable. Confusing the two is a very common exam trap.",
+          "source": "Not an official PYQ — anticipated because the Gram Sabha vs Gram Panchayat distinction is a classic conceptual trap; the 'not an elected body' aspect surprises many students",
+          "verified": false
+        },
+        {
+          "text": "Which of the following is a VOLUNTARY (discretionary) provision under the 73rd Constitutional Amendment — something states are NOT constitutionally required to implement?",
+          "options": [
+            "Holding elections to Panchayats every five years",
+            "Reserving seats for Scheduled Castes proportional to their population",
+            "Providing reservation for Other Backward Classes (OBCs) in panchayat seats",
+            "Constituting a State Finance Commission every five years"
+          ],
+          "answerIndex": 2,
+          "explanation": "OBC reservation in panchayats is voluntary — states 'may' provide it, but are not constitutionally required to. SC/ST reservation (proportional to population) and women's reservation (1/3rd minimum) are compulsory. Holding elections every 5 years and constituting the State Finance Commission every 5 years are also compulsory. The Supreme Court in Vikas Kishanrao Gawali v State of Maharashtra (2021) held that OBC reservation requires a triple test (dedicated commission, empirical data, 50% cap compliance) — making voluntary OBC reservation procedurally demanding.",
+          "source": "Not an official PYQ — anticipated because the compulsory vs voluntary distinction in the 73rd Amendment is a nuanced conceptual question that higher-difficulty SSC papers test",
+          "verified": false
+        },
+        {
+          "text": "The District Planning Committee (DPC) created under Article 243ZD must have at least what fraction of its members elected from Panchayats and Municipalities?",
+          "options": ["One-half (50%)", "Two-thirds (66.7%)", "Three-fourths (75%)", "Four-fifths (80%)"],
+          "answerIndex": 3,
+          "explanation": "Article 243ZD states that the membership of the District Planning Committee shall include elected members of Panchayats and Municipalities in the district, and that the number of such elected members shall not be less than four-fifths (4/5th = 80%) of the total membership of such Committee. The proportion should be in accordance with the ratio between the population of rural and urban areas in the district. This heavy elected-member requirement was meant to ensure DPCs are genuinely representative of local bodies.",
+          "source": "Not an official PYQ — anticipated because the '4/5th elected members' requirement of the DPC is a specific numerical fact that appears in higher-difficulty Polity papers",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which Committee first formally recommended giving Panchayati Raj institutions constitutional status in India?",
+          "options": [
+            "Balwantrai Mehta Committee (1957)",
+            "Ashok Mehta Committee (1978)",
+            "L.M. Singhvi Committee (1986)",
+            "P.K. Thungon Committee (1988)"
+          ],
+          "answerIndex": 2,
+          "explanation": "The L.M. Singhvi Committee (1986), set up to review the functioning of panchayati raj, was the first to formally recommend constitutional status for Panchayati Raj institutions. It coined the phrase 'grass without roots' to describe panchayats that existed on paper but had no real power, and recommended constitutional recognition, Gram Sabha empowerment, and village courts (Nyaya Panchayats). The Balwantrai Mehta Committee (1957) recommended democratic decentralisation but not constitutional status; the Ashok Mehta Committee (1978) recommended a two-tier structure.",
+          "source": "Not an official PYQ — underrated because students often credit Balwantrai Mehta as the panchayati raj pioneer without noting that constitutional status recommendation came from Singhvi",
+          "verified": false
+        },
+        {
+          "text": "The Metropolitan Planning Committee (MPC) under Article 243ZE is required for areas with a population of:",
+          "options": ["5 lakh or more", "10 lakh or more", "25 lakh or more", "50 lakh or more"],
+          "answerIndex": 1,
+          "explanation": "Article 243ZE requires that there shall be constituted a Metropolitan Planning Committee to prepare a draft development plan for the Metropolitan area as a whole, for every Metropolitan area with a population of 10 lakh (1 million) or more. At least 2/3rd of MPC members must be elected from Municipalities and Panchayats in the metropolitan area. This is different from the District Planning Committee (Article 243ZD), which has no population threshold and covers all districts.",
+          "source": "Not an official PYQ — underrated because MPC's 10 lakh threshold is a specific fact rarely covered in standard notes; DPC vs MPC confusion is a common mistake",
+          "verified": false
+        },
+        {
+          "text": "The 73rd Amendment of 1992 was enacted by Parliament. When did it actually come into force?",
+          "options": [
+            "1 December 1992 — when the President signed it",
+            "26 January 1993 — Republic Day",
+            "24 April 1993 — now celebrated as National Panchayati Raj Day",
+            "1 June 1993 — along with the 74th Amendment"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 73rd Constitutional Amendment Act was passed by Parliament in December 1992 but came into force on 24 April 1993 — a date now commemorated as National Panchayati Raj Day. The 74th Amendment (urban) came into force on 1 June 1993. The gap between enactment and enforcement is a common exam trap. Questions sometimes ask about 'when it came into force' rather than 'when it was passed', and the April 1993 date is the critical answer.",
+          "source": "Not an official PYQ — underrated because students memorise '1992' (when passed) but forget the 1993 enforcement date that is actually tested",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is the CORRECT match between the Amendment and the body it deals with?",
+          "options": [
+            "73rd Amendment — Urban local bodies (Municipalities); 74th Amendment — Rural local bodies (Panchayats)",
+            "73rd Amendment — Rural local bodies (Panchayats); 74th Amendment — Urban local bodies (Municipalities)",
+            "73rd Amendment — Cooperative Societies; 74th Amendment — Panchayats",
+            "73rd Amendment — Both Panchayats and Municipalities"
+          ],
+          "answerIndex": 1,
+          "explanation": "73rd Amendment (1992) = Panchayati Raj / Rural local bodies (Part IX, Articles 243-243O, Eleventh Schedule with 29 subjects). 74th Amendment (1992) = Municipalities / Urban local bodies (Part IX-A, Articles 243P-243ZG, Twelfth Schedule with 18 subjects). This basic 73rd=Rural, 74th=Urban match is tested in almost every set of SSC Polity questions touching on local self-government.",
+          "source": "73rd vs 74th Amendment identification (rural/urban) is the single most frequently asked local self-government question pattern in SSC exams",
+          "verified": true
+        },
+        {
+          "text": "How many subjects are listed in the Eleventh Schedule (Panchayats) and the Twelfth Schedule (Municipalities) of the Constitution respectively?",
+          "options": ["29 and 18", "18 and 29", "22 and 18", "29 and 12"],
+          "answerIndex": 0,
+          "explanation": "The Eleventh Schedule (added by the 73rd Amendment for Panchayats) contains 29 subjects. The Twelfth Schedule (added by the 74th Amendment for Municipalities) contains 18 subjects. The mnemonic: 7+3=10→73rd gets the larger list (29); 7+4=11→74th gets the smaller list (18). Remember: 29 for rural Panchayats, 18 for urban Municipalities.",
+          "source": "The 29 vs 18 subjects count is one of the most frequently tested numerical facts in the local self-government section of SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "Under Article 243E, if a Panchayat is dissolved before the expiry of its five-year term, elections must be held within:",
+          "options": ["3 months", "6 months", "9 months", "1 year"],
+          "answerIndex": 1,
+          "explanation": "Article 243E mandates that elections to constitute a Panchayat shall be completed before the expiry of its duration of five years. If a Panchayat is dissolved before the expiry of the five-year term, elections must be held within six months of such dissolution. This 6-month mandatory election requirement was the central reform of the 73rd Amendment — before it, state governments could dissolve panchayats and delay elections indefinitely. The same 6-month rule applies to Municipalities under the 74th Amendment.",
+          "source": "The 6-month election rule after dissolution is a standard time-limit question in SSC local self-government questions",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
