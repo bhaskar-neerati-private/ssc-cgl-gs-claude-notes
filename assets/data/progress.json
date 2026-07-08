@@ -99,8 +99,99 @@
       "name": "Modern History",
       "tier": "A",
       "order": 2,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "european-penetration",
+          "title": "European Powers & Early Conflicts in India (1498–1757)",
+          "status": "not-started"
+        },
+        {
+          "id": "british-expansion",
+          "title": "British Expansion & Consolidation (1757–1818)",
+          "status": "not-started"
+        },
+        {
+          "id": "governor-generals-company",
+          "title": "Governor-Generals: Company Era (1773–1856)",
+          "status": "not-started"
+        },
+        {
+          "id": "viceroys-crown",
+          "title": "Viceroys: Crown Era (1858–1947)",
+          "status": "not-started"
+        },
+        {
+          "id": "land-revenue-systems",
+          "title": "Land Revenue Systems — Permanent Settlement, Ryotwari, Mahalwari",
+          "status": "not-started"
+        },
+        {
+          "id": "economic-impact",
+          "title": "Economic Impact of British Rule — Drain of Wealth, Deindustrialisation & Famines",
+          "status": "not-started"
+        },
+        {
+          "id": "socio-religious-bengal-bombay",
+          "title": "Socio-Religious Reforms: Bengal & Bombay (Brahmo Samaj, Prarthana Samaj)",
+          "status": "not-started"
+        },
+        {
+          "id": "socio-religious-north-india",
+          "title": "Socio-Religious Reforms: North India & Pan-India (Arya Samaj, Aligarh, Ramakrishna, Theosophical Society)",
+          "status": "not-started"
+        },
+        {
+          "id": "revolt-1857",
+          "title": "Revolt of 1857 — The First War of Independence",
+          "status": "not-started"
+        },
+        {
+          "id": "inc-moderates",
+          "title": "Indian National Congress & The Moderate Phase (1885–1905)",
+          "status": "not-started"
+        },
+        {
+          "id": "extremists-swadeshi",
+          "title": "Extremist Phase, Swadeshi Movement & Surat Split (1905–1916)",
+          "status": "not-started"
+        },
+        {
+          "id": "revolutionary-phase1",
+          "title": "Revolutionary Nationalism — Phase 1 (Tilak, Ghadar Party, Aurobindo)",
+          "status": "not-started"
+        },
+        {
+          "id": "gandhi-noncooperation",
+          "title": "Gandhi's Entry, Rowlatt Satyagraha & Non-Cooperation Movement (1915–1922)",
+          "status": "not-started"
+        },
+        {
+          "id": "civil-disobedience",
+          "title": "Civil Disobedience Movement, Round Table Conferences & Poona Pact (1930–1934)",
+          "status": "not-started"
+        },
+        {
+          "id": "revolutionary-phase2-ina",
+          "title": "HSRA, Bhagat Singh, INA & Subhas Chandra Bose",
+          "status": "not-started"
+        },
+        {
+          "id": "constitutional-acts-1858-1919",
+          "title": "Constitutional & Legislative Acts (1858–1919)",
+          "status": "not-started"
+        },
+        {
+          "id": "govt-of-india-act-1935",
+          "title": "Government of India Act 1935 & Congress Ministries (1935–1939)",
+          "status": "not-started"
+        },
+        {
+          "id": "independence-partition",
+          "title": "Quit India Movement, Independence & Partition (1942–1947)",
+          "status": "not-started"
+        }
+      ]
     },
     {
       "id": "geography",
