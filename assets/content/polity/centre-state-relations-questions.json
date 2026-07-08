@@ -1,0 +1,173 @@
+{
+  "topic": "Centre-State Relations",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Under which Article of the Constitution does the Rajya Sabha have the power to authorise Parliament to legislate on a subject in the State List?",
+          "options": ["Article 248", "Article 249", "Article 250", "Article 252"],
+          "answerIndex": 1,
+          "explanation": "Article 249 empowers the Rajya Sabha to pass a resolution (by 2/3rd of members present and voting) declaring it necessary in the national interest that Parliament should make laws on a State List subject. Parliament can then legislate on that subject for 1 year (renewable). This is a unique power of the Rajya Sabha — it can trigger expanded legislative authority for Parliament even when no Emergency is in force.",
+          "source": "SSC CGL — Article 249 Rajya Sabha resolution power is one of the most consistently tested Centre-State legislative relations questions",
+          "verified": true
+        },
+        {
+          "text": "What is the maximum period for which President's Rule (Article 356) can be imposed in a state?",
+          "options": ["6 months", "1 year", "2 years", "3 years"],
+          "answerIndex": 3,
+          "explanation": "President's Rule can initially be proclaimed for 2 months without Parliament approval. With approval, it continues for 6 months at a time. The maximum period is 3 years. However, after 1 year, each 6-month extension requires that either a National Emergency is in operation in the state, OR the Election Commission certifies that elections to the state assembly cannot be held. This limit was added by the 44th Amendment (1978).",
+          "source": "SSC CGL — the maximum 3-year duration of President's Rule is a standard constitutional provisions question",
+          "verified": true
+        },
+        {
+          "text": "Where do the residuary powers of legislation vest under the Indian Constitution?",
+          "options": [
+            "With the state legislatures",
+            "With the Parliament (Union)",
+            "With both Parliament and state legislatures jointly",
+            "With the Supreme Court"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 248 vests residuary powers (power to make laws on subjects not mentioned in any of the three lists in the Seventh Schedule) exclusively with Parliament. This is the opposite of federations like the USA and Australia, where residuary powers vest with the states. This reflects India's 'Union of States' design — the Constitution tilts toward the Centre in matters of unspecified jurisdiction.",
+          "source": "SSC CGL — residuary powers going to Parliament (not states) is a standard federalism question tested almost every year",
+          "verified": true
+        },
+        {
+          "text": "The Finance Commission of India is constituted by the President under which Article of the Constitution?",
+          "options": ["Article 263", "Article 275", "Article 279A", "Article 280"],
+          "answerIndex": 3,
+          "explanation": "Article 280 provides for the constitution of a Finance Commission by the President every five years (or earlier). The Finance Commission recommends the distribution of net tax proceeds between the Centre and the states, as well as grants-in-aid to states. Its recommendations are advisory, not binding — but are almost always accepted. The 16th Finance Commission is currently functioning (constituted 2024).",
+          "source": "SSC CGL — Finance Commission article number and function is a standard constitutional bodies question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Under Article 252, Parliament can legislate on a State List subject if two or more states request it. Which of the following statements about such legislation is CORRECT?",
+          "options": [
+            "The law automatically applies to all states once enacted",
+            "The law binds only those states whose legislatures passed the resolution requesting it",
+            "The law applies to all states only after all state legislatures ratify it",
+            "The law requires Rajya Sabha's special majority to be valid"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 252, when two or more state legislatures pass resolutions requesting Parliament to legislate on a State List subject, Parliament may pass such legislation. The crucial limitation: the resulting law applies ONLY to those states that passed the resolution. Other states are not bound — but any other state can later adopt the law by passing its own resolution in its legislature. No special majority is needed in Parliament (ordinary majority suffices). This is different from Article 249 (which requires a 2/3rd RS resolution).",
+          "source": "Not an official PYQ — anticipated because Article 252 is often confused with Article 249 and students mistake the 'only those states bound' limitation",
+          "verified": false
+        },
+        {
+          "text": "What was the most significant constitutional change made by the S.R. Bommai case (1994) regarding Article 356?",
+          "options": [
+            "It declared Article 356 unconstitutional",
+            "It held that President's Rule is subject to judicial review and the floor test is the proper measure of a government's majority",
+            "It increased the maximum duration of President's Rule from 1 year to 3 years",
+            "It required Parliament to approve President's Rule within 1 month instead of 2 months"
+          ],
+          "answerIndex": 1,
+          "explanation": "The S.R. Bommai v Union of India (1994) case was a 9-judge Constitution bench ruling that fundamentally changed Article 356 practice. The SC held: (1) the proclamation of President's Rule is not immune from judicial review — courts can examine whether there was a reasonable basis for it; (2) the floor of the Vidhan Sabha (not the Governor's subjective assessment) is the proper place to test a government's majority; (3) if President's Rule is held unconstitutional, the dismissed government can be restored. The case did not abolish Article 356 but effectively ended its casual political misuse.",
+          "source": "Not an official PYQ — anticipated because Bommai's specific holding (judicial review + floor test) is a high-value fact that SSC Tier-II and CGL papers sometimes ask about",
+          "verified": false
+        },
+        {
+          "text": "Under which Article can Parliament legislate on a State List subject to implement an international treaty, agreement, or convention, WITHOUT the consent of the states?",
+          "options": ["Article 249", "Article 250", "Article 252", "Article 253"],
+          "answerIndex": 3,
+          "explanation": "Article 253 empowers Parliament to make laws for implementing any treaty, agreement, or convention with any other country or any decision made at any international conference or association — even on a State List subject, and without requiring state consent. This is how India enacted environmental protection laws (e.g., the Environment Protection Act, 1986) on subjects that would otherwise fall under state jurisdiction. No special majority is needed — an ordinary Parliament majority suffices.",
+          "source": "Not an official PYQ — anticipated because Articles 249/250/252/253 are frequently confused with each other; article number-to-condition matching is a standard exam pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The Zonal Councils in India are:",
+          "options": [
+            "Constitutional bodies created under Article 263",
+            "Statutory bodies created under the States Reorganisation Act, 1956",
+            "Advisory committees set up by the NITI Aayog",
+            "Bodies set up under Article 262 for inter-state river disputes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Zonal Councils are statutory bodies — NOT constitutional bodies. They were established under the States Reorganisation Act, 1956. There are five zones: Northern, Central, Eastern, Western, and Southern. Each Zonal Council is chaired by the Union Home Minister. They serve as forums for inter-state coordination and resolving disputes. Students often confuse them with the Inter-State Council (which is set up under Article 263 by the President) — Zonal Councils predate the ISC by decades.",
+          "source": "Not an official PYQ — underrated because Zonal Councils' statutory (non-constitutional) nature is often assumed incorrectly; the confusion with Art 263 ISC is a classic trap",
+          "verified": false
+        },
+        {
+          "text": "Article 254 of the Constitution deals with repugnancy between Central and State laws on the Concurrent List. Which of the following is the EXCEPTION to the rule that Parliament's law prevails?",
+          "options": [
+            "When the state law was passed before Parliament's law",
+            "When the state law received the President's assent before Parliament enacted its law",
+            "When the state law deals with public order — a subject in the State List",
+            "When the Rajya Sabha has specially endorsed the state law by resolution"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 254(1), if a state law on a Concurrent List subject is repugnant to a Parliament law, Parliament's law prevails. But Article 254(2) provides the exception: if the state law received Presidential assent (reserved for President's consideration and assented to) before Parliament enacted the conflicting law, the state law prevails in that state — until Parliament amends or repeals it. This allows states to create tailored Concurrent List legislation for their specific needs, with Central oversight through Presidential assent.",
+          "source": "Not an official PYQ — underrated because students know the rule (Parliament wins) but miss the exception (Presidential assent saves the state law)",
+          "verified": false
+        },
+        {
+          "text": "The GST Council was created by which Constitutional Amendment and under which Article?",
+          "options": [
+            "100th Amendment, Article 269A",
+            "101st Amendment, Article 279A",
+            "102nd Amendment, Article 338B",
+            "99th Amendment, Article 124A"
+          ],
+          "answerIndex": 1,
+          "explanation": "The GST Council was created by the 101st Constitutional Amendment Act, 2016, which inserted Article 279A. It consists of the Union Finance Minister (as Chair), the Minister of State for Finance (Centre), and the Finance Ministers of all states and UTs. Voting weightage: Centre = 1/3rd; all states combined = 2/3rd. Decisions require 3/4th majority. This weighted voting system makes the GST Council a genuinely federal body where states can collectively outvote the Centre.",
+          "source": "Not an official PYQ — underrated because students remember 'GST = 101st Amendment' but forget the Article number (279A) and the weighted voting formula",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Parliament can legislate on a subject in the State List during a National Emergency proclaimed under Article 352. Under which Article is this power given?",
+          "options": ["Article 248", "Article 249", "Article 250", "Article 253"],
+          "answerIndex": 2,
+          "explanation": "Article 250 provides that while a National Emergency (Article 352) is in operation, Parliament shall have power to make laws with respect to any matter in the State List. Such laws cease to have effect 6 months after the Emergency ceases. This is separate from Article 249 (Rajya Sabha resolution in normal times) and Article 252 (states' request). The four routes to Parliament legislating on State List — 249, 250, 252, 253 — are the most common 'match the scenario' pattern in SSC Polity questions.",
+          "source": "Articles 249/250/252/253 — matching the scenario to the correct article — is the most frequently tested Centre-State legislative relations pattern in SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "Which of the following lists in the Seventh Schedule gives Parliament exclusive power to legislate?",
+          "options": [
+            "State List (List II)",
+            "Concurrent List (List III)",
+            "Union List (List I)",
+            "Residuary List"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Union List (List I) in the Seventh Schedule contains subjects on which only Parliament can legislate exclusively — states have no power here. As of now it has 100 entries, including defence, foreign affairs, atomic energy, railways, banking, insurance, and communication. The State List (List II) is exclusive to states. The Concurrent List (List III) allows both Parliament and states to legislate. There is no 'Residuary List' — residuary powers go to Parliament under Article 248.",
+          "source": "The three-list system and which list belongs to whom is the most consistently tested Seventh Schedule question in SSC exams",
+          "verified": true
+        },
+        {
+          "text": "Under Article 356, which of the following is NOT affected when President's Rule is imposed on a state?",
+          "options": [
+            "The state Council of Ministers",
+            "The state legislature (Vidhan Sabha)",
+            "The High Court of the state",
+            "The Governor of the state"
+          ],
+          "answerIndex": 2,
+          "explanation": "When President's Rule is proclaimed under Article 356: the state Council of Ministers is dismissed, the state legislature is suspended or dissolved, and the President assumes executive functions. However, the High Court continues to function normally — its jurisdiction and constitutional status are completely unaffected. The judiciary is constitutionally insulated from Emergency provisions. The Governor also continues in office (the President exercises through the Governor). This 'HC unaffected' point is a standard trap.",
+          "source": "What is/isn't suspended under Article 356 is a standard question pattern across SSC CGL papers; HC survival is the most tested 'not affected' answer",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
