@@ -1,0 +1,178 @@
+{
+  "topic": "Socio-Religious Reforms: North India & Pan-India",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Arya Samaj was founded in 1875 by Swami Dayananda Saraswati. In which city was it founded?",
+          "options": ["Lahore", "Delhi", "Bombay", "Amritsar"],
+          "answerIndex": 2,
+          "explanation": "The Arya Samaj was founded by Swami Dayananda Saraswati in Bombay (Mumbai) in 1875 — not in Lahore or Punjab, which is a very common exam trap. Dayananda gave a series of lectures in Bombay and formally established the Arya Samaj there. The organisation later became most influential in Punjab, and its headquarters and major activities shifted northward, which is why many students incorrectly associate its founding with Lahore or Punjab. The Punjab branch was established in 1877 in Lahore, not in 1875. Dayananda's major work 'Satyarth Prakash' (Light of Truth) was also published in 1875.",
+          "source": "SSC CGL — the founding city of Arya Samaj (Bombay, 1875, NOT Punjab) is one of the most frequently tested exam traps in socio-religious reform questions",
+          "verified": true
+        },
+        {
+          "text": "Swami Vivekananda's famous speech at the Parliament of World's Religions began with 'Sisters and Brothers of America.' In which year and city did this parliament take place?",
+          "options": ["1890, London", "1893, Chicago", "1895, New York", "1900, Paris"],
+          "answerIndex": 1,
+          "explanation": "Swami Vivekananda spoke at the Parliament of World's Religions held in Chicago, USA, on 11 September 1893. His opening words 'Sisters and Brothers of America' drew a standing ovation before he had said anything further. In this speech, he presented Vedanta and Hinduism as a universal, tolerant religion that acknowledged the truth in all faiths. At a time when the British were dismissing Indian civilization as primitive, Vivekananda's reception in Chicago — where he was wildly popular — helped restore Indian cultural confidence. He subsequently toured the United States and Europe, founding the Vedanta Societies. He returned to India in 1897 and founded the Ramakrishna Mission.",
+          "source": "SSC CGL — Vivekananda's Chicago speech (1893) is one of the most tested Modern History facts; the year, city, and opening words all appear as answer choices",
+          "verified": true
+        },
+        {
+          "text": "The Muhammadan Anglo-Oriental (MAO) College at Aligarh, which later became Aligarh Muslim University, was founded by:",
+          "options": ["Badruddin Tyabji", "Sir Syed Ahmad Khan", "Maulana Abul Kalam Azad", "Aga Khan III"],
+          "answerIndex": 1,
+          "explanation": "The Muhammadan Anglo-Oriental (MAO) College at Aligarh was founded by Sir Syed Ahmad Khan in 1875. Modelled on Oxford and Cambridge, it combined English language, Western sciences, and Islamic studies — Sir Syed's prescription for Muslim modernisation. He believed Muslims were falling behind because they had rejected English education after 1857. The college became Aligarh Muslim University (AMU) in 1920 under a parliamentary act. Sir Syed also founded the Scientific Society (1864) to translate Western scientific works into Urdu, and published the journal Tahzib-ul-Akhlaq ('Reforms of Morals') to promote Muslim modernism.",
+          "source": "SSC CGL — MAO College / AMU founding by Sir Syed Ahmad Khan (1875) is a standard identification question",
+          "verified": true
+        },
+        {
+          "text": "Annie Besant became the first woman President of the Indian National Congress in which year?",
+          "options": ["1905", "1917", "1925", "1930"],
+          "answerIndex": 1,
+          "explanation": "Annie Besant became the first woman President of the Indian National Congress in 1917, at the Calcutta session. She was the President of the Theosophical Society (from 1907) and a prominent Indian nationalist. In 1916, she founded the Home Rule League (in September 1916 — Tilak had founded a parallel one in April 1916). The British interned her during World War I for her political activities, which actually increased public sympathy for the Home Rule cause. The year 1925 (option C) is when Sarojini Naidu became INC President — she was the second woman president. Do not confuse the two.",
+          "source": "SSC CGL — Annie Besant as first woman INC President (1917) is a standard 'first woman' question; commonly confused with Sarojini Naidu (1925)",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Both the Arya Samaj and the Brahmo Samaj were Hindu reform movements of the 19th century. Which of the following correctly distinguishes them?",
+          "options": [
+            "Both accepted all four Vedas as infallible; the difference was that Arya Samaj also accepted the Puranas while Brahmo Samaj rejected them",
+            "Brahmo Samaj drew from multiple traditions (Upanishads, Bible, Quran) and was tolerant of other religions; Arya Samaj rejected post-Vedic texts and explicitly criticised both Christianity and Islam, while accepting only the four Vedas",
+            "Brahmo Samaj was more militant and conducted Shuddhi (reconversion) ceremonies; Arya Samaj was more spiritual and focused only on personal reform",
+            "Arya Samaj was founded in Bengal; Brahmo Samaj was founded in Bombay — their regional origins explain their different characters"
+          ],
+          "answerIndex": 1,
+          "explanation": "The key distinction: Brahmo Samaj (Ram Mohan Roy, 1828, Bengal) drew from multiple traditions — the Upanishads as the Hindu foundation, but also expressed admiration for Jesus's moral teachings and acknowledged truth in the Quran. It was pluralist and tolerant of other religions. Arya Samaj (Dayananda Saraswati, 1875, Bombay) accepted ONLY the four Vedas (Rig, Sama, Yajur, Atharva) as infallible — rejected all post-Vedic texts (Puranas, Epics, Smritis) and explicitly criticised Christianity and Islam in Satyarth Prakash. Arya Samaj was aggressive in religious competition (Shuddhi for reconversions; criticism of other religions); Brahmo Samaj was reformist within a pluralist framework. Both were against idol worship and caste by birth — but the spirit and approach were very different.",
+          "source": "Not an official PYQ — anticipated because comparing Brahmo Samaj and Arya Samaj is a standard analytical distinction question in higher-difficulty papers; the tolerance/exclusivity axis is the key differentiator",
+          "verified": false
+        },
+        {
+          "text": "The Deoband movement (1867) and the Aligarh movement (1875) were both Muslim reform movements but had opposing visions. Which statement best captures this opposition?",
+          "options": [
+            "Deoband wanted armed jihad against the British; Aligarh wanted peaceful coexistence — they differed only on method, not on Muslim identity",
+            "Aligarh promoted English and Western education to help Muslims compete in modern India and cooperate with the British; Deoband promoted classical Islamic education and opposed Western influence, but both eventually opposed Partition in 1947",
+            "Deoband supported the Muslim League and Partition; Aligarh supported Congress and opposed Partition",
+            "Aligarh was founded to help poor Muslims access education; Deoband was founded for wealthy Muslim scholars seeking to preserve Arabic learning"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aligarh (Sir Syed Ahmad Khan, 1875): Embrace English education + Western sciences; cooperate with British rule; Muslims must modernise to be politically relevant. Deoband (Muhammad Qasim Nanautawi + Rashid Ahmad Gangohi, 1867): Classical Islamic education (Hadith, Fiqh) is primary; English/Western education threatens Islamic identity; anti-British but through religious revival. The surprising fact (option B) is that by 1947, Deoband's political wing (Jamiat Ulema-e-Hind) actually opposed Partition — they believed in a united India with religious freedom, and supported Congress. Aligarh, on the other hand, became the intellectual nursery for the Muslim League. So their 1940s stances were almost the reverse of what their colonial-era postures might suggest.",
+          "source": "Not an official PYQ — anticipated because the Deoband vs. Aligarh distinction is a nuanced comparison question; the 1947 Partition stance reversal is a specific surprise fact tested in higher-difficulty papers",
+          "verified": false
+        },
+        {
+          "text": "Syed Ahmad Barelvi (leader of the Wahabi/Tariqah-i-Muhammadia movement) died at the Battle of Balakot in 1831. Who was he fighting against?",
+          "options": [
+            "The British East India Company in Bengal",
+            "The Marathas in Central India",
+            "The Sikh rulers of Punjab under Ranjit Singh's successors",
+            "The Mughal Emperor in Delhi"
+          ],
+          "answerIndex": 2,
+          "explanation": "Syed Ahmad Barelvi's primary military campaign was against the Sikh kingdom of Punjab, not directly against the British. He established himself in the Northwest Frontier (present-day KP, Pakistan) and sought to create an Islamic state there. The Sikh rulers controlled this region and were resisting his influence. At the Battle of Balakot (1831) in the mountains of present-day Pakistan, Syed Ahmad Barelvi was killed fighting Sikh forces. After Sikh power ended and the British annexed Punjab (1849), the Wahabi movement became increasingly anti-British. The term 'Wahabi' was applied by the British (linking them to Arabian Wahabism); the movement itself called itself Tariqah-i-Muhammadia (Path of Muhammad).",
+          "source": "Not an official PYQ — anticipated because many students assume Syed Ahmad Barelvi fought the British; the Balakot battle was against Sikhs, not the Company — this specific fact appears in higher-difficulty identification questions",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Swami Dayananda Saraswati is sometimes called the 'Luther of India.' Why is this analogy used?",
+          "options": [
+            "Like Martin Luther, Dayananda nailed his demands on a temple door in Mathura in 1875",
+            "Like Martin Luther who challenged the corruption of the Catholic Church and called Christians back to the Bible, Dayananda challenged the corruption of Brahminic Hinduism (idols, priests, superstition) and called Hindus back to the Vedas as the only authoritative scripture",
+            "Dayananda converted to Christianity briefly, like Luther, before returning to Hinduism with a reformed vision",
+            "The analogy refers to their similar deaths — both Luther and Dayananda were poisoned by opponents of their reform movements"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'Luther of India' analogy is apt in several ways: Martin Luther (1483-1546) challenged the Roman Catholic Church's corruption — indulgences, papal authority, priestly mediation — and called Christians back to the Bible as the sole authority (sola scriptura). He translated the Bible into German to make it accessible to common people. Dayananda Saraswati similarly challenged Brahminic Hinduism's accretions — idol worship, priestly exploitation, Puranic superstitions, caste by birth — and called Hindus back to the four Vedas as the only authoritative scripture. He wrote in Hindi (not Sanskrit) to make his message accessible. Both movements were about stripping away centuries of institutional corruption and returning to what they saw as the authentic original text. Dayananda was indeed poisoned (in 1883), but Luther died of natural causes — option D is factually wrong.",
+          "source": "Not an official PYQ — underrated because the 'Luther of India' comparison appears in epithet questions but students rarely know why the comparison is made; the specific parallel (Bible/Vedas as sole authority) is the key analytical point",
+          "verified": false
+        },
+        {
+          "text": "The Theosophical Society's headquarters moved from New York to Adyar (Madras) in 1882. What is the significance of this move for Indian cultural history?",
+          "options": [
+            "The move was purely practical — cheaper land costs in India made Adyar the economic choice",
+            "Moving to India allowed the Society to access ancient Sanskrit texts; more importantly, a Western organisation validating Indian spiritual traditions helped rebuild Indian cultural confidence at a time when British colonialism was dismissing Indian civilization as backward",
+            "The British government invited the Theosophical Society to India as part of a strategy to use religion to reduce nationalist agitation",
+            "Annie Besant required proximity to the INC headquarters in Bombay for her political activities"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Theosophical Society's move to Adyar had cultural significance beyond logistics. Blavatsky and Olcott studied Sanskrit texts, Buddhist scriptures, and Indian philosophy — and publicly declared these traditions were profound and contained ancient wisdom superior to materialist Western science. At a time when British Orientalists were either romanticising India's past while denigrating its present, or dismissing Indian traditions as superstition, the Theosophical Society's validation — coming from Western intellectuals who had deliberately chosen India as their home — was psychologically significant. It contributed to the late 19th-century revival of Hindu and Buddhist self-confidence, which fed directly into the cultural dimension of nationalism. Annie Besant later made the Society explicitly political through her Home Rule League (1916).",
+          "source": "Not an official PYQ — underrated because the Theosophical Society is often taught as a minor fact (1875, Blavatsky, Adyar 1882, Annie Besant) without its cultural significance being explained",
+          "verified": false
+        },
+        {
+          "text": "Sir Syed Ahmad Khan founded the Scientific Society in 1864 — before the MAO College (1875). What was the purpose of this society?",
+          "options": [
+            "To conduct scientific experiments in chemistry and physics at Aligarh laboratory",
+            "To translate Western scientific works into Urdu, making modern knowledge accessible to Indian Muslims who did not know English",
+            "To provide scholarships for Muslim students to study science in London",
+            "To lobby the British government for establishing science departments in existing madrasas"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Scientific Society (1864, Ghazipur; later Aligarh) was Sir Syed Ahmad Khan's first major institutional initiative. Its purpose was to translate works of Western science, history, and social thought from English into Urdu — making modern knowledge accessible to educated Muslims who read Urdu but not English. This was part of Sir Syed's broader argument that Islam and modern science were compatible, and that Muslims needed to engage with Western learning to survive in the new British India. The Society also published a bilingual journal (Urdu-English). It preceded the MAO College by 11 years and laid the intellectual groundwork for the Aligarh Movement. This sequence (Scientific Society 1864 → MAO College 1875) is a tested detail in thorough questions on Sir Syed.",
+          "source": "Not an official PYQ — underrated because the Scientific Society (1864) is less taught than MAO College (1875); the two-step Aligarh Movement sequence is a specific detail question",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Match the reform movement with its founder and founding year:\n1. Arya Samaj              A. Sir Syed Ahmad Khan — 1875\n2. MAO College, Aligarh    B. Dayananda Saraswati — 1875\n3. Ramakrishna Mission     C. Swami Vivekananda — 1897\n4. Theosophical Society    D. Blavatsky & Olcott — 1875",
+          "options": [
+            "1-B, 2-A, 3-C, 4-D",
+            "1-A, 2-B, 3-D, 4-C",
+            "1-C, 2-D, 3-A, 4-B",
+            "1-B, 2-D, 3-A, 4-C"
+          ],
+          "answerIndex": 0,
+          "explanation": "Correct matches: (1) Arya Samaj → B. Dayananda Saraswati, founded 1875 in Bombay. (2) MAO College, Aligarh → A. Sir Syed Ahmad Khan, founded 1875. (3) Ramakrishna Mission → C. Swami Vivekananda, founded 1897 at Belur Math. (4) Theosophical Society → D. Madame Blavatsky and Colonel Olcott, founded 1875 in New York (moved to Adyar, Madras in 1882). Note that 1875 was a remarkable year: Arya Samaj, MAO College, and Theosophical Society were all founded in the same year — a useful mnemonic. Ramakrishna Mission came later (1897), named after Ramakrishna Paramahamsa (the guru) but founded by Vivekananda (the disciple).",
+          "source": "Reform movement matching (founder + year) is the most tested format for this topic in SSC CGL — the 1875 coincidence (Arya Samaj + MAO College + Theosophical Society) is a specific pattern test",
+          "verified": true
+        },
+        {
+          "text": "Which of the following statements about Swami Vivekananda is INCORRECT?",
+          "options": [
+            "He was born Narendranath Datta and was a disciple of Ramakrishna Paramahamsa",
+            "He founded the Ramakrishna Mission in 1897, headquartered at Belur Math near Calcutta",
+            "He founded the Arya Samaj in 1875 and promoted 'Back to the Vedas' philosophy",
+            "He spoke at the Parliament of World's Religions in Chicago in 1893"
+          ],
+          "answerIndex": 2,
+          "explanation": "The incorrect statement is option C — Vivekananda did NOT found the Arya Samaj. The Arya Samaj was founded by Swami Dayananda Saraswati in 1875, and its philosophy was 'Back to the Vedas.' Vivekananda founded the Ramakrishna Mission (1897). All other statements about Vivekananda are correct: he was indeed born Narendranath Datta (A); the Ramakrishna Mission is headquartered at Belur Math near Calcutta (B); and he spoke at Chicago in 1893 (D). The Arya Samaj / Ramakrishna Mission confusion is one of the most common errors — both are major Hindu reform organisations, but with completely different founders, philosophies (aggressive Vedic revivalism vs. universalist Neo-Vedanta), and time periods.",
+          "source": "The Arya Samaj / Ramakrishna Mission confusion is one of the most frequently exploited traps in SSC CGL 'identify the incorrect statement' questions about reform movements",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is NOT correctly matched?",
+          "options": [
+            "Arya Samaj — Satyarth Prakash",
+            "Theosophical Society — Annie Besant as first woman INC President (1917)",
+            "Ramakrishna Mission — Belur Math headquarters",
+            "Faraizi Movement — Punjab — Haji Shariat Allah"
+          ],
+          "answerIndex": 3,
+          "explanation": "The incorrectly matched option is D — the Faraizi Movement was NOT from Punjab; it was from Bengal. Haji Shariat Allah (1781-1840) founded the Faraizi Movement in Bengal, focused on returning Muslims to their obligatory duties (faraiz) and opposing both British rule and zamindari exploitation. His son Dudu Miyan continued it. Punjab was the stronghold of the Wahabi / Tariqah-i-Muhammadia movement of Syed Ahmad Barelvi. All other options are correctly matched: Arya Samaj's foundational text is Satyarth Prakash (A); Annie Besant of the Theosophical Society became INC's first woman president in 1917 (B); Ramakrishna Mission headquarters is at Belur Math, near Calcutta (C).",
+          "source": "The NOT correctly matched format is very common in SSC CGL; Faraizi = Bengal (NOT Punjab) is the most tested regional trap for Islamic reform movements",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
