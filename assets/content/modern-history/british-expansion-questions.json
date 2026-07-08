@@ -1,0 +1,183 @@
+{
+  "topic": "British Expansion & Consolidation (1757–1818)",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Battle of Plassey (1757) was a victory for the British primarily because of:",
+          "options": [
+            "Superior British military technology and artillery",
+            "The betrayal of Siraj-ud-Daulah by his own commander Mir Jafar",
+            "The support of the Mughal Emperor for the British",
+            "French refusal to help Siraj-ud-Daulah"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Battle of Plassey (23 June 1757) was won not through military superiority but through the betrayal of Siraj-ud-Daulah by his own commander-in-chief Mir Jafar, who had secretly conspired with Robert Clive. Mir Jafar commanded the largest contingent of Siraj's 50,000-strong army but kept them out of the battle. Clive's force of ~3,000 faced only a fraction of Siraj's army. Mir Jafar was subsequently made Nawab of Bengal. This is why historians call Plassey more a political conspiracy than a military battle.",
+          "source": "SSC CGL — the role of Mir Jafar's betrayal at Plassey is one of the most standard Modern History questions",
+          "verified": true
+        },
+        {
+          "text": "The Treaty of Allahabad (1765) was signed between the English East India Company and:",
+          "options": [
+            "Nawab Mir Jafar of Bengal",
+            "Tipu Sultan of Mysore",
+            "Mughal Emperor Shah Alam II",
+            "Peshwa Baji Rao II"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Treaty of Allahabad (1765) was signed between the English East India Company (represented by Robert Clive) and Mughal Emperor Shah Alam II after the British victory at the Battle of Buxar (1764). Under this treaty, Shah Alam II granted the Company the Diwani (right to collect revenue) of Bengal, Bihar, and Orissa in exchange for an annual payment of 26 lakh rupees and military protection. This Diwani grant is considered the foundation of British financial power in India.",
+          "source": "SSC CGL — the Treaty of Allahabad (1765) and the Diwani grant is a standard post-Buxar question tested regularly",
+          "verified": true
+        },
+        {
+          "text": "The Subsidiary Alliance system was introduced in India by:",
+          "options": ["Lord Cornwallis", "Lord Wellesley", "Lord Dalhousie", "Robert Clive"],
+          "answerIndex": 1,
+          "explanation": "The Subsidiary Alliance was introduced by Lord Wellesley (Governor-General 1798–1805). Under this system, Indian rulers accepted British troops at their court, paid for them (subsidiary payment), gave up the right to maintain independent armies, and surrendered control of foreign affairs — in exchange for British protection. The first state to accept was Hyderabad in 1798. The system was brilliantly designed to make Indian rulers financially and militarily dependent without outright annexation.",
+          "source": "SSC CGL — Subsidiary Alliance and Lord Wellesley is a consistently tested Modern History pairing",
+          "verified": true
+        },
+        {
+          "text": "Tipu Sultan was killed during the storming of Seringapatnam in:",
+          "options": ["1792", "1795", "1799", "1803"],
+          "answerIndex": 2,
+          "explanation": "Tipu Sultan, the ruler of Mysore, was killed on 4 May 1799 during the storming of his capital Seringapatnam (Srirangapatna) in the Fourth Anglo-Mysore War. Lord Wellesley was the Governor-General. Tipu refused to accept a Subsidiary Alliance, stating 'Better to die like a soldier than to live a miserable dependent on the infidels.' The 1792 date refers to the Treaty of Seringapatnam that ended the Third Anglo-Mysore War, when Tipu lost half his territory but survived.",
+          "source": "SSC CGL — the year of Tipu Sultan's death (1799) and the war it occurred in (Fourth Anglo-Mysore War) is a frequently tested fact",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "The Battle of Buxar (1764) is considered more significant than the Battle of Plassey (1757) because:",
+          "options": [
+            "More soldiers died at Buxar than at Plassey",
+            "Plassey was won by treachery while Buxar was a genuine military victory over the combined forces of three powers including the Mughal Emperor",
+            "Buxar was fought on a larger territory and decided control over Punjab",
+            "After Buxar, the French were permanently expelled from India"
+          ],
+          "answerIndex": 1,
+          "explanation": "Buxar is considered more significant for two reasons: (1) It was a genuine military contest (no betrayal), proving British forces could defeat Indian armies in open battle; (2) The British defeated a formidable coalition — Mir Kasim (Nawab of Bengal), Shuja-ud-Daulah (Nawab of Awadh), and Shah Alam II (Mughal Emperor) — three powers combined. Plassey's outcome was pre-decided by Mir Jafar's treachery. Buxar proved that the Mughal military system, even with three states combined, could not match British-trained and organized forces.",
+          "source": "Not an official PYQ — anticipated because the 'why is Buxar more significant than Plassey' is a conceptual comparison question that appears in higher-difficulty SSC and state exams",
+          "verified": false
+        },
+        {
+          "text": "The 'Dual Government' in Bengal (1765–1772) meant that:",
+          "options": [
+            "Both the Company and the French administered Bengal jointly",
+            "The Company held Diwani (revenue rights) while the Nawab held Nizamat (criminal justice), creating a dysfunctional system that benefited neither governance nor the people",
+            "The Bengal presidency was split between two English Governors",
+            "Both the Mughal Emperor and the Company had equal revenue rights in Bengal"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Dual Government (1765-1772) created by Clive after the Treaty of Allahabad was a system where the Company held the Diwani (right to collect revenue) but the Nawab retained the Nizamat (criminal justice/law and order). In practice, the Company extracted maximum revenue from Bengal while the Nawab, stripped of financial resources, could not maintain order or welfare. Both functions deteriorated badly. The Great Bengal Famine of 1770 (in which an estimated 1/3rd of Bengal's population died) is partly attributed to this extractive, non-accountable system. Warren Hastings abolished it in 1772.",
+          "source": "Not an official PYQ — anticipated because the definition and consequences of Dual Government, and who created/abolished it, is a multi-part question that tests conceptual understanding",
+          "verified": false
+        },
+        {
+          "text": "The Treaty of Mangalore (1784), which ended the Second Anglo-Mysore War, is historically notable because:",
+          "options": [
+            "It gave the British control of Malabar Coast for the first time",
+            "It was the last treaty in which an Indian power (Tipu Sultan/Hyder Ali's Mysore) imposed terms on the British",
+            "It resulted in Tipu Sultan's sons being taken as hostages",
+            "It forced Hyder Ali to accept the Subsidiary Alliance"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Treaty of Mangalore (1784) is historically significant as the last treaty in which an Indian power — Tipu Sultan (who had continued his father Hyder Ali's war after Hyder Ali's death in 1782) — imposed terms on the British. It restored the status quo (both sides returned conquered territories). After Mangalore, the British gradually gained the upper hand in all subsequent conflicts with Indian powers. The hostage-taking of Tipu's sons was from the Treaty of Seringapatnam (1792, Third Anglo-Mysore War), not Mangalore.",
+          "source": "Not an official PYQ — anticipated because Treaty of Mangalore's 'last treaty imposed on the English' significance is a specific fact that higher-difficulty papers test",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Mir Kasim, the Nawab of Bengal who fought the British in the events leading to the Battle of Buxar, had a specific conflict with the Company over which policy?",
+          "options": [
+            "He refused to pay the annual tribute agreed by Mir Jafar",
+            "He abolished internal trade duties for all merchants (Indian and British alike), eliminating the Company's privileged tax-free status",
+            "He invited French troops to Bengal as a counterbalance to British power",
+            "He refused to hand over Robert Clive's personal fortune to the Company"
+          ],
+          "answerIndex": 1,
+          "explanation": "Mir Kasim's conflict with the Company began when he abolished all internal duties on trade — for both Indian merchants AND the English Company. The Company had been abusing its original duty-free trading privileges by extending them to its Indian agents (dadni merchants), who were not entitled to such exemptions. This gave the Company an illegal competitive advantage. Mir Kasim's abolition created equal conditions for all traders. The Company protested this loss of privilege, conflict escalated, and Mir Kasim was defeated and fled to Awadh — leading to the Battle of Buxar.",
+          "source": "Not an official PYQ — underrated because students know Mir Kasim was removed but rarely know the specific policy conflict (abolition of internal duties) that triggered it",
+          "verified": false
+        },
+        {
+          "text": "The Battle of Koregaon (1818), fought during the Third Anglo-Maratha War, holds special significance in contemporary Indian history because:",
+          "options": [
+            "It was the last battle fought by Tipu Sultan before his defeat",
+            "A force of 500 soldiers (predominantly Mahars, a Dalit community) defeated Peshwa Baji Rao II's 25,000-strong army — commemorated by Ambedkar as a symbol of Dalit military pride",
+            "It was the battle where the British first used steam-powered gunboats in India",
+            "Lord Wellesley personally commanded the British forces here"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Battle of Koregaon (1 January 1818) holds special significance in Dalit history. A British force of about 500 soldiers — predominantly Mahar soldiers (a Dalit community from Maharashtra) — fought off Peshwa Baji Rao II's much larger army. Dr. B.R. Ambedkar visited the Koregaon victory pillar annually and saw the battle as symbolizing Dalit soldiers' resistance to the Peshwa's Brahmin-dominated regime. January 1 is now commemorated as 'Koregaon Bhima Vijay Diwas.' The battle remains politically significant to this day.",
+          "source": "Not an official PYQ — underrated because Koregaon is taught as a military event but its Dalit historical significance — and Ambedkar's connection — is rarely covered in standard notes",
+          "verified": false
+        },
+        {
+          "text": "What made the Subsidiary Alliance system so effective as a tool of British expansion without always requiring direct conquest?",
+          "options": [
+            "It was backed by a UN-style international treaty that other powers respected",
+            "The subsidy payments were set deliberately high, so rulers who could not pay in cash had to cede territory — making expansion self-financing and gradual",
+            "It required Indian rulers to send their children to England for education, creating pro-British successors",
+            "The system was voluntary and created genuine goodwill between Indian rulers and the Company"
+          ],
+          "answerIndex": 1,
+          "explanation": "The genius of the Subsidiary Alliance was its economic trap: subsidy payments were set high enough that many rulers could not afford them in cash. To pay, they had to cede revenue-generating territory to the Company. Once territory was ceded, British presence expanded. Once British presence expanded, political interference became inevitable. The system was also self-financing — Indian rulers paid for the British troops that kept them subjugated. Hyderabad (1798) was the first state to accept it; within two decades, most of India's major powers were inside the Subsidiary Alliance net.",
+          "source": "Not an official PYQ — underrated because the economic mechanism of the Subsidiary Alliance (the payment trap) is rarely explained and mostly tested at a surface level",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which battle formally established British supremacy in Bengal and led to the Diwani grant of Bengal, Bihar, and Orissa?",
+          "options": ["Battle of Plassey (1757)", "Battle of Buxar (1764)", "Battle of Wandiwash (1760)", "Battle of Assaye (1803)"],
+          "answerIndex": 1,
+          "explanation": "The Battle of Buxar (1764) formally established British supremacy and directly led to the Treaty of Allahabad (1765), under which Mughal Emperor Shah Alam II granted the Diwani (revenue rights) of Bengal, Bihar, and Orissa to the Company. The Battle of Plassey (1757) gave the British control of Bengal through Mir Jafar's conspiracy but did not produce a formal legal grant. The Diwani grant — the right to collect revenue from three of the richest provinces — gave the Company the financial foundation for all subsequent expansion. Buxar → Treaty of Allahabad → Diwani is the key cause-and-effect chain.",
+          "source": "The Buxar-Diwani connection is the single most frequently tested British expansion fact in SSC CGL Modern History",
+          "verified": true
+        },
+        {
+          "text": "How many Anglo-Mysore Wars were fought, and in which war was Tipu Sultan killed?",
+          "options": [
+            "Three wars; Tipu Sultan killed in the Third",
+            "Four wars; Tipu Sultan killed in the Fourth",
+            "Three wars; Tipu Sultan killed in the Second",
+            "Four wars; Tipu Sultan killed in the Third"
+          ],
+          "answerIndex": 1,
+          "explanation": "Four Anglo-Mysore Wars were fought (1767-69, 1780-84, 1790-92, 1799). Tipu Sultan was killed in the Fourth Anglo-Mysore War (1799) during the storming of Seringapatnam on 4 May 1799. His father Hyder Ali had died of cancer during the Second Anglo-Mysore War (1782). The Third Anglo-Mysore War (1790-92) ended with Tipu surrendering half his territory and giving his two sons as hostages — but Tipu himself survived. Only the Fourth War ended with Tipu's death.",
+          "source": "The number of Anglo-Mysore Wars (four) and which war Tipu died in (Fourth) is a standard counting/identification question in SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "The Third Anglo-Maratha War (1817–1818) ended with which significant outcome?",
+          "options": [
+            "Peshwa Baji Rao II was imprisoned in Delhi Fort",
+            "The Maratha Confederacy was dissolved; Peshwa Baji Rao II was exiled to Bithur with a pension",
+            "The Marathas accepted the Subsidiary Alliance and retained their independence",
+            "Peshwa Baji Rao II fled to Nepal and continued resistance from there"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Third Anglo-Maratha War (1817-18) ended the Maratha Confederacy as a political force. Peshwa Baji Rao II was defeated and surrendered; he was exiled to Bithur (near Kanpur) with a pension of 8 lakh rupees per year. His adopted son Nana Sahib (who inherited no pension from the British) later became a prominent leader of the 1857 Revolt. After 1818, with the Maratha power broken, the British were the paramount power in India — only Punjab (under Ranjit Singh) and Sindh remained outside British control.",
+          "source": "The outcome of the Third Anglo-Maratha War (Peshwa exiled to Bithur, Maratha power ends) is a standard 'what happened after' question in SSC CGL",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
