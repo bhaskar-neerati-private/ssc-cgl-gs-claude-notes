@@ -1,0 +1,198 @@
+{
+  "topic": "Non-Constitutional/Statutory Bodies",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "NITI Aayog was established by the Government of India in January 2015 to replace the Planning Commission. What type of body is NITI Aayog?",
+          "options": [
+            "A constitutional body under Article 280",
+            "A statutory body established under an Act of Parliament",
+            "An executive body created by a Cabinet Resolution",
+            "A quasi-judicial regulatory authority"
+          ],
+          "answerIndex": 2,
+          "explanation": "NITI Aayog (National Institution for Transforming India) was created on 1 January 2015 by a Cabinet Resolution — not by the Constitution and not by an Act of Parliament. This makes it an executive body, not a constitutional or statutory body. It can be dissolved or restructured by a simple Cabinet decision without passing any legislation. This is the same way the Planning Commission was created (1950) and dissolved (2014) — by executive order alone.",
+          "source": "SSC CGL — the nature of NITI Aayog (executive body, not statutory or constitutional) is one of the most standard governance questions",
+          "verified": true
+        },
+        {
+          "text": "The National Human Rights Commission (NHRC) was established under which Act?",
+          "options": [
+            "The Human Rights Protection Act, 1991",
+            "The Protection of Human Rights Act, 1993",
+            "The Fundamental Rights Enforcement Act, 1994",
+            "The National Commission Act, 1992"
+          ],
+          "answerIndex": 1,
+          "explanation": "The National Human Rights Commission was established under the Protection of Human Rights Act, 1993. India passed this Act partly to comply with the Paris Principles (UN guidelines for national human rights institutions, 1993). The NHRC is a statutory body — not constitutional. Its Chairperson must be a retired Chief Justice of India, and its members include retired SC judges and retired HC Chief Justices.",
+          "source": "SSC CGL — the Act under which NHRC was created (Protection of Human Rights Act, 1993) is a standard statutory bodies question",
+          "verified": true
+        },
+        {
+          "text": "The Central Bureau of Investigation (CBI) derives its power primarily from which Act?",
+          "options": [
+            "The CBI Act, 1963",
+            "The Delhi Special Police Establishment Act, 1946",
+            "The Prevention of Corruption Act, 1988",
+            "The Criminal Procedure Code"
+          ],
+          "answerIndex": 1,
+          "explanation": "The CBI derives its investigative powers from the Delhi Special Police Establishment Act, 1946 — a pre-independence law that was originally passed to deal with war-time corruption in the supply department. There is no 'CBI Act'. The organization was renamed from Special Police Establishment to CBI in 1963 by a Government Resolution. This legislative basis — a 1946 Act designed for a completely different purpose — is one reason why CBI reforms remain a recurring demand.",
+          "source": "SSC CGL — the DSPE Act, 1946 as CBI's legal basis is a standard 'which act' question",
+          "verified": true
+        },
+        {
+          "text": "The Chairperson of the National Disaster Management Authority (NDMA) is:",
+          "options": [
+            "The Home Minister of India",
+            "The Prime Minister of India (ex-officio)",
+            "The Cabinet Secretary",
+            "The President of India"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under the Disaster Management Act, 2005, the National Disaster Management Authority is chaired by the Prime Minister of India ex-officio (by virtue of their office, not by specific appointment). This is similar to NITI Aayog. State Disaster Management Authorities are chaired by the respective Chief Ministers. The PM-as-Chair arrangement ensures the highest political authority is engaged in disaster policy.",
+          "source": "SSC CGL — the PM as ex-officio NDMA Chairperson is a standard statutory bodies match-the-head question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Which of the following is CORRECT about the NHRC's power to investigate complaints against the Indian armed forces?",
+          "options": [
+            "NHRC has full jurisdiction over armed forces and can investigate complaints directly",
+            "NHRC has no jurisdiction whatsoever over the armed forces",
+            "NHRC can only seek a report from the Ministry of Defence, but cannot directly investigate complaints against the armed forces",
+            "NHRC can investigate armed forces complaints only if the Supreme Court refers them"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under the Protection of Human Rights Act, 1993, the NHRC's jurisdiction over the armed forces is specifically limited: it cannot investigate complaints against the armed forces directly. The only power it has is to seek a report from the Central Government (Ministry of Defence) in cases involving armed forces. This has been criticized as a significant gap in human rights oversight, especially in conflict areas. The complainant can then approach courts for further remedies.",
+          "source": "Not an official PYQ — anticipated because the NHRC armed forces limitation is a nuanced distinction that higher-difficulty SSC papers test as a 'correct statement' question",
+          "verified": false
+        },
+        {
+          "text": "Why is the CBI required to seek the 'consent' of a state government before investigating a case in that state?",
+          "options": [
+            "The CBI Act, 1963 specifically requires this as a federalism safeguard",
+            "Police is a State List subject; the CBI being a Central police force needs state consent under DSPE Act to exercise jurisdiction in states",
+            "The Supreme Court mandated this in its 2013 Coalgate judgment",
+            "The Constitution requires Centre to obtain state consent before entering any state for law enforcement"
+          ],
+          "answerIndex": 1,
+          "explanation": "Police is a subject in the State List (List II) of the Seventh Schedule. The CBI, operating under the Delhi Special Police Establishment Act (1946), is a Central police force. For it to exercise its special police powers within a state's territory, the consent of that state government is required under Section 6 of the DSPE Act. This consent requirement is a federalism protection — states retain control over their police domain. However, this consent is not required when a High Court or the Supreme Court directs a CBI investigation.",
+          "source": "Not an official PYQ — anticipated because the constitutional/legal basis of the CBI consent requirement (State List + DSPE Act) is a conceptual explanation question that appears in higher-difficulty papers",
+          "verified": false
+        },
+        {
+          "text": "The Lokpal and Lokayuktas Act was passed in 2013. Who was India's first Lokpal, and when was the appointment made?",
+          "options": [
+            "Justice Ranjit Sinha (December 2014)",
+            "Justice P.C. Ghose (March 2019)",
+            "Justice K.G. Balakrishnan (January 2015)",
+            "Justice Dipak Misra (November 2018)"
+          ],
+          "answerIndex": 1,
+          "explanation": "India's first Lokpal was Justice Pinaki Chandra Ghose (retired Supreme Court judge and former Chairperson of the National Human Rights Commission), appointed in March 2019 — nearly six years after the Lokpal and Lokayuktas Act was passed in December 2013. The delay in appointment was a major controversy, and it took a Supreme Court intervention to push the appointment forward. Justice Ghose served until May 2022.",
+          "source": "Not an official PYQ — anticipated because the identity of the first Lokpal and the delay between law and appointment are current affairs-adjacent static GK facts that SSC occasionally tests",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The key difference between the Planning Commission (1950-2014) and NITI Aayog (2015-present) relates to:",
+          "options": [
+            "Planning Commission was constitutional; NITI Aayog is statutory",
+            "Planning Commission had power to allocate funds to states; NITI Aayog has no such financial power",
+            "Planning Commission was chaired by the Finance Minister; NITI Aayog is chaired by the PM",
+            "NITI Aayog prepares Five-Year Plans; Planning Commission did not"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both the Planning Commission and NITI Aayog are executive bodies created by Cabinet Resolution (neither is constitutional or statutory). The critical functional difference is financial power: the Planning Commission allocated central resources and funds to states through its 'plan' scheme — states were financially dependent on it. NITI Aayog has NO power to allocate funds. It is a pure policy think tank and advisory body. Financial transfers to states now happen through the Finance Commission's formula and direct Central budgetary allocations. NITI Aayog also discontinued Five-Year Plans (the last was the 12th Plan, 2012-17).",
+          "source": "Not an official PYQ — underrated because most students know NITI Aayog replaced Planning Commission but miss the crucial 'no financial power' distinction that makes NITI Aayog institutionally weaker",
+          "verified": false
+        },
+        {
+          "text": "The National Green Tribunal (NGT) was established in 2010. What is the ONE type of case it CANNOT hear?",
+          "options": [
+            "Disputes relating to compensation for environmental damage",
+            "Complaints about violation of the Environment Protection Act, 1986",
+            "Criminal cases involving environmental offences",
+            "Appeals against orders of regulatory authorities on environmental matters"
+          ],
+          "answerIndex": 2,
+          "explanation": "The National Green Tribunal, established under the NGT Act, 2010, handles civil environmental disputes — cases involving violations of environmental laws (like Environment Protection Act, Wildlife Protection Act, Water Act, Air Act) and claims for compensation due to environmental damage. However, it has NO jurisdiction over criminal cases involving environmental offences. Criminal prosecution for environmental violations must be pursued through regular criminal courts. This limitation means industries that violate environmental norms may face NGT fines and orders but serious criminal penalties require a separate process.",
+          "source": "Not an official PYQ — underrated because students confuse NGT's broad jurisdiction with criminal law jurisdiction; the 'cannot hear criminal cases' limitation is rarely highlighted in standard notes",
+          "verified": false
+        },
+        {
+          "text": "The Central Vigilance Commission (CVC) was originally created in 1964. What changed in 2003?",
+          "options": [
+            "The CVC was abolished and replaced by the CBI",
+            "The CVC was given constitutional status by a constitutional amendment",
+            "The CVC was given statutory status through the CVC Act, 2003 — previously it was only an executive body",
+            "The CVC's jurisdiction was expanded to include state government officials"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Central Vigilance Commission was created in 1964 by an executive resolution on the recommendation of the Santhanam Committee on Prevention of Corruption. For nearly 40 years it operated as an executive body without statutory backing. The CVC Act, 2003 gave it statutory status — a significant upgrade that provided its members with clearer legal powers, defined tenure security, and a formal legal basis for its functions. Even after 2003, the CVC remains a statutory body (not constitutional). The Supreme Court's Vineet Narain case (1997) also played a role in mandating the CVC's independence.",
+          "source": "Not an official PYQ — underrated because the 1964 (executive) → 2003 (statutory) transition of the CVC is a specific institutional history fact that higher-difficulty papers test",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is NOT a constitutional body?",
+          "options": [
+            "Election Commission of India",
+            "Comptroller and Auditor General of India",
+            "National Human Rights Commission",
+            "Union Public Service Commission"
+          ],
+          "answerIndex": 2,
+          "explanation": "The National Human Rights Commission is a statutory body — created by the Protection of Human Rights Act, 1993, not by the Constitution. The Election Commission (Article 324), CAG (Article 148), and UPSC (Article 315) are all constitutional bodies — they are directly mentioned in and created by the Constitution. The 'identify the non-constitutional body from a list' question is one of the most standard and frequently appearing constitutional vs statutory body patterns in SSC exams.",
+          "source": "Identifying non-constitutional bodies from a mixed list is the single most frequently tested statutory bodies question pattern in SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "The Right to Information Act, 2005 established which appellate body at the Central level?",
+          "options": [
+            "Central Vigilance Commission",
+            "Central Information Commission",
+            "National Human Rights Commission",
+            "Office of the Comptroller and Auditor General"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Right to Information Act, 2005 established the Central Information Commission (CIC) as the final appellate authority for RTI applications at the Central government level. The CIC is headed by the Chief Information Commissioner and can have up to 10 other Information Commissioners. It hears second appeals (after the internal First Appellate Authority) and can impose penalties of up to ₹25,000 on erring Public Information Officers. State Information Commissions perform the same role for state governments.",
+          "source": "The CIC as the RTI appellate body is a standard match-the-body question in SSC Polity sections",
+          "verified": true
+        },
+        {
+          "text": "Which of the following bodies is chaired by the Prime Minister of India ex-officio?",
+          "options": [
+            "National Human Rights Commission only",
+            "NITI Aayog only",
+            "Both NITI Aayog and the National Disaster Management Authority",
+            "NITI Aayog, NDMA, and the Finance Commission"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Prime Minister is the ex-officio Chairperson of both NITI Aayog (created by Cabinet Resolution, 2015) and the National Disaster Management Authority (under Disaster Management Act, 2005). The Finance Commission is chaired by an independent person appointed by the President — the PM does not chair it. The NHRC is chaired by a retired Chief Justice of India, not the PM. This 'which bodies does the PM chair' pattern is a frequently tested factual question.",
+          "source": "PM as chair of both NITI Aayog and NDMA is a consistently tested 'match the head' question in SSC CGL Polity sections",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
