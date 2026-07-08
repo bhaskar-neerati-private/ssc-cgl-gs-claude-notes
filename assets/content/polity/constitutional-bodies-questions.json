@@ -1,0 +1,193 @@
+{
+  "topic": "Constitutional Bodies",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Chief Election Commissioner of India can be removed from office by:",
+          "options": [
+            "The President on his own discretion",
+            "The Prime Minister after consulting the Cabinet",
+            "An address of both Houses of Parliament by special majority, followed by Presidential order",
+            "The Supreme Court of India"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under Article 324, the Chief Election Commissioner can be removed from office only in like manner and on like grounds as a Judge of the Supreme Court — that is, by an address of both Houses of Parliament supported by a majority of total membership AND not less than 2/3rd of members present and voting in each House, followed by a Presidential order. No CEC has ever been removed. This high threshold protects the ECI's independence.",
+          "source": "SSC CGL — CEC removal procedure is one of the most standard constitutional bodies questions tested",
+          "verified": true
+        },
+        {
+          "text": "The Comptroller and Auditor General of India submits audit reports on the accounts of the Union Government to:",
+          "options": [
+            "The Prime Minister",
+            "The President of India",
+            "The Speaker of the Lok Sabha",
+            "The Finance Minister"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 151, the reports of the CAG relating to the accounts of the Union shall be submitted to the President, who shall cause them to be laid before each House of Parliament. For state accounts, CAG reports go to the Governor, who then lays them before the state legislature. The Public Accounts Committee (PAC) of Parliament then examines these reports on behalf of Parliament.",
+          "source": "SSC CGL — the CAG reporting chain (CAG → President → Parliament) is a standard constitutional body question",
+          "verified": true
+        },
+        {
+          "text": "The Chairman of a State Public Service Commission is appointed by the Governor but is removed by:",
+          "options": [
+            "The Governor",
+            "The President of India",
+            "The Chief Minister",
+            "The High Court"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 317, though the Chairman and members of a State Public Service Commission are appointed by the Governor of the state, they can only be removed by the President of India — and only after inquiry by the Supreme Court. The Governor has no power of removal. This asymmetry — Governor appoints, President removes — protects SPSC members from political pressure by the state government that appointed them. This is one of the most frequently tested 'trap' facts about state PSCs.",
+          "source": "SSC CGL — Governor appoints but President removes SPSC chairman is one of the most consistently tested SPSC trap questions",
+          "verified": true
+        },
+        {
+          "text": "What is the retirement age of a Chairman/member of a Union Public Service Commission?",
+          "options": ["60 years", "62 years", "65 years", "68 years"],
+          "answerIndex": 2,
+          "explanation": "Members and Chairman of the UPSC retire at 65 years of age (or after 6 years in office, whichever is earlier). This is different from the State PSC, where the retirement age is 62 (not 65). This UPSC=65, SPSC=62 difference is a consistently tested exam trap. After retirement, UPSC members cannot hold any office under the Government of India or any state government.",
+          "source": "SSC CGL — UPSC vs SPSC retirement age (65 vs 62) is tested almost every year in the Polity section",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Which of the following statements about the Attorney General of India is INCORRECT?",
+          "options": [
+            "The Attorney General is qualified to be a judge of the Supreme Court",
+            "The Attorney General can attend and speak in Parliament sessions but cannot vote",
+            "The Attorney General is a full-time government servant and cannot practise privately",
+            "The Attorney General holds office at the pleasure of the President"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Attorney General of India is NOT a full-time government servant — unlike other senior officials. The AG is paid fees determined by the President, not a fixed salary, and is entitled to engage in private legal practice. This is the incorrect statement. All other statements are correct: the AG must be qualified to be a SC judge (Article 76); the AG can attend and speak in both Houses of Parliament and their committees but has no right to vote (Article 88 read with 76); and the AG holds office at the pleasure of the President and can be removed anytime.",
+          "source": "Not an official PYQ — anticipated because the AG's private practice right and fees-based (not salary-based) nature is a common misconception that exam papers test as an 'incorrect statement' question",
+          "verified": false
+        },
+        {
+          "text": "Which constitutional amendment gave the National Commission for Backward Classes (NCBC) constitutional status?",
+          "options": [
+            "89th Amendment (2003)",
+            "93rd Amendment (2005)",
+            "100th Amendment (2015)",
+            "102nd Amendment (2018)"
+          ],
+          "answerIndex": 3,
+          "explanation": "The 102nd Constitutional Amendment Act, 2018, inserted Article 338B into the Constitution, giving the National Commission for Backward Classes constitutional status. Before 2018, the NCBC existed only as a statutory body under the National Commission for Backward Classes Act, 1993. The 89th Amendment (2003) is the one that split the old SC+ST Commission into two separate commissions — NCSC (Article 338) and NCST (Article 338A).",
+          "source": "Not an official PYQ — anticipated because the 102nd Amendment/Article 338B pairing is a relatively recent fact that higher-difficulty papers test; confusing it with the 89th Amendment is the common trap",
+          "verified": false
+        },
+        {
+          "text": "The Election Commission of India has jurisdiction over elections to which of the following?",
+          "options": [
+            "Parliament, state legislatures, President, Vice-President, and Panchayats",
+            "Parliament and state legislatures only",
+            "Parliament, state legislatures, President, and Vice-President (but NOT Panchayats or Municipalities)",
+            "Parliament, state legislatures, President, Vice-President, and Municipalities only"
+          ],
+          "answerIndex": 2,
+          "explanation": "Article 324 gives the Election Commission of India superintendence over elections to Parliament, state legislatures, and the offices of President and Vice-President. Panchayat and Municipal elections are NOT within ECI's jurisdiction — they are handled by State Election Commissions (Article 243K for panchayats; same for municipalities). This ECI vs SEC distinction is a classic jurisdictional trap. The 73rd and 74th Amendments deliberately kept local body elections separate from the ECI.",
+          "source": "Not an official PYQ — anticipated because confusing ECI and State Election Commission jurisdiction is one of the most common conceptual errors in this topic",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "After retirement, which of the following constitutional body officials faces the STRONGEST post-retirement employment restriction?",
+          "options": [
+            "A Supreme Court judge",
+            "A Chief Election Commissioner",
+            "The Comptroller and Auditor General of India",
+            "A UPSC Chairman"
+          ],
+          "answerIndex": 2,
+          "explanation": "The CAG faces the strongest post-retirement bar: under Article 148(4), the CAG shall not be eligible for further office either under the Government of India or under the Government of any state after retirement. This is absolute — no further government appointments of any kind. UPSC members also cannot hold further Union or State appointments. The CEC has similar restrictions by convention. SC judges technically can be appointed to constitutional positions (like commissions) after retirement. The CAG's bar is the most explicit and absolute in the Constitution.",
+          "source": "Not an official PYQ — underrated because the comparative strength of different constitutional officials' post-retirement bars is a nuanced comparison rarely covered in standard notes",
+          "verified": false
+        },
+        {
+          "text": "Under Article 350B, who is appointed to investigate matters relating to safeguards for linguistic minorities?",
+          "options": [
+            "A National Commission for Linguistic Minorities with multiple members",
+            "A Special Officer for Linguistic Minorities appointed by the President",
+            "The National Human Rights Commission",
+            "The Union Home Minister"
+          ],
+          "answerIndex": 1,
+          "explanation": "Article 350B (inserted by the 7th Amendment in 1956) provides for the appointment of a Special Officer for Linguistic Minorities by the President. It is NOT a commission with multiple members — just a single Special Officer. The Special Officer investigates matters relating to safeguards for linguistic minorities, reports to the President, who then places the report before Parliament and sends it to the concerned state governments. This is one of the least-taught constitutional body provisions despite being a verifiable exam fact.",
+          "source": "Not an official PYQ — underrated because Article 350B is almost never covered in standard punchline notes; the 'single officer, not a commission' aspect surprises students",
+          "verified": false
+        },
+        {
+          "text": "The salary of the Comptroller and Auditor General is charged to which fund?",
+          "options": [
+            "The Consolidated Fund of India",
+            "The Contingency Fund of India",
+            "The Public Account of India",
+            "The Finance Commission allocation for constitutional bodies"
+          ],
+          "answerIndex": 0,
+          "explanation": "Under Article 148(6), the administrative expenses of the office of the CAG, including all salaries and allowances of persons serving in that office, shall be charged upon the Consolidated Fund of India. Being charged to the Consolidated Fund means these amounts are non-votable — Parliament cannot reduce them through the budget process. This is a crucial independence mechanism: the CAG's funding cannot be used as leverage by the executive.",
+          "source": "Not an official PYQ — underrated because students know 'charged to Consolidated Fund' as a principle but don't always apply it specifically to the CAG",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following best distinguishes a 'constitutional body' from a 'statutory body'?",
+          "options": [
+            "Constitutional bodies are created by Parliament; statutory bodies by state legislatures",
+            "Constitutional bodies are created directly by the Constitution and cannot be abolished by ordinary legislation; statutory bodies are created by Parliament's legislation",
+            "Constitutional bodies can only be created by constitutional amendments; statutory bodies are created by executive order",
+            "Constitutional bodies have elected heads; statutory bodies have appointed heads"
+          ],
+          "answerIndex": 1,
+          "explanation": "A constitutional body derives its existence, powers, and protections from the Constitution itself — it cannot be abolished by ordinary legislation (only a constitutional amendment can remove or alter it). A statutory body is created by an Act of Parliament and can be abolished or restructured by Parliament passing another ordinary law. For example, the Election Commission (Article 324) is constitutional; the National Human Rights Commission (Protection of Human Rights Act, 1993) is statutory. This distinction is the most frequently asked conceptual question in the constitutional vs statutory bodies topic.",
+          "source": "The constitutional vs statutory distinction question is tested in some form in almost every SSC Polity set covering constitutional bodies",
+          "verified": true
+        },
+        {
+          "text": "The Union Public Service Commission (UPSC) conducts examinations for recruitment to which services?",
+          "options": [
+            "Only the Indian Administrative Service (IAS)",
+            "IAS, IPS, IFS and other Group A and B Central Services",
+            "Only Union Government ministerial positions",
+            "All government jobs, including state government posts"
+          ],
+          "answerIndex": 1,
+          "explanation": "The UPSC conducts examinations for recruitment to the All India Services (IAS, IPS, IFS) and Group A and B Central Services — including engineering services, medical services, defence services, and others. It does NOT conduct exams for state government posts (those are the domain of State PSCs) or for ministerial/clerical positions (those are handled by the Staff Selection Commission — SSC). The SSC CGL examination that you are preparing for is conducted by the Staff Selection Commission, not UPSC.",
+          "source": "UPSC vs SSC vs state PSC jurisdiction over different service examinations is a standard pattern tested in SSC Polity sections",
+          "verified": true
+        },
+        {
+          "text": "Under the Constitution, on what grounds and through what process can a member of the Union Public Service Commission be removed?",
+          "options": [
+            "On grounds of misbehaviour; by the President on parliamentary address (like SC judge removal)",
+            "On grounds of misbehaviour; by the President after Supreme Court inquiry",
+            "At any time; at the President's pleasure (no security of tenure)",
+            "On grounds of misbehaviour; by the President after investigation by the CAG"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under Article 317, a UPSC member can be removed by the President on grounds of misbehaviour — but only after the President has referred the matter to the Supreme Court for inquiry and the Supreme Court has, on such inquiry, reported that the person ought to be removed. The SC (not Parliament) conducts the inquiry. This is different from SC judges and the CEC (who are removed by parliamentary address). The UPSC removal route through SC inquiry makes it procedurally distinct from most other constitutional bodies.",
+          "source": "UPSC member removal via Supreme Court inquiry (not parliamentary address) is a frequently tested distinction that students confuse with the CEC/SC judge removal procedure",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
