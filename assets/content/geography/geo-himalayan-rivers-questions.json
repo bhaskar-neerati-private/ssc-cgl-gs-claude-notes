@@ -1,0 +1,237 @@
+{
+  "topic": "Himalayan Rivers — Indus, Ganga & Brahmaputra Systems",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which river is known as the 'Sorrow of Bihar'?",
+          "options": [
+            "Chambal",
+            "Damodar",
+            "Kosi",
+            "Son"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Kosi River is called the 'Sorrow of Bihar' because it is highly flood-prone and frequently shifts its course, causing devastating floods in Bihar. It originates in Nepal (where it is called the Sapt Koshi — seven tributaries) and joins the Ganga near Kursela in Bihar. Damodar was historically called the 'Sorrow of Bengal' before the DVC (Damodar Valley Corporation) built dams to control it.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Ganga and Yamuna originate from which glacier systems respectively?",
+          "options": [
+            "Gangotri and Zemu Glaciers",
+            "Gangotri (Gaumukh) and Yamunotri Glaciers",
+            "Siachen and Yamunotri Glaciers",
+            "Gangotri and Gangotri Glaciers (same)"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Ganga originates from the Gangotri Glacier in Uttarakhand — specifically from Gaumukh (Cow's Mouth), the snout of the glacier, from which the Bhagirathi River emerges. The Yamuna originates from the Yamunotri Glacier, also in Uttarakhand. They are twin Himalayan glacial rivers that eventually converge at Prayagraj (Triveni Sangam). Both Gangotri and Yamunotri are among the Char Dham pilgrimage sites.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Under the Indus Water Treaty (1960), which rivers were allocated to India?",
+          "options": [
+            "Indus, Jhelum, Chenab",
+            "Jhelum, Beas, Ravi",
+            "Ravi, Beas, Sutlej",
+            "Sutlej, Chenab, Indus"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under the Indus Water Treaty (1960), brokered by the World Bank: India received the three Eastern rivers — Ravi, Beas, and Sutlej — for unrestricted use. Pakistan received the three Western rivers — Indus, Jhelum, and Chenab. Mnemonic: India kept 'RBS' (like Reserve Bank of Sutlej, Beas, Ravi) — eastern side rivers. Pakistan kept the western three (Indus, Jhelum, Chenab).",
+          "source": "SSC CGL 2014, 2019",
+          "verified": true
+        },
+        {
+          "text": "Majuli, the world's largest river island, is located in which river?",
+          "options": [
+            "Ganga",
+            "Brahmaputra",
+            "Godavari",
+            "Mahanadi"
+          ],
+          "answerIndex": 1,
+          "explanation": "Majuli Island (~880 sq km) is located in the Brahmaputra River near Jorhat, Assam. It is the world's largest inhabited river island. Majuli is a centre of Vaishnavite culture with numerous sattras (monastic institutions). It is on UNESCO's tentative World Heritage List. The Brahmaputra's enormous width (up to 18 km in flood season) accommodates such massive mid-river islands.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "The Narmada and Son rivers both originate from the same hill at Amarkantak (MP) but flow in opposite directions. In which direction does each flow?",
+          "options": [
+            "Narmada flows east (to Ganga); Son flows west (to Arabian Sea)",
+            "Narmada flows west (to Arabian Sea); Son flows northeast (to Ganga)",
+            "Both flow east into the Bay of Bengal",
+            "Narmada flows north; Son flows south"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is a classic SSC trick. Both Narmada and Son originate from Amarkantak in Madhya Pradesh — the same highland. But they diverge immediately: Narmada flows westward through a rift valley, reaching the Arabian Sea via the Gulf of Khambhat. Son flows northeast, joining the Ganga near Patna in Bihar. One goes to the Arabian Sea; one goes to the Bay of Bengal — from the same mountain.",
+          "source": "SSC CHSL 2020",
+          "verified": false
+        },
+        {
+          "text": "Which river is correctly described as the 'longest tributary of the Ganga'?",
+          "options": [
+            "Chambal (1,024 km)",
+            "Ghaghra/Ghaghara (1,080 km)",
+            "Yamuna (1,376 km)",
+            "Kosi (720 km)"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Yamuna (1,376 km) is the longest tributary of the Ganga. This surprises many students who assume Chambal is longer. Ghaghra is the largest by volume (water discharge) on the left bank but not the longest. Kosi (720 km) is shorter but more famous for floods. Remember: Yamuna is the LONGEST tributary of Ganga; Ghaghra is the LARGEST by water volume among left-bank tributaries.",
+          "source": "SSC CPO 2022",
+          "verified": false
+        },
+        {
+          "text": "The Teesta (Tista) River is a tributary of which river?",
+          "options": [
+            "Ganga",
+            "Yamuna",
+            "Brahmaputra",
+            "Mahanadi"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Teesta (Tista) River is a tributary of the Brahmaputra — it joins the Brahmaputra (called Jamuna in Bangladesh) in Bangladesh. The Teesta originates from Cho Lhamu Lake in Sikkim and flows through Sikkim and West Bengal. Many students wrongly think Teesta joins the Ganga (because it flows through West Bengal). Teesta water-sharing between India and Bangladesh is an ongoing diplomatic issue.",
+          "source": "SSC MTS 2023",
+          "verified": false
+        },
+        {
+          "text": "Where does the Ganga physically form — i.e., where is the point from which it is officially called 'Ganga'?",
+          "options": [
+            "Gaumukh — where Bhagirathi emerges from the Gangotri Glacier",
+            "Haridwar — where the Ganga enters the plains from the mountains",
+            "Devprayag — where Bhagirathi and Alaknanda merge",
+            "Rudraprayag — where Alaknanda and Mandakini merge"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Ganga officially begins at Devprayag (Uttarakhand), where the Bhagirathi and Alaknanda rivers merge. Before this confluence, the two rivers flow separately. Gaumukh (Gangotri Glacier snout) is the source of the Bhagirathi — which is the sacred source of the Ganga, but not where 'Ganga' begins as a named river. Haridwar is where the Ganga exits the mountains and enters the plains (about 253 km downstream from Devprayag).",
+          "source": "SSC CGL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated (Often Ignored)",
+      "questions": [
+        {
+          "text": "Wular Lake in Jammu & Kashmir is significant because it is:",
+          "options": [
+            "India's largest saltwater lake",
+            "India's largest natural freshwater lake, formed on the Jhelum River",
+            "A glacial lake on the Indus River",
+            "A crater lake formed by volcanic activity"
+          ],
+          "answerIndex": 1,
+          "explanation": "Wular Lake in Jammu & Kashmir (Kashmir Valley) is India's largest natural freshwater lake. It is formed on the Jhelum River — an expansion of the Jhelum's course through a tectonic depression. Its size varies from 30 sq km in dry season to over 260 sq km in floods. Do not confuse: Chilika = largest coastal lagoon (saline/brackish); Vembanad = longest lake; Wular = largest NATURAL FRESHWATER lake. Gobind Sagar (on Sutlej/Bhakra-Nangal) is the largest ARTIFICIAL lake.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "The Sutlej River enters India from Tibet through which Himalayan pass?",
+          "options": [
+            "Rohtang Pass",
+            "Shipki La",
+            "Nathu La",
+            "Bara Lacha La"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Sutlej River (Satadru; originates from Rakas Lake near Mansarovar, Tibet) enters India through Shipki La pass in Himachal Pradesh. Shipki La (3,933 m) is a major trade route/border crossing between India and Tibet in the Kinnaur district of HP. The Bhakra-Nangal Dam — India's largest gravity dam — is built downstream on the Sutlej in HP, creating the Gobind Sagar reservoir.",
+          "source": "SSC CPO 2021",
+          "verified": false
+        },
+        {
+          "text": "Ken-Betwa Link Project is significant as India's first inter-river linking project. Which rivers does it connect?",
+          "options": [
+            "Ken (Ganga) and Betwa (Yamuna)",
+            "Ken and Betwa — both tributaries of Yamuna",
+            "Betwa (Chambal tributary) to Ken (Son tributary)",
+            "Ken (Narmada) to Betwa (Chambal)"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Ken-Betwa Link Project connects the Ken River to the Betwa River — both are right-bank tributaries of the Yamuna (which is itself a tributary of the Ganga). The project aims to transfer surplus water from the Ken (in Madhya Pradesh's Bundelkhand region) to the water-scarce Betwa basin. India's National Water Development Agency (NWDA) proposed linking 30 rivers nationally; Ken-Betwa is the first. It primarily benefits Bundelkhand's drought-prone districts of MP and UP.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Namcha Barwa peak is significant in the context of the Brahmaputra River because:",
+          "options": [
+            "The Brahmaputra originates near Namcha Barwa glacier",
+            "The Brahmaputra makes a spectacular U-turn around Namcha Barwa, creating the world's deepest gorge",
+            "Namcha Barwa marks the border between India and China on the Brahmaputra",
+            "It is the point where the Tsangpo and Dihang merge to form the Brahmaputra"
+          ],
+          "answerIndex": 1,
+          "explanation": "Namcha Barwa (7,782 m) is the easternmost great peak of the Himalayan range, in Arunachal Pradesh. After flowing eastward across Tibet for ~1,700 km as the Tsangpo, the river makes a dramatic U-turn (horseshoe bend) around Namcha Barwa, cutting through the Himalayas to create the Dihang/Yarlung Tsangpo Grand Canyon — one of the world's deepest gorges (~5,000 m deep). Once through the gorge, the river emerges as the Dihang in Arunachal Pradesh before becoming the Brahmaputra in Assam.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is a LEFT BANK tributary of the Ganga (i.e., joins from the north, flowing from Nepal/Himalayas)?",
+          "options": [
+            "Yamuna",
+            "Son",
+            "Kosi",
+            "Damodar"
+          ],
+          "answerIndex": 2,
+          "explanation": "Left bank tributaries of the Ganga join from the north (Nepal/Himalayan side): Ghaghra, Gandak, Kosi, Mahananda, Ramganga, Gomti. Right bank tributaries join from the south (peninsular side): Yamuna, Son, Damodar. Kosi (Sorrow of Bihar) flows from Nepal and joins from the left/north bank. Yamuna, Son, and Damodar all join from the south (right bank). This left-right distinction is a frequent SSC exam question.",
+          "source": "SSC CGL 2015, 2018, 2022",
+          "verified": true
+        },
+        {
+          "text": "The Brahmaputra River is known by which name as it flows through Tibet?",
+          "options": [
+            "Dihang",
+            "Jamuna",
+            "Tsangpo (Yarlung Tsangpo)",
+            "Lohit"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Brahmaputra has different names at different stages: Tsangpo (Yarlung Tsangpo) in Tibet → Dihang in Arunachal Pradesh (after the U-turn around Namcha Barwa) → Brahmaputra in Assam → Jamuna in Bangladesh. This is one of the most commonly asked Brahmaputra facts in SSC. Lohit is a major tributary (from Arunachal) that joins the Brahmaputra in Assam.",
+          "source": "SSC CGL 2013, 2016, 2020",
+          "verified": true
+        },
+        {
+          "text": "The Chambal River, famous for its ravines and wildlife sanctuary, is a tributary of which river?",
+          "options": [
+            "Ganga (directly)",
+            "Yamuna",
+            "Son",
+            "Betwa"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chambal is a tributary of the Yamuna (which is itself a tributary of the Ganga). Chambal originates from Janapav Hill near Mhow in Madhya Pradesh, forms the Rajasthan-MP border, and joins the Yamuna near Etawah in Uttar Pradesh. The Chambal valley is famous for its badland ravines (historically home to dacoits) and the National Chambal Sanctuary (gharial, dolphins, birds). Chambal → Yamuna → Ganga (two steps).",
+          "source": "SSC CGL 2017, 2021",
+          "verified": true
+        },
+        {
+          "text": "Gobind Sagar, the largest artificial (man-made) lake in India, was created by which dam?",
+          "options": [
+            "Tehri Dam on the Bhagirathi",
+            "Hirakud Dam on the Mahanadi",
+            "Bhakra Dam on the Sutlej",
+            "Nagarjuna Sagar Dam on the Krishna"
+          ],
+          "answerIndex": 2,
+          "explanation": "Gobind Sagar is the reservoir created by Bhakra Dam (part of the Bhakra-Nangal project) on the Sutlej River in Himachal Pradesh. It is India's largest reservoir by storage capacity and the Bhakra Dam is India's largest gravity dam (226 m high). Tehri Dam (on Bhagirathi) is India's tallest dam (260 m). Hirakud Dam (on Mahanadi) has the longest dam wall in India. Do not confuse largest reservoir, tallest dam, and longest dam wall — three different facts, three different dams.",
+          "source": "SSC CGL 2016, 2019, 2023",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
