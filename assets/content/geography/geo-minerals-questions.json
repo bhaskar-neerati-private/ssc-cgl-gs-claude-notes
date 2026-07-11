@@ -1,0 +1,158 @@
+{
+  "topic": "Minerals of India — Ferrous, Non-Ferrous & Coal",
+  "topicId": "geo-minerals",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is India's largest coalfield?",
+          "options": ["Raniganj", "Bokaro", "Jharia", "Singrauli"],
+          "answerIndex": 2,
+          "explanation": "Jharia (Dhanbad district, Jharkhand) is India's largest coalfield and also produces the best coking coal used in blast furnaces for steel production. Raniganj (West Bengal) is India's oldest coalfield (1774), not largest. Dhanbad is called the 'Coal Capital of India.'",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the oldest coalfield in India?",
+          "options": ["Jharia", "Raniganj", "Singrauli", "Bokaro"],
+          "answerIndex": 1,
+          "explanation": "Raniganj (Bardhhaman district, West Bengal) is India's oldest coalfield, discovered in 1774 by the East India Company. Jharia is the largest but not the oldest. This Raniganj vs. Jharia distinction (oldest vs. largest) is a very common SSC trap.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which state is the largest producer of iron ore in India?",
+          "options": ["Jharkhand", "Karnataka", "Odisha", "Chhattisgarh"],
+          "answerIndex": 2,
+          "explanation": "Odisha is India's largest iron ore-producing state. The Odisha-Jharkhand belt (Keonjhar, Sundargarh, Mayurbhanj in Odisha; Singhbhum in Jharkhand) holds massive hematite reserves. Odisha and Chhattisgarh together account for the majority of India's iron ore production.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "Coal India Limited, the world's largest coal mining company, is headquartered in which city?",
+          "options": ["Dhanbad", "Hyderabad", "Kolkata", "Bhubaneswar"],
+          "answerIndex": 2,
+          "explanation": "Coal India Limited (CIL) is headquartered in Kolkata, West Bengal. It is the world's largest coal mining company and a Navratna PSU. It controls ~80% of India's coal production through its subsidiaries (BCCL for Jharia, ECL for Raniganj, SECL for CG/MP, MCL for Odisha, etc.).",
+          "source": "SSC CGL / Railway previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which type of iron ore is most abundantly found in India?",
+          "options": ["Magnetite (72% iron)", "Hematite (60–70% iron)", "Limonite (40–60% iron)", "Siderite (~48% iron)"],
+          "answerIndex": 1,
+          "explanation": "Magnetite has the highest iron content (~72%) but is less common in India. Hematite (60–70%) is the most abundantly found iron ore in India. SSC often presents 'highest quality' and 'most common' as the same option — they are not. India is rich in hematite, found in Precambrian rocks across Odisha, Jharkhand, Chhattisgarh, and Karnataka.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        },
+        {
+          "text": "Kolar Gold Fields (KGF) in Karnataka were shut down in which year due to unviable mining depth?",
+          "options": ["1990", "1995", "2001", "2005"],
+          "answerIndex": 2,
+          "explanation": "Kolar Gold Fields were closed in 2001. The mines extended to depths of 3+ km, making operations economically unviable. KGF produced gold for ~150 years (since the 1880s under British). The Hutti Gold Mines in Raichur, Karnataka are the only major operating gold mine in India today.",
+          "source": "SSC/Geography pattern",
+          "verified": false
+        },
+        {
+          "text": "Which valley in Odisha contains one of the world's largest chromite deposits but is also listed among the world's most polluted sites?",
+          "options": ["Mahanadi Valley", "Baitarini Valley", "Sukinda Valley", "Brahmani Valley"],
+          "answerIndex": 2,
+          "explanation": "Sukinda Valley (Jajpur district, Odisha) contains ~98% of India's chromite and ranks among the world's largest chromite deposits. It has also been listed among the world's top-10 most polluted places due to hexavalent chromium (Cr VI) contamination in groundwater from mining operations.",
+          "source": "SSC Geography pattern",
+          "verified": false
+        },
+        {
+          "text": "Which Rajasthan mine is described as one of the world's largest zinc mines?",
+          "options": ["Zawar (Udaipur)", "Rampura Agucha (Bhilwara)", "Khetri (Jhunjhunu)", "Rajpura Dariba (Rajsamand)"],
+          "answerIndex": 1,
+          "explanation": "Rampura Agucha in Bhilwara district, Rajasthan is one of the world's largest zinc mines — and it's a large silver by-product source too. Zawar (Udaipur) is among the world's oldest zinc mines. Both are operated by Hindustan Zinc Limited (HZL), headquartered in Udaipur (now a Vedanta subsidiary).",
+          "source": "SSC CGL pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which city is called the 'Mica Capital of India'?",
+          "options": ["Ajmer", "Koderma", "Nellore", "Bhilwara"],
+          "answerIndex": 1,
+          "explanation": "Koderma (Jharkhand) is called the 'Mica Capital of India.' Jharkhand is India's largest mica producer. Mica is used in electrical insulation, cosmetics (eyeshadow, highlighters), and fireproofing. Rajasthan (Ajmer) is 2nd, Andhra Pradesh (Nellore) is 3rd.",
+          "source": "SSC Geography pattern — often skipped",
+          "verified": false
+        },
+        {
+          "text": "The diamond mine at Panna (Madhya Pradesh) is operated by which organisation?",
+          "options": ["Coal India Limited", "NMDC", "Hindustan Copper Limited", "MECL"],
+          "answerIndex": 1,
+          "explanation": "NMDC (National Mineral Development Corporation), headquartered in Hyderabad, operates India's only active diamond mine at Panna, MP. NMDC is better known for its iron ore mines at Bailadila (Chhattisgarh) but also operates the Panna diamond project.",
+          "source": "SSC pattern — frequently skipped",
+          "verified": false
+        },
+        {
+          "text": "Singareni Collieries Company Limited (SCCL) is significant because its coalfields are located in which region?",
+          "options": ["Northeastern India (Tertiary coalfields)", "Damodar Valley (Jharkhand)", "Peninsular South India (Gondwana)", "Son Valley (MP)"],
+          "answerIndex": 2,
+          "explanation": "Singareni (SCCL) is significant because it is the only major Gondwana coalfield in peninsular south India (Telangana/AP region). Almost all other Gondwana coalfields are in Jharkhand, WB, Odisha, MP, and Chhattisgarh — further north. SCCL is a Telangana state PSU.",
+          "source": "SSC Geography pattern",
+          "verified": false
+        },
+        {
+          "text": "Neyveli in Tamil Nadu is associated with which type of coal, and which PSU operates the mines there?",
+          "options": ["Bituminous coal; Coal India Limited", "Lignite; NLC India Limited", "Anthracite; NMDC", "Lignite; NALCO"],
+          "answerIndex": 1,
+          "explanation": "Neyveli (Tamil Nadu) has India's largest lignite (brown coal) deposits. NLC India Limited (formerly Neyveli Lignite Corporation), headquartered in Neyveli, operates the mines and feeds the Neyveli Thermal Power Station. Lignite has lower carbon content (25–45%) and calorific value than bituminous coal.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which city is called the 'Copper City of India'?",
+          "options": ["Malanjkhand", "Singhbhum", "Khetri", "Balaghat"],
+          "answerIndex": 2,
+          "explanation": "Khetri (Jhunjhunu district, Rajasthan) is called the 'Copper City of India.' It has one of India's major copper smelting and mining facilities, operated by Hindustan Copper Limited (HCL). Malanjkhand (Balaghat, MP) actually contains India's largest copper deposit, but Khetri has the 'city' epithet.",
+          "source": "SSC CGL / SSC CHSL — frequently asked",
+          "verified": true
+        },
+        {
+          "text": "NALCO (National Aluminium Company) is headquartered in which city?",
+          "options": ["Kolkata", "Hyderabad", "Bhubaneswar", "Ranchi"],
+          "answerIndex": 2,
+          "explanation": "NALCO is headquartered in Bhubaneswar, Odisha. It mines bauxite at Panchpatmali (Koraput district, Odisha) and smelts aluminium at Angul (Odisha). Odisha is India's largest bauxite producer. NMDC HQ = Hyderabad; CIL HQ = Kolkata; HCL HQ = Kolkata.",
+          "source": "SSC CGL — PSU HQ questions are very frequent",
+          "verified": true
+        },
+        {
+          "text": "India ranks what position globally in coal reserves?",
+          "options": ["1st", "2nd", "3rd", "4th"],
+          "answerIndex": 3,
+          "explanation": "India has the 4th largest coal reserves in the world, after USA (1st), Russia (2nd), and Australia (3rd). Despite this, India is only the 2nd largest coal producer (after China) and still imports coal — because domestic coal has high ash content and coking coal is insufficient for steel needs.",
+          "source": "SSC CGL / General Knowledge — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Bailadila iron ore mines in Chhattisgarh are operated by which organisation and are famous for which type of ore?",
+          "options": ["Coal India; Magnetite", "NMDC; Hematite", "SAIL; Magnetite", "NALCO; Hematite"],
+          "answerIndex": 1,
+          "explanation": "Bailadila (Bastar district, Chhattisgarh) is operated by NMDC (National Mineral Development Corporation, HQ Hyderabad) and contains some of the world's finest hematite iron ore deposits. Bailadila ore is exported to Japan and South Korea for their steel industries. NMDC is India's largest iron ore producer.",
+          "source": "SSC CGL — frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
