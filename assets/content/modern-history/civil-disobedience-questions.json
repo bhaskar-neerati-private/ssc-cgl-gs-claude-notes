@@ -1,0 +1,198 @@
+{
+  "topic": "Civil Disobedience Movement, Round Table Conferences & Poona Pact (1930–1934)",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following correctly describes the Dandi March?",
+          "options": [
+            "Gandhi marched from Wardha to Dandi with 120 volunteers over 30 days to protest the salt tax",
+            "Gandhi marched from Sabarmati Ashram (Ahmedabad) to Dandi (Gujarat coast) with 78 volunteers over 24 days, covering 241 miles, beginning 12 March 1930",
+            "Gandhi marched from Sabarmati Ashram to Bombay with 78 volunteers to launch the boycott of foreign cloth",
+            "Gandhi marched from Sevagram to the sea with 78 volunteers to begin the non-cooperation against the Rowlatt Act"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Dandi March (Salt March) began on 12 March 1930 from Sabarmati Ashram in Ahmedabad with Gandhi and 78 chosen volunteers. They marched 241 miles (387 km) to Dandi, a coastal village in Gujarat — a 24-day walk. On reaching Dandi on 6 April 1930, Gandhi waded into the sea and made salt, symbolically breaking the British salt monopoly. The number of volunteers (78), the starting point (Sabarmati, not Wardha/Sevagram), the destination (Dandi, not Bombay), and the distance (241 miles) are all standard test points. Wardha/Sevagram was Gandhi's later ashram — he moved there after voluntarily leaving Sabarmati in 1930 vowing not to return until India was independent.",
+          "source": "SSC CGL — Dandi March details (Sabarmati to Dandi, 241 miles, 78 volunteers, 12 March–6 April 1930) are among the most frequently tested facts in Modern History",
+          "verified": true
+        },
+        {
+          "text": "The Purna Swaraj (Complete Independence) resolution was adopted at which INC session, and who presided over it?",
+          "options": [
+            "Calcutta Session, 1928 — presided by Motilal Nehru",
+            "Lahore Session, December 1929 — presided by Jawaharlal Nehru",
+            "Karachi Session, March 1931 — presided by Vallabhbhai Patel",
+            "Nagpur Session, 1920 — presided by C. Vijayaraghavachariar"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Purna Swaraj (Complete Independence) resolution was adopted at the Lahore Session of the INC in December 1929. Jawaharlal Nehru presided — at 39, he was the youngest Congress president at the time. Two historic decisions were taken: (1) The goal changed from Dominion Status (as in the 1928 Nehru Report) to Purna Swaraj — a complete break from the British Empire; (2) 26 January 1930 was declared India's first Independence Day for mass pledge-taking. 26 January 1950 was chosen for the Constitution coming into force to honour this pledge — which is why we celebrate Republic Day on that date. The Calcutta Session 1928 (Motilal Nehru presiding) rejected Jinnah's amendments to the Nehru Report. Karachi Session 1931 (Vallabhbhai Patel presiding) passed the Fundamental Rights and Economic Programme resolution after the Gandhi-Irwin Pact.",
+          "source": "SSC CGL — Lahore Session 1929 (Jawaharlal Nehru, Purna Swaraj) is one of the most tested Congress session facts; confusing it with Calcutta 1928 (Motilal) or Nagpur 1920 (NCM) is the standard trap",
+          "verified": true
+        },
+        {
+          "text": "The Gandhi-Irwin Pact (1931) had several conditions. Which of the following was NOT a term of the Pact?",
+          "options": [
+            "Congress would suspend the Civil Disobedience Movement",
+            "Congress would attend the Second Round Table Conference",
+            "The British would grant Dominion Status to India within six months",
+            "Salt manufacture would be permitted to local people on the coastline"
+          ],
+          "answerIndex": 2,
+          "explanation": "The British did NOT promise Dominion Status in the Gandhi-Irwin Pact — that was never on the table. The actual terms of the Gandhi-Irwin Pact (5 March 1931) were: (1) Congress to suspend Civil Disobedience Movement; (2) Congress to attend Second Round Table Conference; (3) Government to release political prisoners (except those convicted of violence); (4) Salt manufacture permitted to local people on the coastline (not a complete repeal of the salt laws); (5) Peaceful picketing of foreign cloth and liquor shops permitted. The pact was criticised by many nationalists because it gave very little to Congress in return for suspending CDM — Bhagat Singh's execution (23 March 1931, 18 days after the pact) intensified this criticism.",
+          "source": "SSC CGL — Gandhi-Irwin Pact terms (especially what was and was NOT included) is a frequently tested negative-identification question; Dominion Status is the classic wrong option introduced",
+          "verified": true
+        },
+        {
+          "text": "The Poona Pact (1932) was signed between Gandhi and Dr. B.R. Ambedkar. What did it resolve?",
+          "options": [
+            "It ended the Civil Disobedience Movement and established a timeline for Indian independence by 1942",
+            "It replaced the Communal Award's provision for separate electorates for Depressed Classes with a larger number of reserved seats in joint electorates — 148 seats in Provincial legislatures",
+            "It established separate Muslim electorates in exchange for Dalit representatives in the Congress Working Committee",
+            "It gave Depressed Classes separate electorates as demanded by Ambedkar, in addition to Gandhi's promise to abolish untouchability within 5 years"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Poona Pact (26 September 1932) replaced the Communal Award's provision for separate Depressed Class electorates with a system of reserved seats in joint electorates. Key terms: 148 reserved seats for Depressed Classes in Provincial legislative assemblies (increased from 71 proposed in the Communal Award); 18% seats reserved in the Central legislature; a primary election system within the Depressed Class community to nominate candidates, followed by a general (joint) electorate vote. Gandhi was fasting unto death in Yerwada Jail against the separate electorate; Ambedkar agreed to drop the separate electorate demand in exchange for more reserved seats in a joint system. Ambedkar later described this as a compromise under moral coercion; Gandhi saw it as saving the unity of Hindu society.",
+          "source": "SSC CGL — Poona Pact (26 September 1932, reserved seats for Depressed Classes in joint electorates, 148 Provincial seats) is a frequently tested fact; the separate-electorate vs. reserved-seat distinction is the critical concept",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "The Simon Commission was an all-British commission appointed in 1927. Which Indian leader was beaten during the anti-Simon protests and later died of his injuries — and who gave the lathi charge order?",
+          "options": [
+            "Motilal Nehru was beaten in Allahabad; the lathi charge was ordered by Commissioner Douglas",
+            "Lala Lajpat Rai was beaten in Lahore on 30 October 1928 and died on 17 November 1928; the police superintendent who ordered the lathi charge was James Scott",
+            "Bal Gangadhar Tilak was beaten in Pune and died; the lathi charge was ordered by General Dyer",
+            "Bipin Chandra Pal was beaten in Calcutta; the lathi charge was ordered by the Viceroy Lord Irwin personally"
+          ],
+          "answerIndex": 1,
+          "explanation": "Lala Lajpat Rai ('Punjab Kesari') led a peaceful protest march against the Simon Commission in Lahore on 30 October 1928. Police Superintendent James Scott ordered a lathi charge directly targeting Rai. Rai received blows on his chest and delivered his famous speech from his sickbed: 'Every blow aimed at me is a nail in the coffin of the British Empire in India.' He died on 17 November 1928 — officially heart failure, but nationalists attributed it directly to the beating. This death was the direct trigger for Bhagat Singh and his HSRA comrades to plan revenge — they intended to kill James Scott but killed John P. Saunders (a Deputy Superintendent of Police) by mistake on 17 December 1928. The Dyer confusion is the standard trap — Dyer was Jallianwala Bagh 1919, not Lahore 1928.",
+          "source": "Not an official PYQ — anticipated because Lajpat Rai + lathi charge + James Scott is a three-part identification; students often know Rai died but not the date (17 November), the police officer's name (Scott not Dyer), or that it was 30 October + died weeks later (not at the scene)",
+          "verified": false
+        },
+        {
+          "text": "What was the significance of the Karachi Session of the INC in March 1931 — and why is it often confused with the Lahore Session?",
+          "options": [
+            "The Karachi Session passed the Purna Swaraj resolution — it is confused with Lahore because both cities are in Punjab/Sindh",
+            "The Karachi Session (March 1931, presided by Vallabhbhai Patel) ratified the Gandhi-Irwin Pact AND passed the 'Fundamental Rights and Economic Programme' resolution — the first INC declaration defining what 'Swaraj' would actually contain (civil liberties, free press, adult suffrage, labour rights, no caste discrimination). Confused with Lahore because both involved Swaraj language.",
+            "The Karachi Session was where Jinnah's 14 Points were rejected by Congress — it is confused with Lahore because Jinnah attended both sessions",
+            "The Karachi Session was where CDM was renewed after the Gandhi-Irwin Pact's failure — confused with Lahore because the renewal proclamation used the same Purna Swaraj language"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Karachi Session (March 1931) is frequently overlooked between the famous Lahore Session (1929, Purna Swaraj) and the drama of CDM/Round Tables. Its two key contributions: (1) Formally ratified the Gandhi-Irwin Pact; (2) Passed the 'Fundamental Rights and Economic Programme' resolution — the most detailed statement Congress had ever made about what independence would mean in practice. It included: freedom of speech, press, assembly; universal adult suffrage; no caste or gender discrimination; labour rights including minimum wage and limited working hours; national ownership of key industries; protection of peasants. This was Congress committing not just to political independence but to a specific social and economic vision. Vallabhbhai Patel presided. Students confuse Karachi (1931) with Lahore (1929) because the Karachi resolution built on the Lahore 'Purna Swaraj' language.",
+          "source": "Not an official PYQ — anticipated because Karachi Session 1931 is underemphasised; its Fundamental Rights and Economic Programme resolution is exactly the kind of 'significance of a lesser-known session' question SSC sets",
+          "verified": false
+        },
+        {
+          "text": "Surya Sen ('Masterda') led the Chittagong Armoury Raid on 18 April 1930. What was the strategic intent and what ultimately happened to him?",
+          "options": [
+            "The intent was to capture weapons for a mass peasant uprising across Bengal; Surya Sen escaped to Burma and lived until 1947",
+            "The intent was to capture arms, cut telegraph lines, declare an independent provisional government, and spark a general uprising; Surya Sen was captured in 1933 and hanged in January 1934 at Chittagong Jail",
+            "The intent was to create a diversion to help Gandhi escape arrest; Surya Sen was arrested the same night and hanged within a month",
+            "The intent was to assassinate the Chittagong District Commissioner; Surya Sen was acquitted at trial due to lack of evidence"
+          ],
+          "answerIndex": 1,
+          "explanation": "Surya Sen's Chittagong Armoury Raid (18 April 1930) was one of the most audacious revolutionary acts of the independence movement. Intent: capture the police and auxiliary armouries in Chittagong, cut telegraph lines to isolate the city, declare a provisional government for the Indian Republic, and ignite a general uprising across Bengal. His group of about 65 revolutionaries (the Indian Republican Army, Chittagong Branch) captured the armouries but couldn't find ammunition. They assembled on the parade ground, saluted the flag, sang Vande Mataram, and then dispersed into the Chittagong hills — fighting British troops in several engagements before going underground. Surya Sen evaded capture for nearly three years. He was caught in February 1933, tried, and hanged at Chittagong Central Jail on 12 January 1934. His young comrade Pritilata Waddedar, who led the European Club attack in 1932, swallowed cyanide to avoid capture — the first woman to die for India in revolutionary nationalism.",
+          "source": "Not an official PYQ — anticipated because the Chittagong Armoury Raid (18 April 1930) is tested for its date (same year as Dandi), leader (Surya Sen/Masterda), and outcome (hanged January 1934); students often confuse this with Bhagat Singh's actions",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Khan Abdul Ghaffar Khan ('Frontier Gandhi') organised the Khudai Khidmatgar during the Civil Disobedience Movement. Why is this particularly significant?",
+          "options": [
+            "It was significant because the Pashtuns of NWFP were the first community to use firearms in the freedom movement, showing that militarism and nationalism were compatible",
+            "It was significant because the Pashtuns — stereotyped as inherently martial — embraced Gandhian non-violence; and because the NWFP, a Muslim-majority province, overwhelmingly supported Congress rather than the Muslim League, challenging the idea that all Indian Muslims wanted a separate Muslim state",
+            "It was significant because Ghaffar Khan was the only non-Hindu member ever elected INC President",
+            "It was significant because the Khudai Khidmatgar was the only organisation that continued CDM even after Gandhi withdrew it in 1934"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Khudai Khidmatgar ('Servants of God', also called Red Shirts) was remarkable on two counts: (1) Non-violence among Pashtuns — Pashtuns had a centuries-old warrior tradition and honour-code (Pashtunwali) that emphasised revenge and martial valour. Khan Abdul Ghaffar Khan persuaded them to adopt strict non-violence, demonstrating that Gandhi's method was not culturally specific to India's Hindu population but could be universally applied. (2) Muslim-majority province supporting Congress — the NWFP was overwhelmingly Muslim, yet under Ghaffar Khan it consistently supported Congress, not the Muslim League, through the 1930s and 1940s. In the 1946 elections, Congress won the NWFP (not the League). The NWFP's eventual transfer to Pakistan (through the 1947 partition) without an independent referendum was a source of great bitterness for Ghaffar Khan — he never accepted Pakistan's political dominance and was imprisoned repeatedly.",
+          "source": "Not an official PYQ — underrated because Frontier Gandhi/Khudai Khidmatgar is typically a one-line fact; its dual significance (Pashtun non-violence + Muslim-majority Congress support) is the analytical content tested in higher-difficulty papers",
+          "verified": false
+        },
+        {
+          "text": "The Dharasana Salt Works raid (21 May 1930) became world-famous through a news report. Who led the raid and why was it particularly powerful in international perception?",
+          "options": [
+            "Led by Jawaharlal Nehru; powerful because Nehru's arrest made the front page of the New York Times",
+            "Led by Sarojini Naidu (after Gandhi's arrest on 5 May); powerful because American journalist Webb Miller's eyewitness account of non-violent volunteers being beaten without resistance was cabled to 1,350 newspapers worldwide — creating the most damaging international publicity the British received during the CDM",
+            "Led by Maulana Azad; powerful because the presence of a Muslim leader at a salt raid disproved British claims that CDM was a Hindu movement",
+            "Led by Subhas Chandra Bose; powerful because Bose's oratory during the arrest was broadcast live on BBC radio"
+          ],
+          "answerIndex": 1,
+          "explanation": "After Gandhi's arrest (5 May 1930), Sarojini Naidu (followed by Abbas Tyabji) led the Dharasana Salt Works raid in Gujarat on 21 May 1930. Columns of non-violent volunteers walked in lines toward the salt works; police beat them with steel-tipped lathis; the volunteers fell without fighting back, without running — and the next column stepped forward. American journalist Webb Miller watched the entire event and cabled a detailed, graphic eyewitness account to United Press International — it was carried by 1,350 newspapers worldwide. The image of orderly, non-violent Indians being systematically beaten without resistance was devastating to British moral authority internationally. U.S. Senator John Blaine read Miller's report into the Congressional Record. The Dharasana raid was arguably the moment when CDM became an international moral story rather than just an Indian political event.",
+          "source": "Not an official PYQ — underrated because Dharasana is less famous than Dandi; the Sarojini Naidu + Webb Miller combination and the 1,350 newspapers figure are specific testable facts in harder papers",
+          "verified": false
+        },
+        {
+          "text": "The Communal Award (1932) was issued by British PM Ramsay MacDonald. Why is the name 'Communal Award' significant — what was it awarding?",
+          "options": [
+            "It was an award (prize) given to the community that had contributed most to World War I — it turned out to be the Muslim community, hence the name",
+            "It was the government's adjudication of communal (religious/community-based) representation — allocating separate electorates and reserved seats to Muslims, Sikhs, Indian Christians, Anglo-Indians, Europeans, and Depressed Classes in the Indian legislatures",
+            "It was a financial award (compensation) given to communities that had suffered communal riots in 1931-32",
+            "It was an award given by Ramsay MacDonald to honour the communities that had participated peacefully in the Round Table Conferences"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Communal Award (August 1932) was the British government's resolution of the communal representation deadlock — how to allocate legislative seats among India's diverse religious and social communities. 'Communal' here means community-based (from 'community,' used in the sense of religious/caste groups). The Award gave separate electorates to: Muslims (already established), Sikhs, Indian Christians, Anglo-Indians, Europeans — and, crucially, Depressed Classes (Scheduled Castes/Dalits). 'Separate electorate' means a community elects its own representatives in its own constituency — non-members cannot vote in that constituency. Gandhi objected to the Depressed Class provision, leading to the Poona Pact. The Muslim separate electorate provision was not what Gandhi protested; he had accepted Muslim separate electorates since the Lucknow Pact (1916). The term 'communal' in colonial India always meant religious/community-based, never 'violent' (the modern colloquial usage of 'communal').",
+          "source": "Not an official PYQ — underrated because students see 'Communal Award' as a label without understanding what it was actually 'awarding'; the distinction between separate electorates vs. reserved seats (and which communities got which) is the conceptual test",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Match the Round Table Conference with its key characteristic:\n1. First RTC (Nov 1930–Jan 1931)      A. Gandhi attended alone as Congress rep; broke down on communal issue\n2. Second RTC (Sep–Dec 1931)          B. Congress boycotted; led to GoI Act 1935\n3. Third RTC (Nov–Dec 1932)           C. Congress boycotted; agreement on federal structure in principle",
+          "options": [
+            "1-C, 2-A, 3-B",
+            "1-A, 2-B, 3-C",
+            "1-B, 2-C, 3-A",
+            "1-C, 2-B, 3-A"
+          ],
+          "answerIndex": 0,
+          "explanation": "Correct matches: (1) First RTC (Nov 1930–Jan 1931) → C. Congress boycotted (CDM was in full swing; Gandhi in jail); attended by Muslim League, Hindu Mahasabha, Princes, Liberals; produced agreement in principle on a federal structure but was inconclusive without Congress. (2) Second RTC (Sep–Dec 1931) → A. Gandhi attended as the sole Congress representative after the Gandhi-Irwin Pact; conference broke down on communal representation — Ambedkar vs. Gandhi on Depressed Classes, Muslims vs. Hindus on electorates; Gandhi returned empty-handed. (3) Third RTC (Nov–Dec 1932) → B. Congress boycotted again (Gandhi arrested January 1932 after renewing CDM); sparsely attended; its deliberations fed into the Government of India Act 1935. The pattern of 'which RTC did Congress attend' (only the Second) is the most tested distinction.",
+          "source": "Matching the three Round Table Conferences with their characteristics (Congress boycott/attend pattern, key features) is the most frequently tested RTC question format in SSC CGL",
+          "verified": true
+        },
+        {
+          "text": "Which of the following statements about the Simon Commission is CORRECT?",
+          "options": [
+            "It was a seven-member commission with two Indian members who were overruled on every constitutional recommendation",
+            "It was appointed in 1927 under Sir John Simon; all seven members were British; it was boycotted by virtually all Indian political parties; Lala Lajpat Rai died as a result of injuries sustained in an anti-Simon protest",
+            "It recommended Dominion Status for India immediately — a recommendation rejected by the British Cabinet",
+            "It was formed specifically to investigate the Jallianwala Bagh massacre and held sessions in Amritsar and Lahore"
+          ],
+          "answerIndex": 1,
+          "explanation": "All elements of option B are correct: (1) Simon Commission was appointed in November 1927 under Sir John Simon (a Liberal/National Liberal politician); (2) All seven members were British — zero Indians; (3) It was boycotted by the INC, Muslim League, Hindu Mahasabha, and most Indian parties; (4) Lala Lajpat Rai was beaten during anti-Simon protests in Lahore (30 October 1928) and died on 17 November 1928. Option A is wrong — there were no Indian members at all. Option C is wrong — the Simon Commission recommended a gradual approach, not immediate Dominion Status. Option D confuses it with the Hunter Commission (which investigated Jallianwala Bagh in 1919-20).",
+          "source": "Simon Commission identification (1927, all-British, Lajpat Rai connection) is a standard correct-statement identification question; the Hunter Commission vs. Simon Commission confusion is the most common wrong answer path",
+          "verified": true
+        },
+        {
+          "text": "Arrange these events in chronological order:\n(i) Purna Swaraj resolution at Lahore\n(ii) Dandi March begins\n(iii) Gandhi-Irwin Pact\n(iv) Poona Pact\n(v) First Independence Day (26 January)",
+          "options": [
+            "(i) → (ii) → (v) → (iii) → (iv)",
+            "(i) → (v) → (ii) → (iii) → (iv)",
+            "(ii) → (i) → (v) → (iv) → (iii)",
+            "(v) → (i) → (ii) → (iii) → (iv)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Correct chronological order: (i) Purna Swaraj resolution at Lahore → December 1929; (v) First Independence Day (26 January 1930) — pledge-taking across India following the Lahore resolution; (ii) Dandi March begins → 12 March 1930; (iii) Gandhi-Irwin Pact → 5 March 1931; (iv) Poona Pact → 26 September 1932. The Lahore resolution (i) preceded and triggered the Independence Day pledge (v), which preceded the Dandi March (ii). A common trap is to place the Dandi March before the First Independence Day — in fact, 26 January 1930 came before 12 March 1930 (the march start date). The Poona Pact (iv) came well after the Gandhi-Irwin Pact (iii), separated by the Second RTC's failure and the Communal Award (August 1932).",
+          "source": "Chronological ordering of CDM-period events is the single most frequently tested question type for this topic — students confuse the Lahore/26 January/Dandi sequence and the Gandhi-Irwin Pact/Poona Pact order",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
