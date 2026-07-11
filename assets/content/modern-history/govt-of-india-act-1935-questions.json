@@ -1,0 +1,198 @@
+{
+  "topic": "Government of India Act 1935 & Congress Ministries (1935–1939)",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which feature of the Government of India Act 1935 NEVER came into operation?",
+          "options": [
+            "Provincial Autonomy — the provinces were never granted elected governments",
+            "The All-India Federation — which would have united British Indian provinces with Princely States, but the Princes never agreed to join",
+            "The Federal Court — which was never established because WWII intervened before it could be set up",
+            "The Reserve Bank of India — which was proposed in the Act but not established until after independence"
+          ],
+          "answerIndex": 1,
+          "explanation": "The All-India Federation — the centrepiece of the GoI Act 1935 — never came into operation. It required provinces with at least half the seats AND Princes ruling states with at least 52 of the 104 seats allocated to Princely States to accede to the federation. The Princes debated and delayed; WWII intervened in 1939, making the question moot. Option A is wrong — Provincial Autonomy DID come into effect in 1937 following the provincial elections; Congress governments were formed in 7 provinces. Option C is wrong — the Federal Court WAS established in January 1937 (Chief Justice: Sir Maurice Gwyer). Option D is wrong — the RBI was established in April 1935, the same year as the Act. The federal provisions (including the Central Dyarchy) are what never operated.",
+          "source": "SSC CGL — 'which feature of GoI Act 1935 never came into operation' (answer: All-India Federation / federal provisions) is one of the most frequently tested questions about this Act",
+          "verified": true
+        },
+        {
+          "text": "The Government of India Act 1935 reversed the Dyarchy arrangement from the 1919 Act. How?",
+          "options": [
+            "Dyarchy was retained in provinces AND also introduced at the Centre under the 1935 Act",
+            "Dyarchy was abolished everywhere — both at the Centre and in provinces — and replaced with full responsible government at all levels",
+            "Dyarchy was abolished in provinces (replaced by full provincial autonomy with ministers responsible to elected legislatures) but introduced at the Centre — though the central Dyarchy never operated since the federal provisions were never implemented",
+            "Dyarchy was retained in provinces but the 1935 Act added a third category of 'concurrent' subjects to make it 'Triarchy'"
+          ],
+          "answerIndex": 2,
+          "explanation": "The GoI Act 1935 made an ironic reversal: (1) In PROVINCES — Dyarchy was ABOLISHED. The split between Reserved subjects (not accountable to legislature) and Transferred subjects (accountable) was ended. Full provincial autonomy replaced it — all ministers were now responsible to the elected provincial legislature. This came into effect in 1937. (2) At the CENTRE — Dyarchy was INTRODUCED for the first time, with Reserved subjects (defence, external affairs — under the Viceroy) and Transferred subjects (under ministers responsible to the federal legislature). However, since the federal provisions never came into force (Princes didn't join the federation), this central Dyarchy also never operated. So the net result: Dyarchy abolished in provinces where it had existed; introduced at Centre where it had not — and neither the new nor the old arrangement actually functioned at the Centre.",
+          "source": "SSC CGL — the reversal of Dyarchy (abolished in provinces/introduced at Centre) under GoI Act 1935 is a highly tested analytical distinction that builds on the 1919 Act knowledge",
+          "verified": true
+        },
+        {
+          "text": "What was the 'Day of Deliverance' (1939) and who declared it?",
+          "options": [
+            "It was declared by Gandhi on 26 January 1939 to mark nine years since the Purna Swaraj pledge — a day of national renewal",
+            "It was declared by the Muslim League under Jinnah on 22 December 1939, celebrating the resignation of Congress ministries from provincial governments after Viceroy Linlithgow declared India at war without consulting Indian leaders",
+            "It was declared by Subhas Chandra Bose on the day the Congress Ministries were formed in 1937, marking the first time Indians governed their own provinces",
+            "It was declared by Viceroy Linlithgow on 3 September 1939, the day Britain declared war — marking India's deliverance from the threat of Nazi Germany"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'Day of Deliverance' was declared by the Muslim League under Jinnah on 22 December 1939. After Viceroy Linlithgow declared India a belligerent in WWII (3 September 1939) without consulting Indian leaders, Congress demanded a promise of post-war independence and formation of a national government; Linlithgow refused; all Congress ministries resigned (October-November 1939). The League celebrated this as the end of what it called 'Hindu Raj' — arguing that Congress rule in the provinces had effectively meant Hindu majority domination despite Congress's secular claims. The Day of Deliverance is a pivotal moment: it marks the League's public declaration that Congress and Muslims had fundamentally incompatible interests, directly laying the ground for the Lahore Resolution (March 1940) demanding separate Muslim states.",
+          "source": "SSC CGL — Day of Deliverance (22 December 1939, Jinnah/Muslim League, Congress ministries resigned, Linlithgow's war declaration) is a frequently tested sequence of events",
+          "verified": true
+        },
+        {
+          "text": "Which of the following institutions were directly established or provided for by the Government of India Act 1935?",
+          "options": [
+            "Supreme Court of India and the Planning Commission",
+            "Federal Court (predecessor of the Supreme Court) and the Reserve Bank of India",
+            "Election Commission of India and the Federal Public Service Commission",
+            "Reserve Bank of India and the Constituent Assembly of India"
+          ],
+          "answerIndex": 1,
+          "explanation": "The GoI Act 1935 established or directly provided for: (1) Federal Court — established January 1937 in New Delhi with Sir Maurice Gwyer as first Chief Justice; it had constitutional jurisdiction between the federation and provinces; it became the Supreme Court of India in 1950; (2) Reserve Bank of India — provided for in the 1935 Act, established April 1935. The Act also provided for a Federal Public Service Commission (ancestor of UPSC), but Option C combines it with the Election Commission — which was created by the Constitution of India 1950, not the 1935 Act. Option A: the Supreme Court was created in 1950 (the Federal Court became the Supreme Court); the Planning Commission was created in 1950 by an executive resolution (not by any Act). Option D: the Constituent Assembly was proposed by the Cabinet Mission Plan (1946) and convened in December 1946 — not a 1935 Act provision.",
+          "source": "SSC CGL — GoI Act 1935 provisions (Federal Court + RBI as the two most tested institutions established under it) appear frequently; Supreme Court confusion (vs. Federal Court) is the standard trap",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions (Anticipated)",
+      "questions": [
+        {
+          "text": "Burma was separated from India in 1935. Was this done under the Government of India Act 1935?",
+          "options": [
+            "Yes — Section 289 of the Government of India Act 1935 separated Burma and placed it under a separate administration",
+            "No — Burma was separated by the Government of Burma Act 1935, a companion piece of legislation passed alongside but distinct from the Government of India Act 1935; from 1937 Burma had its own constitution and administration",
+            "No — Burma was separated from India by the Indian Independence Act 1947, which simultaneously created India, Pakistan, and Burma as independent states",
+            "Yes — the Government of India Act 1935 separated Burma and also separated Ceylon (Sri Lanka) in the same provision"
+          ],
+          "answerIndex": 1,
+          "explanation": "Burma was separated from India by the Government of Burma Act 1935 — a companion act passed alongside but separate from the Government of India Act 1935. From April 1937, Burma had its own Governor, its own constitution, its own legislature, and was administered separately from India. It was still under British rule but no longer part of 'British India.' Burma gained independence in January 1948, shortly after India. Ceylon (Sri Lanka) was never part of British India — it had been a separate Crown Colony since 1815 and was always administered separately; it gained independence in February 1948. The distinction between 'GoI Act 1935' (India) and 'Government of Burma Act 1935' (Burma) is a specific testable detail that students often get wrong by attributing Burma's separation to the GoI Act.",
+          "source": "Not an official PYQ — anticipated because Burma's separation in 1935 is a standard fact but students routinely say it was done 'under the GoI Act 1935' when it was actually a separate companion act; this distinction appears in 'which act did what' questions",
+          "verified": false
+        },
+        {
+          "text": "The Congress ministries resigned in 1939 when Viceroy Linlithgow declared India at war. What did Congress demand before it would agree to support the war effort, and why did Britain refuse?",
+          "options": [
+            "Congress demanded immediate independence and formation of a provisional government; Britain refused because it feared Indian independence would trigger Princely States to secede and destabilise India during the war",
+            "Congress demanded: (1) a declaration that India would be independent after the war, and (2) formation of a provisional national government at the Centre with Indian ministers having real authority; Britain refused because it was unwilling to make post-war promises that could constrain its options and Churchill/Conservative forces were opposed to any Indian independence commitment",
+            "Congress demanded only that the Viceroy publicly apologise for declaring war without consultation — a procedural demand that Britain surprisingly refused on grounds of viceregal dignity",
+            "Congress had no specific demands — the resignations were Gandhi's personal decision to protest the war on pacifist grounds, overruling the Working Committee's preference to negotiate"
+          ],
+          "answerIndex": 1,
+          "explanation": "After Linlithgow declared India at war on 3 September 1939 without consulting the Central legislature or provincial governments, Congress made two demands: (1) A clear declaration that India would be free (independent, not just Dominion Status) after the war; (2) Immediately, a provisional national government at the Centre representing all major Indian parties — meaning real Indian executive power, not just advisory councils. Britain under Chamberlain (and later Churchill, from May 1940) refused both. Linlithgow offered a vague statement about Dominion Status as the long-term goal and an expanded advisory council — far short of what Congress wanted. Churchill was bluntly opposed to any Indian independence commitment. Congress, finding no offer worth accepting, instructed all its provincial ministers to resign. The episode reveals the structural contradiction: Britain needed Indian cooperation for the war but was unwilling to pay the political price (independence) that Indian leaders demanded.",
+          "source": "Not an official PYQ — anticipated because the 1939 resignations are usually noted as a fact without explaining Congress's demands vs. Britain's refusal; this cause-and-consequence is tested in higher-difficulty analytical questions",
+          "verified": false
+        },
+        {
+          "text": "Nehru described the GoI Act 1935 as 'a machine with strong brakes but no engine.' What did he mean?",
+          "options": [
+            "He meant the Act's federal railway provisions were inadequate — India's train network was controlled by the Viceroy (brakes), not by elected governments (the engine)",
+            "He meant the Act had elaborate safeguards (Governor's special powers, the Viceroy's reserve powers, the requirement for Princely States to join — all 'brakes' on Indian self-governance) but no mechanism actually empowering Indians to govern (no 'engine' of real authority) — it was designed to perpetuate British control under a facade of autonomy",
+            "He meant the Act was technologically outdated — written before motorised transport became central to Indian economy, it had no provisions for automobile regulation",
+            "He was praising the Act — 'strong brakes' meant reliable governance and 'no engine' meant it would not start unnecessary wars or crises"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nehru's metaphor was a sharp critique: the GoI Act 1935 was 'a machine with strong brakes but no engine.' The 'brakes' were all the safeguards and reserve powers built into the Act — the Governors' special responsibilities that could override elected ministers; the Viceroy's reserve powers over defence, external affairs, and constitutional matters; the requirement for Princes to join the federation (which gave them a collective veto); the Secretary of State's continuing authority over Indian finances; the nominated elements in the central legislature. These were all mechanisms designed to LIMIT Indian power — brakes on self-governance. The 'no engine' part: there was no genuine mechanism for Indians to actually run the country — the executive at the Centre was not responsible to the legislature; the federal provisions never came into force; real power remained with the Viceroy and Secretary of State. Congress accepted office in the provinces in 1937 despite this criticism because it believed working within the system would both demonstrate Congress's governing capacity and create pressure for further concessions.",
+          "source": "Not an official PYQ — anticipated because Nehru's 'machine with strong brakes but no engine' quote is a famous metaphor that appears in higher-difficulty papers testing what it actually meant about the Act's structure",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What new provinces were created under the Government of India Act 1935, and why does this matter for understanding the partition geography?",
+          "options": [
+            "Punjab and Sindh were carved out of the United Provinces; this matters because they became the core of Pakistan",
+            "Sindh was separated from Bombay Presidency and Orissa was separated from Bihar, becoming separate provinces; additionally, the NWFP was reorganised. Sindh's separation matters because it became part of Pakistan in 1947 — its administrative identity as a distinct unit was created by the 1935 Act",
+            "Bengal was divided into East and West Bengal under the 1935 Act — a precursor to the 1947 partition",
+            "Hyderabad was converted from a Princely State to a Governor's Province to bring it under direct British administration"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under the GoI Act 1935, two new provinces were created from existing ones: (1) Sindh was separated from Bombay Presidency — Sindh had been part of Bombay since the 1840s; now it became a separate Governors' Province with its own legislature. In 1947, Sindh became part of Pakistan. (2) Orissa was separated from Bihar (and partially from the Central Provinces and Madras) — Orissa became a separate province on the basis of Odia language and cultural identity, in 1936. The separation matters historically: Sindh's distinct administrative identity, created in 1935, gave it the institutional framework that made it a viable separate unit when Pakistan was formed in 1947. The NWFP had been a Chief Commissioner's Province; the 1935 Act made it a full Governor's Province. Burma was also separated (under the Burma Act). These provincial reconfigurations in 1935 shaped the geography available for the 1947 partition.",
+          "source": "Not an official PYQ — underrated because Sindh/Orissa separation under GoI Act 1935 is a one-line fact; why it matters (Sindh's separate administrative identity feeding into Pakistan's formation) is the analytical connection rarely made explicit",
+          "verified": false
+        },
+        {
+          "text": "The 1937 provincial elections were devastating for the Muslim League. How poor was its performance, and why did this actually accelerate Jinnah's demand for a separate Muslim state?",
+          "options": [
+            "The League won 90% of Muslim seats — its strong performance led it to demand a separate state as a negotiating position for greater autonomy",
+            "The League won only about 22% of Muslim seats despite the separate Muslim electorates — this poor showing demonstrated to Jinnah that without a more assertive communal identity and organisation, the League would remain politically marginal; the Congress Ministries period then gave him the narrative (Muslim oppression under 'Hindu Raj') he needed to build mass Muslim support for a separate state",
+            "The League boycotted the 1937 elections — it won no seats, which gave it moral authority to claim the elections were rigged",
+            "The League won a plurality but not a majority in 5 of the 11 provinces — its inability to form governments despite being the largest Muslim party led it to demand a state where it would automatically be the majority"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Muslim League's 1937 performance was shockingly poor: it won only about 22% of the seats in Muslim constituencies — this in elections that had separate Muslim electorates (designed to ensure Muslim representation). The Punjab went to the Unionist Party; Bengal to a coalition; the League barely registered in most places. This had two consequences: (1) Jinnah immediately recognised he needed to build the League into a genuine mass movement, not just an elite lobbying body — the 1937-1940 period was his most energetic organisational phase; (2) The Congress Ministries period (1937-39) gave him the narrative he needed: he argued that Congress rule in the provinces meant Hindu domination, Urdu's marginalisation, forced Vande Mataram singing, and discrimination against Muslims. Whether these complaints were exaggerated or accurate remains debated, but they were politically effective. By the time Congress resigned in 1939, Jinnah had the 'Day of Deliverance' argument ready. Six months later came the Lahore Resolution (March 1940) demanding separate Muslim states — the decisive step toward Pakistan.",
+          "source": "Not an official PYQ — underrated because the 1937 League performance (22% of Muslim seats) is rarely emphasised; understanding that its weakness, not its strength, drove Jinnah's subsequent strategy is the analytical insight that higher-difficulty papers test",
+          "verified": false
+        },
+        {
+          "text": "Why is the Government of India Act 1935 considered a major source for India's 1950 Constitution, despite being a colonial document?",
+          "options": [
+            "India's Constituent Assembly simply copied the 1935 Act wholesale because Ambedkar admired British parliamentary traditions and saw no need for innovation",
+            "The 1935 Act provided the working structural template that the Constitution adapted and democratised: the three-list federal system (Union/State/Concurrent Lists), emergency provisions for Centre-State relations, the Federal Court becoming the Supreme Court, the Federal PSC becoming UPSC, and the basic architecture of Centre-State relations — all were retained and modified rather than invented from scratch",
+            "The 1950 Constitution was identical to the 1935 Act except for the addition of Fundamental Rights — all other provisions were unchanged",
+            "The 1935 Act's influence was limited to just the judicial provisions — the Federal Court to Supreme Court transition — while everything else in the 1950 Constitution came from the Irish, US, and Canadian constitutions"
+          ],
+          "answerIndex": 1,
+          "explanation": "The debt to the GoI Act 1935 is structural and substantial: (1) Three-list system: the 1935 Act divided subjects between the Federal and Provincial legislatures using three lists (Federal, Provincial, Concurrent); the 1950 Constitution uses exactly the same three-list structure as Union List, State List, Concurrent List; (2) Emergency provisions: Article 356 (President's Rule in states) is directly derived from the Governors' power to take over provincial administration under the 1935 Act; (3) Federal Court → Supreme Court: the institutional continuity is direct — same location, inherited jurisdiction framework; (4) Federal PSC → UPSC; (5) General administrative architecture: the district administration framework, the ICS/IPS successor structure, the secretariat system. Ambedkar acknowledged in the Constituent Assembly debates that large portions were drawn from the 1935 Act, arguing they were adopting the structure while replacing the colonial soul with democratic values. T.T. Krishnamachari called the Constitution a 'bag borrowed from various sources' — the 1935 Act was by far the largest contributor.",
+          "source": "Not an official PYQ — underrated because the 1935-to-Constitution connection is taught as a trivia fact (three lists, etc.) without the analytical point about WHY the framers retained colonial structures (pragmatism + administrative continuity) being the testable content",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Question Patterns",
+      "questions": [
+        {
+          "text": "Which of the following correctly describes the Government of India Act 1935?",
+          "options": [
+            "It had 221 sections and 7 schedules; it introduced Dyarchy in provinces for the first time; the All-India Federation came into force in 1937",
+            "It had 321 sections and 10 schedules; it abolished Dyarchy in provinces; the All-India Federation never came into operation because the Princes refused to join; it established the Federal Court and provided for the Reserve Bank of India",
+            "It had 321 sections and 10 schedules; it extended Dyarchy to provinces for the second time; Burma was separated from India under this Act itself (not a companion act)",
+            "It had 251 sections and 8 schedules; it gave full independence to all 11 provinces; the All-India Federation came into force in 1940 after the Princes were compelled to join"
+          ],
+          "answerIndex": 1,
+          "explanation": "Option B is correct on all counts: (1) 321 sections and 10 schedules — the longest British parliamentary act at the time; (2) Abolished Dyarchy in provinces (not extended it — Dyarchy in provinces came from the 1919 Act, the 1935 Act replaced it with full provincial autonomy); (3) All-India Federation never came into operation — Princes refused to join; (4) Federal Court established (January 1937; Sir Maurice Gwyer, first Chief Justice); (5) Reserve Bank of India provided for (RBI established April 1935). Option A is wrong on sections count (221 vs. 321), wrong on Dyarchy ('first time' — Dyarchy in provinces began with the 1919 Act), and wrong on the Federation (never came into force). Option C is wrong on Dyarchy (describing it as 'second time' when it was actually abolished in provinces by the 1935 Act) and on Burma (Burma Act was a companion, separate legislation). Option D is wrong on sections, wrong on 'full independence' (provinces got autonomy, not independence), and wrong on federation timing.",
+          "source": "Correct description of GoI Act 1935 (321 sections/10 schedules, Dyarchy abolished in provinces, federation never operated, Federal Court + RBI) is the most comprehensive single-question test of this topic",
+          "verified": true
+        },
+        {
+          "text": "Arrange these events in chronological order:\n(i) Government of India Act 1935 passed\n(ii) Provincial elections held under the new Act\n(iii) Federal Court established\n(iv) Congress Ministries resign\n(v) Muslim League's 'Day of Deliverance'",
+          "options": [
+            "(i) → (iii) → (ii) → (iv) → (v)",
+            "(i) → (ii) → (iii) → (iv) → (v)",
+            "(ii) → (i) → (iii) → (v) → (iv)",
+            "(i) → (iii) → (ii) → (v) → (iv)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Correct chronological order: (i) GoI Act 1935 passed — August 1935; (iii) Federal Court established — January 1937 (the Act passed 1935 but the Court was set up 1937 — this is a standard trap); (ii) Provincial elections — February 1937, followed by Congress Ministries sworn in July 1937; (iv) Congress Ministries resign — October-November 1939 (after Linlithgow's war declaration 3 September 1939); (v) Day of Deliverance — 22 December 1939 (celebrated the Congress resignations). The key trap is options B (which places elections before the Federal Court) — the elections were in February 1937 while the Federal Court was established January 1937. The sequence is: GoI Act (1935) → Federal Court (January 1937) → Elections (February 1937) → Congress Ministries (July 1937-Oct/Nov 1939) → Day of Deliverance (December 1939).",
+          "source": "Chronological ordering of GoI Act 1935 events (act passed → Federal Court → elections → ministries → Day of Deliverance) is the most frequently tested question type for this topic; the 1935 Act/1937 Federal Court distinction is the key trap",
+          "verified": true
+        },
+        {
+          "text": "Which of the following statements about the 1937 provincial elections is INCORRECT?",
+          "options": [
+            "Congress won absolute majorities in 6 provinces and formed governments in 7 provinces",
+            "The Muslim League performed poorly, winning only about 22% of the Muslim seats in Muslim constituencies",
+            "The Congress ministries, once formed, were immediately popular and served their full 5-year term until 1942",
+            "Congress resigned its provincial ministries in 1939 after Viceroy Linlithgow declared India a belligerent in WWII without consulting Indian leaders"
+          ],
+          "answerIndex": 2,
+          "explanation": "The INCORRECT statement is option C. The Congress ministries did NOT serve a full 5-year term — they lasted from July 1937 to October-November 1939, approximately 2 years and 3-4 months. They resigned because Viceroy Linlithgow declared India at war with Germany on 3 September 1939 without consulting the Central legislature or provincial governments; Congress demanded a post-war independence commitment and a provisional national government; Linlithgow refused; Congress resigned. Options A, B, and D are all correct: Congress won 6 absolute majorities, formed 7 governments (A); League won ~22% of Muslim seats (B); Congress resigned in 1939 due to Linlithgow's unilateral war declaration (D). The '5-year full term' error is the classic wrong assumption students make about the Congress Ministries period.",
+          "source": "INCORRECT statement format about Congress Ministries period (they did NOT serve a full term — resigned 1939, not 1942) is a frequently tested pattern; the 1939 resignation reason (Linlithgow's war declaration) is the key associated fact",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
