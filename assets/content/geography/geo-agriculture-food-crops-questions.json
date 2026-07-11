@@ -1,0 +1,237 @@
+{
+  "topic": "Agriculture: Food Crops, Kharif-Rabi & Green Revolution",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following crops is a Rabi crop?",
+          "options": [
+            "Rice",
+            "Cotton",
+            "Wheat",
+            "Jute"
+          ],
+          "answerIndex": 2,
+          "explanation": "Wheat is a Rabi crop — sown in October-November and harvested in February-April during the cool, dry winter season. Rice, Cotton, and Jute are all Kharif crops — sown at the onset of the Southwest Monsoon (June-July) and harvested in October-November. The key to remembering: Rabi crops (Wheat, Barley, Gram, Mustard, Lentil, Peas) are winter crops that don't need monsoon rain; they rely on cool temperatures and residual soil moisture or irrigation.",
+          "source": "SSC CGL 2015, 2019",
+          "verified": true
+        },
+        {
+          "text": "Dr. M.S. Swaminathan is known as the 'Father of the Green Revolution in India'. What was his primary contribution?",
+          "options": [
+            "He developed the HYV wheat seeds in Mexico that were later imported to India",
+            "He led the implementation and adaptation of High-Yielding Variety seeds in Indian conditions, making India food self-sufficient",
+            "He established the Food Corporation of India (FCI) in 1965",
+            "He won the Nobel Peace Prize in 1970 for ending famine in India"
+          ],
+          "answerIndex": 1,
+          "explanation": "M.S. Swaminathan is the Father of the Green Revolution in India. He led the adaptation and large-scale implementation of HYV seeds in Indian conditions — working with Norman Borlaug's Mexican wheat varieties and Indian researchers to make the Green Revolution work in Punjab, Haryana, and UP. The HYV seeds themselves were developed by Norman Borlaug (who won the Nobel Peace Prize in 1970). FCI was a policy institution, not Swaminathan's creation. Swaminathan later advocated for 'Evergreen Revolution' — sustainable agriculture for long-term food security.",
+          "source": "SSC CGL 2017, 2021",
+          "verified": true
+        },
+        {
+          "text": "Which state is the largest producer of rice in India?",
+          "options": [
+            "Punjab",
+            "Uttar Pradesh",
+            "West Bengal",
+            "Andhra Pradesh"
+          ],
+          "answerIndex": 2,
+          "explanation": "West Bengal is the largest rice-producing state in India by volume (total production in metric tonnes). Punjab, however, has the highest rice productivity (yield per hectare) because of its superior irrigation infrastructure, mechanised farming, and use of inputs. This distinction between 'largest producer' (West Bengal) and 'highest productivity' (Punjab) is a very common SSC trap. UP is the largest wheat producer, not rice. Andhra Pradesh is a major rice producer but not the largest.",
+          "source": "SSC CGL 2016, 2020",
+          "verified": true
+        },
+        {
+          "text": "The United Nations declared 2023 as the International Year of Millets (IYoM 2023). At whose initiative was this declared?",
+          "options": [
+            "China, as the world's largest millet producer",
+            "India, at the proposal of Prime Minister Narendra Modi",
+            "African Union, as millets are Africa's traditional food",
+            "FAO (Food and Agriculture Organisation), on its own initiative"
+          ],
+          "answerIndex": 1,
+          "explanation": "India proposed and championed the declaration of 2023 as the International Year of Millets. Prime Minister Narendra Modi personally advocated for it at the UN General Assembly (UNGA), which passed the resolution in 2021 for IYoM 2023. India is the world's largest millet producer and has been promoting millets ('Shree Anna' or 'Nutri-Cereals') globally for food security and climate resilience. India showcased millets at G20 events in 2023. This was a major diplomatic and agricultural branding success for India.",
+          "source": "SSC CGL 2023",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Punjab is both a major rice producer and faces a water crisis. What is the paradox here?",
+          "options": [
+            "Punjab grows rice in flooded fields but lacks river water, so it depends entirely on rainwater which is unreliable",
+            "Punjab is a semi-arid state where rice is NOT a traditional crop, but post-Green Revolution farmers grow it using tube wells — this over-extraction is causing the water table to fall 50 cm/year in some areas",
+            "Punjab's rivers (Sutlej, Beas, Ravi) have dried up due to upstream dams, forcing farmers to import water from Haryana",
+            "Punjab's rice requires imported seeds every season, creating a cycle of dependency on foreign companies"
+          ],
+          "answerIndex": 1,
+          "explanation": "Punjab's water paradox: Rice is a water-intensive crop traditionally suited to eastern India's high-rainfall zones (West Bengal, Assam). But after the Green Revolution, Punjab farmers found paddy (rice) highly profitable (MSP support, FCI procurement) and switched to paddy despite the semi-arid climate. The water comes from millions of tube wells drawing from aquifers. Punjab's groundwater table is declining by ~50 cm per year in parts of the state. If unchecked, large areas of Punjab could face a groundwater crisis within 20-30 years. The Punjab Preservation of Subsoil Water Act (2009) tries to delay rice transplanting to reduce water use.",
+          "source": "SSC CHSL 2022",
+          "verified": false
+        },
+        {
+          "text": "What is the difference between West Bengal being the 'largest rice producer' and Punjab having the 'highest rice productivity'?",
+          "options": [
+            "There is no difference — both statements mean the same thing",
+            "Largest producer = highest total volume (metric tonnes per year) across entire state area; highest productivity = highest yield (kg per hectare of land). West Bengal grows rice on huge area; Punjab squeezes more rice per unit area",
+            "West Bengal grows more varieties of rice; Punjab grows only Basmati rice",
+            "West Bengal's production is measured in Kharif season only; Punjab's productivity includes Rabi rice"
+          ],
+          "answerIndex": 1,
+          "explanation": "Total production (tonnes/year) depends on both area sown AND yield per hectare. West Bengal has the largest total rice output because it devotes an enormous area to rice and gets multiple crops per year (Aus, Aman, Boro). Punjab has far less area under rice but its yield per hectare is the highest in India — because of high-quality HYV seeds, perfect irrigation, mechanisation, and heavy fertiliser use. This producer vs. productivity distinction is tested repeatedly in SSC for rice and wheat. For wheat too: UP = largest producer; Punjab = highest productivity.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Which crop is correctly classified as BOTH a Kharif crop AND a food/cash crop that spans multiple seasons?",
+          "options": [
+            "Wheat — it can be grown in Kharif when irrigated",
+            "Sugarcane — a long-duration crop (12-18 months) that spans Kharif and Rabi seasons",
+            "Gram (Chickpea) — it can be grown in Kharif if rainfall is sufficient",
+            "Mustard — it can be grown in Kharif in southern India"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sugarcane is a long-duration crop that takes 12-18 months from planting to harvest — spanning both Kharif and Rabi periods. It is planted in spring (February-March) or at the start of the monsoon (June-July) and harvested the following year. This is why it doesn't fit neatly into the Kharif/Rabi binary. Uttar Pradesh is India's largest sugarcane producer; Tamil Nadu and Karnataka have the highest sucrose content and yield per hectare. Wheat is strictly Rabi; Gram is strictly Rabi; Mustard is strictly Rabi — none of these can shift to Kharif meaningfully.",
+          "source": "SSC CPO 2021",
+          "verified": false
+        },
+        {
+          "text": "India adopted Green Revolution technology in 1966-67. What specific input was most immediately responsible for the dramatic rise in wheat production?",
+          "options": [
+            "New irrigation canals built in Punjab-Haryana under the Bhakra-Nangal project",
+            "Import of 18,000 tonnes of High-Yielding Variety Mexican dwarf wheat seeds (Lerma Rojo 64, Sonora 64)",
+            "Introduction of urea (nitrogenous fertiliser) from chemical plants built by the USSR",
+            "Mechanisation through tractors supplied under USAID agricultural programmes"
+          ],
+          "answerIndex": 1,
+          "explanation": "The most immediate and dramatic cause of the Green Revolution wheat surge was the import of 18,000 tonnes of Mexican dwarf HYV wheat seeds (Lerma Rojo 64 and Sonora 64 varieties, developed by Norman Borlaug's team at CIMMYT) in 1966. These seeds were semi-dwarf — their short straw prevented them from lodging (falling over) under heavy fertiliser-induced grain weight. They were also disease-resistant and responsive to irrigation + fertiliser inputs. While canals, fertilisers, and mechanisation were all important, it was the seed innovation that unlocked the production jump. Norman Borlaug won the Nobel Peace Prize in 1970 for this work.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated (Often Ignored)",
+      "questions": [
+        {
+          "text": "NABARD was established in 1982. What is its primary function?",
+          "options": [
+            "It provides direct loans to farmers at subsidised interest rates",
+            "It is the apex institution for agricultural credit — it refinances rural and cooperative banks, coordinates rural development, and supervises regional rural banks",
+            "It sets the Minimum Support Price (MSP) for agricultural commodities",
+            "It manages the Public Distribution System (PDS) and food grain buffer stocks"
+          ],
+          "answerIndex": 1,
+          "explanation": "NABARD (National Bank for Agriculture and Rural Development), established in 1982, is the apex refinancing institution for agricultural and rural credit in India. It does NOT directly lend to farmers — instead, it provides refinance (loans) to cooperative banks, regional rural banks (RRBs), and commercial banks that in turn lend to farmers. NABARD also supervises RRBs, supports rural infrastructure, and promotes Self-Help Groups (SHGs). MSP is determined by the Cabinet Committee on Economic Affairs (CCEA) based on CACP recommendations. FCI manages buffer stocks and PDS.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Ragi (Finger Millet) is sometimes called a 'superfood' millet. What are its key nutritional distinctions?",
+          "options": [
+            "Ragi has the highest protein content of all millets",
+            "Ragi is exceptionally rich in calcium and iron — its calcium content surpasses most other cereals including wheat and rice",
+            "Ragi is unique for being the only millet with all essential amino acids",
+            "Ragi has the lowest glycaemic index of all grains, making it ideal for diabetic patients"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ragi (Finger Millet / Eleusine coracana) stands out nutritionally for its extraordinary calcium content — about 344 mg per 100g, compared to ~10 mg for rice and ~30 mg for wheat. It is also rich in iron (3.9 mg/100g). This makes it especially valuable for combating osteoporosis, anaemia, and malnutrition, particularly among women and children. Karnataka is India's largest producer of Ragi, and it is a staple food in Karnataka and Tamil Nadu (Ragi mudde/balls in Karnataka; Kezhvaragu dishes in TN). The IYoM 2023 campaign specifically highlighted Ragi's nutritional properties.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "What is 'Boro rice' and what makes it unusual among Indian rice crops?",
+          "options": [
+            "Boro rice is a type of Kharif rice grown in the Brahmaputra floodplains",
+            "Boro rice is a winter (Rabi season) rice variety grown under irrigation in West Bengal, Assam, and Bihar — unusual because it is rice grown in the cold season",
+            "Boro rice is a high-altitude rice variety grown in the Himalayan foothills",
+            "Boro rice is an IR-8 variety introduced during the Green Revolution that gave highest yields"
+          ],
+          "answerIndex": 1,
+          "explanation": "Boro rice is a unique winter rice (grown October to March) cultivated under irrigation in West Bengal, Assam, and Bihar — areas where the Ganga-Brahmaputra floodplains allow winter cultivation. This is unusual because rice is typically associated with the Kharif (monsoon) season and warm, humid conditions. Boro rice grows in the cool winter months using tube-well or canal irrigation. It is a third rice crop (after Aus and Aman), dramatically increasing rice production in eastern India. Boro accounts for a significant share of West Bengal's total rice output.",
+          "source": "SSC CHSL 2021",
+          "verified": false
+        },
+        {
+          "text": "The Food Corporation of India (FCI) was established in 1965. What was the specific crisis that led to its creation?",
+          "options": [
+            "India needed a body to manage the Green Revolution's surplus wheat that was piling up without storage",
+            "India faced severe food shortages and was dependent on US food aid (PL-480); FCI was created to build domestic procurement, storage, and distribution of food grains",
+            "FCI was created to manage exports of rice after India achieved self-sufficiency in 1965",
+            "FCI was established at the World Bank's recommendation to modernise India's agricultural markets"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Food Corporation of India (FCI) was established in January 1965, during a period when India was severely food-deficient and dependent on American PL-480 food aid. The government recognised the need for a permanent institutional mechanism to: (1) procure food grains directly from farmers at MSP, (2) build buffer stocks to handle supply shocks, and (3) distribute grains through the Public Distribution System (PDS) at subsidised prices. The Green Revolution that followed (1966-67 onwards) gave FCI surplus grains to handle — so FCI's creation just preceded the Green Revolution, positioning India to manage the coming surplus.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is correctly matched — crop with its season?",
+          "options": [
+            "Wheat — Kharif; Rice — Rabi",
+            "Cotton — Rabi; Jute — Kharif",
+            "Wheat — Rabi; Rice — Kharif; Gram — Rabi",
+            "Mustard — Kharif; Barley — Rabi"
+          ],
+          "answerIndex": 2,
+          "explanation": "Correct matches: Wheat = Rabi (winter, Oct-Nov sowing); Rice = Kharif (monsoon, June-July sowing); Gram/Chickpea = Rabi (winter). Common wrong options: Cotton is Kharif (not Rabi); Jute is Kharif (correct in option B but Cotton is wrong there); Mustard is Rabi (not Kharif). The core Kharif list: Rice, Cotton, Jute, Bajra, Jowar, Groundnut, Soybean, Tur/Arhar. The core Rabi list: Wheat, Barley, Gram, Mustard, Lentil, Peas. This question type is one of the most frequent in SSC Geography.",
+          "source": "SSC CGL 2014, 2017, 2021",
+          "verified": true
+        },
+        {
+          "text": "Which state is the largest producer of pulses in India?",
+          "options": [
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Maharashtra"
+          ],
+          "answerIndex": 2,
+          "explanation": "Madhya Pradesh is India's largest producer of pulses, contributing about 25-30% of the country's total pulse output. MP also leads in soybean production. MP's black soil (Regur) and climate are well-suited for both pulses and soybeans. Rajasthan is the second largest producer. India as a whole is the world's largest producer AND consumer of pulses. The pulse production facts (MP leads) and the global fact (India leads) together form a common SSC question cluster.",
+          "source": "SSC CGL 2015, 2018, 2022",
+          "verified": true
+        },
+        {
+          "text": "Norman Borlaug won the Nobel Peace Prize in 1970 for his work on the Green Revolution. What specific crop did his HYV seeds primarily target?",
+          "options": [
+            "Rice",
+            "Wheat",
+            "Maize",
+            "Soybean"
+          ],
+          "answerIndex": 1,
+          "explanation": "Norman Borlaug developed high-yielding dwarf wheat varieties (Lerma Rojo 64, Sonora 64, etc.) at CIMMYT in Mexico. These semi-dwarf wheat plants had shorter, stiffer stalks that could support heavier grain heads under heavy fertilisation without lodging (falling over). These varieties were exported to India and Pakistan in 1965-66, triggering the Green Revolution in South Asia. The rice equivalent (IR-8, 'Miracle Rice') was developed separately by IRRI (International Rice Research Institute) in the Philippines. Borlaug's Nobel was specifically for wheat, though the revolution is associated with both crops.",
+          "source": "SSC CGL 2016, 2019, 2023",
+          "verified": true
+        },
+        {
+          "text": "Which millet is most drought-resistant and is predominantly grown in Rajasthan?",
+          "options": [
+            "Jowar (Sorghum)",
+            "Ragi (Finger Millet)",
+            "Bajra (Pearl Millet)",
+            "Maize"
+          ],
+          "answerIndex": 2,
+          "explanation": "Bajra (Pearl Millet / Pennisetum glaucum) is the most drought-resistant cereal crop — it can grow in as little as 25-40 cm of rainfall on sandy, poor soils. Rajasthan is India's largest Bajra producer (accounting for ~45% of national production), followed by UP and Haryana. Jowar (Sorghum) is the second most important dry-land cereal but needs slightly more water than Bajra; Maharashtra leads Jowar production. Ragi (Finger Millet) needs more moisture and grows on red/laterite soils; Karnataka leads. Maize needs fertile soil and good moisture.",
+          "source": "SSC CGL 2015, 2019, 2022",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
