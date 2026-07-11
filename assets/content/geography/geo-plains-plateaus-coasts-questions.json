@@ -1,0 +1,237 @@
+{
+  "topic": "Northern Plains, Peninsular Plateau, Ghats & Coastal Plains",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following is called the 'Ruhr of India'?",
+          "options": [
+            "Damodar Valley",
+            "Chota Nagpur Plateau",
+            "Malwa Plateau",
+            "Deccan Plateau"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chota Nagpur Plateau is called the 'Ruhr of India' because of its extraordinary mineral wealth — coal (Jharia, Raniganj), iron ore, copper, bauxite, mica, and uranium. The name comes from the Ruhr industrial region of Germany. Damodar Valley is the river that flows through it, and the DVC is the first multi-purpose river valley project here.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Anamudi, the highest peak in peninsular India, is located in which state?",
+          "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala",
+            "Andhra Pradesh"
+          ],
+          "answerIndex": 2,
+          "explanation": "Anamudi (2,695 m) is located in Idukki district, Kerala, in the Anaimalai Hills (Annamalai Hills). It is the highest peak in the Western Ghats and in peninsular India. Dodabetta (2,637 m) in Tamil Nadu's Nilgiris is often confused with it — Dodabetta is the highest in Tamil Nadu, not peninsular India.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Western Ghats and the Eastern Ghats meet at the:",
+          "options": [
+            "Nilgiri Hills",
+            "Palani Hills",
+            "Anaimalai Hills",
+            "Cardamom Hills"
+          ],
+          "answerIndex": 0,
+          "explanation": "The Western Ghats and Eastern Ghats converge at the Nilgiri Hills in the Tamil Nadu-Kerala border region. The Nilgiris (Blue Mountains) are sometimes called the meeting point where both Ghat systems merge before the landmass tapers to Kanyakumari. Ooty (Udhagamandalam) is the famous hill station here.",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "Chilika Lake is located in which state?",
+          "options": [
+            "Andhra Pradesh",
+            "West Bengal",
+            "Odisha",
+            "Tamil Nadu"
+          ],
+          "answerIndex": 2,
+          "explanation": "Chilika Lake is located in Odisha, on the coast of the Bay of Bengal. It is India's largest coastal lagoon (approximately 1,100 sq km) and is a brackish (saline) water body — not freshwater. It is a Ramsar Site, famous for migratory birds from Central Asia and Irrawaddy dolphins.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which of the following statements about the Deccan Plateau is CORRECT?",
+          "options": [
+            "The Deccan Plateau tilts westward, so rivers flow into the Arabian Sea",
+            "The Deccan Plateau tilts eastward, which is why most peninsular rivers flow into the Bay of Bengal",
+            "The Deccan Plateau is surrounded by the Himalayas on the north",
+            "The Deccan Plateau was formed by glacial deposits"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Deccan Plateau has a gentle eastward tilt, which is why most major peninsular rivers (Godavari, Krishna, Mahanadi, Cauvery) flow eastward into the Bay of Bengal. Only Narmada and Tapti flow westward into the Arabian Sea — and they flow through rift valleys, not over the Deccan surface. The Deccan Trap (basalt) was formed by volcanic lava flows ~65 million years ago, not glacial deposits.",
+          "source": "SSC CHSL 2019",
+          "verified": false
+        },
+        {
+          "text": "Sriharikota, the satellite launch centre of ISRO, is located on the sand bar of which lake?",
+          "options": [
+            "Chilika Lake",
+            "Vembanad Lake",
+            "Pulicat Lake",
+            "Kolleru Lake"
+          ],
+          "answerIndex": 2,
+          "explanation": "Sriharikota is located on Sriharikota Island, which forms the sand bar separating Pulicat Lake from the Bay of Bengal. Pulicat Lake lies on the Andhra Pradesh-Tamil Nadu border and is India's second largest brackish water lagoon (~460 sq km). This is a frequently confused fact because many candidates assume Sriharikota is near Chilika Lake (Odisha), but Chilika is much further north.",
+          "source": "SSC MTS 2021",
+          "verified": false
+        },
+        {
+          "text": "The Aravallis run in which direction?",
+          "options": [
+            "North-South (along the west coast)",
+            "East-West (like the Vindhyas)",
+            "Northeast-Southwest (from Delhi to Gujarat)",
+            "Northwest-Southeast (like the Western Ghats)"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Aravalli Range runs in a Northeast-Southwest direction — from Delhi/Haryana in the northeast to Palanpur in Gujarat in the southwest, a length of about 800 km. This orientation is often confused with east-west ranges like the Vindhyas and Satpuras. The Aravallis are the oldest fold mountains in India, largely worn down to rounded ridges.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Western coast rivers form estuaries (not deltas) because:",
+          "options": [
+            "The rivers flow from the Eastern Ghats which are lower",
+            "West coast rivers are too short and fast to deposit sediment at their mouths",
+            "The Arabian Sea has stronger tides that prevent delta formation",
+            "West coast rivers lack sufficient water volume"
+          ],
+          "answerIndex": 1,
+          "explanation": "West coast rivers (Narmada, Tapti, Periyar, etc.) are typically 50–100 km long and flow steeply down from the Western Ghats to the Arabian Sea. They are so short and fast that they carry sediment rapidly and dump it directly into the sea as estuaries — there is no flat floodplain where a delta can spread. East coast rivers (Godavari, Krishna) are 1,000+ km long with a gentle gradient, giving them time and space to deposit sediment and build deltas.",
+          "source": "SSC CPO 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated (Often Ignored)",
+      "questions": [
+        {
+          "text": "Which is the ONLY hill station in Rajasthan, and in which mountain range is it located?",
+          "options": [
+            "Udaipur; Aravalli Range",
+            "Mount Abu; Aravalli Range",
+            "Pachmarhi; Satpura Range",
+            "Shimla; Aravalli Range"
+          ],
+          "answerIndex": 1,
+          "explanation": "Mount Abu is the only hill station in Rajasthan, located in the Aravalli Range (the oldest fold mountains in India). It is famous for the Dilwara Jain Temples, one of the finest examples of marble architecture. Guru Shikhar (1,722 m), the highest peak of the Aravallis, is located near Mount Abu. Pachmarhi is the hill station in Madhya Pradesh (in the Satpura Range).",
+          "source": "SSC GD 2022",
+          "verified": false
+        },
+        {
+          "text": "The Damodar Valley Corporation (DVC) is India's first multi-purpose river valley project, modelled on which foreign project?",
+          "options": [
+            "Colorado River Authority, USA",
+            "Tennessee Valley Authority (TVA), USA",
+            "Columbia River Project, Canada",
+            "Rhein Valley Project, Germany"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Damodar Valley Corporation (DVC) was set up in 1948, modelled on the Tennessee Valley Authority (TVA) of the USA. It was conceived by Dr. W.L. Voorduin (an American engineer), and was established to develop the Damodar River basin — controlling floods, generating hydroelectric power, and irrigating land in Jharkhand and West Bengal. The Damodar flows through the mineral-rich Chota Nagpur Plateau.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        },
+        {
+          "text": "Coffee was first introduced to India in the Bababudan Hills of Karnataka. Who is credited with bringing coffee seeds to India?",
+          "options": [
+            "Hyder Ali, who got them from Arabia",
+            "Baba Budan, a Sufi saint who smuggled seeds from Yemen in the 17th century",
+            "Portuguese traders, who brought coffee from Brazil",
+            "The Vijayanagara kings, who imported coffee from Ethiopia"
+          ],
+          "answerIndex": 1,
+          "explanation": "According to legend, Baba Budan — a Sufi saint/pilgrim — smuggled seven coffee seeds from Mocha, Yemen (in the 17th century) strapped to his chest and planted them in the hills near Chikmagalur, Karnataka. These hills are now called Bababudan Hills (Baba Budan Giri). India's first coffee plantations were established here, and Chikmagalur remains one of India's most important coffee-growing districts.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Vembanad Lake is significant because it is:",
+          "options": [
+            "India's largest freshwater lake",
+            "The longest lake in India and largest in Kerala, forming part of the Kerala backwaters",
+            "The only lake in India home to Irrawaddy dolphins",
+            "India's second largest brackish water lagoon"
+          ],
+          "answerIndex": 1,
+          "explanation": "Vembanad Lake is the longest lake in India (~96 km), the largest lake in Kerala, and a core part of the Kerala backwater system. Kumarakom bird sanctuary sits on its eastern bank. It is also a Ramsar Site. Do not confuse: Irrawaddy dolphins are in Chilika Lake (Odisha), and India's largest freshwater lake is Wular Lake in Kashmir. The second largest brackish lagoon is Pulicat Lake.",
+          "source": "SSC CHSL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is a key difference between the Western Ghats and the Eastern Ghats?",
+          "options": [
+            "Western Ghats are lower in height than Eastern Ghats",
+            "Western Ghats are discontinuous while Eastern Ghats are continuous",
+            "Western Ghats are continuous while Eastern Ghats are discontinuous",
+            "Both are of equal height and continuity"
+          ],
+          "answerIndex": 2,
+          "explanation": "Western Ghats are a continuous range (with only one major break — the Palakkad Gap) running ~1,600 km from Tapti estuary to Kanyakumari. Eastern Ghats are discontinuous — they are broken into isolated hill groups (Nallamala, Erramalai, Shevaroy, Javadi Hills, etc.) by major east-flowing rivers (Mahanadi, Godavari, Krishna, Cauvery) cutting through them. Western Ghats are also higher (average 900-1,500 m) than Eastern Ghats (average ~600 m).",
+          "source": "SSC CGL 2016, 2019, 2022",
+          "verified": true
+        },
+        {
+          "text": "What is Palakkad (Palghat) Gap?",
+          "options": [
+            "A pass in the Himalayas used by Tibetan traders",
+            "A narrow passage through the Eastern Ghats used by the Cauvery River",
+            "The only major natural break in the Western Ghats, on the Kerala-Tamil Nadu border",
+            "A gap in the Aravallis that allows the Thar Desert to expand eastward"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Palakkad Gap (Palghat Gap) is the only major break in the otherwise continuous Western Ghats. It is about 30 km wide and located near Palakkad city on the Kerala-Tamil Nadu border. It allows the Northeast Monsoon to enter Kerala from the east, creates a drier climatic corridor, and carries a key railway (Palakkad-Shoranur line) and road connecting the two coasts. It is frequently asked in SSC exams as a fact-based distinction question.",
+          "source": "SSC CGL 2014, 2018, 2021",
+          "verified": true
+        },
+        {
+          "text": "Match the highest peaks with their correct states:\n1. Anamudi — A. Karnataka\n2. Dodabetta — B. Kerala\n3. Mullayanagiri — C. Tamil Nadu\n4. Kalsubai — D. Maharashtra",
+          "options": [
+            "1-B, 2-C, 3-A, 4-D",
+            "1-C, 2-B, 3-A, 4-D",
+            "1-B, 2-A, 3-C, 4-D",
+            "1-A, 2-C, 3-B, 4-D"
+          ],
+          "answerIndex": 0,
+          "explanation": "Anamudi (2,695 m) = Kerala (Idukki; Anaimalai Hills) — highest in peninsular India. Dodabetta (2,637 m) = Tamil Nadu (Nilgiris) — highest in TN. Mullayanagiri (1,930 m) = Karnataka (Chikmagalur). Kalsubai (1,646 m) = Maharashtra (Ahmednagar). Mnemonic: ADMK (Kerala→TN→Karnataka→Maharashtra, like the political party) going by decreasing height.",
+          "source": "SSC CGL 2017, 2020",
+          "verified": true
+        },
+        {
+          "text": "The Eastern Coastal Plains are wider than the Western Coastal Plains primarily because:",
+          "options": [
+            "Eastern coast receives more rainfall, causing faster erosion",
+            "Rivers on the east coast are longer and deposit more sediment, building wide deltas",
+            "The Bay of Bengal has weaker tides, allowing plains to form",
+            "Eastern Ghats are closer to the coast than Western Ghats"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Eastern Coastal Plains (80–100 km wide) are much wider than the Western Coastal Plains (10–25 km wide) because major peninsular rivers — Mahanadi, Godavari, Krishna, Cauvery — flow long distances across the Deccan before reaching the sea and deposit huge amounts of sediment, building wide deltaic plains. In contrast, Western Ghats rivers are short and steep, dumping sediment directly into estuaries with no delta formation. Eastern Ghats, being lower and more broken, don't interrupt the river journey the way Western Ghats do.",
+          "source": "SSC CGL 2015, 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
