@@ -1,0 +1,173 @@
+{
+  "topic": "Population, Census 2011 & Urbanisation",
+  "topicId": "geo-population-census",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "According to Census 2011, which state has the highest population density in India?",
+          "options": ["West Bengal", "Uttar Pradesh", "Bihar", "Kerala"],
+          "answerIndex": 2,
+          "explanation": "Bihar has India's highest population density among states at 1,102 persons per km² (Census 2011). West Bengal is 2nd at 1,028/km², Kerala is 3rd at 860/km². Delhi UT has an even higher density (11,320/km²) but is a Union Territory, not a state. Arunachal Pradesh has the lowest state density at just 17/km².",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which state has the highest sex ratio (females per 1,000 males) as per Census 2011?",
+          "options": ["Tamil Nadu", "Mizoram", "Kerala", "Goa"],
+          "answerIndex": 2,
+          "explanation": "Kerala has India's highest sex ratio at 1,084 females per 1,000 males — the only major state where women outnumber men. This reflects Kerala's strong investment in female education, healthcare, and low female infanticide rates. The national average is 943. Haryana has the lowest at 877.",
+          "source": "SSC CGL / SSC CHSL / SSC MTS previous years",
+          "verified": true
+        },
+        {
+          "text": "According to Census 2011, which state has the lowest literacy rate in India?",
+          "options": ["Jharkhand", "Uttar Pradesh", "Rajasthan", "Bihar"],
+          "answerIndex": 3,
+          "explanation": "Bihar has India's lowest literacy rate at 63.82% (Census 2011). Arunachal Pradesh (66.95%) is 2nd lowest. Kerala has the highest at 94.0%. Rajasthan has the lowest female literacy (52.66%) but is not the state with the lowest overall literacy — Bihar is.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "India became the first country in the world to adopt a national family planning programme. In which year?",
+          "options": ["1947", "1950", "1952", "1956"],
+          "answerIndex": 2,
+          "explanation": "India launched its National Family Planning Programme in 1952 — just five years after independence — becoming the FIRST country in the world to adopt a state-sponsored family planning initiative. This is a unique distinction SSC tests repeatedly. The programme has evolved significantly since then, moving from coercive (1970s) to voluntary, incentive-based approaches.",
+          "source": "SSC CGL / SSC GD previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Census 2011 reported India's sex ratio as 943 and child sex ratio (0-6 years) as 919. What does this gap indicate?",
+          "options": [
+            "The data is unreliable — there must be a counting error",
+            "Child sex ratio being lower means sex-selective discrimination is increasing, not decreasing",
+            "Child sex ratio is always lower than adult sex ratio due to natural biology",
+            "The gap means more boys die young, improving adult sex ratio"
+          ],
+          "answerIndex": 1,
+          "explanation": "The child sex ratio (919) being lower than the adult sex ratio (943) is deeply alarming — it means discrimination against girls is happening at birth or in early childhood (sex-selective abortions, female infanticide, neglect of girl children). The natural sex ratio at birth is ~950 girls per 1,000 boys. A ratio of 919 indicates intentional human interference. Haryana has the worst child sex ratio at 834.",
+          "source": "SSC CGL / UPSC pattern — conceptual question",
+          "verified": false
+        },
+        {
+          "text": "Which state recorded NEGATIVE population growth in Census 2011?",
+          "options": ["Sikkim", "Mizoram", "Nagaland", "Manipur"],
+          "answerIndex": 2,
+          "explanation": "Nagaland is the only state in India that recorded a negative decadal growth rate of -0.47% between 2001 and 2011. This means Nagaland actually lost population (net emigration + lower birth rate). Meghalaya had the highest growth (27.82%). This is a unique fact about Nagaland that SSC picks up regularly.",
+          "source": "SSC CGL pattern — frequently exploited",
+          "verified": false
+        },
+        {
+          "text": "Among the following, which state is the MOST urbanised (highest % of urban population) as per Census 2011?",
+          "options": ["Maharashtra", "Tamil Nadu", "Goa", "Gujarat"],
+          "answerIndex": 2,
+          "explanation": "Goa is India's most urbanised full state at 62.2% urban population (Census 2011). Tamil Nadu (48.4%) and Maharashtra (45.2%) are also highly urbanised, but Goa leads. Delhi UT is 97.5% urban — but as a UT, not a state. The least urbanised state is Himachal Pradesh (10.04%).",
+          "source": "SSC CGL / Geography pattern",
+          "verified": false
+        },
+        {
+          "text": "The first synchronous census in India was held in 1881 under which Viceroy?",
+          "options": ["Lord Curzon", "Lord Ripon", "Lord Mayo", "Lord Dalhousie"],
+          "answerIndex": 1,
+          "explanation": "The first synchronous census (all provinces enumerated at the same moment) was held in 1881 under Lord Ripon. The first-ever census in India was in 1872 under Lord Mayo — but it was non-synchronous (different areas counted at different times). Since 1881, India has held a census every 10 years. Census 2021 was the first to be postponed (due to COVID-19).",
+          "source": "SSC History / Geography pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which state has the highest percentage of Scheduled Tribe (ST) population as per Census 2011?",
+          "options": ["Meghalaya", "Jharkhand", "Chhattisgarh", "Mizoram"],
+          "answerIndex": 3,
+          "explanation": "Mizoram has the highest proportion of Scheduled Tribe (ST) population among states at ~94.4% — making it almost entirely tribal. Meghalaya (~86%) and Nagaland (~87%) are also highly tribal. Madhya Pradesh has the largest ST population in absolute numbers. Mizoram's tribal dominance explains its distinct culture and higher female literacy.",
+          "source": "SSC CGL / Geography — underrated static fact",
+          "verified": false
+        },
+        {
+          "text": "What is the correct definition of a 'Census Town' in India (a place newly classified as urban by Census)?",
+          "options": [
+            "Any place with a municipal corporation or municipality",
+            "Population ≥ 5,000; density ≥ 400/km²; ≥ 75% male workers in non-farm activities",
+            "Population ≥ 10,000; with a panchayat office and market area",
+            "Any place that the state government notifies as urban"
+          ],
+          "answerIndex": 1,
+          "explanation": "A 'Census Town' in India must satisfy all three criteria: (1) population ≥ 5,000; (2) population density ≥ 400 persons/km²; (3) at least 75% of male working population engaged in non-agricultural activities. Statutory towns (places with municipal bodies like corporations, municipalities, town panchayats) are automatically urban regardless of these criteria.",
+          "source": "SSC Geography / Economics pattern",
+          "verified": false
+        },
+        {
+          "text": "Which state has the highest proportion of Scheduled Caste (SC) population as per Census 2011?",
+          "options": ["Uttar Pradesh", "Tamil Nadu", "Punjab", "West Bengal"],
+          "answerIndex": 2,
+          "explanation": "Punjab has the highest percentage of SC population among states at ~31.9% — nearly 1 in 3 Punjabis belongs to a Scheduled Caste. Uttar Pradesh has the largest SC population in absolute numbers. This demographic fact about Punjab is often underestimated in exam prep and regularly appears in SSC questions.",
+          "source": "SSC CGL — underrated but tested",
+          "verified": false
+        },
+        {
+          "text": "India's 'demographic dividend' refers to which specific economic opportunity?",
+          "options": [
+            "High population growth generating more tax revenue",
+            "A large working-age population (15–59 yrs) producing more than the dependent population consumes",
+            "Urbanisation creating more industries and GDP",
+            "Export of skilled labour raising foreign remittances"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'demographic dividend' is the economic growth potential from having a large working-age population (15–59 years) relative to dependents (children and elderly). India's working-age share is ~62.5% (Census 2011). India's dividend window is approximately 2020–2040. If productive employment is created, the dividend boosts GDP significantly; without jobs, it becomes a demographic problem.",
+          "source": "SSC CGL / Economy-Geography pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "As per Census 2011, what is India's overall literacy rate?",
+          "options": ["64.83%", "70.04%", "74.04%", "79.8%"],
+          "answerIndex": 2,
+          "explanation": "India's literacy rate as per Census 2011 is 74.04% — up from 64.83% in 2001. Male literacy is 82.14%; female literacy is 65.46%. The largest improvement was in female literacy. Kerala has the highest state literacy (94.0%); Bihar has the lowest (63.82%). The 74% figure is very frequently asked directly.",
+          "source": "SSC CGL / SSC CHSL / SSC GD — very frequent",
+          "verified": true
+        },
+        {
+          "text": "Which is India's most populous state as per Census 2011?",
+          "options": ["Maharashtra", "Bihar", "Uttar Pradesh", "Madhya Pradesh"],
+          "answerIndex": 2,
+          "explanation": "Uttar Pradesh (UP) is India's most populous state with a population of approximately 19.98 crore (199.8 million) as per Census 2011. Maharashtra is 2nd (~11.24 crore), Bihar is 3rd (~10.41 crore). Sikkim is the least populous state (~6.1 lakh). UP's population is comparable to Brazil — the world's 5th most populous country.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "According to Census 2011, which was India's largest Urban Agglomeration?",
+          "options": ["Delhi", "Mumbai", "Kolkata", "Bengaluru"],
+          "answerIndex": 1,
+          "explanation": "Mumbai was India's largest Urban Agglomeration as per Census 2011 with a population of ~18.4 million. Delhi (16.3 million) was 2nd, Kolkata (14.1 million) was 3rd. Note: In more recent estimates (2020s), Delhi's metropolitan area may have exceeded Mumbai. But Census 2011 data: Mumbai > Delhi > Kolkata.",
+          "source": "SSC CGL / GK — frequently asked with Delhi as a trap",
+          "verified": true
+        },
+        {
+          "text": "Which state has the lowest sex ratio (fewest females per 1,000 males) as per Census 2011?",
+          "options": ["Punjab", "Uttar Pradesh", "Rajasthan", "Haryana"],
+          "answerIndex": 3,
+          "explanation": "Haryana has the lowest sex ratio in India at 877 females per 1,000 males (Census 2011). Haryana also has the lowest child sex ratio (0-6 years) at 834. Punjab (895) is 2nd lowest overall. The national average is 943. Kerala (1,084) has the highest. Haryana's low sex ratio reflects deep-rooted preference for male children and widespread sex-selective practices.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
