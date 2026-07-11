@@ -1,0 +1,163 @@
+{
+  "topic": "Energy Resources — Hydro, Thermal, Nuclear & Renewable",
+  "topicId": "geo-energy-resources",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the highest dam in India?",
+          "options": ["Bhakra Dam", "Hirakud Dam", "Tehri Dam", "Sardar Sarovar Dam"],
+          "answerIndex": 2,
+          "explanation": "Tehri Dam (260.5 m) on the Bhagirathi River in Uttarakhand is India's highest dam. It is a rockfill-cum-earth dam. Bhakra Dam (226 m) on the Sutlej is Asia's highest straight gravity dam — a different superlative. Hirakud is India's longest dam (25.8 km) on the Mahanadi in Odisha.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which was India's first nuclear power plant?",
+          "options": ["Kalpakkam (Tamil Nadu)", "Rawatbhata (Rajasthan)", "Tarapur (Maharashtra)", "Narora (UP)"],
+          "answerIndex": 2,
+          "explanation": "Tarapur Atomic Power Station (TAPS) in Maharashtra (Palghar district) was India's first nuclear power plant, commissioned in 1969. It used American-supplied Boiling Water Reactors (BWR). Kalpakkam (MAPS, 1984) was India's first indigenously designed reactor — a different distinction.",
+          "source": "SSC CGL / SSC GD previous years",
+          "verified": true
+        },
+        {
+          "text": "Bhakra Dam is built on which river?",
+          "options": ["Beas", "Ravi", "Chenab", "Sutlej"],
+          "answerIndex": 3,
+          "explanation": "Bhakra Dam is built on the Sutlej River in Himachal Pradesh (on the HP-Punjab border). The reservoir it creates is called Govind Sagar Lake. The Nangal Dam is a downstream barrage on the same river. Bhakra-Nangal is India's largest multipurpose river valley project.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "India's first nuclear test ('Smiling Buddha') was conducted in which year?",
+          "options": ["1968", "1972", "1974", "1998"],
+          "answerIndex": 2,
+          "explanation": "Pokhran I, code-named 'Smiling Buddha,' was conducted on May 18, 1974 at Pokhran, Rajasthan, under PM Indira Gandhi. India's second nuclear tests were Pokhran II ('Operation Shakti'), five tests in May 1998 under PM Atal Bihari Vajpayee. After 1998, India declared itself a nuclear weapons state.",
+          "source": "SSC CGL / History-Science GK",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Bhakra Dam (226 m) is called the 'highest gravity dam in Asia.' India's highest dam overall is Tehri Dam (260.5 m). What is the key difference between the two?",
+          "options": [
+            "Bhakra is on Sutlej; Tehri is on Ganga — river makes the difference",
+            "Bhakra is a gravity dam; Tehri is a rockfill dam — dam type makes the difference",
+            "Bhakra is in Punjab; Tehri is in UP — state makes the difference",
+            "Bhakra generates more power; Tehri is only for irrigation"
+          ],
+          "answerIndex": 1,
+          "explanation": "The critical distinction is dam type. Bhakra is a straight gravity dam — mass and gravity hold back water. Tehri is a rockfill-cum-earth dam — different construction. Bhakra (226 m) is the highest gravity dam in Asia; Tehri (260.5 m) is the highest dam in India overall. SSC uses this distinction to create false answer choices.",
+          "source": "SSC pattern analysis",
+          "verified": false
+        },
+        {
+          "text": "Which nuclear power station is India's largest by installed capacity and uses Russian VVER-1000 reactor technology?",
+          "options": ["Tarapur, Maharashtra", "Kalpakkam, Tamil Nadu", "Rawatbhata, Rajasthan", "Kudankulam, Tamil Nadu"],
+          "answerIndex": 3,
+          "explanation": "Kudankulam Nuclear Power Plant (KKNPP) in Tamil Nadu is India's largest nuclear power plant by capacity, built under an India-Russia civil nuclear agreement. It uses Russian VVER-1000 (Water-Water Energetic Reactor) technology. Tarapur was first; Kalpakkam was first indigenous design — but Kudankulam is largest.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        },
+        {
+          "text": "India's Three-Stage Nuclear Programme aims to eventually use which fuel in Stage 3, a resource India has in very large quantities?",
+          "options": ["Uranium", "Plutonium", "Thorium", "Heavy water"],
+          "answerIndex": 2,
+          "explanation": "Stage 3 of India's nuclear programme (designed by Homi J. Bhabha) uses thorium — specifically to breed U-233 from Th-232. India has the world's 2nd largest thorium reserves, found in Monazite sand along the coasts of Kerala and Tamil Nadu. Stage 1 uses natural uranium; Stage 2 uses plutonium bred in Stage 1.",
+          "source": "SSC Science-GK / UPSC pattern",
+          "verified": false
+        },
+        {
+          "text": "Which dam's reservoir is called 'Govind Sagar Lake'?",
+          "options": ["Tehri Dam", "Hirakud Dam", "Bhakra Dam", "Nagarjunasagar Dam"],
+          "answerIndex": 2,
+          "explanation": "Govind Sagar Lake is the reservoir created by Bhakra Dam on the Sutlej River in Himachal Pradesh. Named after Guru Gobind Singh. Tehri Dam's reservoir is called Tehri Reservoir (or Swami Ramtirthagiri Sagar). Nagarjunasagar is named after a Buddhist monk; Hirakud has the Hirakud reservoir.",
+          "source": "SSC CGL pattern — reservoir names are frequently tested",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Where is the headquarters of NHPC (National Hydroelectric Power Corporation)?",
+          "options": ["New Delhi", "Gurugram", "Faridabad", "Dehradun"],
+          "answerIndex": 2,
+          "explanation": "NHPC's headquarters is in Faridabad, Haryana — not New Delhi. NTPC (thermal) is in New Delhi; NHPC (hydro) is in Faridabad. This PSU headquarters confusion is a classic SSC trap. Power Grid Corporation (PGCIL) is in Gurugram.",
+          "source": "SSC CGL — PSU HQ questions underrated",
+          "verified": false
+        },
+        {
+          "text": "Which region in India has the highest tidal energy potential?",
+          "options": ["Sundarbans, West Bengal", "Gulf of Mannar, Tamil Nadu", "Gulf of Khambhat (Cambay), Gujarat", "Lakshadweep Sea"],
+          "answerIndex": 2,
+          "explanation": "The Gulf of Khambhat (Cambay) in Gujarat has India's highest tidal energy potential, with a tidal range of 8–11 m. The Gulf of Kachchh (Kutch) is also significant. The Sundarbans (WB) has been studied but has lower tidal range. India has no operational large-scale tidal power plant yet.",
+          "source": "SSC Geography pattern — often skipped",
+          "verified": false
+        },
+        {
+          "text": "Jaduguda (Jharkhand) is significant in India's nuclear energy programme for which reason?",
+          "options": ["It hosts India's largest nuclear reactor", "It is India's only operational uranium mine", "It has India's largest thorium reserve", "BARC's main research campus is here"],
+          "answerIndex": 1,
+          "explanation": "Jaduguda in Jharkhand is India's only currently operational uranium mine, making it strategically critical for Stage 1 of India's nuclear programme. India's uranium deposits are limited — hence the long-term emphasis on thorium (Stage 3). BARC is in Trombay, Mumbai; thorium is in Kerala-TN coasts.",
+          "source": "SSC Science-GK pattern",
+          "verified": false
+        },
+        {
+          "text": "The International Solar Alliance (ISA) was proposed by India at which international climate conference?",
+          "options": ["COP20 Lima (2014)", "COP21 Paris (2015)", "COP22 Marrakech (2016)", "COP26 Glasgow (2021)"],
+          "answerIndex": 1,
+          "explanation": "Prime Minister Narendra Modi proposed the International Solar Alliance (ISA) at COP21 in Paris in November 2015, jointly with French President François Hollande. ISA focuses on mobilising solar energy deployment in 120+ sunshine countries (between the Tropics of Cancer and Capricorn). Its HQ is in Gurugram, Haryana.",
+          "source": "SSC CGL Current Affairs / Static GK pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which is India's longest dam?",
+          "options": ["Bhakra Dam (Sutlej)", "Tehri Dam (Bhagirathi)", "Hirakud Dam (Mahanadi)", "Sardar Sarovar (Narmada)"],
+          "answerIndex": 2,
+          "explanation": "Hirakud Dam on the Mahanadi River in Odisha is India's longest dam at 25.8 km — also the world's longest earthen dam. It has two observation towers named Gandhi Minar and Nehru Minar. Bhakra is the highest gravity dam; Tehri is the highest dam overall. SSC tests all three dam superlatives.",
+          "source": "SSC CGL / SSC CHSL — very frequent",
+          "verified": true
+        },
+        {
+          "text": "Which dam created the reservoir called 'Govind Sagar' and is known as Asia's highest gravity dam?",
+          "options": ["Nagarjunasagar Dam", "Hirakud Dam", "Tehri Dam", "Bhakra Dam"],
+          "answerIndex": 3,
+          "explanation": "Bhakra Dam on the Sutlej River (HP/Punjab border) is Asia's highest straight gravity dam at 226 m and created the Govind Sagar reservoir. It is part of the Bhakra-Nangal project, India's largest multipurpose river valley project. Jawaharlal Nehru called it 'the new temple of resurgent India.'",
+          "source": "SSC CGL — one of the most repeated dam questions",
+          "verified": true
+        },
+        {
+          "text": "World's largest solar park 'Bhadla Solar Park' is located in which state?",
+          "options": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Karnataka"],
+          "answerIndex": 2,
+          "explanation": "Bhadla Solar Park in Jodhpur district, Rajasthan is the world's largest solar park (over 2,245 MW). Rajasthan receives India's highest solar irradiation and is India's largest solar power-producing state. Pavagada (Karnataka) is 2nd largest solar park; Rewa (MP) supplies power to Delhi Metro.",
+          "source": "SSC CGL / Current Affairs — frequently asked",
+          "verified": true
+        },
+        {
+          "text": "NTPC (National Thermal Power Corporation) is headquartered in which city?",
+          "options": ["Faridabad", "Gurugram", "New Delhi", "Hyderabad"],
+          "answerIndex": 2,
+          "explanation": "NTPC Limited is headquartered in New Delhi. It is India's largest power generating company and a Maharatna PSU. NHPC (hydroelectric) is in Faridabad, Haryana. Power Grid Corporation (PGCIL) is in Gurugram. These three power sector PSUs in the NCR region are frequently confused.",
+          "source": "SSC CGL / SSC GD — very frequently asked PSU HQ",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
