@@ -1,0 +1,237 @@
+{
+  "topic": "Climate, Monsoon, Seasons & Rainfall Distribution",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The word 'monsoon' is derived from which language, and what does it mean?",
+          "options": [
+            "Portuguese; 'rain'",
+            "Arabic; 'Mausim' meaning season",
+            "Sanskrit; 'Manas' meaning cloud",
+            "Latin; 'mons' meaning mountain"
+          ],
+          "answerIndex": 1,
+          "explanation": "The word 'monsoon' is derived from the Arabic word 'Mausim', meaning season. It originally referred to the seasonal reversal of winds in the Arabian Sea — blowing from the southwest in summer (bringing rain) and from the northeast in winter (dry). Arabic traders and sailors who navigated the Indian Ocean observed and named this seasonal wind pattern long before European explorers. The term later came into English via Portuguese ('monção').",
+          "source": "SSC CGL 2015, 2019",
+          "verified": true
+        },
+        {
+          "text": "Which place in India receives the highest average annual rainfall?",
+          "options": [
+            "Cherrapunji (Sohra), Meghalaya",
+            "Mawsynram, Meghalaya",
+            "Agumbe, Karnataka",
+            "Mahabaleshwar, Maharashtra"
+          ],
+          "answerIndex": 1,
+          "explanation": "Mawsynram in the Khasi Hills, Meghalaya receives the highest average annual rainfall in India (and the world) — approximately 11,871 mm (~1,187 cm). Cherrapunji (Sohra), just 15 km away, previously held this record and still holds records for the highest rainfall in a single month (July 1861: 9,300 mm) and a single year. Both are in Meghalaya's Khasi Hills, where the Bay of Bengal monsoon branch is funnelled into a bowl-shaped valley and forced to rise sharply, causing intense orographic rainfall.",
+          "source": "SSC CGL 2014, 2018, 2022",
+          "verified": true
+        },
+        {
+          "text": "The Southwest Monsoon generally arrives at the Kerala coast around which date?",
+          "options": [
+            "June 15",
+            "July 1",
+            "June 1",
+            "May 15"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Southwest Monsoon typically arrives at the Kerala coast around June 1 (give or take a few days depending on the year). This marks the official start of the monsoon season in India. From Kerala, it advances northward and eastward: reaching Mumbai by June 10–15, Delhi by late June / July 1, and covering all of India by July 15. The India Meteorological Department (IMD) makes formal announcements of the monsoon onset based on established criteria (sustained rainfall, wind reversal, outgoing longwave radiation).",
+          "source": "SSC CGL 2016, 2020",
+          "verified": true
+        },
+        {
+          "text": "Western Disturbances bring winter rainfall to northwest India. From which region do they originate?",
+          "options": [
+            "Bay of Bengal",
+            "Arabian Sea",
+            "Mediterranean Sea and West Asia",
+            "Indian Ocean near Sri Lanka"
+          ],
+          "answerIndex": 2,
+          "explanation": "Western Disturbances are extratropical cyclones that originate in the Mediterranean Sea and West Asia. They travel eastward along the southern branch of the sub-tropical westerly jet stream, entering India from the northwest. They bring crucial winter rainfall and snowfall to J&K, Himachal Pradesh, Punjab, and Uttarakhand during December–February. This winter rainfall is vital for Rabi crops, especially wheat. They are called 'western' disturbances because they approach from the west.",
+          "source": "SSC CGL 2017, 2021",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Rajasthan is one of the driest regions in India despite having the Aravalli mountain range. Why don't the Aravallis cause significant rainfall in Rajasthan?",
+          "options": [
+            "The Aravallis are too old and worn down to force winds upward",
+            "The Aravallis run parallel to the Arabian Sea monsoon wind direction, so they do not act as a barrier",
+            "The Aravallis are too far inland and the monsoon loses moisture before reaching them",
+            "The Aravallis only block the Bay of Bengal branch, not the Arabian Sea branch"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Aravallis run in a northeast-southwest direction — which is roughly parallel to the Arabian Sea branch of the Southwest Monsoon (which blows from the southwest). For a mountain range to cause orographic rainfall, it must be perpendicular to the wind direction (like the Western Ghats facing the Arabian Sea head-on). Since the Aravallis are parallel to the wind, the monsoon simply flows alongside them rather than being forced to rise. This is why Rajasthan east of the Aravallis is dry, not just the Thar Desert west of them.",
+          "source": "SSC CHSL 2020",
+          "verified": false
+        },
+        {
+          "text": "Tamil Nadu gets most of its rainfall during October–December, unlike most of India that gets rain during June–September. What is the reason?",
+          "options": [
+            "Tamil Nadu has a special geography that attracts monsoon late",
+            "Tamil Nadu is in the rain shadow of the Eastern Ghats during SW Monsoon; it gets rain from the NE Monsoon as the retreating winds pick up moisture from the Bay of Bengal",
+            "Tamil Nadu receives both the Arabian Sea and Bay of Bengal branches simultaneously in October",
+            "Tamil Nadu has more mountains that force local rainfall systems"
+          ],
+          "answerIndex": 1,
+          "explanation": "During the SW Monsoon (June–September), Tamil Nadu is largely in the rain shadow of the Eastern Ghats and receives little rain. But in October–December, as the SW Monsoon retreats, winds reverse direction to blow from the northeast. These NE Monsoon winds travel over the Bay of Bengal, picking up moisture, and then strike the Coromandel Coast (Tamil Nadu) — bringing the state its primary rainfall. Chennai gets ~60% of its annual rain from this NE Monsoon. This also explains why Chennai faces cyclone threats in Oct–Nov, when the Bay of Bengal is thermally active.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Which of the following statements about El Niño and its effect on India is CORRECT?",
+          "options": [
+            "El Niño warms the Indian Ocean and intensifies the SW Monsoon, causing floods",
+            "El Niño is a warming of the central/eastern Pacific that weakens the SW Monsoon, often causing drought in India",
+            "El Niño is a phenomenon of the Bay of Bengal and has no connection to Pacific temperatures",
+            "El Niño only affects India's NE Monsoon in October–December"
+          ],
+          "answerIndex": 1,
+          "explanation": "El Niño is an abnormal warming of the central and eastern Pacific Ocean surface. This disrupts global atmospheric circulation (the Walker Circulation), weakening the pressure gradient that drives the SW Monsoon toward India. The result is below-normal monsoon rainfall over India — drought conditions. Major drought years associated with El Niño: 1987, 2002, 2009, 2015. La Niña (opposite — Pacific cooling) tends to strengthen India's monsoon. A positive Indian Ocean Dipole (IOD) can partially counteract El Niño's negative effects on India.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "'Kalbaisakhi' refers to which weather phenomenon, and where does it primarily occur?",
+          "options": [
+            "Hot, dry winds in Rajasthan in summer afternoons",
+            "Violent, pre-monsoon thunderstorms in West Bengal and Northeast India in April–May",
+            "Winter fog in the Indo-Gangetic Plains",
+            "Pre-monsoon showers in Kerala that help ripen mangoes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kalbaisakhi (meaning 'calamity of Baisakh/April' in Bengali) refers to violent, local thunderstorms that occur in West Bengal and Northeast India in April and May. They blow from the northwest — hence also called 'Norwesters'. These storms bring brief but intense rainfall, hail, and strong winds. Despite the destruction, Kalbaisakhi is agriculturally beneficial — it provides pre-monsoon moisture for jute and tea cultivation, and helps mango and litchi crops. 'Loo' is the hot dry wind in Rajasthan/UP plains; 'Mango Showers' are Kerala's pre-monsoon showers.",
+          "source": "SSC CHSL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated (Often Ignored)",
+      "questions": [
+        {
+          "text": "The 'Loo' is a well-known local wind in India. Which of the following correctly describes it?",
+          "options": [
+            "Cold, moist winds from the Himalayas blowing into the plains in December",
+            "Hot, dry, dusty winds blowing from west to east across the Indo-Gangetic plains in May–June afternoons",
+            "Cyclonic winds that hit the Coromandel Coast during October–November",
+            "Coastal sea breeze that blows inland in the evenings in Gujarat"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'Loo' is a hot, dry, dusty wind that blows in the afternoons across the Indo-Gangetic Plains (Rajasthan, UP, Bihar, Haryana, Delhi) from west to east during May and June — just before the monsoon arrives. Temperatures can reach 45–48°C. Exposure to Loo for extended periods can cause heat stroke and death. The Loo weakens and disappears once the monsoon arrives. It is NOT a Himalayan wind, NOT coastal, and has no relation to cyclones. It is a thermally-driven wind caused by extreme heating of the arid northwest.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "The Indian Ocean Dipole (IOD) affects India's monsoon. What is a 'Positive IOD'?",
+          "options": [
+            "When the eastern Indian Ocean (near Indonesia) is warmer than the western Indian Ocean",
+            "When the western Indian Ocean (near East Africa) is warmer than the eastern Indian Ocean, generally benefiting India's monsoon",
+            "When both the Indian Ocean and Pacific Ocean are warmer than normal simultaneously",
+            "When Arabian Sea temperatures are higher than Bay of Bengal temperatures"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Indian Ocean Dipole (IOD) is the difference in sea surface temperature between the western Indian Ocean (near Somalia/East Africa) and the eastern Indian Ocean (near Indonesia/Sumatra). A Positive IOD means the western Indian Ocean is warmer and the eastern cooler. Warm western Indian Ocean draws more moisture and reinforces the pressure gradient driving the SW Monsoon toward India — generally leading to above-normal rainfall. A Positive IOD can partially counteract the negative effects of El Niño on India's monsoon (as happened in 2019 when a strong +IOD offset a weak El Niño).",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Mango Showers (Blossom Showers) are local convective rains that occur in May–June. Where do they primarily occur?",
+          "options": [
+            "West Bengal and Northeast India",
+            "Rajasthan and Gujarat",
+            "Kerala and Karnataka",
+            "Odisha and Andhra Pradesh"
+          ],
+          "answerIndex": 2,
+          "explanation": "Mango Showers (or Blossom Showers) occur in Kerala and Karnataka in May–June — pre-monsoon convective rainfall that helps ripen mangoes on the trees. In Karnataka, they are specifically called 'blossom showers' because they help the flowering (blossoming) of coffee plants, which is critical for the yield of one of India's most important export crops. These are local, convective afternoon storms — quite different from Kalbaisakhi (which is a thunderstorm in West Bengal) or Western Disturbances (which are winter rains in NW India).",
+          "source": "SSC CPO 2020",
+          "verified": false
+        },
+        {
+          "text": "Ladakh (Leh) receives very low annual rainfall despite being surrounded by high Himalayan ranges. What is the reason?",
+          "options": [
+            "Ladakh is a hot desert with high evaporation rates",
+            "Ladakh is in the rain shadow of the Great Himalayas — moisture-laden monsoon winds cannot penetrate past the high ranges",
+            "Ladakh is too far north for the monsoon to reach",
+            "The Karakoram Range blocks all moisture from both the Arabian Sea and Bay of Bengal"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ladakh receives only ~7–14 cm of annual rainfall, making it one of the driest places in India — a cold high-altitude desert. The reason is the Great Himalayas (Himadri) to its south and the Zanskar Range: these massive barriers intercept virtually all the moisture from the SW Monsoon before it can reach Ladakh. By the time any air mass crosses these ranges, it has lost nearly all its moisture — descending dry and warming on the leeward (Ladakh) side. Ladakh is a cold desert (not hot like Rajasthan); its aridity comes from being in the rain shadow of the world's highest mountains.",
+          "source": "SSC MTS 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following local winds is associated with West Bengal and Northeast India during April–May?",
+          "options": [
+            "Loo",
+            "Kalbaisakhi (Norwesters)",
+            "Mango Showers",
+            "Andhi"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kalbaisakhi (Norwesters) are violent, pre-monsoon thunderstorms in West Bengal and Northeast India (April–May). They blow from the northwest. Loo is a hot dry wind in the Indo-Gangetic Plains (Rajasthan, UP) in May–June afternoons. Mango Showers are pre-monsoon convective rains in Kerala and Karnataka. Andhi is a dust storm in Rajasthan and UP in summer. SSC regularly tests this question by mixing up local winds — memorise which wind belongs to which region.",
+          "source": "SSC CGL 2014, 2017, 2021",
+          "verified": true
+        },
+        {
+          "text": "Which coast of India receives the most rainfall from the Northeast Monsoon (retreating monsoon)?",
+          "options": [
+            "Malabar Coast (Kerala)",
+            "Konkan Coast (Maharashtra-Goa)",
+            "Coromandel Coast (Tamil Nadu)",
+            "Northern Circars (Andhra Pradesh)"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Coromandel Coast (Tamil Nadu coast) receives the bulk of its annual rainfall from the Northeast Monsoon (October–December). During the SW Monsoon, Tamil Nadu is largely in the rain shadow of the Eastern Ghats and the Western Ghats/peninsular highlands, receiving little rain. When the monsoon retreats and winds reverse to the northeast, they travel over the Bay of Bengal and pick up moisture, hitting the Coromandel Coast with heavy rain. Chennai gets ~60% of its annual rainfall from the NE Monsoon — this is completely opposite to the rest of India.",
+          "source": "SSC CGL 2015, 2019, 2022",
+          "verified": true
+        },
+        {
+          "text": "The Southwest Monsoon has two branches as it enters India. Which of the following correctly describes them?",
+          "options": [
+            "Arabian Sea branch hits Eastern Ghats; Bay of Bengal branch hits Western Ghats",
+            "Arabian Sea branch hits Western Ghats (bringing heavy west coast rain) and Bay of Bengal branch brings rain to Northeast India and the Ganga plains",
+            "Both branches merge near Mumbai and then spread uniformly across the country",
+            "Arabian Sea branch causes drought in the Deccan; Bay of Bengal branch goes directly to Rajasthan"
+          ],
+          "answerIndex": 1,
+          "explanation": "The SW Monsoon has two branches: (1) Arabian Sea Branch — strikes the Western Ghats head-on, causing very heavy rainfall on the west coast (Konkan, Malabar, 2,000–4,000 mm+); the eastern Deccan lies in the rain shadow. (2) Bay of Bengal Branch — moves northeast, hits the Meghalaya hills (causing world's highest rainfall at Mawsynram), then turns west along the Ganga plains to cover UP, Bihar, Bengal, and Delhi. Together they cover the entire country by mid-July. The two-branch question is a regular SSC pattern.",
+          "source": "SSC CGL 2016, 2020",
+          "verified": true
+        },
+        {
+          "text": "The four seasons of India in the correct chronological order are:",
+          "options": [
+            "Summer → Monsoon → Winter → Retreating Monsoon",
+            "Winter → Summer → Advancing SW Monsoon → Retreating NE Monsoon",
+            "Monsoon → Summer → Winter → Spring",
+            "Winter → Monsoon → Summer → Autumn"
+          ],
+          "answerIndex": 1,
+          "explanation": "India's four climatic seasons (per the IMD classification) are: (1) Cold Weather / Winter Season — December to February; (2) Hot Weather / Summer Season — March to May; (3) Advancing SW Monsoon — June to September; (4) Retreating / NE Monsoon — October to November (transition to next winter). These seasons are not the temperate four seasons (spring/summer/autumn/winter) — they are defined by India's monsoon system. SSC frequently tests the sequence and the months associated with each season.",
+          "source": "SSC CGL 2015, 2018, 2023",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
