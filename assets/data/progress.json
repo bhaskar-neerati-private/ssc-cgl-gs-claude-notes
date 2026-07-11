@@ -198,8 +198,94 @@
       "name": "Indian Geography",
       "tier": "A",
       "order": 3,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "geo-location-physiography",
+          "title": "Location, Extent & Physiographic Divisions of India",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-himalayas",
+          "title": "The Himalayan System — Ranges, Passes & Peaks",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-plains-plateaus-coasts",
+          "title": "Northern Plains, Peninsular Plateau, Ghats & Coastal Plains",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-himalayan-rivers",
+          "title": "Himalayan Rivers — Indus, Ganga & Brahmaputra Systems",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-peninsular-rivers",
+          "title": "Peninsular Rivers — East Flowing & West Flowing",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-lakes-islands-straits",
+          "title": "Lakes, Islands, Straits & Water Bodies",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-climate-monsoon",
+          "title": "Climate, Monsoon, Seasons & Rainfall Distribution",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-soils",
+          "title": "Soils of India — Types, Distribution & Characteristics",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-vegetation-forests",
+          "title": "Natural Vegetation & Forest Types",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-wildlife-protected-areas",
+          "title": "Wildlife, National Parks, Tiger Reserves & Biosphere Reserves",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-agriculture-food-crops",
+          "title": "Agriculture: Food Crops, Kharif-Rabi & Green Revolution",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-agriculture-cash-crops",
+          "title": "Agriculture: Cash Crops, Plantation Crops & Oilseeds",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-minerals",
+          "title": "Minerals — Ferrous, Non-Ferrous & Coal",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-energy-resources",
+          "title": "Energy Resources — Hydro, Thermal, Nuclear & Renewable",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-industries",
+          "title": "Major Industries of India",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-transport",
+          "title": "Transport & Communication — Roads, Railways, Ports & Airways",
+          "status": "not-started"
+        },
+        {
+          "id": "geo-population-census",
+          "title": "Population, Census 2011 & Urbanisation",
+          "status": "not-started"
+        }
+      ]
     },
     {
       "id": "economy",
