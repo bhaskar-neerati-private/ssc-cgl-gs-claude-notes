@@ -1,0 +1,163 @@
+{
+  "topic": "Agriculture: Cash Crops, Plantation Crops & Oilseeds",
+  "topicId": "geo-agriculture-cash-crops",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which state is the largest producer of cotton in India?",
+          "options": ["Maharashtra", "Gujarat", "Rajasthan", "Telangana"],
+          "answerIndex": 1,
+          "explanation": "Gujarat is India's largest cotton producer, not Maharashtra. Maharashtra is second (Vidarbha region). Gujarat also grows the most groundnut and castor — it dominates the oilseed and cash crop belt of western India.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which state is the largest producer of jute in India?",
+          "options": ["Bihar", "Assam", "West Bengal", "Odisha"],
+          "answerIndex": 2,
+          "explanation": "West Bengal produces about 80% of India's jute. The Hugli River belt in West Bengal has dozens of jute mills. Jute is called the 'Golden Fibre' and grows in the hot, humid Ganga-Brahmaputra delta alluvial soil.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which state is the largest producer of tea in India?",
+          "options": ["West Bengal", "Assam", "Tamil Nadu", "Kerala"],
+          "answerIndex": 1,
+          "explanation": "Assam is India's largest tea-producing state by volume, producing strong malty CTC tea from the Brahmaputra valley. West Bengal (Darjeeling) is most famous for quality but produces far less. Guwahati in Assam is also the world's largest tea auction centre.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "Who is known as the 'Father of the White Revolution' in India?",
+          "options": ["M.S. Swaminathan", "Norman Borlaug", "Verghese Kurien", "Tribhuvandas Patel"],
+          "answerIndex": 2,
+          "explanation": "Verghese Kurien is the Father of the White Revolution (Operation Flood, 1970–1996). He built Amul (Anand Milk Union Limited) and the National Dairy Development Board (NDDB) at Anand, Gujarat, making India the world's largest milk producer. MS Swaminathan is Father of the Green Revolution.",
+          "source": "SSC CGL / UPSC previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which state produces the most sugarcane in India, and which state has the highest sugarcane yield per hectare?",
+          "options": [
+            "UP for both production and yield",
+            "UP (largest production), Tamil Nadu (highest yield)",
+            "Maharashtra (largest production), UP (highest yield)",
+            "UP (largest production), Maharashtra (highest yield)"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is a classic production vs. productivity trap. Uttar Pradesh produces the most sugarcane in absolute quantity (Meerut-Muzaffarnagar belt). Tamil Nadu (and Karnataka) achieve the highest sucrose content and yield per hectare because of their tropical conditions. SSC exploits this distinction repeatedly.",
+          "source": "SSC CGL pattern analysis",
+          "verified": false
+        },
+        {
+          "text": "Darjeeling tea was the first Indian product to receive a Geographical Indication (GI) tag. In what year?",
+          "options": ["2000", "2002", "2004", "2006"],
+          "answerIndex": 2,
+          "explanation": "Darjeeling tea received India's first Geographical Indication (GI) tag in 2004 under the Geographical Indications of Goods (Registration and Protection) Act, 1999. A GI tag certifies that only tea grown in Darjeeling hills can be marketed as 'Darjeeling Tea'.",
+          "source": "SSC CGL / SSC MTS pattern",
+          "verified": false
+        },
+        {
+          "text": "India is the world's largest producer of which industrial oil?",
+          "options": ["Coconut oil", "Linseed oil", "Castor oil", "Sesame oil"],
+          "answerIndex": 2,
+          "explanation": "India is the world's largest producer of castor oil. Gujarat is the dominant state for castor. Castor oil is primarily used industrially — lubricants, biodiesel, polymers, and cosmetics — NOT as a cooking oil. This tricky detail (industrial vs edible) is what SSC tests.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        },
+        {
+          "text": "Which of the following commodity boards is headquartered in Kolkata?",
+          "options": ["Coffee Board", "Tea Board", "Rubber Board", "Spices Board"],
+          "answerIndex": 1,
+          "explanation": "Tea Board of India is headquartered in Kolkata (Calcutta), reflecting the historical Bengal-Assam tea trade. Coffee Board = Bengaluru; Rubber Board = Kottayam, Kerala; Spices Board = Kochi, Kerala; Coir Board = Kochi, Kerala; Tobacco Board = Guntur, AP.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which river belt is the centre of India's jute manufacturing industry?",
+          "options": ["Ganga in UP", "Hugli in West Bengal", "Damodar in Jharkhand", "Mahanadi in Odisha"],
+          "answerIndex": 1,
+          "explanation": "The Hugli River in West Bengal is the heart of India's jute mill industry. Towns like Rishra, Serampore, Barrackpore, and Uluberia all have jute mills along a 100-km Hugli riverfront stretch. Raw jute from Bengal and Bihar fields comes downstream and is processed here.",
+          "source": "SSC pattern analysis",
+          "verified": false
+        },
+        {
+          "text": "India is referred to as an 'oil-deficit' country despite being a large oilseed producer. Which edible oil does India import the most?",
+          "options": ["Sunflower oil", "Soybean oil", "Palm oil", "Groundnut oil"],
+          "answerIndex": 2,
+          "explanation": "India imports the most palm oil (from Malaysia and Indonesia), which accounts for about 60–65% of India's total edible oil imports. Palm oil is cheapest globally. India also imports sunflower oil (from Ukraine/Russia). Groundnut oil is domestically produced and not imported.",
+          "source": "SSC CGL economic geography pattern",
+          "verified": false
+        },
+        {
+          "text": "Which district in Andhra Pradesh is the world's largest centre for Flue-Cured Virginia (FCV) tobacco trade?",
+          "options": ["Vijayawada", "Guntur", "Visakhapatnam", "Nellore"],
+          "answerIndex": 1,
+          "explanation": "Guntur (Andhra Pradesh) is Asia's — and effectively the world's — largest FCV tobacco auction and trading centre. FCV tobacco from Guntur and Krishna districts is premium grade exported to international cigarette manufacturers. Guntur is also India's largest chilli market.",
+          "source": "SSC geography pattern",
+          "verified": false
+        },
+        {
+          "text": "The 'Coir Capital of the World' is which city in India?",
+          "options": ["Kochi", "Thiruvananthapuram", "Alappuzha (Alleppey)", "Kozhikode"],
+          "answerIndex": 2,
+          "explanation": "Alappuzha (Alleppey) in Kerala is called the 'Coir Capital of the World.' Coir is the fibre extracted from coconut husks and is used for mats, ropes, and geotextiles. The Coir Board of India is headquartered in Kochi, but the production and trading hub is Alappuzha.",
+          "source": "SSC geography pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which state is the largest producer of coffee in India?",
+          "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+          "answerIndex": 2,
+          "explanation": "Karnataka produces about 70% of India's coffee, making it the undisputed largest coffee producer. Coorg (Kodagu) and Chikmagalur are the famous coffee districts. Bababudan Hills in Chikmagalur is where coffee was first cultivated in India in the 17th century. Kerala is 2nd (~20%), Tamil Nadu 3rd (~10%).",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the largest producing state for natural rubber in India?",
+          "options": ["Tamil Nadu", "Karnataka", "Assam", "Kerala"],
+          "answerIndex": 3,
+          "explanation": "Kerala produces about 91% of India's natural rubber. The Rubber Board of India is headquartered in Kottayam, Kerala — known as the 'Rubber City of India.' Tripura is a fast-growing rubber producer in the northeast. India's rubber goes almost entirely to the domestic tyre industry.",
+          "source": "SSC CGL — frequently asked",
+          "verified": true
+        },
+        {
+          "text": "In which of the following agricultural revolutions is Verghese Kurien associated?",
+          "options": ["Green Revolution", "Blue Revolution", "Yellow Revolution", "White Revolution"],
+          "answerIndex": 3,
+          "explanation": "Verghese Kurien led the White Revolution (Operation Flood, 1970–1996), which made India the world's largest milk producer. He built Amul and NDDB at Anand, Gujarat. MS Swaminathan = Green Revolution; Yellow Revolution = Oilseeds (Technology Mission on Oilseeds, 1986); Blue Revolution = Fisheries.",
+          "source": "SSC CGL / Railway / Bank PO — very frequent",
+          "verified": true
+        },
+        {
+          "text": "Black Pepper is known as the 'King of Spices.' Which state is its largest producer in India?",
+          "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+          "answerIndex": 2,
+          "explanation": "Kerala is the largest black pepper producer in India — particularly Wayanad, Idukki, and Kannur districts. Black pepper is called 'King of Spices' and 'Black Gold' — it was the primary reason European powers sought sea routes to India. Cardamom (Queen of Spices) also comes from Kerala (Idukki's Cardamom Hills).",
+          "source": "SSC CGL / SSC CHSL — frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
