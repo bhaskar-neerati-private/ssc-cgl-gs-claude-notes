@@ -1,0 +1,237 @@
+{
+  "topic": "Lakes, Islands, Straits & Water Bodies of India",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the largest natural freshwater lake in India?",
+          "options": [
+            "Chilika Lake",
+            "Vembanad Lake",
+            "Wular Lake",
+            "Sambhar Lake"
+          ],
+          "answerIndex": 2,
+          "explanation": "Wular Lake in Jammu & Kashmir is India's largest natural freshwater lake. It is formed on the Jhelum River in the Kashmir Valley and varies in size from ~30 sq km in dry season to ~260 sq km in floods. Do NOT confuse: Chilika = largest coastal lagoon (brackish, Odisha); Sambhar = largest inland saline lake (Rajasthan); Vembanad = longest lake (Kerala, ~96 km). Gobind Sagar (HP) is the largest ARTIFICIAL lake.",
+          "source": "SSC CGL 2016, 2019",
+          "verified": true
+        },
+        {
+          "text": "India's only active volcano, Barren Island, is located in which island group?",
+          "options": [
+            "Lakshadweep",
+            "Andaman Islands",
+            "Nicobar Islands",
+            "Maldives"
+          ],
+          "answerIndex": 1,
+          "explanation": "Barren Island (administratively part of the Andaman Islands district, though geographically between Andaman and Nicobar) contains India's only active volcano. It last erupted in 2017 and 2020. India's only dormant volcano is Narcondam Island, also in the Andaman group. Both are in the Bay of Bengal. Lakshadweep is in the Arabian Sea and has no volcanoes — it consists of coral atolls.",
+          "source": "SSC CGL 2015, 2020",
+          "verified": true
+        },
+        {
+          "text": "The Ten Degree Channel separates which two island groups?",
+          "options": [
+            "Lakshadweep and Maldives",
+            "Minicoy and the rest of Lakshadweep",
+            "Andaman Islands and Nicobar Islands",
+            "Sri Lanka and the Nicobar Islands"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Ten Degree Channel (running along the 10°N latitude) separates the Andaman Islands (to the north) from the Nicobar Islands (to the south). The Eight Degree Channel separates Lakshadweep from the Maldives. The Nine Degree Channel separates Minicoy Island from the main Lakshadweep group. Memorise all three channel numbers as an SSC favourite sequence question.",
+          "source": "SSC CGL 2014, 2018",
+          "verified": true
+        },
+        {
+          "text": "What is the southernmost point of India?",
+          "options": [
+            "Kanyakumari, Tamil Nadu",
+            "Indira Point, Great Nicobar Island",
+            "Point Calimere, Tamil Nadu",
+            "Minicoy Island, Lakshadweep"
+          ],
+          "answerIndex": 1,
+          "explanation": "Indira Point (formerly Pygmalion Point) on Great Nicobar Island (Andaman & Nicobar Islands) is the southernmost point of India, at approximately 6°45'N. Kanyakumari is the southernmost point of the Indian MAINLAND (peninsular India) — an important distinction. Indira Point was partially submerged during the 2004 Indian Ocean Tsunami. SSC sometimes specifies 'mainland' vs the full territory — read the question carefully.",
+          "source": "SSC CGL 2013, 2017, 2021",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Lonar Lake in Maharashtra is unique because it is:",
+          "options": [
+            "A high-altitude tectonic lake formed by seismic activity",
+            "India's largest saline lake, formed in a river valley",
+            "A crater lake formed by a meteor impact, with saline and alkaline water",
+            "A lagoon separated from the Arabian Sea by a sand bar"
+          ],
+          "answerIndex": 2,
+          "explanation": "Lonar Lake in Buldhana district, Maharashtra, is India's only meteor-impact crater lake — formed when a large meteorite struck approximately 50,000 years ago. It is chemically unique: the water is both saline AND alkaline (pH around 10.5), supporting extremophile microorganisms found nowhere else in India. It became a Ramsar site in 2020. Many students confuse it with Sambhar (largest inland saline lake) or with volcanic crater lakes — Lonar is meteoric, not volcanic.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Keibul Lamjao National Park — the world's only floating national park — is located in which lake?",
+          "options": [
+            "Wular Lake, J&K",
+            "Chilika Lake, Odisha",
+            "Loktak Lake, Manipur",
+            "Kolleru Lake, Andhra Pradesh"
+          ],
+          "answerIndex": 2,
+          "explanation": "Keibul Lamjao National Park is situated on the floating phumdis (masses of floating vegetation and organic matter) of Loktak Lake in Manipur. It is the world's only floating national park. The park is the last refuge of the Sangai (brow-antlered deer / dancing deer), Manipur's state animal, which has adapted to living on the floating phumdis. Loktak is also the largest freshwater lake in Northeast India and a Ramsar site (1990).",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "The ISRO satellite launch station (Satish Dhawan Space Centre) is located on the sand bar of which lake?",
+          "options": [
+            "Chilika Lake",
+            "Pulicat Lake",
+            "Kolleru Lake",
+            "Vembanad Lake"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sriharikota — where ISRO's Satish Dhawan Space Centre (SDSC) is located — is an island on the sand bar separating Pulicat Lake from the Bay of Bengal. Pulicat Lake is India's second largest brackish lagoon (~460 sq km), straddling the Andhra Pradesh-Tamil Nadu border. Many students incorrectly say Chilika Lake (which is in Odisha and much further north). Chilika is India's largest lagoon; Pulicat is second — and Sriharikota is on Pulicat's sandbar.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Which of the following correctly matches the channel with what it separates?",
+          "options": [
+            "Eight Degree Channel — Andaman from Nicobar",
+            "Nine Degree Channel — Lakshadweep from Maldives",
+            "Eight Degree Channel — Lakshadweep from Maldives",
+            "Ten Degree Channel — Minicoy from main Lakshadweep"
+          ],
+          "answerIndex": 2,
+          "explanation": "The correct channel mappings: Eight Degree Channel = separates Lakshadweep from Maldives (8°N). Nine Degree Channel = separates Minicoy Island from main Lakshadweep group (9°N). Ten Degree Channel = separates Andaman from Nicobar Islands (10°N). The degree number broadly corresponds to the latitude at which the channel lies. SSC tests all three channels, often by mixing up the degree numbers in wrong options.",
+          "source": "SSC CGL 2018, 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated (Often Ignored)",
+      "questions": [
+        {
+          "text": "Wheeler Island (off Odisha coast) was renamed in 2015 in honour of which person, and what is it used for?",
+          "options": [
+            "Renamed Kalam Island; it is India's largest natural island",
+            "Renamed Abdul Kalam Island; it is DRDO's Integrated Test Range for missile testing",
+            "Renamed Vikram Island; it is ISRO's alternative launch site",
+            "Renamed Sarabhai Island; it is a marine research station"
+          ],
+          "answerIndex": 1,
+          "explanation": "Wheeler Island in Bhadrak district, Odisha (in the Bay of Bengal) was renamed Abdul Kalam Island in 2015, following the death of former President Dr APJ Abdul Kalam, in recognition of his contribution to India's missile development program. It houses the DRDO's Integrated Test Range (ITR) — the primary facility for testing missiles including Agni, Prithvi, and Brahmos. Not to be confused with Sriharikota (ISRO satellite launches), which is on the Pulicat Lake sandbar in Andhra Pradesh.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Sambhar Lake in Rajasthan is India's largest inland saline lake. What makes it 'inland saline' as distinct from Chilika?",
+          "options": [
+            "Sambhar is deeper than Chilika",
+            "Sambhar has no connection to the sea — it is landlocked, while Chilika is a coastal lagoon connected to the Bay of Bengal",
+            "Sambhar is freshwater in monsoon and saline only in summer",
+            "Sambhar is in a volcanic crater while Chilika is a river lake"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sambhar Lake is 'inland' because it has no connection to the sea whatsoever — it is entirely surrounded by the Rajasthan desert/plains and fed only by seasonal rivers (Mendha, Rupangarh, Khari). Its salinity comes from dissolved minerals from the surrounding land. Chilika, while also saline/brackish, is a 'coastal lagoon' — it is separated from the Bay of Bengal only by a thin sand bar, and the sea influences its chemistry. Both are Ramsar sites, but one is coastal and one is inland.",
+          "source": "SSC MTS 2021",
+          "verified": false
+        },
+        {
+          "text": "What is special about North Sentinel Island in the Andaman & Nicobar Islands?",
+          "options": [
+            "It is the location of India's only active volcano",
+            "It is home to the uncontacted Sentinelese people, and landing on the island is prohibited by Indian law",
+            "It is the northernmost island of India, closest to Myanmar",
+            "It is a major military base for India's Eastern Naval Command"
+          ],
+          "answerIndex": 1,
+          "explanation": "North Sentinel Island is home to the Sentinelese — one of the last uncontacted peoples on Earth. They have consistently rejected contact with outsiders, sometimes violently. The Indian government prohibits landing on or approaching within 3 nautical miles of North Sentinel Island under the Andaman and Nicobar Islands (Protection of Aboriginal Tribes) Regulation, 1956. The Sentinelese are classified as a Particularly Vulnerable Tribal Group (PVTG). Barren Island (not North Sentinel) has India's active volcano.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "The Gulf of Mannar, located between southern India and Sri Lanka, is significant because:",
+          "options": [
+            "It is India's deepest coastal water body",
+            "It is a UNESCO Biosphere Reserve famous for coral reefs, sea grasses, and is historically known for pearl fishing",
+            "It is the site of the proposed Sethusamudram Canal, which would connect the Bay of Bengal to the Arabian Sea",
+            "It is where Chilika Lake's outflow meets the Bay of Bengal"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Gulf of Mannar (between southern Tamil Nadu and southern Sri Lanka) is India's first marine biosphere reserve and a UNESCO Biosphere Reserve. It contains one of India's richest marine ecosystems — coral reefs, sea grass beds, mangroves, and 3,600+ species including dugongs (sea cows). It was historically famous for pearl fishing (Tuticorin/Thoothukudi was a pearl fishing centre). The Sethusamudram Canal would actually cut through the Palk Strait / Adam's Bridge area — north of the Gulf of Mannar.",
+          "source": "SSC CPO 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which statement about Chilika Lake is CORRECT?",
+          "options": [
+            "It is India's largest freshwater lake",
+            "It is India's largest brackish (saline) coastal lagoon and India's first Ramsar site (1981)",
+            "It is located on the Andhra Pradesh-Tamil Nadu border",
+            "It is famous for the Sangai deer living on its floating phumdis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chilika Lake (Odisha) is India's largest coastal lagoon (~1,100 sq km), with brackish (saline/freshwater mix) water — NOT freshwater. It was designated India's first Ramsar site in 1981 (alongside Keoladeo Ghana NP). Chilika is famous for Irrawaddy dolphins and migratory birds, not Sangai deer (which are in Loktak Lake, Manipur). Pulicat Lake is on the AP-TN border, not Chilika.",
+          "source": "SSC CGL 2015, 2018, 2022",
+          "verified": true
+        },
+        {
+          "text": "Lakshadweep is India's smallest Union Territory by area. Which channel separates it from the Maldives?",
+          "options": [
+            "Ten Degree Channel",
+            "Nine Degree Channel",
+            "Duncan Passage",
+            "Eight Degree Channel"
+          ],
+          "answerIndex": 3,
+          "explanation": "The Eight Degree Channel (at approximately 8°N latitude) separates Lakshadweep from the Maldives. Lakshadweep is India's smallest UT by area (~32 sq km) and consists of coral atolls in the Arabian Sea. The Nine Degree Channel separates Minicoy Island (southernmost Lakshadweep) from the main Lakshadweep group. The Ten Degree Channel separates the Andaman Islands from the Nicobar Islands. Duncan Passage separates South Andaman from Little Andaman.",
+          "source": "SSC CGL 2016, 2019, 2023",
+          "verified": true
+        },
+        {
+          "text": "Pamban Bridge (Rameswaram) is historically significant as India's first sea bridge. What body of water does it cross, and which island does it connect to mainland Tamil Nadu?",
+          "options": [
+            "Palk Strait; connects Sri Lanka to India directly",
+            "Gulf of Mannar; connects Minicoy Island",
+            "Pamban Channel; connects Pamban Island (Rameswaram) to mainland Tamil Nadu",
+            "Gulf of Kutch; connects Diu Island"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Pamban Bridge crosses the Pamban Channel (a narrow strip of water between the Gulf of Mannar and Palk Bay) and connects Pamban Island — on which the town of Rameswaram is located — to mainland Tamil Nadu near Mandapam. It was built in 1914 and was India's first sea bridge, also called the Indira Gandhi Road Bridge and the older rail Pamban Bridge. Rameswaram is one of India's Char Dhams (four sacred pilgrimage sites). The bridge is famous for being cyclone-prone and for the narrow swing section that opens for ship passage.",
+          "source": "SSC CGL 2017, 2020",
+          "verified": true
+        },
+        {
+          "text": "Which of the following lakes is correctly described as BOTH a Ramsar site AND India's first Ramsar site?",
+          "options": [
+            "Wular Lake",
+            "Loktak Lake",
+            "Chilika Lake",
+            "Sambhar Lake"
+          ],
+          "answerIndex": 2,
+          "explanation": "Chilika Lake (Odisha) was designated a Ramsar site in 1981 — making it one of India's first two Ramsar sites (along with Keoladeo Ghana National Park, Bharatpur, Rajasthan — both 1981). Wular Lake was designated in 1990. Loktak Lake was designated in 1990. Sambhar Lake in 1990 as well. For SSC, the key fact is: Chilika + Keoladeo = India's first Ramsar sites (1981). All other major lakes came later.",
+          "source": "SSC CGL 2014, 2019, 2022",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
