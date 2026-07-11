@@ -1,0 +1,158 @@
+{
+  "topic": "Major Industries of India",
+  "topicId": "geo-industries",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which steel plant was set up with the help of the Soviet Union (USSR)?",
+          "options": ["Rourkela Steel Plant", "Durgapur Steel Plant", "Bhilai Steel Plant", "Tata Steel Jamshedpur"],
+          "answerIndex": 2,
+          "explanation": "Bhilai Steel Plant (Chhattisgarh, 1959) and Bokaro Steel Plant (Jharkhand, 1964) were both set up with Soviet (USSR) assistance. Rourkela (Odisha, 1959) = West German help. Durgapur (West Bengal, 1956) = British help. Tata Steel Jamshedpur (1907) = private sector, no foreign government aid.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which city is called the 'Detroit of India'?",
+          "options": ["Pune", "Gurugram", "Chennai", "Bengaluru"],
+          "answerIndex": 2,
+          "explanation": "Chennai (Tamil Nadu) is called the 'Detroit of India' for its concentration of automobile manufacturers — Hyundai, BMW, Daimler, Ashok Leyland, TVS, Royal Enfield all have major plants here. Pune is also a significant auto hub but doesn't carry this epithet. Detroit (USA) is the historic automobile capital of the world.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which was the first integrated steel plant of independent India?",
+          "options": ["Bhilai Steel Plant (CG)", "Rourkela Steel Plant (Odisha)", "Durgapur Steel Plant (WB)", "Tata Steel Jamshedpur (JH)"],
+          "answerIndex": 1,
+          "explanation": "Rourkela Steel Plant in Odisha, set up with West German help, was commissioned in 1959 and was the first integrated steel plant built in independent India. Tata Steel Jamshedpur (1907) is the oldest overall but was built pre-independence. Bhilai and Rourkela were commissioned around the same year, but Rourkela has the 'first of independent India' tag.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "ISRO's Satish Dhawan Space Centre (SDSC-SHAR), India's only launch facility, is located in which state?",
+          "options": ["Tamil Nadu", "Kerala", "Andhra Pradesh", "Karnataka"],
+          "answerIndex": 2,
+          "explanation": "The Satish Dhawan Space Centre (SHAR) is located at Sriharikota in Andhra Pradesh — on a barrier island between the Bay of Bengal and Pulicat Lake. It is India's only operational rocket launch pad. VSSC (which builds the rockets) is in Thiruvananthapuram, Kerala. ISRO's main HQ is in Bengaluru.",
+          "source": "SSC CGL / GK previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which is India's only coastal integrated steel plant and who operates it?",
+          "options": ["Bhilai Steel Plant; SAIL", "Vizag Steel / RINL; RINL (Rashtriya Ispat Nigam Ltd)", "Tata Steel Kalinganagar; Tata Steel", "JSW Steel Dolvi; JSW"],
+          "answerIndex": 1,
+          "explanation": "Vizag Steel Plant (Visakhapatnam, Andhra Pradesh) operated by RINL (Rashtriya Ispat Nigam Limited) is India's only coastal integrated steel plant. Its coastal location allows direct import of coking coal from Australia and easy export of finished steel. All other major ISPs are inland, near coal-iron ore belts.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        },
+        {
+          "text": "Chandrayaan-3 made India the first country to achieve what specific milestone in 2023?",
+          "options": ["First country to reach Mars on first attempt", "First country to land on Moon's south polar region", "First country to operate a space station", "First country to land three rovers on Moon"],
+          "answerIndex": 1,
+          "explanation": "Chandrayaan-3's Vikram lander made a successful soft landing on the Moon's south polar region in August 2023 — the first time any country had landed near the lunar south pole. India also became only the 4th country to land on the Moon (after USA, USSR, China). Mangalyaan (2014) was India's first Mars mission and first country to reach Mars on first attempt.",
+          "source": "SSC CGL Current Affairs / Static GK pattern",
+          "verified": false
+        },
+        {
+          "text": "Who is called the 'Father of India's Space Programme'?",
+          "options": ["Homi J. Bhabha", "APJ Abdul Kalam", "Vikram Sarabhai", "Satish Dhawan"],
+          "answerIndex": 2,
+          "explanation": "Vikram Sarabhai is the Father of India's Space Programme — he founded INCOSPAR (predecessor to ISRO) and convinced the government that space technology was critical for India's development. ISRO was founded in 1969 based on his vision. Homi Bhabha = Father of India's Nuclear Programme. Satish Dhawan = ISRO Chairman who led Aryabhata and SLV missions; SHAR is named after him.",
+          "source": "SSC CGL / GK — frequently confused pairing",
+          "verified": false
+        },
+        {
+          "text": "Tirupur in Tamil Nadu is known globally for which specific product?",
+          "options": ["Software exports", "Cotton ginning (raw cotton processing)", "Knitwear and hosiery (T-shirts, underwear)", "Silk weaving"],
+          "answerIndex": 2,
+          "explanation": "Tirupur is called 'T-Shirt City' and the 'Knitwear Capital of India' — it is a global hub for cotton knitwear and hosiery exports (T-shirts, underwear, socks). Tirupur accounts for nearly 50% of India's knitwear exports. This is separate from Coimbatore ('Manchester of South India') which focuses on cotton spinning.",
+          "source": "SSC Geography / Industry pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "India's first indigenous aircraft carrier, INS Vikrant, was built at which shipyard?",
+          "options": ["Mazagon Dock, Mumbai", "Garden Reach Shipbuilders, Kolkata", "Hindustan Shipyard, Visakhapatnam", "Cochin Shipyard, Kochi"],
+          "answerIndex": 3,
+          "explanation": "INS Vikrant was built at Cochin Shipyard Limited (CSL) in Kochi, Kerala — India's largest shipyard. It was commissioned in September 2022, making India one of a small number of countries capable of building an aircraft carrier domestically. Mazagon Dock (Mumbai) builds submarines (Project 75 Scorpène class).",
+          "source": "SSC Current Affairs / Static GK — often skipped",
+          "verified": false
+        },
+        {
+          "text": "IFFCO (Indian Farmers Fertiliser Cooperative) is notable for which global distinction?",
+          "options": ["World's largest agricultural company", "World's largest fertiliser cooperative", "World's first organic fertiliser company", "Asia's largest government fertiliser PSU"],
+          "answerIndex": 1,
+          "explanation": "IFFCO (Indian Farmers Fertiliser Cooperative) is the world's largest fertiliser cooperative, headquartered in New Delhi. It is not a PSU — it is a cooperative society owned by farmer cooperatives. Its plants are at Phulpur (UP), Kandla (Gujarat), and Paradeep (Odisha). SSC tests the PSU vs cooperative distinction and IFFCO's world ranking.",
+          "source": "SSC CGL pattern — underrated static GK",
+          "verified": false
+        },
+        {
+          "text": "Which centre of ISRO, located in Thiruvananthapuram (Kerala), is responsible for developing India's launch vehicles like PSLV and GSLV?",
+          "options": ["SAC (Space Applications Centre)", "NRSC (National Remote Sensing Centre)", "VSSC (Vikram Sarabhai Space Centre)", "URSC (U R Rao Satellite Centre)"],
+          "answerIndex": 2,
+          "explanation": "VSSC (Vikram Sarabhai Space Centre) in Thiruvananthapuram, Kerala is ISRO's primary centre for developing launch vehicles — PSLV, GSLV, and LVM3. SAC (Ahmedabad) handles satellite payloads. URSC/ISAC (Bengaluru) does spacecraft systems. NRSC (Hyderabad) handles remote sensing data. Sriharikota (AP) is where rockets are launched.",
+          "source": "SSC GK pattern — ISRO centres are underrated",
+          "verified": false
+        },
+        {
+          "text": "India's Mangalyaan (Mars Orbiter Mission) is notable for which specific world record?",
+          "options": ["Cheapest mission to Mars (cost per km)", "First country to reach Mars on first attempt", "First private sector Mars mission", "First crewed mission to Mars"],
+          "answerIndex": 1,
+          "explanation": "India's Mangalyaan (MOM), launched in 2013 and inserting into Mars orbit in September 2014, made India the FIRST country to reach Mars on its first attempt — USA, USSR, and Europe all failed on their maiden Mars missions. It was also the cheapest Mars mission ever ($74 million — less than the Hollywood film 'Gravity'). It was a government ISRO mission, not private sector.",
+          "source": "SSC Current Affairs / GK — important milestone",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which city is called the 'Silicon Valley of India'?",
+          "options": ["Hyderabad", "Chennai", "Bengaluru", "Pune"],
+          "answerIndex": 2,
+          "explanation": "Bengaluru (Bangalore) is called the 'Silicon Valley of India' — India's largest IT hub housing Infosys, Wipro, TCS (large campus), HCL Technologies, HAL, BEL, ISRO HQ, and many global tech MNCs. Hyderabad is called 'Cyberabad' (its IT district is HITEC City). Both are major IT hubs but Bengaluru has the 'Silicon Valley' epithet.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "HAL (Hindustan Aeronautics Limited), which manufactures the Tejas fighter aircraft, is headquartered in which city?",
+          "options": ["New Delhi", "Hyderabad", "Bengaluru", "Mumbai"],
+          "answerIndex": 2,
+          "explanation": "HAL (Hindustan Aeronautics Limited) is headquartered in Bengaluru, Karnataka. It is a Maharatna PSU that manufactures the Tejas LCA (Light Combat Aircraft), Dhruv helicopter (ALH), and maintains Jaguar and Su-30 MKI aircraft. BEL (defence electronics) is also in Bengaluru. BDL (missiles) is in Hyderabad. MDL (submarines) is in Mumbai.",
+          "source": "SSC CGL — PSU HQ questions are very frequent",
+          "verified": true
+        },
+        {
+          "text": "Which state is India's largest cement-producing state?",
+          "options": ["Andhra Pradesh", "Madhya Pradesh", "Rajasthan", "Gujarat"],
+          "answerIndex": 2,
+          "explanation": "Rajasthan is India's largest cement-producing state, due to its abundant limestone deposits. India is the world's 2nd largest cement producer (after China). UltraTech Cement (Aditya Birla Group) is India's largest cement company. Cement is a resource-oriented industry — plants are built near limestone quarries.",
+          "source": "SSC CGL / Geography — frequently asked",
+          "verified": true
+        },
+        {
+          "text": "India is known as the 'Pharmacy of the World.' Which city is the largest hub for bulk drug (pharmaceutical) manufacturing in India?",
+          "options": ["Mumbai", "Bengaluru", "Hyderabad", "Ahmedabad"],
+          "answerIndex": 2,
+          "explanation": "Hyderabad is India's largest pharmaceutical manufacturing hub, especially for bulk drugs (Active Pharmaceutical Ingredients / APIs). It is home to Aurobindo Pharma, Dr. Reddy's Laboratories, and dozens of other pharma companies, earning it the nickname 'Pharma City of India.' India supplies ~20% of the world's generic medicines and ~60% of global vaccine demand.",
+          "source": "SSC CGL pattern — frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
