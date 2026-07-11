@@ -1,0 +1,193 @@
+{
+  "topic": "Transport & Communication — Roads, Railways, Ports & Airways",
+  "topicId": "geo-transport",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "When was the first railway line in India inaugurated, and between which two stations?",
+          "options": [
+            "1851 — Calcutta to Howrah",
+            "1853 — Bori Bunder (Mumbai) to Thane",
+            "1856 — Madras to Arcot",
+            "1861 — Delhi to Ambala"
+          ],
+          "answerIndex": 1,
+          "explanation": "India's first passenger railway ran on 16 April 1853 from Bori Bunder (present-day CST area, Mumbai) to Thane — a distance of 34 km. This was also Asia's first railway. It was operated by the Great Indian Peninsular Railway (GIPR) under British India. The locomotive was steam-powered.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which is India's largest port by total cargo handled?",
+          "options": ["JNPT (Navi Mumbai)", "Mumbai Port", "Kandla / Deendayal Port (Gujarat)", "Visakhapatnam Port"],
+          "answerIndex": 2,
+          "explanation": "Kandla Port (now renamed Deendayal Port Trust) in Gujarat is India's largest port by total cargo handled. JNPT (Jawaharlal Nehru Port, Navi Mumbai) is India's largest CONTAINER port — a different superlative. Visakhapatnam is India's deepest port. SSC frequently tests these different 'largest' categories to create traps.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The Golden Quadrilateral highway project connects which four metropolitan cities?",
+          "options": [
+            "Delhi, Jaipur, Mumbai, Ahmedabad",
+            "Delhi, Mumbai, Chennai, Kolkata",
+            "Mumbai, Pune, Bengaluru, Chennai",
+            "Delhi, Lucknow, Patna, Kolkata"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Golden Quadrilateral is a 4/6-lane highway network connecting Delhi, Mumbai, Chennai, and Kolkata — forming a quadrilateral shape. It was India's largest highway project when launched in 2001 under PM Atal Bihari Vajpayee and NHAI. Total length ~5,846 km.",
+          "source": "SSC CGL / SSC MTS previous years",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is India's only major river port?",
+          "options": ["Paradip (Odisha)", "Mormugao (Goa)", "Kochi (Kerala)", "Kolkata / Syama Prasad Mookerjee Port (WB)"],
+          "answerIndex": 3,
+          "explanation": "Kolkata Port (now renamed Syama Prasad Mookerjee Port) is India's only major port located on a river — the Hooghly River, about 150 km upstream from the sea. All other major ports are directly on the sea coast. Its river location means it requires constant dredging to maintain navigation depth.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the difference between Kandla Port (Gujarat) and JNPT (Navi Mumbai) in terms of which is 'India's largest port'?",
+          "options": [
+            "There is no difference — both are equally large and the question is misleading",
+            "Kandla = largest by total cargo; JNPT = largest container port (container traffic only)",
+            "JNPT = largest by total cargo; Kandla = largest container port",
+            "Kandla = largest in western India only; JNPT = largest nationally"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is one of SSC's most exploited transport traps. Kandla (Deendayal Port) is India's largest port measured by TOTAL cargo handled (all types combined — bulk, liquid, container, etc.). JNPT (Jawaharlal Nehru Port, Navi Mumbai) is India's largest CONTAINER port specifically. Both are on the west coast of Maharashtra/Gujarat. Know which metric the question uses.",
+          "source": "SSC CGL pattern — high confusion potential",
+          "verified": false
+        },
+        {
+          "text": "The North-South Corridor (Srinagar to Kanyakumari) and East-West Corridor (Porbandar to Silchar) intersect at which city?",
+          "options": ["Nagpur", "Bhopal", "Jhansi", "Indore"],
+          "answerIndex": 2,
+          "explanation": "The two highway corridors of the NHDP (National Highway Development Project) intersect at Jhansi in Uttar Pradesh. Nagpur is called the 'Zero Mile Centre' (geographic centre of India) but is NOT the intersection of NS-EW corridors — that's a very common wrong answer. Jhansi is correct.",
+          "source": "SSC CGL / SSC CHSL pattern — classic trap",
+          "verified": false
+        },
+        {
+          "text": "Which of the following Mountain Railways is operated on metre gauge (1,000 mm) and uses a rack-and-pinion system to climb steep gradients?",
+          "options": ["Darjeeling Himalayan Railway (West Bengal)", "Kalka-Shimla Railway (HP)", "Nilgiri Mountain Railway (Tamil Nadu)", "Matheran Hill Railway (Maharashtra)"],
+          "answerIndex": 2,
+          "explanation": "The Nilgiri Mountain Railway (NMR) in Tamil Nadu (Mettupalayam to Ooty) operates on metre gauge and uses a rack-and-pinion (cog wheel) system on its steep lower section — necessary for gradients up to 1:12. Darjeeling (DHR) and Kalka-Shimla are both narrow gauge. All three (DHR, NMR, KSR) are UNESCO World Heritage Sites.",
+          "source": "SSC GK / Geography pattern",
+          "verified": false
+        },
+        {
+          "text": "India's longest national waterway (NW-1) runs between which two cities?",
+          "options": [
+            "Sadiya (Assam) to Dhubri (Assam) on the Brahmaputra",
+            "Kottapuram to Kollam on Kerala backwaters",
+            "Allahabad/Prayagraj to Haldia on the Ganga-Hooghly",
+            "Bhubaneswar to Paradip on the Mahanadi"
+          ],
+          "answerIndex": 2,
+          "explanation": "NW-1 is the Ganga-Bhagirathi-Hooghly waterway running from Allahabad (Prayagraj) to Haldia (West Bengal) — 1,620 km, India's longest and most commercially active national waterway. NW-2 is the Brahmaputra (Sadiya to Dhubri, 891 km). NW-3 is the West Coast Canal in Kerala (205 km). IWAI (HQ Noida) maintains these waterways.",
+          "source": "SSC CGL pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Cochin International Airport (Kochi) holds which unique distinction globally?",
+          "options": [
+            "Busiest airport in South Asia",
+            "World's first fully solar-powered airport",
+            "World's longest airport runway",
+            "First airport in India to handle cargo"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cochin International Airport (CIAL) in Kochi, Kerala became the world's first fully solar-powered airport in 2015 — all its electricity comes from solar panels installed on airport land and rooftops. It is a model for sustainable aviation infrastructure and is frequently cited in SSC current affairs and environment questions.",
+          "source": "SSC CGL / Current Affairs — underrated static GK",
+          "verified": false
+        },
+        {
+          "text": "India Post (India's national postal service) holds which global record?",
+          "options": [
+            "World's oldest postal service",
+            "World's fastest postal delivery network",
+            "World's largest postal network by number of post offices",
+            "World's largest postal network by revenue"
+          ],
+          "answerIndex": 2,
+          "explanation": "India Post has the world's largest postal network by number of post offices — approximately 1.55 lakh (155,000) post offices across India, the majority of which are in rural areas (Branch Post Offices). Each rural Branch Post Office serves as a vital financial and communication link. India Post now offers financial services (savings accounts, insurance) too.",
+          "source": "SSC CGL — underrated static GK",
+          "verified": false
+        },
+        {
+          "text": "When was the first commercial flight in India, and who was the pilot?",
+          "options": [
+            "1911 — Henri Pequet (Allahabad to Naini)",
+            "1920 — J.R.D. Tata (Mumbai to Karachi)",
+            "1932 — J.R.D. Tata (Karachi to Mumbai)",
+            "1947 — Air India's inaugural flight"
+          ],
+          "answerIndex": 0,
+          "explanation": "The first commercial flight in India was on 18 February 1911 — French pilot Henri Pequet flew 8.8 km from Allahabad (United Provinces Exposition) to Naini, carrying 6,500 letters and postcards. This was a mail-carrying demonstration flight. J.R.D. Tata made the first commercial passenger flight in 1932 (Karachi to Ahmedabad to Mumbai) founding Tata Airlines, which became Air India.",
+          "source": "SSC GK / History of aviation — underrated",
+          "verified": false
+        },
+        {
+          "text": "GAIL (Gas Authority of India Limited) is associated with which type of transport infrastructure?",
+          "options": ["Oil tanker ships", "Natural gas pipelines", "LPG cylinder distribution", "Coal transport by railways"],
+          "answerIndex": 1,
+          "explanation": "GAIL (Gas Authority of India Limited), a Maharatna PSU headquartered in New Delhi, is India's largest natural gas transmission and marketing company. It operates the HBJ Pipeline (Hazira-Vijaipur-Jagdishpur) — India's first major cross-country gas pipeline — and a network of ~15,000 km of natural gas pipelines across India.",
+          "source": "SSC CGL / Geography pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which is India's longest National Highway (under the new numbering system)?",
+          "options": ["NH-7 (old) / NH-44 (new) — Srinagar to Kanyakumari", "NH-2 — Delhi to Kolkata", "NH-8 — Delhi to Mumbai", "NH-27 — Porbandar to Silchar"],
+          "answerIndex": 0,
+          "explanation": "NH-44 (new numbering, post-2010) is India's longest national highway at ~3,745 km, running from Srinagar in J&K to Kanyakumari in Tamil Nadu. Under the old numbering it was called NH-7. Many SSC questions still use NH-7 (old) — the answer refers to the same road. NH-27 (Porbandar to Silchar) is the 2nd longest.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which is India's deepest port?",
+          "options": ["Mumbai Port", "JNPT (Navi Mumbai)", "Kandla Port (Gujarat)", "Visakhapatnam Port (AP)"],
+          "answerIndex": 3,
+          "explanation": "Visakhapatnam Port in Andhra Pradesh is India's deepest port — it is a natural deep-water harbour capable of handling Very Large Crude Carriers (VLCCs) and other large vessels. Its depth provides a locational advantage for bulk cargo. It is also one of India's fastest-growing major ports.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which was the first Metro Rail in India, and in which year did it open?",
+          "options": ["Delhi Metro — 2002", "Mumbai Metro — 2014", "Kolkata Metro — 1984", "Chennai Metro — 2015"],
+          "answerIndex": 2,
+          "explanation": "Kolkata Metro was India's first metro railway, inaugurated in 1984 on the North-South line. Delhi Metro (operational from 2002) is now India's largest metro network by route length (350+ km) and daily ridership. SSC tests both — Kolkata = first; Delhi = largest. These are two different superlatives, not the same thing.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which airport in India is the largest and busiest?",
+          "options": ["Chhatrapati Shivaji Maharaj International (Mumbai)", "Indira Gandhi International (New Delhi)", "Kempegowda International (Bengaluru)", "Rajiv Gandhi International (Hyderabad)"],
+          "answerIndex": 1,
+          "explanation": "Indira Gandhi International (IGI) Airport in New Delhi is India's largest and busiest airport by passenger traffic, cargo, and terminal area. IGI Terminal 3 is among the world's largest terminals. Mumbai's CSIA is the 2nd busiest. Bengaluru is 3rd. IGI is also India's main international hub airport.",
+          "source": "SSC CGL / GK — very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
