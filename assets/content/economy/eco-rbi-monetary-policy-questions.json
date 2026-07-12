@@ -1,0 +1,203 @@
+{
+  "topic": "RBI — Functions, Structure & Monetary Policy Tools",
+  "topicId": "eco-rbi-monetary-policy",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Reserve Bank of India was established on which date?",
+          "options": ["15 August 1947", "26 January 1950", "1 January 1949", "1 April 1935"],
+          "answerIndex": 3,
+          "explanation": "RBI was established on 1 April 1935 under the Reserve Bank of India Act, 1934. It was initially a private shareholders' bank. It was nationalised on 1 January 1949 under the RBI (Transfer to Public Ownership) Act, 1948. SSC tests both dates — 1935 (establishment) and 1949 (nationalisation) — and uses the confusion between them as a trap.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which of the following currency denominations is issued by the Ministry of Finance (Government of India) and NOT by the RBI?",
+          "options": ["₹10 note", "₹100 note", "₹1 note", "₹500 note"],
+          "answerIndex": 2,
+          "explanation": "The ₹1 note (and ₹1 coin) is issued by the Ministry of Finance (Government of India) and bears the signature of the Finance Secretary. All other currency notes (₹2, ₹5, ₹10, ₹20, ₹50, ₹100, ₹200, ₹500, ₹2000) are issued by the RBI and bear the RBI Governor's signature. This is one of SSC's most repeated monetary facts.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "CRR (Cash Reserve Ratio) refers to the percentage of a bank's NDTL that must be kept as:",
+          "options": ["Government securities with the bank", "Cash with the RBI", "Gold with the RBI", "Cash with the Finance Ministry"],
+          "answerIndex": 1,
+          "explanation": "CRR (Cash Reserve Ratio) is the percentage of a bank's NDTL (Net Demand and Time Liabilities) that must be maintained as CASH with the RBI. Banks earn zero interest on CRR deposits. SLR, by contrast, is maintained in liquid assets (G-secs, gold, cash) by the bank itself, and G-secs earn interest. The 'with RBI' vs. 'by bank itself' distinction between CRR and SLR is heavily tested.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "The Monetary Policy Committee (MPC) of RBI, which decides the Repo Rate, has how many members?",
+          "options": ["3 members", "4 members", "6 members", "8 members"],
+          "answerIndex": 2,
+          "explanation": "The MPC has 6 members: 3 from RBI (Governor, Deputy Governor in-charge of monetary policy, and one more RBI officer) and 3 external members appointed by the Central Government. Decisions are by majority vote; the Governor has a casting vote in case of a tie. The MPC was established in 2016 under the amended RBI Act.",
+          "source": "SSC CGL / current affairs GK",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "When RBI RAISES the Repo Rate, what is the direct chain of effects?",
+          "options": [
+            "Banks borrow more from RBI → more credit in market → growth increases",
+            "Borrowing from RBI becomes costlier → banks raise lending rates → loans become expensive → borrowing falls → spending falls → inflation cools",
+            "RBI absorbs liquidity by selling G-secs → less money in market",
+            "Banks must hold more G-secs → less funds available for lending"
+          ],
+          "answerIndex": 1,
+          "explanation": "Repo Rate hike chain: Higher Repo → Commercial banks pay more to borrow from RBI → Banks raise their own lending rates (home loans, car loans, business loans become costlier) → People and firms borrow less → Consumption and investment fall → Aggregate demand falls → Inflation cools. This is the classic monetary transmission mechanism. Higher SLR/CRR is a different tool with a different mechanism.",
+          "source": "SSC CGL / UPSC pattern — mechanism question",
+          "verified": false
+        },
+        {
+          "text": "What is the key difference between Reverse Repo Rate and the Standing Deposit Facility (SDF) introduced in April 2022?",
+          "options": [
+            "SDF has a higher interest rate than reverse repo",
+            "Reverse repo involves G-sec collateral; SDF allows banks to park funds with RBI WITHOUT any collateral",
+            "SDF is for long-term deposits; reverse repo is overnight only",
+            "SDF is for foreign banks only; reverse repo is for domestic banks"
+          ],
+          "answerIndex": 1,
+          "explanation": "The critical difference: Under Reverse Repo, banks lend money to RBI and receive G-secs as collateral. Under SDF (Standing Deposit Facility, introduced April 2022), banks park funds with RBI WITHOUT receiving any collateral in return. The SDF rate = Repo − 25 bp (same level as reverse repo numerically). SDF replaced Reverse Repo as the operational floor of the rate corridor, giving RBI more flexibility to absorb excess liquidity.",
+          "source": "SSC / current affairs monetary policy — SDF is frequently asked",
+          "verified": false
+        },
+        {
+          "text": "What does 'Open Market Operations (OMO)' involve, and which OMO action EXPANDS money supply?",
+          "options": [
+            "Buying/selling foreign exchange; buying forex expands money supply",
+            "Buying/selling government securities; RBI BUYING G-secs expands money supply",
+            "Changing CRR; raising CRR expands money supply",
+            "Issuing new currency notes; issuing notes expands money supply"
+          ],
+          "answerIndex": 1,
+          "explanation": "OMO = RBI buying or selling government securities (G-secs) in the open market. When RBI BUYS G-secs from banks, it pays banks with rupees — injecting liquidity into the system (expansionary). When RBI SELLS G-secs to banks, banks pay rupees to RBI — absorbing liquidity (contractionary). OMO is the primary tool for long-term structural liquidity management, as opposed to repo for short-term.",
+          "source": "SSC CGL pattern — OMO direction is a classic trap",
+          "verified": false
+        },
+        {
+          "text": "What is the significance of the Bank Rate in modern RBI monetary policy?",
+          "options": [
+            "It is the primary benchmark rate replacing the Repo Rate",
+            "It is the overnight lending rate to small banks only",
+            "It serves as the penal rate for CRR/SLR defaults and is currently aligned with the MSF Rate",
+            "It is the rate at which RBI lends to the government"
+          ],
+          "answerIndex": 2,
+          "explanation": "In modern RBI policy, the Bank Rate's practical role has shrunk. It now primarily serves as the PENAL RATE — banks that fail to meet their CRR or SLR requirements must pay a fine at the Bank Rate. It is currently aligned with the MSF Rate (Repo + 25 bp). The Repo Rate has replaced the Bank Rate as the primary policy signal. Bank Rate was historically more important when it was the main lending rate to banks.",
+          "source": "SSC economy pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Under the Minimum Reserve System adopted by India in 1956, RBI must maintain a minimum reserve of ₹200 crore comprising:",
+          "options": [
+            "₹200 crore entirely in gold",
+            "₹115 crore in gold + ₹85 crore in foreign currency",
+            "40% of total notes issued in gold",
+            "₹100 crore in gold + ₹100 crore in rupee securities"
+          ],
+          "answerIndex": 1,
+          "explanation": "Since 1956, India uses the Minimum Reserve System: RBI must hold a fixed minimum reserve of ₹200 crore — of which ₹115 crore must be in gold and ₹85 crore in foreign currency. Against this reserve, RBI can issue any amount of currency. Before 1956, India used the Proportional Reserve System where 40% of total notes issued had to be backed by gold/forex — a rigid system that constrained currency supply.",
+          "source": "SSC / monetary system — underrated but tested",
+          "verified": false
+        },
+        {
+          "text": "Priority Sector Lending (PSL) requires domestic scheduled commercial banks to lend what percentage of their Adjusted Net Bank Credit (ANBC) to priority sectors?",
+          "options": ["25%", "30%", "40%", "50%"],
+          "answerIndex": 2,
+          "explanation": "Domestic scheduled commercial banks must lend 40% of their ANBC (Adjusted Net Bank Credit) to priority sectors. Sub-targets: Agriculture 18% (10% to small/marginal farmers), Micro enterprises 7.5%, Weaker sections 12%. Banks falling short of PSL targets must deposit the shortfall in RIDF (Rural Infrastructure Development Fund) at NABARD at below-market rates — effectively a penalty.",
+          "source": "SSC / RBI pattern — PSL percentages are underrated",
+          "verified": false
+        },
+        {
+          "text": "The Marginal Standing Facility (MSF) allows banks to borrow from RBI beyond their SLR requirements. What is the MSF rate relative to the Repo Rate?",
+          "options": ["MSF = Repo Rate − 25 basis points", "MSF = Repo Rate + 25 basis points", "MSF = Repo Rate × 1.5", "MSF = Repo Rate (same rate, different window)"],
+          "answerIndex": 1,
+          "explanation": "MSF Rate = Repo Rate + 25 basis points (0.25% above repo). It is the most expensive RBI window — banks use it only in emergencies when they cannot meet liquidity needs through the normal repo window. MSF allows banks to borrow by pledging even SLR-eligible securities (up to 1% of NDTL). The corridor: MSF (ceiling) > Repo Rate (benchmark) > SDF (floor).",
+          "source": "SSC / monetary policy pattern — MSF is underrated",
+          "verified": false
+        },
+        {
+          "text": "RBI regulates which of the following? Select the correct combination.",
+          "options": [
+            "Commercial banks, NBFCs, SEBI, and IRDAI",
+            "Commercial banks, NBFCs, Payment Banks, and Small Finance Banks",
+            "All financial institutions including insurance companies and stock exchanges",
+            "Only public sector banks"
+          ],
+          "answerIndex": 1,
+          "explanation": "RBI regulates: commercial banks (public, private, foreign), cooperative banks (partially), NBFCs, Payment Banks, Small Finance Banks, Regional Rural Banks. RBI does NOT regulate: Insurance companies (IRDAI), Stock markets/mutual funds (SEBI), Pension funds (PFRDA). This division of regulatory responsibility is a frequent SSC question — knowing which regulator covers what is essential.",
+          "source": "SSC CGL / GK pattern — regulatory jurisdiction",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Repo Rate is defined as the rate at which:",
+          "options": [
+            "Commercial banks lend to each other overnight",
+            "RBI lends short-term funds to commercial banks against collateral",
+            "RBI borrows funds from commercial banks overnight",
+            "Central Government borrows from RBI"
+          ],
+          "answerIndex": 1,
+          "explanation": "Repo Rate (Repurchase Rate) is the rate at which RBI lends short-term (typically overnight) funds to commercial banks against collateral of government securities. Banks sell G-secs to RBI and agree to buy them back the next day — paying the Repo Rate as interest. It is India's benchmark policy rate. Reverse Repo Rate is the opposite — RBI borrows from banks (banks lend to RBI).",
+          "source": "SSC CGL / SSC CHSL — the single most frequently asked monetary policy question",
+          "verified": true
+        },
+        {
+          "text": "What is the key difference between CRR and SLR?",
+          "options": [
+            "CRR is for state banks; SLR is for private banks",
+            "CRR must be maintained as cash with RBI (no interest); SLR must be in liquid assets held by the bank itself (G-secs earn interest)",
+            "CRR is 40% of NDTL; SLR is 18% of NDTL",
+            "CRR applies to loans given; SLR applies to deposits received"
+          ],
+          "answerIndex": 1,
+          "explanation": "CRR = percentage of NDTL kept as CASH with RBI; banks earn zero interest. SLR = percentage of NDTL maintained in liquid assets (cash, gold, or government securities) by the bank itself; G-secs earn interest from the government. Current CRR ~4%; current SLR ~18%. Both apply to all scheduled commercial banks' NDTL (Net Demand and Time Liabilities).",
+          "source": "SSC CGL / SSC CHSL — very frequently asked comparison",
+          "verified": true
+        },
+        {
+          "text": "India's flexible inflation targeting framework sets the CPI inflation target at:",
+          "options": ["2% with no tolerance band", "4% with a ±2% tolerance band (range 2–6%)", "6% with a ±1% tolerance band", "3% with a ±3% tolerance band"],
+          "answerIndex": 1,
+          "explanation": "India's Monetary Policy Framework Agreement (2016) gave the MPC a CPI inflation target of 4% with a tolerance band of ±2%, meaning the acceptable range is 2% to 6%. If CPI inflation stays outside this 2–6% band for three consecutive quarters, RBI must submit a written explanation to the Central Government. The Repo Rate is the primary tool used by the MPC to hit this target.",
+          "source": "SSC CGL / current affairs pattern — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "When RBI conducts Open Market Operations (OMO) by selling government securities to banks, what is the effect?",
+          "options": [
+            "Money supply increases (expansionary)",
+            "Interest rates fall (monetary easing)",
+            "Liquidity is absorbed from the banking system (contractionary)",
+            "CRR is effectively reduced"
+          ],
+          "answerIndex": 2,
+          "explanation": "When RBI SELLS G-secs in OMO, banks pay rupees to RBI for those securities — money flows from banks TO RBI, reducing liquidity in the banking system. This is contractionary — reduces money supply, pushing up interest rates. Conversely, when RBI BUYS G-secs, it pays rupees to banks, injecting liquidity. OMO buying = expansionary; OMO selling = contractionary.",
+          "source": "SSC CGL / economy — very frequently asked with direction trap",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
