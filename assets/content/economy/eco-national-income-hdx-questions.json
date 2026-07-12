@@ -1,0 +1,193 @@
+{
+  "topic": "National Income Measurement, HDI, PPP & Savings",
+  "topicId": "eco-national-income-hdx",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Human Development Index (HDI) is published by which organisation?",
+          "options": ["World Bank", "IMF", "UNDP", "WTO"],
+          "answerIndex": 2,
+          "explanation": "HDI is published by UNDP (United Nations Development Programme) in its annual Human Development Report (HDR), first released in 1990. The HDI was conceived by Pakistani economist Mahbub ul Haq and Indian economist/Nobel laureate Amartya Sen. It measures three dimensions: life expectancy, education, and GNI per capita (PPP).",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which method of calculating GDP adds up Consumption (C), Investment (I), Government Expenditure (G), and Net Exports (X-M)?",
+          "options": ["Income Method", "Output / Value Added Method", "Expenditure Method", "Production Method"],
+          "answerIndex": 2,
+          "explanation": "The Expenditure Method (also called Demand-Side method) calculates GDP as C + I + G + (X−M). C = Private Consumption, I = Gross Capital Formation (investment), G = Government Consumption, (X−M) = Net Exports. All three methods (Output, Income, Expenditure) should yield the same GDP figure theoretically.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "A Gini Coefficient of 0 indicates what about income distribution?",
+          "options": ["Perfect inequality (one person has everything)", "Perfect equality (everyone has equal income)", "The economy is at full employment", "There is no poverty"],
+          "answerIndex": 1,
+          "explanation": "Gini Coefficient = 0 means perfect equality — every person in the country earns exactly the same income. Gini = 1 means perfect inequality — one person earns all income. In practice, real economies range from ~0.25 (very equal, e.g., Denmark) to ~0.60+ (very unequal, e.g., South Africa). India's Gini is approximately 0.35–0.37.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "At Purchasing Power Parity (PPP), India is ranked as the world's _____ largest economy.",
+          "options": ["2nd", "3rd", "4th", "5th"],
+          "answerIndex": 1,
+          "explanation": "At PPP-adjusted GDP, India is the 3rd largest economy in the world (after USA and China). India climbs from 5th (nominal GDP rank) to 3rd (PPP rank) because price levels in India are much lower — the same rupee buys more real goods in India than its market exchange rate equivalent suggests.",
+          "source": "SSC CGL / GK previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "HDI was originally calculated as the arithmetic mean of three dimension indices. When did UNDP switch to the geometric mean, and why?",
+          "options": [
+            "2000; to make calculations simpler",
+            "2010; because geometric mean penalises imbalances across dimensions more severely",
+            "1995; to match World Bank methodology",
+            "2015; aligned with Sustainable Development Goals"
+          ],
+          "answerIndex": 1,
+          "explanation": "In 2010, UNDP switched from arithmetic mean to geometric mean for HDI calculation. The geometric mean penalises imbalances between dimensions — a country that excels in one dimension but fails in another gets a lower HDI than one with moderate scores in all three. This makes it harder for a rich but unhealthy or uneducated country to score high. Many SSC textbooks still show the old arithmetic mean formula.",
+          "source": "SSC / economics pattern — method change is frequently tested",
+          "verified": false
+        },
+        {
+          "text": "Why does India rank higher (3rd) at PPP than at Nominal GDP (5th)?",
+          "options": [
+            "India's currency is undervalued in international markets",
+            "India's price levels are much lower, so the same income buys more real goods in India",
+            "India's informal economy is not captured in nominal GDP but is in PPP",
+            "PPP counts more sectors of the economy than nominal GDP"
+          ],
+          "answerIndex": 1,
+          "explanation": "PPP adjusts for price level differences. A haircut in Mumbai costs ₹100 (~$1.2) vs $25 in New York. At market exchange rates, the Indian's rupee income converts to very few dollars. But PPP recognises that Indians can buy more goods per rupee locally than that dollar conversion implies. Since India has low prices, real purchasing power is higher — India moves up to 3rd globally at PPP.",
+          "source": "SSC economy / current affairs pattern",
+          "verified": false
+        },
+        {
+          "text": "Which of the following correctly distinguishes GDI from GII (both UNDP indices)?",
+          "options": [
+            "GDI measures gender inequality in education only; GII measures gender inequality in income only",
+            "GDI applies HDI separately to men and women to show the gender gap; GII measures gender inequality in health, empowerment and labour market",
+            "GDI is for developed countries; GII is for developing countries",
+            "GII is older than GDI; GDI replaced GII in 2010"
+          ],
+          "answerIndex": 1,
+          "explanation": "GDI (Gender Development Index) calculates separate HDI values for males and females; the female-to-male HDI ratio reveals the gender gap in human development. GII (Gender Inequality Index) is a different measure entirely — it tracks gender inequality in three areas: reproductive health (maternal mortality, adolescent birth rate), empowerment (parliamentary seats, secondary education), and labour market (participation rate). Both are UNDP products but measure different things.",
+          "source": "SSC CGL pattern — UNDP indices are commonly confused",
+          "verified": false
+        },
+        {
+          "text": "PQLI (Physical Quality of Life Index) was proposed by which economist, and what are its three components?",
+          "options": [
+            "Amartya Sen; Life expectancy, Education, Per Capita Income",
+            "Mahbub ul Haq; Literacy, Health, Income",
+            "Morris David Morris; Infant Mortality Rate, Life Expectancy at age 1, Basic Literacy Rate",
+            "Simon Kuznets; GDP per capita, Life expectancy, Environmental quality"
+          ],
+          "answerIndex": 2,
+          "explanation": "PQLI was proposed by Morris David Morris in 1979 — one of the earliest non-income welfare indices. Its three components are: Infant Mortality Rate (IMR), Life Expectancy at age 1 (not at birth), and Basic Literacy Rate. Scale: 0-100. It predates the HDI (1990) and was a major influence on its development. Amartya Sen + Mahbub ul Haq created the HDI.",
+          "source": "SSC CGL / UPSC pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Who is credited with the first scientific estimation of India's national income (1940 dissertation)?",
+          "options": ["Dadabhai Naoroji", "P.C. Mahalanobis", "V.K.R.V. Rao", "Amartya Sen"],
+          "answerIndex": 2,
+          "explanation": "V.K.R.V. Rao is considered the pioneer of national income estimation in India — his 1940 doctoral dissertation at Cambridge University was a rigorous attempt to estimate India's national income. Dadabhai Naoroji made the first-ever estimate in 1868 (used to argue the Drain of Wealth thesis). P.C. Mahalanobis chaired the National Income Committee (1949). Both Rao and Naoroji appear in SSC questions but for different reasons.",
+          "source": "SSC economy / historical GK — underrated",
+          "verified": false
+        },
+        {
+          "text": "India's First Advance Estimate of GDP for a financial year is released in which month?",
+          "options": ["April (start of FY)", "October (mid-year)", "January (9 months into FY)", "May (2 months after FY ends)"],
+          "answerIndex": 2,
+          "explanation": "The First Advance Estimate of GDP is released in January — approximately 9 months into the financial year (which runs April to March). This estimate is used by the Finance Ministry for preparing the Union Budget (presented in February). The Provisional Estimate comes in May after the FY closes. The First Advance Estimate is based on partial data and extrapolation.",
+          "source": "SSC / Finance pattern — underrated but tested",
+          "verified": false
+        },
+        {
+          "text": "Which country is most famous for using 'Gross National Happiness (GNH)' instead of GDP as its primary development measure?",
+          "options": ["Nepal", "Sri Lanka", "Maldives", "Bhutan"],
+          "answerIndex": 3,
+          "explanation": "Bhutan officially adopted Gross National Happiness (GNH) as its development philosophy, introduced by King Jigme Singye Wangchuck in 1972. GNH measures four pillars: good governance, sustainable socioeconomic development, preservation of culture, and environmental conservation. It is the world's most famous alternative to GDP as a development measure and frequently appears in SSC static GK.",
+          "source": "SSC GK / geography — underrated but regular",
+          "verified": false
+        },
+        {
+          "text": "MPI (Multidimensional Poverty Index) was jointly developed by UNDP and which other organisation?",
+          "options": ["World Bank", "IMF", "Oxford Poverty and Human Development Initiative (OPHI)", "Asian Development Bank"],
+          "answerIndex": 2,
+          "explanation": "MPI is jointly produced by UNDP and OPHI (Oxford Poverty and Human Development Initiative, based at Oxford University). It measures 10 deprivations across 3 dimensions: Health (nutrition, child mortality), Education (years of schooling, school attendance), and Living Standards (cooking fuel, sanitation, drinking water, electricity, housing, assets). MPI replaced the old Human Poverty Index (HPI) in 2010.",
+          "source": "SSC / economy pattern — underrated international bodies fact",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "The three dimensions measured by the Human Development Index (HDI) are:",
+          "options": [
+            "Income, Employment, and Environment",
+            "Life expectancy, Education, and GNI per capita (PPP)",
+            "GDP per capita, Literacy rate, and Infant mortality",
+            "Health, Education, and Political freedom"
+          ],
+          "answerIndex": 1,
+          "explanation": "HDI's three dimensions: (1) Long and healthy life — measured by life expectancy at birth; (2) Knowledge — measured by mean years of schooling + expected years of schooling; (3) Decent standard of living — measured by GNI per capita (PPP $). Note: GNI (not GDP) is used. HDI = geometric mean of the three dimension indices since 2010.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Lorenz Curve is used to represent which economic concept?",
+          "options": ["Inflation rate over time", "Income or wealth distribution and inequality", "Balance of payments position", "Production possibility frontier"],
+          "answerIndex": 1,
+          "explanation": "The Lorenz Curve plots cumulative income share (Y-axis) vs. cumulative population share (X-axis), sorted from poorest to richest. A diagonal (45° line) = perfect equality. The further the actual Lorenz Curve bows below this diagonal, the greater the inequality. The Gini Coefficient numerically measures this gap: Gini = Area between diagonal and Lorenz Curve / Total area below diagonal.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What does GFCF (Gross Fixed Capital Formation) represent in an economy?",
+          "options": [
+            "Total government expenditure on salaries",
+            "Investment by the private sector in new machinery and equipment only",
+            "Investment in fixed assets (machinery, buildings, infrastructure) by all sectors",
+            "Total foreign direct investment received by India"
+          ],
+          "answerIndex": 2,
+          "explanation": "GFCF (Gross Fixed Capital Formation) measures total investment in fixed assets — machinery, equipment, buildings, roads, software — by all sectors (private, public, and household). It is the main component of 'I' (Investment) in the C+I+G+NX GDP formula and is a critical indicator of an economy's productive capacity growth. A rising GFCF signals expanding investment; falling GFCF signals slowdown in capital accumulation.",
+          "source": "SSC CGL / economy pattern — frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following best describes 'Gross National Happiness' (GNH)?",
+          "options": [
+            "A GDP supplement index used by all UN member countries",
+            "A World Bank index measuring average happiness of workers",
+            "Bhutan's development philosophy measuring well-being, culture, environment and governance instead of GDP",
+            "An OECD index measuring work-life balance across developed countries"
+          ],
+          "answerIndex": 2,
+          "explanation": "Gross National Happiness (GNH) is Bhutan's unique development philosophy, coined by King Jigme Singye Wangchuck in 1972. It measures four pillars: good governance, sustainable socioeconomic development, cultural preservation, and environmental conservation — prioritising citizens' well-being over economic output. GNH is SSC's go-to example of a non-GDP development indicator.",
+          "source": "SSC CGL / GK — frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
