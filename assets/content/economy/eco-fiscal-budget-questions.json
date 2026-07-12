@@ -1,0 +1,203 @@
+{
+  "topic": "Fiscal Policy, Union Budget & Deficit Types (FRBM Act)",
+  "topicId": "eco-fiscal-budget",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Union Budget of India is presented in the Lok Sabha on which date (since 2017)?",
+          "options": ["31 January", "1 February", "28 February", "Last working day of March"],
+          "answerIndex": 1,
+          "explanation": "Since 2017, the Union Budget is presented on 1 February — changed from the last working day of February by Finance Minister Arun Jaitley. The earlier presentation date ensures that budgetary allocations can be operationalised before the financial year begins on 1 April, giving ministries more time to spend. The Railway Budget, previously separate, was also merged with the Union Budget in 2017.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The 'Annual Financial Statement' mentioned in Article 112 of the Constitution is commonly known as:",
+          "options": ["Finance Bill", "Appropriation Act", "Union Budget", "Vote on Account"],
+          "answerIndex": 2,
+          "explanation": "The Annual Financial Statement (Article 112) is the constitutional name for what is popularly called the Union Budget. It is a statement of estimated receipts and expenditures of the Government of India for the upcoming financial year (1 April to 31 March). The Finance Bill (taxes) and Appropriation Bill (expenditure approval) are separate bills that accompany the budget.",
+          "source": "SSC CGL / Polity-Economy boundary question",
+          "verified": true
+        },
+        {
+          "text": "Fiscal Deficit is defined as:",
+          "options": [
+            "Revenue Expenditure minus Revenue Receipts",
+            "Total Expenditure minus Total Receipts excluding borrowings",
+            "Fiscal Deficit minus Interest Payments",
+            "Capital Expenditure minus Capital Receipts"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fiscal Deficit = Total Expenditure − Total Receipts (excluding borrowings). It represents the government's total borrowing requirement in a year — how much must be borrowed to bridge the gap between what the government spends and what it earns. The fiscal deficit is expressed as a percentage of GDP. Under the FRBM Act 2003, the target is 3% of GDP. Revenue Deficit (option A) is the day-to-day gap; Primary Deficit (option C) strips out interest payments.",
+          "source": "SSC CGL previous years — fiscal deficit formula most frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Under which Article of the Constitution is the Contingency Fund of India established?",
+          "options": ["Article 266", "Article 267", "Article 280", "Article 112"],
+          "answerIndex": 1,
+          "explanation": "The Contingency Fund of India is established under Article 267. It is an emergency fund of ₹500 crore held at the disposal of the President, which can be used for unforeseen expenditure without prior Parliamentary approval — Parliament ratifies the drawl later. The Consolidated Fund and Public Account of India are both under Article 266. Article 112 covers the Annual Financial Statement (Budget). Article 280 establishes the Finance Commission.",
+          "source": "SSC CGL / Polity-Economy — Article 267 is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is 'Primary Deficit', and what does it reveal that the fiscal deficit does not?",
+          "options": [
+            "Primary Deficit = Revenue Deficit − Interest Payments; reveals the true resource gap",
+            "Primary Deficit = Fiscal Deficit − Interest Payments; reveals whether the government's current-year operations (excluding past debt burden) are in deficit",
+            "Primary Deficit = Fiscal Deficit − Capital Expenditure; reveals non-developmental borrowing",
+            "Primary Deficit = Total Deficit − Disinvestment proceeds; reveals net borrowings"
+          ],
+          "answerIndex": 1,
+          "explanation": "Primary Deficit = Fiscal Deficit − Interest Payments. It removes the interest payments on past accumulated debt from the fiscal deficit, revealing whether the government's CURRENT policy choices are deficit-generating. If Primary Deficit = 0, the government is only borrowing to service old debt (which is inherited, not a choice). If Primary Deficit > 0, even current operations are in deficit. A falling Primary Deficit signals improving fiscal management, independent of the inherited debt burden.",
+          "source": "SSC CGL / economy — primary deficit interpretation is tricky",
+          "verified": false
+        },
+        {
+          "text": "Which of the following is a CAPITAL receipt of the government?",
+          "options": [
+            "Income Tax collected from salaried employees",
+            "Dividends received from Public Sector Undertakings",
+            "Proceeds from disinvestment of government's stake in a PSU",
+            "GST collected on goods and services"
+          ],
+          "answerIndex": 2,
+          "explanation": "Disinvestment proceeds (sale of government's equity in PSUs) are CAPITAL receipts — because they reduce the government's capital assets (its PSU holdings). Income Tax, Dividends, and GST are all REVENUE receipts (regular income from taxation and operations). Capital receipts include: market borrowings, disinvestment, external borrowings, small savings, and recovery of loans previously given. Revenue receipts include: all taxes + non-tax revenue (interest, dividends, fees).",
+          "source": "SSC CGL — capital vs revenue receipt classification is a classic trap",
+          "verified": false
+        },
+        {
+          "text": "What does the FRBM Act 2003 prohibit, regarding RBI and government borrowing?",
+          "options": [
+            "RBI from setting the Repo Rate independently",
+            "Government from issuing bonds in foreign markets",
+            "RBI from directly purchasing government securities in the primary market (direct monetisation)",
+            "Government from disinvesting in PSUs"
+          ],
+          "answerIndex": 2,
+          "explanation": "FRBM Act 2003 banned the practice of the government directly borrowing from RBI through 'ad hoc Treasury Bills' — which effectively meant RBI printing money to fund government deficits (monetisation). After FRBM, the government must borrow from the open market (by selling G-secs to banks, insurance companies, etc.). This prevents unlimited money printing. RBI may still buy government bonds in the secondary market (OMO) — but not directly from government at issuance.",
+          "source": "SSC / FRBM key provision — frequently asked in economy GK",
+          "verified": false
+        },
+        {
+          "text": "What is a 'Vote on Account' and when is it typically used?",
+          "options": [
+            "Parliamentary approval for emergency taxation during war",
+            "A full budget presented in January instead of February",
+            "An interim Parliamentary approval allowing government spending for a few months, typically used in election years when a full budget cannot be presented",
+            "Presidential assent to the Finance Bill"
+          ],
+          "answerIndex": 2,
+          "explanation": "A Vote on Account is Parliament's approval for the government to withdraw money from the Consolidated Fund for a short period (usually 2 months) to meet routine expenditure, pending the passage of the full budget. It is typically used when general elections are due — the outgoing government cannot present a full budget committing to new policies, so it seeks a Vote on Account to keep the government running. The new government then presents the full budget after taking office.",
+          "source": "SSC / budget procedure — frequently asked in election years",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Effective Revenue Deficit (ERD), introduced in the 2011-12 Union Budget, is calculated as:",
+          "options": [
+            "Fiscal Deficit − Primary Deficit",
+            "Revenue Deficit − Interest Payments",
+            "Revenue Deficit − Grants for Capital Asset Creation",
+            "Total Deficit − Capital Expenditure"
+          ],
+          "answerIndex": 2,
+          "explanation": "Effective Revenue Deficit (ERD) = Revenue Deficit − Grants for Capital Asset Creation. Some grants given by the Centre to states (e.g., for PMGSY roads, PMAY housing) are classified as 'revenue expenditure' in the Centre's books but actually fund capital assets at the state level. Deducting these from the Revenue Deficit gives a purer picture of the consumptive gap. ERD was introduced in the 2011-12 Budget and is considered a more refined measure of fiscal health.",
+          "source": "SSC / budget concepts — ERD is underrated but tested",
+          "verified": false
+        },
+        {
+          "text": "The Railway Budget was merged with the Union Budget in which year?",
+          "options": ["2014", "2016", "2017", "2019"],
+          "answerIndex": 2,
+          "explanation": "The separate Railway Budget, which had existed since 1924 (recommended by the Acworth Committee), was merged with the Union Budget from 2017 — the year Finance Minister Arun Jaitley also moved the budget date from the last day of February to 1 February. The merger was recommended by the Bibek Debroy Committee (2015). Combined presentation simplifies budget preparation and allows railway investments to be seen alongside overall infrastructure spending.",
+          "source": "SSC / budget reforms — year of railway merger is underrated",
+          "verified": true
+        },
+        {
+          "text": "When the government spends on salaries, subsidies, and interest payments, this is classified as:",
+          "options": [
+            "Capital expenditure (creates assets)",
+            "Revenue expenditure (does not create assets)",
+            "Transfer expenditure (shifts income between groups)",
+            "Plan expenditure (under Five-Year Plans)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Salaries, subsidies, pensions, and interest payments are Revenue Expenditure — spending that does not create physical assets. The money is 'consumed' — it meets current operational needs. Capital Expenditure (roads, railways, defence equipment) creates durable assets. The distinction matters: a government borrowing heavily for revenue expenditure (subsidies, salaries) is fiscally weaker than one borrowing for capital expenditure (infrastructure). Note: Plan vs Non-Plan classification was abolished from 2017-18.",
+          "source": "SSC / revenue vs capital expenditure — classification question",
+          "verified": false
+        },
+        {
+          "text": "The Consolidated Fund of India is governed by which Article of the Constitution?",
+          "options": ["Article 112", "Article 266", "Article 267", "Article 280"],
+          "answerIndex": 1,
+          "explanation": "The Consolidated Fund of India is established under Article 266 of the Constitution. All revenues received by and all loans raised by the Government of India must be credited to this fund. All government expenditure is drawn from this fund and requires prior Parliamentary sanction through an Appropriation Act. Contingency Fund = Article 267. Annual Financial Statement (Budget) = Article 112. Finance Commission = Article 280.",
+          "source": "SSC / constitutional provisions of budget — Article match question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is 'Revenue Deficit' in government finance?",
+          "options": [
+            "Total Expenditure minus Total Receipts",
+            "Revenue Expenditure minus Revenue Receipts",
+            "Fiscal Deficit minus Interest Payments",
+            "Capital Expenditure minus Capital Receipts"
+          ],
+          "answerIndex": 1,
+          "explanation": "Revenue Deficit = Revenue Expenditure − Revenue Receipts. It shows the gap between the government's day-to-day spending (salaries, subsidies, interest) and its regular income (taxes, non-tax revenue). A revenue deficit means the government is borrowing to meet consumption needs — not to invest in assets. This is considered fiscally unhealthy. Under FRBM, the target is to bring revenue deficit to zero (or positive, i.e., a revenue surplus).",
+          "source": "SSC CGL / SSC CHSL — revenue deficit definition, most frequently asked deficit type",
+          "verified": true
+        },
+        {
+          "text": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in which year?",
+          "options": ["1991", "2000", "2003", "2008"],
+          "answerIndex": 2,
+          "explanation": "The FRBM Act was enacted in 2003 with the objective of institutionalising fiscal discipline — bringing the fiscal deficit to 3% of GDP and eliminating the revenue deficit. It also banned ad hoc Treasury Bills (direct monetisation of deficit by RBI). The Act has been amended multiple times — targets were relaxed after the 2008 global financial crisis and again during COVID-19.",
+          "source": "SSC CGL / economy — FRBM year is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following statements about the Consolidated Fund and Contingency Fund of India is CORRECT?",
+          "options": [
+            "Both require prior Parliamentary approval for withdrawals",
+            "Consolidated Fund requires Parliamentary approval; Contingency Fund can be used by President without prior approval",
+            "Contingency Fund is larger than Consolidated Fund",
+            "Both are established under Article 267"
+          ],
+          "answerIndex": 1,
+          "explanation": "Consolidated Fund of India (Article 266): All government revenues and borrowings go here; all expenditure requires prior Parliamentary sanction via Appropriation Act. Contingency Fund of India (Article 267): Emergency fund of ₹500 crore at President's disposal; can be drawn without prior Parliamentary approval for unforeseen expenditure; Parliament ratifies the withdrawal after the fact. The Consolidated Fund is by far the larger fund (tens of lakh crores); Contingency Fund is a small emergency reserve.",
+          "source": "SSC CGL — Consolidated vs Contingency Fund comparison, very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The target for Fiscal Deficit as a percentage of GDP under the FRBM Act is:",
+          "options": ["1% of GDP", "2% of GDP", "3% of GDP", "5% of GDP"],
+          "answerIndex": 2,
+          "explanation": "The FRBM Act 2003 set a fiscal deficit target of 3% of GDP for the Central Government. This is India's fiscal anchor — the legally mandated ceiling on how much the government can borrow as a share of national income. The target has been missed repeatedly (global financial crisis 2008, COVID 2020), but 3% remains the stated medium-term objective. The NK Singh Committee (2017) recommended adding debt/GDP targets alongside this 3% fiscal deficit target.",
+          "source": "SSC CGL / current affairs economy — FRBM target is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
