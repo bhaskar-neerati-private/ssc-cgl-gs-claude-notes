@@ -1,0 +1,173 @@
+{
+  "topic": "Commercial Banks — Types, Nationalisation, RRBs & New-Age Banks",
+  "topicId": "eco-commercial-banking",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "How many banks were nationalised by the Government of India in 1969?",
+          "options": ["6", "12", "14", "20"],
+          "answerIndex": 2,
+          "explanation": "On 19 July 1969, Indira Gandhi's government nationalised 14 major commercial banks — those with deposits exceeding ₹50 crore — under the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1969. In 1980, 6 more banks with deposits exceeding ₹200 crore were nationalised. SSC tests both the number (14 and 6) and their respective thresholds.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The State Bank of India was established by nationalising which institution?",
+          "options": ["Reserve Bank of India", "Imperial Bank of India", "Bank of Bengal", "Central Bank of India"],
+          "answerIndex": 1,
+          "explanation": "The Imperial Bank of India (formed in 1921 by merging the three Presidency Banks — Bank of Bengal, Bank of Bombay, Bank of Madras) was nationalised under the State Bank of India Act, 1955, and renamed State Bank of India. This is a separate event from the 1969 nationalisation of 14 banks. RBI was not nationalised into SBI; RBI became the central bank in 1935 independently.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "Regional Rural Banks (RRBs) were established under which Act?",
+          "options": ["RRB Act 1969", "RRB Act 1976", "Banking Regulation Act 1975", "Narasimham Act 1975"],
+          "answerIndex": 1,
+          "explanation": "RRBs were established under the Regional Rural Banks Act, 1976, based on the recommendations of the Narasimham Committee (1975). They were created to provide banking services to rural and semi-urban areas. The first RRB, Prathama Bank, was established on 2 October 1975 in Moradabad, UP (even before the formal RRB Act) as a pilot.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "What is the maximum deposit insurance cover provided by DICGC per depositor per bank?",
+          "options": ["₹1 lakh", "₹2 lakh", "₹5 lakh", "₹10 lakh"],
+          "answerIndex": 2,
+          "explanation": "DICGC (Deposit Insurance and Credit Guarantee Corporation), a wholly-owned subsidiary of RBI, insures bank deposits up to ₹5 lakh per depositor per bank. This limit was raised from ₹1 lakh to ₹5 lakh in February 2020. The 'per depositor per bank' means if the same person has accounts in two different banks, each is insured separately up to ₹5 lakh.",
+          "source": "SSC CGL / SSC CHSL — updated amount frequently tested",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the ownership pattern of Regional Rural Banks (RRBs)?",
+          "options": [
+            "100% Central Government",
+            "60% Central Government, 40% Sponsor Bank",
+            "50% Central Government, 15% State Government, 35% Sponsor Bank",
+            "50% Sponsor Bank, 30% Central Government, 20% State Government"
+          ],
+          "answerIndex": 2,
+          "explanation": "RRB ownership is split 50:15:35 — Central Government holds 50%, State Government holds 15%, and the Sponsor Bank (a scheduled commercial bank, usually a PSB) holds 35%. This pattern is heavily tested and frequently misstated. The Sponsor Bank manages the RRB's operations, staff training, and provides initial capital but holds only 35%, not the majority.",
+          "source": "SSC CGL — ratio is a classic trap",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is a Payment Bank ALLOWED to do?",
+          "options": [
+            "Give personal loans to salaried employees",
+            "Issue credit cards",
+            "Accept deposits up to ₹2 lakh and offer debit cards",
+            "Provide home loans"
+          ],
+          "answerIndex": 2,
+          "explanation": "Payment Banks CAN: accept deposits (up to ₹2 lakh per customer), offer debit cards, provide net banking and mobile banking, sell insurance and mutual fund products as a distributor. Payment Banks CANNOT: give loans of any kind, issue credit cards, or accept NRI deposits. The inability to lend is their defining restriction — they are essentially mobile-first savings/transaction institutions.",
+          "source": "SSC CGL / current affairs — Payment Bank restrictions frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The deposit threshold for banks nationalised in 1969 was ₹50 crore. What was the threshold for the 1980 nationalisation?",
+          "options": ["₹100 crore", "₹150 crore", "₹200 crore", "₹500 crore"],
+          "answerIndex": 2,
+          "explanation": "In 1969, banks with deposits exceeding ₹50 crore were nationalised (14 banks). In 1980, the threshold was ₹200 crore — four times higher — and 6 more banks were nationalised. After the 1980 wave, 20 banks (14+6) were in government hands. SSC often pairs these two nationalisations in a single question to test whether students swap the thresholds.",
+          "source": "SSC CGL / SSC CHSL — both thresholds tested",
+          "verified": true
+        },
+        {
+          "text": "What does the SARFAESI Act 2002 enable banks to do?",
+          "options": [
+            "Set their own interest rates independently of RBI",
+            "Seize and auction collateral of defaulting borrowers without a court order",
+            "Write off NPAs directly without RBI approval",
+            "Convert NPAs into equity in defaulting companies"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 gives banks and financial institutions the power to recover NPAs by seizing and auctioning the collateral/security offered by borrowers WITHOUT approaching a court. Before SARFAESI, banks had to go to court for every recovery — a slow, expensive process that let NPA accounts fester. SARFAESI also enables the creation of Asset Reconstruction Companies (ARCs) to buy bad loans from banks.",
+          "source": "SSC CGL / banking GK pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The three Presidency Banks established in British India were merged in 1921 to form:",
+          "options": ["State Bank of India", "Imperial Bank of India", "Reserve Bank of India", "Bank of Hindustan"],
+          "answerIndex": 1,
+          "explanation": "Bank of Bengal (1806) + Bank of Bombay (1840) + Bank of Madras (1843) = three Presidency Banks, merged in 1921 to form the Imperial Bank of India. The Imperial Bank performed some central banking functions until RBI was established in 1935. Then in 1955, the Imperial Bank was nationalised as the State Bank of India. The chain: 3 Presidency Banks → Imperial Bank (1921) → SBI (1955) is a favourite SSC sequence question.",
+          "source": "SSC / banking history — underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The Lead Bank Scheme assigns a 'lead bank' to each district for credit planning. This scheme was introduced in:",
+          "options": ["1955 (when SBI was formed)", "1969 (same year as bank nationalisation)", "1975 (Narasimham Committee year)", "1991 (liberalisation year)"],
+          "answerIndex": 1,
+          "explanation": "The Lead Bank Scheme was introduced in 1969 — the same year as bank nationalisation — based on the recommendations of the Gadgil Study Group (also called the Nariman Committee). Each district is assigned to one lead bank (usually a PSB or SBI) which coordinates all banking activities and credit planning in that district. The scheme aims to ensure no district is left unbanked.",
+          "source": "SSC / banking scheme — underrated year question",
+          "verified": false
+        },
+        {
+          "text": "What is the minimum Capital Adequacy Ratio (CAR) required for Indian commercial banks as mandated by RBI (under Basel III)?",
+          "options": ["6%", "8%", "9%", "12%"],
+          "answerIndex": 2,
+          "explanation": "While Basel III globally requires a minimum CAR of 8%, RBI has set the minimum at 9% for Indian banks — a more conservative requirement. CAR = (Tier 1 + Tier 2 Capital) / Risk-Weighted Assets × 100. A higher CAR means a bank can absorb more losses before becoming insolvent. Poorly capitalised banks (low CAR) may be put under RBI's Prompt Corrective Action (PCA) framework.",
+          "source": "SSC / Basel norms — frequently underestimated",
+          "verified": false
+        },
+        {
+          "text": "Small Finance Banks (SFBs) must lend what percentage of their ANBC to priority sectors?",
+          "options": ["40%", "51%", "75%", "90%"],
+          "answerIndex": 2,
+          "explanation": "Small Finance Banks must direct 75% of their Adjusted Net Bank Credit (ANBC) to Priority Sector Lending — nearly double the 40% required of normal commercial banks. This high PSL target reflects SFBs' mandate to serve the underbanked: small farmers, micro enterprises, and weaker sections. Additionally, at least 25% of SFB branches must be in unbanked rural areas, and 50% of loans must be for amounts below ₹25 lakh.",
+          "source": "SSC / SFB pattern — 75% is underrated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following is the LARGEST bank in India?",
+          "options": ["HDFC Bank", "Punjab National Bank", "State Bank of India", "Bank of Baroda"],
+          "answerIndex": 2,
+          "explanation": "State Bank of India (SBI) is the largest bank in India by assets, deposits, branches, and employees. It has the largest branch network, largest ATM network, and largest balance sheet among all Indian banks. HDFC Bank (post-merger with HDFC Ltd) is the largest private sector bank. SBI is also consistently ranked among the world's top 50 banks by assets.",
+          "source": "SSC CGL / GK — most frequently asked banking comparison",
+          "verified": true
+        },
+        {
+          "text": "DICGC is a subsidiary of which organisation?",
+          "options": ["Ministry of Finance", "SEBI", "Reserve Bank of India", "SBI"],
+          "answerIndex": 2,
+          "explanation": "Deposit Insurance and Credit Guarantee Corporation (DICGC) is a wholly-owned subsidiary of the Reserve Bank of India. It was established in 1961 under the DICGC Act. It insures deposits of all commercial banks, RRBs, co-operative banks, and small finance banks. Its funding comes from premiums paid by insured banks (currently 12 paise per ₹100 of insured deposits annually).",
+          "source": "SSC CGL / SSC CHSL — parent organisation of DICGC frequently asked",
+          "verified": true
+        },
+        {
+          "text": "A bank loan is classified as a Non-Performing Asset (NPA) when interest/principal repayment is overdue for more than:",
+          "options": ["30 days", "60 days", "90 days", "180 days"],
+          "answerIndex": 2,
+          "explanation": "A loan account becomes NPA when interest or principal repayment has been overdue for more than 90 days (3 months). This 90-day norm was introduced by RBI in 2004 (earlier it was 180 days). NPAs reduce bank profitability, require provisioning (setting aside capital), and constrain new lending. India's NPA problem peaked around 2018 when Gross NPAs crossed ₹10 lakh crore.",
+          "source": "SSC CGL / economy — 90 days is the standard frequently tested answer",
+          "verified": true
+        },
+        {
+          "text": "After the 2019–20 bank mergers, how many Public Sector Banks (PSBs) are there in India?",
+          "options": ["19", "14", "12", "8"],
+          "answerIndex": 2,
+          "explanation": "After the merger announcements of August 2019 (effective April 2020), India's PSB count reduced from 27 to 12. Key mergers: OBC + United Bank → PNB; Syndicate → Canara Bank; Andhra Bank + Corporation Bank → Union Bank; Allahabad Bank → Indian Bank; Vijaya Bank + Dena Bank → Bank of Baroda (2019). The 12 remaining PSBs are: SBI, PNB, BoB, Canara Bank, Union Bank, Indian Bank, Bank of India, Central Bank, UCO Bank, Bank of Maharashtra, Punjab & Sind Bank, Indian Overseas Bank.",
+          "source": "SSC CGL / current affairs GK — post-merger count is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
