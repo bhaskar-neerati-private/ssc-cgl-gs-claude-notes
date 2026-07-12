@@ -292,8 +292,84 @@
       "name": "Economy",
       "tier": "A",
       "order": 4,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "eco-basics",
+          "title": "Basic Concepts — GDP, GNP, NDP, NNP, GVA & Sectors of Economy",
+          "status": "done"
+        },
+        {
+          "id": "eco-national-income-hdx",
+          "title": "National Income Measurement, HDI, PPP & Savings",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-rbi-monetary-policy",
+          "title": "RBI — Functions, Structure & Monetary Policy Tools",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-commercial-banking",
+          "title": "Commercial Banks — Types, Nationalisation, RRBs & New-Age Banks",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-inflation",
+          "title": "Inflation — Types, CPI vs WPI, GDP Deflator & Causes",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-fiscal-budget",
+          "title": "Fiscal Policy, Union Budget & Deficit Types (FRBM Act)",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-taxation-gst",
+          "title": "Taxation — Direct & Indirect Taxes, GST Structure & GST Council",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-planning-niti",
+          "title": "Five-Year Plans, Planning Commission & NITI Aayog",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-financial-markets",
+          "title": "Capital Markets — SEBI, Stock Exchanges, Mutual Funds & Insurance (IRDAI)",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-development-finance",
+          "title": "Development Finance — NABARD, SIDBI, NHB, Exim Bank & MUDRA",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-international-trade",
+          "title": "International Trade, Balance of Payments, FDI & SEZ",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-international-bodies",
+          "title": "International Economic Bodies — WTO, IMF, World Bank Group & ADB",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-poverty-employment",
+          "title": "Poverty, Inequality, Unemployment & MGNREGS",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-liberalisation",
+          "title": "1991 LPG Reforms, Globalisation, Make in India & PLI Scheme",
+          "status": "not-started"
+        },
+        {
+          "id": "eco-schemes",
+          "title": "Flagship Economic Schemes — Jan Dhan, Ujjwala, PMAY, MUDRA & Others",
+          "status": "not-started"
+        }
+      ]
     },
     {
       "id": "science-biology",

@@ -1,0 +1,203 @@
+{
+  "topic": "Basic Concepts — GDP, GNP, NDP, NNP, GVA & Sectors of Economy",
+  "topicId": "eco-basics",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "National Income of a country is equal to which of the following?",
+          "options": ["GDP at Market Price", "GNP at Market Price", "NNP at Factor Cost", "NDP at Factor Cost"],
+          "answerIndex": 2,
+          "explanation": "National Income = NNP at Factor Cost (NNP_FC). This is the definitional identity. NNP (Net National Product) = GNP minus depreciation. Factor Cost means we further subtract net indirect taxes (indirect taxes minus subsidies). National Income represents the total income earned by a country's residents from all factors of production.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "GDP is defined as the total monetary value of all final goods and services produced:",
+          "options": [
+            "By Indian nationals, inside and outside India, in a year",
+            "Within India's geographic boundary in a year, regardless of producer's nationality",
+            "By the government sector of India in a year",
+            "By the private sector within India in a year"
+          ],
+          "answerIndex": 1,
+          "explanation": "GDP (Gross Domestic Product) measures production WITHIN India's geographic boundary — by both Indian residents and foreigners working in India. It is a territorial measure. GNP, by contrast, measures production by Indian NATIONALS regardless of where they work. The distinction is territory (GDP) vs. nationality (GNP).",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct relationship between GNP and GDP?",
+          "options": [
+            "GNP = GDP + Depreciation",
+            "GNP = GDP − Net Factor Income from Abroad",
+            "GNP = GDP + Net Factor Income from Abroad",
+            "GNP = GDP − Subsidies + Taxes"
+          ],
+          "answerIndex": 2,
+          "explanation": "GNP = GDP + NFIA (Net Factor Income from Abroad). NFIA = Income earned by Indian residents abroad minus income earned by foreigners in India. If India is a net receiver of factor income (NFIA > 0), GNP > GDP. For most developing countries where more foreigners invest than nationals invest abroad, GNP < GDP.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "India's GDP is calculated and published by which organisation?",
+          "options": ["Reserve Bank of India (RBI)", "NITI Aayog", "Ministry of Finance", "NSO under MoSPI"],
+          "answerIndex": 3,
+          "explanation": "India's GDP is estimated and published by the NSO (National Statistical Office) under MoSPI (Ministry of Statistics and Programme Implementation). NSO was formed in 2019 by merging the CSO (Central Statistics Office, which estimated GDP) and NSSO (National Sample Survey Organisation, which conducted surveys). RBI uses the GDP data but does not produce it.",
+          "source": "SSC CGL / Railway / Bank exams",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "If India's GDP is ₹200 lakh crore and Net Factor Income from Abroad is −₹2 lakh crore (negative), what is India's GNP?",
+          "options": ["₹202 lakh crore", "₹200 lakh crore", "₹198 lakh crore", "Cannot be determined without depreciation data"],
+          "answerIndex": 2,
+          "explanation": "GNP = GDP + NFIA. Here NFIA = −₹2 lakh crore (negative means foreigners earn more in India than Indians earn abroad). So GNP = ₹200 − ₹2 = ₹198 lakh crore. This is the typical situation for a capital-importing developing economy like India — GNP is slightly less than GDP because profit and dividend outflows to foreign investors exceed Indian earnings abroad.",
+          "source": "SSC pattern — numerical concept question",
+          "verified": false
+        },
+        {
+          "text": "Which of the following is correct regarding 'Factor Cost' and 'Market Price'?",
+          "options": [
+            "Factor Cost = Market Price + Indirect Taxes − Subsidies",
+            "Factor Cost = Market Price − Indirect Taxes + Subsidies",
+            "Factor Cost = Market Price + Subsidies − Indirect Taxes",
+            "Factor Cost = Market Price + Depreciation"
+          ],
+          "answerIndex": 1,
+          "explanation": "Factor Cost = Market Price − Net Indirect Taxes = Market Price − (Indirect Taxes − Subsidies) = Market Price − Indirect Taxes + Subsidies. Factor Cost represents what factors of production actually earn. Market Price is what consumers pay — higher by the amount of indirect taxes and lower by subsidies. So FC = MP − Taxes + Subsidies.",
+          "source": "SSC CGL pattern — formula confusion trap",
+          "verified": false
+        },
+        {
+          "text": "India's GDP base year was revised to 2011-12 in which year, and what was the previous base year?",
+          "options": ["2010; base year was 2004-05", "January 2015; base year was 2004-05", "2012; base year was 1999-2000", "2020; base year was 2011-12"],
+          "answerIndex": 1,
+          "explanation": "India's GDP base year was revised to 2011-12 in January 2015, replacing the old base year of 2004-05. The new base year better reflects India's changed economic structure (rise of IT, telecom, organised retail) and uses GVA-based methodology. Base year revisions often cause significant upward revisions to GDP estimates.",
+          "source": "SSC CGL / economy pattern",
+          "verified": false
+        },
+        {
+          "text": "A baker buys flour for ₹20 and sells bread for ₹35. What is the baker's contribution to India's GDP using the Value Added Method?",
+          "options": ["₹35 (total output)", "₹20 (input cost)", "₹15 (value added only)", "₹55 (flour + bread combined)"],
+          "answerIndex": 2,
+          "explanation": "Using the Value Added Method (which avoids double counting), the baker's contribution = Output Value − Intermediate Input = ₹35 − ₹20 = ₹15. We do NOT count the full ₹35 because ₹20 of flour was already counted in the miller's GVA. Adding ₹35 would count the flour twice. GVA at each stage = new value created at that stage only.",
+          "source": "SSC CGL concept question pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What does the GDP Deflator measure, and how is it different from the Consumer Price Index (CPI)?",
+          "options": [
+            "Both measure the same thing — they are interchangeable",
+            "GDP Deflator covers all goods in GDP; CPI covers only a fixed consumer basket",
+            "GDP Deflator measures only industrial price changes; CPI measures agricultural prices",
+            "CPI is a broader measure than GDP Deflator as it includes imports"
+          ],
+          "answerIndex": 1,
+          "explanation": "GDP Deflator = (Nominal GDP / Real GDP) × 100. It measures price changes across ALL goods and services produced in the economy. CPI tracks a fixed basket of consumer goods (food, clothing, housing, fuel, etc.) and is the main inflation measure for households. GDP Deflator is broader in product coverage but doesn't track import prices (imports aren't in GDP), while CPI does include imported consumer goods.",
+          "source": "SSC / economics pattern — underrated conceptual question",
+          "verified": false
+        },
+        {
+          "text": "India is said to have 'leapfrogged' from primary to tertiary sector. What does this mean?",
+          "options": [
+            "India's agriculture directly exports to service industries abroad",
+            "India moved from agriculture to services without going through a dominant manufacturing phase",
+            "India's primary sector produces goods for the tertiary sector directly",
+            "India skipped the industrial revolution and is now post-industrial"
+          ],
+          "answerIndex": 1,
+          "explanation": "Most developed economies followed a sequence: agriculture → manufacturing (industrial revolution) → services. India's services sector (especially IT/BPO) boomed after 1991 liberalisation without India going through a comparable industrial/manufacturing dominance phase. India's manufacturing sector (~25-28% of GDP) never dominated the way Germany's, Japan's or China's did. India went primary → directly to services-led growth.",
+          "source": "SSC economy pattern — structural economics",
+          "verified": false
+        },
+        {
+          "text": "CSO and NSSO were merged into NSO in 2019. What were their distinct functions before the merger?",
+          "options": [
+            "CSO conducted monetary policy; NSSO set fiscal policy",
+            "CSO estimated national income/GDP; NSSO conducted household surveys on consumption, poverty, employment",
+            "Both did the same work — the merger was just an administrative change",
+            "CSO managed foreign reserves; NSSO handled domestic currency"
+          ],
+          "answerIndex": 1,
+          "explanation": "CSO (Central Statistics Office) was responsible for estimating India's national income, GDP, and national accounts. NSSO (National Sample Survey Organisation) conducted large-scale household surveys measuring consumption expenditure, poverty, employment-unemployment, and living standards. In 2019, both were merged into the NSO (National Statistical Office) under MoSPI for statistical coordination.",
+          "source": "SSC / administrative GK — underrated but tested",
+          "verified": false
+        },
+        {
+          "text": "Which of the following best explains why India's services sector contributes ~55% of GDP despite India still being a 'developing' country?",
+          "options": [
+            "India's large population creates huge domestic demand for services",
+            "Post-1991 IT and BPO boom created a services export engine without a preceding manufacturing phase",
+            "Services are counted differently in India's GDP methodology",
+            "India's manufacturing was always small; the data was always this way"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 1991 LPG reforms opened India to global competition. India's English-speaking, technically educated workforce made it ideal for IT services and business process outsourcing. Companies like Infosys, Wipro, TCS grew rapidly, exporting services globally. This created a large services contribution to GDP while India's manufacturing sector remained relatively underdeveloped — a structural anomaly for a developing country of India's size.",
+          "source": "SSC economy / structural pattern",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is the correct formula for Net National Product (NNP)?",
+          "options": [
+            "NNP = GDP − Depreciation",
+            "NNP = GNP + Depreciation",
+            "NNP = GNP − Depreciation",
+            "NNP = GDP + Net Factor Income from Abroad"
+          ],
+          "answerIndex": 2,
+          "explanation": "NNP = GNP − Depreciation. The chain is: GDP + NFIA = GNP; GNP − Depreciation = NNP at Market Price; NNP at MP − Net Indirect Taxes = NNP at Factor Cost = National Income. NDP = GDP − Depreciation (domestic, not national). The GDP − Depreciation formula gives NDP, not NNP — a common mix-up.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which sector contributes the most to India's GDP?",
+          "options": ["Primary (Agriculture)", "Secondary (Manufacturing)", "Tertiary (Services)", "All three contribute equally"],
+          "answerIndex": 2,
+          "explanation": "The Tertiary (Services) sector contributes approximately 54–58% of India's GDP — making India a services-led economy. Primary sector (agriculture, forestry, fishing) contributes ~15–18%; Secondary sector (manufacturing, construction) ~25–28%. Despite ~55% of India's workforce being in agriculture, agriculture contributes far less to GDP than services — a major structural imbalance in India's economy.",
+          "source": "SSC CGL / SSC GD — very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The difference between GDP at Market Price and GDP at Factor Cost is:",
+          "options": [
+            "Depreciation",
+            "Net Indirect Taxes (Indirect Taxes − Subsidies)",
+            "Net Factor Income from Abroad",
+            "Capital Formation"
+          ],
+          "answerIndex": 1,
+          "explanation": "GDP at MP − GDP at FC = Net Indirect Taxes (Indirect Taxes − Subsidies). Market Price includes indirect taxes and excludes subsidies. Factor Cost excludes indirect taxes and includes subsidies. So: GDP_FC = GDP_MP − Net Indirect Taxes. Depreciation is the difference between Gross and Net measures; NFIA is the difference between Domestic and National measures.",
+          "source": "SSC CGL — among the most frequently tested economy formulas",
+          "verified": true
+        },
+        {
+          "text": "Real GDP is measured at which prices?",
+          "options": ["Current year prices", "Previous year prices only", "Constant base year prices", "International dollar prices"],
+          "answerIndex": 2,
+          "explanation": "Real GDP is measured at constant base year prices (India's current base year: 2011-12). This removes the effect of inflation, showing actual changes in output. Nominal GDP is at current prices — it rises even if only prices rise, not output. GDP growth rate in the news = growth in Real GDP. GDP Deflator = (Nominal / Real) × 100 measures economy-wide price changes.",
+          "source": "SSC CGL / SSC CHSL — very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
