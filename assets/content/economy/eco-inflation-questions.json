@@ -1,0 +1,208 @@
+{
+  "topic": "Inflation — Types, CPI vs WPI, GDP Deflator & Causes",
+  "topicId": "eco-inflation",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which price index is used by the RBI's Monetary Policy Committee as the benchmark for inflation targeting in India?",
+          "options": ["Wholesale Price Index (WPI)", "CPI for Industrial Workers (CPI-IW)", "Consumer Price Index — Combined (CPI-C)", "GDP Deflator"],
+          "answerIndex": 2,
+          "explanation": "The RBI's Monetary Policy Committee (MPC) uses CPI-Combined (CPI-C) as the benchmark for India's flexible inflation targeting framework. The target is 4% CPI-C, with a tolerance band of ±2% (acceptable range: 2–6%). CPI-C is published monthly by MoSPI and covers both rural and urban households. WPI is NOT used for monetary policy — it is used more in trade and business contracts.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which of the following correctly describes 'stagflation'?",
+          "options": [
+            "High economic growth with high inflation",
+            "Falling inflation rates alongside rising unemployment",
+            "High inflation combined with high unemployment and stagnant economic growth",
+            "Deflation caused by excess supply of goods"
+          ],
+          "answerIndex": 2,
+          "explanation": "Stagflation = stagnation + inflation: a condition where the economy experiences high inflation simultaneously with high unemployment and low/stagnant GDP growth. It violates the traditional Phillips Curve, which predicts that high inflation should accompany low unemployment. The 1970s oil shocks (OPEC embargo, 1973) triggered classic stagflation in the USA and Europe — oil price-driven cost-push inflation while growth collapsed.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The Wholesale Price Index (WPI) in India is published by:",
+          "options": [
+            "Ministry of Statistics and Programme Implementation (MoSPI)",
+            "Reserve Bank of India",
+            "Office of the Economic Adviser, Ministry of Commerce & Industry",
+            "Central Statistical Organisation (CSO)"
+          ],
+          "answerIndex": 2,
+          "explanation": "WPI in India is published by the Office of the Economic Adviser (OEA) under the Ministry of Commerce and Industry, on a monthly basis. CPI (Consumer Price Index) is published by MoSPI. These two different ministries publishing India's two main price indices is a classic confusion SSC exploits. CSO has been merged into MoSPI.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "The Consumer Price Index (CPI) in India has its base year as:",
+          "options": ["2004-05", "2010", "2011-12", "2012"],
+          "answerIndex": 3,
+          "explanation": "CPI-Combined (and CPI-Urban, CPI-Rural) has base year 2012 (calendar year). WPI has base year 2011-12 (financial year). These two base years are close but different — SSC tests this distinction. CPI-IW (Industrial Workers) has base year 2016. The old CPI-IW base year was 2001.",
+          "source": "SSC CGL / SSC CHSL — base year comparison frequently tested",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "During high inflation, which of the following groups BENEFITS the most?",
+          "options": [
+            "Pensioners on fixed income",
+            "Holders of cash savings in a bank",
+            "Borrowers with fixed-rate long-term loans",
+            "Creditors who have lent money at fixed interest"
+          ],
+          "answerIndex": 2,
+          "explanation": "Inflation benefits debtors (borrowers) because they repay loans in 'cheaper' rupees — the real value of their debt erodes with rising prices. A person who took a ₹10 lakh home loan benefits if inflation rises, because the ₹10 lakh they owe is now worth less in real terms. Conversely, creditors (lenders), cash holders, and fixed-income earners (pensioners) all lose purchasing power during inflation.",
+          "source": "SSC CGL — winners/losers of inflation is a classic trap",
+          "verified": false
+        },
+        {
+          "text": "What is the key difference between CPI and WPI in terms of coverage?",
+          "options": [
+            "CPI covers only food; WPI covers all goods",
+            "CPI covers retail prices including services; WPI covers only goods at wholesale level (no services)",
+            "CPI covers urban households only; WPI covers rural households",
+            "CPI is released annually; WPI is released monthly"
+          ],
+          "answerIndex": 1,
+          "explanation": "The most important structural difference: CPI covers retail prices of BOTH goods AND services (including healthcare, education, housing, transport). WPI covers ONLY goods at the wholesale/producer level — services are completely excluded. This matters because India's service sector is large (~54% of GDP), so WPI systematically undercounts price pressures in services. Both CPI and WPI are released monthly.",
+          "source": "SSC CGL / economy — CPI vs WPI services coverage is a frequent trap",
+          "verified": false
+        },
+        {
+          "text": "What is 'disinflation', and how is it different from deflation?",
+          "options": [
+            "Disinflation = prices falling below zero; deflation = rapid price fall",
+            "Disinflation = the inflation rate is falling but still positive; deflation = the price level itself is falling (negative inflation)",
+            "Disinflation = inflation in developed countries; deflation = inflation in developing countries",
+            "Disinflation and deflation are the same — both mean falling prices"
+          ],
+          "answerIndex": 1,
+          "explanation": "Deflation means the general price level is actually FALLING — inflation rate is negative. Disinflation means the RATE of inflation is decreasing, but prices are still rising — just more slowly. Example: if CPI inflation goes from 7% to 4%, that is disinflation (prices still rising, but more slowly). If CPI goes from 1% to −1%, that is deflation (prices are now falling). SSC uses this pair as a trap constantly.",
+          "source": "SSC CGL — deflation vs disinflation is a top trap",
+          "verified": false
+        },
+        {
+          "text": "The GDP Deflator is calculated as:",
+          "options": [
+            "(Real GDP / Nominal GDP) × 100",
+            "(Nominal GDP / Real GDP) × 100",
+            "(CPI + WPI) / 2",
+            "Change in WPI from base year to current year"
+          ],
+          "answerIndex": 1,
+          "explanation": "GDP Deflator = (Nominal GDP / Real GDP) × 100. Nominal GDP is measured at current prices; Real GDP is measured at constant base-year prices. The ratio shows how much prices have risen since the base year. If GDP Deflator = 120, it means prices are 20% higher than the base year. The GDP Deflator is the most comprehensive price indicator as it covers all goods and services in the economy — not just a fixed consumer basket (CPI) or producer basket (WPI).",
+          "source": "SSC / UPSC economy — formula-based question",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The CPI for Industrial Workers (CPI-IW) is used primarily for:",
+          "options": [
+            "Setting the RBI's inflation target",
+            "Calculating Dearness Allowance (DA) for government employees and minimum wage revisions",
+            "Measuring export price competitiveness",
+            "Computing India's GDP growth rate"
+          ],
+          "answerIndex": 1,
+          "explanation": "CPI-IW (Consumer Price Index for Industrial Workers) is published by the Labour Bureau (Ministry of Labour & Employment) with base year 2016. It is used to calculate Dearness Allowance (DA) for Central Government employees and pensioners (revised twice a year), and for revising minimum wages under the Minimum Wages Act. CPI-IW is different from CPI-Combined (MoSPI, base 2012) which is used for monetary policy.",
+          "source": "SSC / labour GK — CPI-IW is underrated",
+          "verified": false
+        },
+        {
+          "text": "In India's WPI basket, which category has the highest weight?",
+          "options": [
+            "Primary Articles (~22.62%)",
+            "Fuel & Power (~13.15%)",
+            "Manufactured Products (~64.23%)",
+            "Food Articles (~30%)"
+          ],
+          "answerIndex": 2,
+          "explanation": "In India's WPI basket, Manufactured Products have the highest weight at ~64.23% — reflecting that most wholesale trade is in manufactured goods (chemicals, steel, textiles, machinery, processed food). Primary Articles (food crops, minerals) account for ~22.62%, and Fuel & Power for ~13.15%. This is the opposite of CPI, where food dominates. WPI's manufacturing dominance means industrial input cost shocks (metal prices, chemical prices) drive WPI more than food prices do.",
+          "source": "SSC / WPI composition — weight comparison is underrated",
+          "verified": false
+        },
+        {
+          "text": "Which type of inflation occurs when rising oil prices and raw material costs push up production costs, forcing manufacturers to raise prices?",
+          "options": ["Demand-pull inflation", "Structural inflation", "Cost-push inflation", "Reflation"],
+          "answerIndex": 2,
+          "explanation": "Cost-push inflation occurs when production costs rise — oil, wages, raw materials, electricity — and producers pass these costs on to consumers through higher prices. The 1973 OPEC oil embargo triggered the classic global cost-push inflation episode. India frequently faces cost-push inflation when global crude prices spike (rupee depreciation amplifies this: cheaper rupee → more rupees needed to buy the same barrel of oil). Demand-pull is about excess demand; cost-push is about rising supply costs.",
+          "source": "SSC CGL / economy cause-of-inflation pattern",
+          "verified": false
+        },
+        {
+          "text": "Core inflation is headline CPI inflation after excluding which components?",
+          "options": [
+            "Housing and clothing",
+            "Food and fuel/energy prices",
+            "Manufactured goods",
+            "Import-related goods"
+          ],
+          "answerIndex": 1,
+          "explanation": "Core inflation = Headline CPI minus food and fuel/energy prices. Food and fuel are highly volatile — food due to monsoon and harvest cycles; fuel due to global oil price swings. These short-term shocks can mask the underlying inflation trend. Core inflation shows the structural, persistent price pressure in the economy. RBI monitors core inflation closely because monetary policy affects core more than it can affect supply-side food/fuel shocks.",
+          "source": "SSC / monetary policy pattern — core inflation definition",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "In India's Consumer Price Index (CPI-Combined), which expenditure group has the highest weight?",
+          "options": ["Housing (~10%)", "Fuel & Light (~7%)", "Food & Beverages (~46%)", "Miscellaneous (~28%)"],
+          "answerIndex": 2,
+          "explanation": "Food & Beverages have the highest weight in India's CPI-Combined at approximately 45.86% (~46%). This reflects the reality that Indian households, especially rural and lower-income ones, spend the largest share of their budget on food. The high food weight is why a bad monsoon or onion/tomato price spike immediately spikes India's headline inflation. Developed countries like the USA have food weights of only ~13% in their CPI.",
+          "source": "SSC CGL / economy — food weight in CPI is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following statements about CPI and WPI is CORRECT?",
+          "options": [
+            "Both CPI and WPI include services in their basket",
+            "WPI measures retail prices; CPI measures wholesale prices",
+            "CPI measures retail prices including services; WPI measures wholesale prices of goods only",
+            "Both CPI and WPI are published by MoSPI"
+          ],
+          "answerIndex": 2,
+          "explanation": "CPI measures retail prices and includes both goods AND services (education, healthcare, housing, transport). WPI measures wholesale/producer prices and covers goods ONLY — services are excluded from WPI. CPI is published by MoSPI; WPI by Office of Economic Adviser (Ministry of Commerce). This question in various forms appears across multiple SSC exams.",
+          "source": "SSC CGL / SSC CHSL — most frequently asked CPI vs WPI comparison",
+          "verified": true
+        },
+        {
+          "text": "When the general price level falls and sustains over a period, it is called:",
+          "options": ["Inflation", "Disinflation", "Deflation", "Stagflation"],
+          "answerIndex": 2,
+          "explanation": "Deflation = sustained fall in the general price level (negative inflation rate). While deflation sounds good (prices falling!), it is actually harmful: consumers delay purchases (waiting for prices to fall further), investment collapses, businesses cut production, unemployment rises — a deflationary spiral. Japan suffered deflation for over a decade after 1990. Disinflation (often confused) = falling RATE of inflation, but prices are still rising.",
+          "source": "SSC CGL / SSC CHSL — deflation definition frequently tested",
+          "verified": true
+        },
+        {
+          "text": "'Too much money chasing too few goods' is the classic description of which type of inflation?",
+          "options": ["Cost-push inflation", "Structural inflation", "Demand-pull inflation", "Imported inflation"],
+          "answerIndex": 2,
+          "explanation": "Demand-pull inflation is classically described as 'too much money chasing too few goods' — when aggregate demand in the economy exceeds the available supply of goods and services, sellers raise prices. It is driven by excess liquidity (easy monetary policy), high government spending, or rising household incomes. The cure: RBI raises Repo Rate (reduces money supply), government cuts spending (reduces demand). SSC uses this phrase as a direct definition question.",
+          "source": "SSC CGL / economy — phrase-to-type match, very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
