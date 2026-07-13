@@ -1,0 +1,198 @@
+{
+  "topic": "1991 LPG Reforms, Globalisation, Make in India & PLI Scheme",
+  "topicId": "eco-liberalisation",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The New Industrial Policy of 1991, which launched India's LPG reforms, was announced by which Finance Minister?",
+          "options": ["P.V. Narasimha Rao", "Dr. Manmohan Singh", "Pranab Mukherjee", "Yashwant Sinha"],
+          "answerIndex": 1,
+          "explanation": "Dr. Manmohan Singh was the Finance Minister under PM P.V. Narasimha Rao who announced the New Industrial Policy 1991 and the transformative Union Budget 1991-92, which launched India's LPG (Liberalisation, Privatisation, Globalisation) reforms. In his budget speech, he quoted Victor Hugo: 'No power on earth can stop an idea whose time has come.' P.V. Narasimha Rao was the Prime Minister who gave Singh political backing for the reforms.",
+          "source": "SSC CGL / SSC CHSL previous years — 1991 reform architect is very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "FERA (Foreign Exchange Regulation Act) 1973 was replaced by which Act in 1999?",
+          "options": [
+            "FEMA (Foreign Exchange Management Act)",
+            "FMRA (Foreign Money Regulation Act)",
+            "FERDA (Foreign Exchange and Remittance Development Act)",
+            "FECRA (Foreign Exchange Control and Regulation Act)"
+          ],
+          "answerIndex": 0,
+          "explanation": "FERA 1973 was replaced by FEMA (Foreign Exchange Management Act) 1999. The critical difference: Under FERA, forex violations were CRIMINAL offences (imprisonment, treated like crimes). Under FEMA, they are CIVIL offences (fines and penalties — treated as regulatory violations). This shift made India's business environment far more friendly to foreign investors and Indian companies transacting internationally. FEMA is administered by RBI (for current account) and the government (for capital account).",
+          "source": "SSC CGL / SSC CHSL previous years — FERA to FEMA transition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The 'Hindu Rate of Growth' — a term used for India's sluggish ~3.5% annual GDP growth rate before 1991 — was coined by which economist?",
+          "options": ["Jawaharlal Nehru", "Amartya Sen", "Raj Krishna", "Manmohan Singh"],
+          "answerIndex": 2,
+          "explanation": "The term 'Hindu Rate of Growth' was coined by Indian economist Raj Krishna in 1978 to describe India's chronically slow economic growth of ~3.5% annually, which persisted through much of the 1950s–1980s. The term reflected the perception that India's economy was trapped in a low-growth equilibrium due to excessive state control, the License Raj, and socialist planning. Post-1991 reforms broke this pattern — India grew at 6–8% from the 1990s onward.",
+          "source": "SSC CGL previous years — Hindu Rate of Growth coinage is a classic question",
+          "verified": true
+        },
+        {
+          "text": "The Production Linked Incentive (PLI) Scheme provides incentives based on:",
+          "options": [
+            "Total sales turnover of the company",
+            "Number of employees hired by the company",
+            "Incremental sales (above a base year threshold)",
+            "Amount of capital invested by the company"
+          ],
+          "answerIndex": 2,
+          "explanation": "PLI Scheme incentives are calculated on INCREMENTAL sales — the increase in production/sales above a pre-defined base year level. Companies earn a percentage (incentive rate) of the incremental production as cash incentive. This structure ensures the government pays only for growth beyond the baseline — not for production that would have happened anyway. It also encourages companies to ramp up output year-over-year to maximize their incentive.",
+          "source": "SSC CGL — PLI scheme structure is a recent addition to the syllabus",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "During the 1991 balance of payments crisis, India pledged gold as collateral for emergency loans. Which banks/institutions received this gold?",
+          "options": [
+            "IMF and the World Bank",
+            "Bank of England and Union Bank of Switzerland",
+            "Federal Reserve Bank (USA) and Deutsche Bundesbank (Germany)",
+            "State Bank of India's London branch and Bank of Japan"
+          ],
+          "answerIndex": 1,
+          "explanation": "In May–July 1991, India secretly airlifted 67 tonnes of gold from RBI's vaults to Bank of England (London) and Union Bank of Switzerland as collateral for emergency foreign exchange loans. This was done to prevent a sovereign default. The operation was kept secret initially to avoid a confidence crisis. The gold was repatriated after India's forex position improved. This episode is a defining moment — often confused with 'pledging to IMF' which is incorrect; IMF does not take physical gold as collateral.",
+          "source": "SSC CGL — destination of pledged gold is a tricky distinction",
+          "verified": true
+        },
+        {
+          "text": "What is the key distinction between 'strategic disinvestment' and 'minority disinvestment' in the context of India's privatisation policy?",
+          "options": [
+            "Strategic disinvestment involves selling to foreign companies; minority is domestic only",
+            "Strategic disinvestment transfers majority stake + management control to a private buyer; minority disinvestment retains government majority and control",
+            "Strategic disinvestment sells equity on the stock exchange; minority is through a negotiated sale",
+            "Strategic disinvestment applies only to central PSUs; minority applies only to state PSUs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Strategic disinvestment = government sells majority (≥51%) stake AND transfers management control to a private buyer. This is true privatisation — the company stops being a government enterprise. Example: Air India to Tata Group (January 2022), VSNL to Tata (2002), Balco to Vedanta (2001). Minority disinvestment = government sells a small stake (remains majority shareholder and retains management control). The company remains a PSU. Both are managed by DIPAM.",
+          "source": "SSC CGL — strategic vs minority disinvestment distinction is tricky",
+          "verified": true
+        },
+        {
+          "text": "India's rupee became fully convertible on the Current Account in which year?",
+          "options": ["1991", "1993", "1994", "2000"],
+          "answerIndex": 2,
+          "explanation": "India achieved full Current Account convertibility in 1994 — meaning the rupee can be freely bought and sold for trade-related transactions (import/export of goods and services, remittances, travel). Capital Account convertibility (freedom to move investment capital in and out of India) is still partial/managed — a full capital account convertibility remains a longer-term goal. The 1991 reforms devalued the rupee (two-step devaluation July 1991) but full current account convertibility came later in 1994.",
+          "source": "SSC CGL — 1994 current account convertibility year is frequently confused with 1991",
+          "verified": true
+        },
+        {
+          "text": "The Competition Commission of India (CCI) was established under the Competition Act, 2002. When did it actually become operational?",
+          "options": ["2002", "2004", "2007", "2009"],
+          "answerIndex": 3,
+          "explanation": "Although the Competition Act was passed in 2002, the Competition Commission of India (CCI) became fully operational only in 2009 — there was a 7-year gap. This delay was due to legal challenges and the time needed to set up the regulatory framework. The MRTP Act 1969 (which CCI replaced) focused on limiting monopolistic business size; CCI focuses on preventing anti-competitive behaviour (cartels, predatory pricing, abuse of dominance, anti-competitive mergers) regardless of firm size.",
+          "source": "SSC CGL — CCI operational year (2009) vs Act year (2002) is a classic trap",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Make in India was launched on which date?",
+          "options": ["15 August 2014", "26 September 2014", "25 September 2014", "2 October 2014"],
+          "answerIndex": 2,
+          "explanation": "Make in India was launched on 25 September 2014 by Prime Minister Narendra Modi. The initiative aims to transform India into a global manufacturing hub, targeting manufacturing's share of GDP to rise from ~15% to 25%, and create 100 million additional jobs by 2022. The campaign's iconic symbol is a lion made of cogwheels (representing strength and precision manufacturing). The date — 25 September — is frequently confused with other scheme launch dates.",
+          "source": "SSC CGL — Make in India exact date is underrated but appears in GK",
+          "verified": true
+        },
+        {
+          "text": "DIPAM, which manages the government's disinvestment programme, is an acronym for:",
+          "options": [
+            "Department of Industrial Policy and Asset Management",
+            "Department of Investment and Public Asset Management",
+            "Directorate of Investment and Public Assets Monitoring",
+            "Department of Integrated Privatisation and Asset Management"
+          ],
+          "answerIndex": 1,
+          "explanation": "DIPAM = Department of Investment and Public Asset Management. It is under the Ministry of Finance and manages the Government of India's equity holdings in PSUs and oversees the disinvestment process — both minority stake sales and strategic disinvestments. It was renamed from DIPP (Department of Industrial Policy and Promotion) — actually DIPAM was created separately from the earlier Disinvestment Commission; note that DIPP (now DPIIT) is a different department that promotes industrial policy and FDI.",
+          "source": "SSC CGL — DIPAM full form is underrated but important for current affairs",
+          "verified": true
+        },
+        {
+          "text": "India's rank in the World Bank's Ease of Doing Business Index improved dramatically under Make in India. What were India's ranks in 2014 and 2019?",
+          "options": [
+            "100th (2014) → 50th (2019)",
+            "130th (2014) → 77th (2019)",
+            "142nd (2014) → 63rd (2019)",
+            "155th (2014) → 100th (2019)"
+          ],
+          "answerIndex": 2,
+          "explanation": "India's World Bank Ease of Doing Business rank improved dramatically from 142nd in 2014 to 63rd in 2019 — a jump of 79 places in 5 years, one of the fastest improvements globally. Key reforms that drove this: streamlined company registration, online construction permits, electricity connections, cross-border trade, contract enforcement, and insolvency resolution (IBC 2016). The World Bank discontinued the Ease of Doing Business Index entirely in 2021 due to data integrity concerns about methodology.",
+          "source": "SSC CGL — EoDB rank improvement figures are underrated but tested in current affairs",
+          "verified": true
+        },
+        {
+          "text": "Startup India was launched on 16 January 2016. Which ministry recognises startups as 'eligible startups' for benefits under this initiative?",
+          "options": [
+            "Ministry of Finance",
+            "Ministry of Commerce and Industry (through DPIIT)",
+            "Ministry of MSME",
+            "NITI Aayog"
+          ],
+          "answerIndex": 1,
+          "explanation": "Startups are formally recognised by DPIIT (Department for Promotion of Industry and Internal Trade) under the Ministry of Commerce and Industry. A business must apply for DPIIT recognition and meet criteria: incorporated ≤10 years ago, not formed by splitting/restructuring an existing company, annual turnover not exceeding ₹100 crore in any year, and working towards innovation/improvement. DPIIT-recognised startups get tax benefits (Section 80-IAC — 3 years tax holiday), relaxed labour/environment compliance, faster patent processing, and access to Fund of Funds through SIDBI.",
+          "source": "SSC CGL — DPIIT role in Startup India is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "LPG reforms in India refer to:",
+          "options": [
+            "Liquefied Petroleum Gas distribution reforms (cooking fuel subsidies)",
+            "Liberalisation, Privatisation, Globalisation — the 1991 economic reforms",
+            "Large-scale Public and Government sector reforms",
+            "Licensing, Permit and Quota (Gang of Three) system reforms"
+          ],
+          "answerIndex": 1,
+          "explanation": "In economics, LPG = Liberalisation (freeing business from government controls and licensing), Privatisation (reducing government ownership in economic activities, disinvestment), and Globalisation (integrating India into the global economy through trade liberalisation, FDI opening, rupee convertibility). These reforms were announced in 1991 under Finance Minister Manmohan Singh and PM P.V. Narasimha Rao in response to the severe balance of payments crisis. The cooking gas expansion happened separately; the SSC context is always the economic reforms acronym.",
+          "source": "SSC CGL / SSC CHSL — LPG full form is one of the most frequently asked questions in economy",
+          "verified": true
+        },
+        {
+          "text": "During India's 1991 balance of payments crisis, India's foreign exchange reserves had fallen to how many weeks of import cover?",
+          "options": ["1 week", "2 weeks", "4 weeks", "6 weeks"],
+          "answerIndex": 1,
+          "explanation": "By July 1991, India's foreign exchange reserves had fallen to approximately $1 billion — barely enough to cover 2 weeks of imports. This was an existential crisis: India was close to sovereign default (inability to pay for critical imports like oil). To secure an emergency IMF loan, India pledged 67 tonnes of gold with Bank of England and Union Bank of Switzerland. This crisis was the direct trigger for the LPG reforms.",
+          "source": "SSC CGL — '2 weeks of import cover' is one of the most frequently asked facts about the 1991 crisis",
+          "verified": true
+        },
+        {
+          "text": "The Monopolies and Restrictive Trade Practices Act (MRTP Act), which restricted the size of businesses, was enacted in which year?",
+          "options": ["1951", "1956", "1969", "1973"],
+          "answerIndex": 2,
+          "explanation": "The MRTP Act was enacted in 1969. It was based on the recommendations of the Monopolies Inquiry Commission (1965) and was intended to prevent concentration of economic power and curb monopolistic/restrictive trade practices. It limited how large private businesses could grow (by capping total assets of a 'dominant undertaking') and required government permission for many business decisions. Post-1991, its restrictive provisions were dismantled. It was formally replaced by the Competition Act, 2002 (which established CCI in 2009).",
+          "source": "SSC CGL — MRTP Act year (1969) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The PLI (Production Linked Incentive) Scheme was initially introduced for how many sectors in 2020?",
+          "options": ["3 sectors", "5 sectors", "10 sectors", "14 sectors"],
+          "answerIndex": 0,
+          "explanation": "PLI was initially introduced in 2020 for 3 sectors: (1) Mobile phones and electronic components, (2) Pharmaceutical APIs (Active Pharmaceutical Ingredients), and (3) Medical devices. These were chosen as priority sectors for Atmanirbhar Bharat — reducing import dependence in critical areas. The scheme was then expanded in 2021–22 to cover 14 sectors total, including automobiles, speciality steel, textiles, solar PV, batteries, telecom, white goods, food processing, drone manufacturing, and semi-conductors.",
+          "source": "SSC CGL — PLI initial 3 sectors vs expanded 14 sectors is a frequently tested distinction",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
