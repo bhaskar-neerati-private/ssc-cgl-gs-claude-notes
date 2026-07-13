@@ -1,0 +1,213 @@
+{
+  "topic": "Classification of Living Organisms — Five Kingdoms, Phyla & Plant Kingdom",
+  "topicId": "bio-classification",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who proposed the Five-Kingdom classification of living organisms?",
+          "options": ["Carl Linnaeus", "Aristotle", "R.H. Whittaker", "Carl Woese"],
+          "answerIndex": 2,
+          "explanation": "R.H. Whittaker proposed the Five-Kingdom classification system in 1969. The five kingdoms are: Monera (prokaryotes like bacteria and cyanobacteria), Protista (unicellular eukaryotes), Fungi (heterotrophic with chitin cell wall), Plantae (autotrophic plants), and Animalia (multicellular heterotrophs). Carl Linnaeus proposed the Two-Kingdom system (Plantae and Animalia, 1758); Carl Woese proposed the Three-Domain system (Bacteria, Archaea, Eukarya, 1990); Aristotle made early classifications but not the Five-Kingdom system.",
+          "source": "SSC CGL / SSC CHSL previous years — Five-Kingdom and Whittaker (1969) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct sequence of the taxonomic hierarchy from broadest to most specific?",
+          "options": [
+            "Kingdom → Class → Phylum → Order → Family → Genus → Species",
+            "Kingdom → Phylum → Class → Order → Family → Genus → Species",
+            "Phylum → Kingdom → Class → Order → Family → Genus → Species",
+            "Kingdom → Phylum → Order → Class → Family → Genus → Species"
+          ],
+          "answerIndex": 1,
+          "explanation": "The correct taxonomic hierarchy from broadest to most specific is: Kingdom → Phylum → Class → Order → Family → Genus → Species. Mnemonic: 'King Philip Came Over For Good Soup' (K-P-C-O-F-G-S). Each level is a subdivision of the one above. For example, humans belong to: Kingdom Animalia → Phylum Chordata → Class Mammalia → Order Primates → Family Hominidae → Genus Homo → Species sapiens (full name: Homo sapiens).",
+          "source": "SSC CGL / SSC CHSL previous years — taxonomic hierarchy sequence is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Earthworm belongs to which phylum?",
+          "options": ["Arthropoda", "Mollusca", "Annelida", "Nematoda"],
+          "answerIndex": 2,
+          "explanation": "Earthworm (*Pheretima posthuma*) belongs to Phylum Annelida — characterised by a segmented body, true coelom (body cavity), and closed circulatory system. Earthworms are hermaphrodites (have both male and female reproductive organs) and are called the 'friend of the farmer' because they aerate the soil and enrich it with their castings. Other Annelida include leeches and *Nereis* (sea worm). Do not confuse with Nematoda (roundworms like *Ascaris*) — they are cylindrical and unsegmented.",
+          "source": "SSC CGL / SSC CHSL previous years — earthworm's phylum (Annelida) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The antibiotic Penicillin is obtained from which organism?",
+          "options": ["A bacterium", "A fern", "A fungus (Penicillium notatum)", "A cyanobacterium"],
+          "answerIndex": 2,
+          "explanation": "Penicillin was discovered by Alexander Fleming in 1928 from the mold *Penicillium notatum* (now reclassified as *P. chrysogenum*). He observed that the mold inhibited the growth of *Staphylococcus* bacteria around it. Penicillin was later developed into a medicine by Florey and Chain (Nobel Prize 1945 with Fleming). *Penicillium* belongs to Kingdom Fungi — heterotrophic, with chitin cell walls, reproducing via spores. It is the blue-green mold commonly seen on bread and citrus fruits.",
+          "source": "SSC CGL / SSC CHSL previous years — Penicillin from Penicillium is one of the most frequently asked biology questions",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Bat is the only flying mammal. Which phylum and class does a bat belong to?",
+          "options": [
+            "Phylum Chordata, Class Aves (Birds)",
+            "Phylum Arthropoda, Class Insecta",
+            "Phylum Chordata, Class Mammalia",
+            "Phylum Chordata, Class Reptilia"
+          ],
+          "answerIndex": 2,
+          "explanation": "Bat belongs to Phylum Chordata, Class Mammalia — it is a mammal, not a bird. Bats have hair/fur (not feathers), give birth to live young (viviparous), nurse with milk from mammary glands, and are warm-blooded — all mammalian traits. They are placed in Order Chiroptera. Their wings are modified forelimbs — skin stretched between elongated finger bones, unlike birds' feathered wings. Bats are the only mammals capable of true powered flight (as opposed to gliding, which flying squirrels do).",
+          "source": "SSC CGL — bat as mammal (not bird) is a classic classification trap",
+          "verified": true
+        },
+        {
+          "text": "Lichen is a symbiotic association between which two organisms?",
+          "options": [
+            "Fungi and plant roots",
+            "Fungi and algae (or cyanobacteria)",
+            "Bacteria and algae",
+            "Fungi and bacteria"
+          ],
+          "answerIndex": 1,
+          "explanation": "Lichen is a mutualistic (symbiotic) association between fungi and algae (or cyanobacteria). The fungi partner provides: water, minerals, and physical shelter (the structural body of the lichen). The algae/cyanobacteria partner provides: food (through photosynthesis). Lichens are pioneer organisms — they can colonise bare rock and begin soil formation. Importantly, lichens are bio-indicators of air quality: they are very sensitive to sulphur dioxide (SO₂) and other air pollutants and disappear from polluted areas. Mycorrhiza is the different association of fungi with plant roots.",
+          "source": "SSC CGL — lichen composition (fungi + algae) and its bio-indicator role is a tricky combination question",
+          "verified": true
+        },
+        {
+          "text": "Among the following, which is an egg-laying mammal (monotreme)?",
+          "options": ["Kangaroo", "Dolphin", "Duck-billed Platypus", "Bat"],
+          "answerIndex": 2,
+          "explanation": "Duck-billed Platypus (*Ornithorhynchus anatinus*) is a monotreme — an egg-laying mammal. Despite laying eggs (like reptiles), it is classified as a mammal because it has hair, is warm-blooded, and nurses young with milk (though it has no nipples — milk oozes through the skin). Echidna is the other monotreme. Kangaroo is a marsupial (pouched mammal — gives birth to very undeveloped young raised in a pouch). Dolphin is a placental mammal (viviparous — live birth). Both platypus and echidna are found in Australia and New Guinea.",
+          "source": "SSC CGL — egg-laying mammal (platypus = monotreme, not kangaroo = marsupial) is a tricky classification question",
+          "verified": true
+        },
+        {
+          "text": "Euglena is classified in which kingdom, and why is it considered a 'connecting link' between plants and animals?",
+          "options": [
+            "Kingdom Monera — because it is prokaryotic like both plants and animals",
+            "Kingdom Protista — because it can photosynthesize in light (plant-like) and ingest food in dark (animal-like)",
+            "Kingdom Plantae — because it has chloroplasts like plants",
+            "Kingdom Fungi — because it is heterotrophic like fungi"
+          ],
+          "answerIndex": 1,
+          "explanation": "Euglena belongs to Kingdom Protista — it is a unicellular eukaryote. It is called a 'connecting link' between plants and animals because: in the presence of light, it uses its chloroplasts to perform photosynthesis (autotrophic, plant-like behaviour); in the absence of light, it ingests food through a gullet (heterotrophic, animal-like behaviour). It also has an eyespot (stigma) to detect light and flagella for movement — both animal characteristics. This dual behaviour made early biologists debate whether to classify it as a plant or animal.",
+          "source": "SSC CGL — Euglena as connecting link between plants and animals is a tricky conceptual question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Agar, used in microbiology culture media and food, is derived from which type of organism?",
+          "options": [
+            "Brown algae (Phaeophyta)",
+            "Green algae (Chlorophyta)",
+            "Red algae (Rhodophyta)",
+            "Cyanobacteria"
+          ],
+          "answerIndex": 2,
+          "explanation": "Agar is extracted from red algae (Rhodophyta), particularly from species like *Gelidium*, *Gracilaria*, and *Gelidiella*. It is a polysaccharide (mainly agarose and agaropectin) that solidifies at room temperature — making it ideal as a gelling agent for microbiology culture media. It is also used in food (as a vegetarian substitute for gelatin), pharmaceuticals, and molecular biology (gel electrophoresis). Brown algae (like *Laminaria*) are the source of alginates; green algae yield chlorella protein.",
+          "source": "SSC CGL — agar from red algae is underrated but appears in general science questions",
+          "verified": true
+        },
+        {
+          "text": "Mycorrhiza is a beneficial association between fungi and plant roots. What does the plant provide to the fungi in this relationship?",
+          "options": [
+            "Water and minerals absorbed from the soil",
+            "Carbohydrates (sugars produced by photosynthesis)",
+            "Oxygen for the fungi to respire",
+            "Nitrogen fixed from the atmosphere"
+          ],
+          "answerIndex": 1,
+          "explanation": "In mycorrhiza (fungi + plant roots): the fungi provides the plant with increased water absorption and minerals (especially phosphorus) from the soil — fungal hyphae extend far beyond root reach. In return, the plant provides carbohydrates (sugars) produced by photosynthesis to nourish the fungi. This is mutualistic — both partners benefit. Mycorrhiza is not to be confused with lichen (fungi + algae/cyanobacteria). Most land plants (especially trees) have mycorrhizal associations — it is one of the most widespread symbioses on Earth.",
+          "source": "SSC CGL — mycorrhiza bidirectional exchange is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "Which of the following plants is a gymnosperm and also a 'living fossil'?",
+          "options": ["Pinus (pine)", "Cycas", "Ficus (banyan)", "Bamboo"],
+          "answerIndex": 1,
+          "explanation": "*Cycas* (also called sago palm, though not a true palm) is the oldest surviving gymnosperm — often called a 'living fossil' because it has remained virtually unchanged for over 200 million years. It is dioecious (separate male and female plants). *Ginkgo biloba* (maidenhair tree) is another gymnosperm living fossil. Gymnosperms have naked seeds (not enclosed in fruit), no flowers, and reproduce via cones. *Pinus* (pine) is also a gymnosperm but is not specifically known as a living fossil. Bamboo and Ficus are angiosperms.",
+          "source": "SSC CGL — Cycas as gymnosperm and living fossil is underrated",
+          "verified": true
+        },
+        {
+          "text": "The discovery of viruses is credited to D.J. Ivanowski (1892). What made his discovery significant?",
+          "options": [
+            "He saw the virus under a light microscope for the first time",
+            "He showed that the disease-causing agent in tobacco mosaic disease passed through a filter that stops bacteria",
+            "He crystallised a virus and proved it was made of protein",
+            "He grew a virus in a test tube outside a living host"
+          ],
+          "answerIndex": 1,
+          "explanation": "D.J. Ivanowski (1892) discovered that the disease agent of tobacco mosaic disease (TMD) could pass through a Chamberland filter (a bacterium-proof porcelain filter). This proved the infectious agent was smaller than any known bacterium — something new entirely. He called them 'filterable agents.' M.W. Beijerinck (1898) later concluded this was a 'living fluid' (contagium vivum fluidum). W.M. Stanley (1935) crystallised the Tobacco Mosaic Virus and showed it was a nucleoprotein — proving viruses are made of protein and nucleic acid. Electron microscopes were later used to see viruses.",
+          "source": "SSC CGL — Ivanowski's filter experiment as virus discovery is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Insects belong to which phylum, and how many legs do they have?",
+          "options": [
+            "Phylum Annelida; 6 legs",
+            "Phylum Arthropoda; 6 legs",
+            "Phylum Arthropoda; 8 legs",
+            "Phylum Mollusca; 10 legs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Insects belong to Phylum Arthropoda, Class Insecta — they have 6 legs (3 pairs), a three-part body (head, thorax, abdomen), and usually 2 pairs of wings. Arthropoda is the largest animal phylum in terms of number of species. Key arthropod classes by leg count: Insecta (6 legs) — butterfly, mosquito, bee; Arachnida (8 legs) — spider, scorpion; Crustacea (10 legs in many) — prawn, crab; Myriapoda (many legs) — centipede, millipede. The distinction between 6-legged insects and 8-legged arachnids is very frequently tested.",
+          "source": "SSC CGL / SSC CHSL — insects in Arthropoda with 6 legs is one of the most asked classification questions",
+          "verified": true
+        },
+        {
+          "text": "Which of the following pairs correctly shows a monocot plant and a dicot plant?",
+          "options": [
+            "Rice (monocot) — Mango (dicot)",
+            "Mango (monocot) — Rice (dicot)",
+            "Wheat (monocot) — Bamboo (dicot)",
+            "Onion (dicot) — Tomato (monocot)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Rice (*Oryza sativa*) is a monocot — it has 1 cotyledon, parallel leaf venation, fibrous roots, and floral parts in multiples of 3. Mango (*Mangifera indica*) is a dicot — it has 2 cotyledons, reticulate (net) leaf venation, tap root, and floral parts in multiples of 4 or 5. Other monocots: wheat, maize, onion, bamboo, coconut, grass. Other dicots: pea, sunflower, rose, bean, tomato, cotton, mustard. Wheat and bamboo are both monocots (not one of each), so option C is wrong.",
+          "source": "SSC CGL / SSC CHSL — monocot vs dicot examples is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Whales and dolphins are sometimes confused with fish. Which statement correctly classifies them?",
+          "options": [
+            "They are fish because they live in water and have fins",
+            "They are reptiles because they evolved from reptile ancestors",
+            "They are mammals — warm-blooded, breathe air, nurse young with milk",
+            "They are amphibians — they can live in water and on land"
+          ],
+          "answerIndex": 2,
+          "explanation": "Whales and dolphins are mammals (Class Mammalia) — they are warm-blooded, breathe air through lungs (not gills), give birth to live young (viviparous), and nurse young with milk from mammary glands. They evolved from land-dwelling mammals (their ancestors returned to the sea ~50 million years ago). Fish are cold-blooded, breathe through gills, and most are oviparous. The classification depends on biological traits (warm-blooded, mammary glands, live birth), not habitat. Similarly, bats (flying) and platypus (egg-laying) are mammals.",
+          "source": "SSC CGL / SSC CHSL — whale/dolphin as mammals (not fish) is very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Bryophytes are called the 'Amphibians of the Plant Kingdom'. What is the primary reason for this?",
+          "options": [
+            "They can grow in both marine and freshwater habitats",
+            "They need water for fertilisation (like amphibians needing water for reproduction) but grow on land",
+            "They have both root-like and leaf-like structures like amphibians have both gills and lungs",
+            "They are the oldest plant group, just like amphibians are the oldest vertebrates"
+          ],
+          "answerIndex": 1,
+          "explanation": "Bryophytes (mosses, liverworts — e.g., *Funaria*, *Marchantia*) are called the 'Amphibians of the Plant Kingdom' because they were among the first plants to colonise land, but they still require water for sexual reproduction — the male gametes (antherozoids) must swim in a water film to reach and fertilise the female egg. This water dependence for fertilisation (like amphibians needing water to breed) is the defining parallel. Bryophytes lack vascular tissue (no xylem or phloem) — the next group, Pteridophyta, were the first truly vascular plants.",
+          "source": "SSC CGL / SSC CHSL — bryophytes as 'amphibians of plant kingdom' is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
