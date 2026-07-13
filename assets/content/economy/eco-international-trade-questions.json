@@ -1,0 +1,208 @@
+{
+  "topic": "International Trade, Balance of Payments, FDI & SEZ",
+  "topicId": "eco-international-trade",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The theory of 'Comparative Advantage' in international trade was propounded by:",
+          "options": ["Adam Smith", "David Ricardo", "John Maynard Keynes", "Paul Samuelson"],
+          "answerIndex": 1,
+          "explanation": "David Ricardo propounded the theory of Comparative Advantage (1817) — a country should specialise in and export goods where it has the lowest relative (opportunity) cost, even if another country is absolutely more efficient in producing all goods. Adam Smith propounded Absolute Advantage (1776) — specialise where you are most efficient in absolute terms. Ricardo's insight explains why trade benefits all countries even when one is more productive overall.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "India's first Export Processing Zone (EPZ) was established at which location?",
+          "options": ["Noida, Uttar Pradesh", "Santacruz, Mumbai", "Kandla, Gujarat", "Cochin, Kerala"],
+          "answerIndex": 2,
+          "explanation": "India's first Export Processing Zone (EPZ) was established at Kandla, Gujarat in 1965 — also the first EPZ in Asia. EPZs were duty-free enclaves for export manufacturing. India's EPZs were later converted into Special Economic Zones (SEZs) under the comprehensive SEZ Act, 2005. Santacruz (Mumbai) was the first SEZ formally notified after the SEZ Act 2005.",
+          "source": "SSC CGL / SSC CHSL previous years — Kandla first EPZ frequently asked",
+          "verified": true
+        },
+        {
+          "text": "India is consistently ranked as the world's largest recipient of which type of external inflow?",
+          "options": ["Foreign Direct Investment (FDI)", "Foreign Portfolio Investment (FPI)", "Remittances from overseas Indians", "Official Development Assistance (ODA)"],
+          "answerIndex": 2,
+          "explanation": "India is the world's largest recipient of remittances — money sent home by Indians working abroad. Annual remittances exceed $100–120 billion, surpassing even FDI inflows in many years. Major source countries: USA, UAE, Saudi Arabia, UK, Canada. Remittances are a crucial component of India's Current Account credits, partially offsetting the merchandise trade deficit caused by large crude oil imports.",
+          "source": "SSC CGL / SSC CHSL — India's remittance rank is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The SEZ Act 2005 provides Special Economic Zones with which key benefit?",
+          "options": [
+            "Exclusive government contracts for 10 years",
+            "Permission to operate with unlimited foreign labour",
+            "Duty-free import of capital goods and raw materials, tax exemptions, and single-window clearance",
+            "Exemption from all Indian laws including the Constitution"
+          ],
+          "answerIndex": 2,
+          "explanation": "Under the SEZ Act 2005, units in Special Economic Zones get: (1) duty-free import of capital goods, raw materials, and components; (2) income tax exemptions (initially 100% for 5 years; later modified); (3) single-window clearance through the Development Commissioner; (4) flexibility in labour and environmental compliance. SEZs are self-contained zones with their own infrastructure, treated as 'foreign territory' for customs purposes.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the Balance of Payments (BoP) 'Current Account Deficit' (CAD), and what is India's primary cause of CAD?",
+          "options": [
+            "Government's excess spending over revenue; caused by defence expenditure",
+            "Gap where imports of goods and services exceed exports; primarily driven by crude oil imports",
+            "Shortfall in foreign tourist inflows; driven by lack of tourism infrastructure",
+            "Difference between FDI inflows and FPI outflows; driven by stock market volatility"
+          ],
+          "answerIndex": 1,
+          "explanation": "Current Account Deficit (CAD) occurs when a country's imports of goods AND services exceed its exports of goods AND services (plus net income and transfers). India's CAD is primarily caused by crude oil imports — India imports ~85% of its petroleum needs, making the oil import bill the single largest driver of trade deficit. Gold imports and electronics imports are the other major contributors. Services exports (IT) and remittances partially offset the CAD.",
+          "source": "SSC CGL / UPSC economy pattern — CAD cause is frequently asked",
+          "verified": false
+        },
+        {
+          "text": "Why is Mauritius consistently among the top sources of FDI into India, despite being a small island nation?",
+          "options": [
+            "Mauritius has large sovereign wealth funds that invest globally",
+            "Mauritius-based companies have special trade agreements with India",
+            "Investors from third countries route FDI via Mauritius to take advantage of the India-Mauritius Double Taxation Avoidance Agreement (DTAA)",
+            "RBI mandates that African-region FDI must route through Mauritius"
+          ],
+          "answerIndex": 2,
+          "explanation": "Mauritius topped India's FDI source list for years because of 'treaty shopping' — investors from the USA, Europe, and Singapore set up shell holding companies in Mauritius to route their FDI into India, availing the India-Mauritius DTAA which had exempted capital gains tax. India renegotiated this DTAA in 2016, closing the tax loophole. Despite the renegotiation, Mauritius remains high due to historical structures and corporate holding patterns.",
+          "source": "SSC CGL / economy — Mauritius FDI reason is a classic knowledge trap",
+          "verified": false
+        },
+        {
+          "text": "What happened to India's foreign exchange reserves just before the 1991 Balance of Payments crisis?",
+          "options": [
+            "RBI sold all gold reserves to repay IMF loans",
+            "Forex reserves fell to levels covering just 2 weeks of imports; India pledged 67 tonnes of gold with the Bank of England as collateral",
+            "The USA imposed sanctions, freezing India's dollar reserves",
+            "India defaulted on external debt payments and was blacklisted by IMF"
+          ],
+          "answerIndex": 1,
+          "explanation": "By June 1991, India's foreign exchange reserves had fallen to levels covering only 2 weeks of imports (roughly $1 billion). To secure emergency financing from the IMF, India physically airlifted and pledged 47 tonnes of gold to the Bank of England and 20 tonnes to the Union Bank of Switzerland (UBS) — total 67 tonnes. This national humiliation, combined with a fiscal deficit exceeding 8% of GDP, triggered the historic 1991 LPG reforms under Finance Minister Manmohan Singh.",
+          "source": "SSC CGL / economy — 1991 crisis facts are tricky and frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Under India's FDI policy, which route requires prior government approval before investment?",
+          "options": [
+            "Automatic Route — notified to RBI before investing",
+            "Government Route — prior approval from DPIIT or relevant ministry",
+            "Portfolio Route — SEBI approval for FDI in listed companies",
+            "Treaty Route — bilateral treaty countries get automatic approval"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under India's FDI policy, investment through the Government Route requires prior approval from the concerned Ministry or Department for Promotion of Industry and Internal Trade (DPIIT) before the investment is made. The Automatic Route requires only a post-investment notification to RBI (no prior approval). Sectors requiring Government Route include defence (beyond 74%), print media, broadcasting, satellites. FIPB (Foreign Investment Promotion Board) handled Government Route approvals until it was abolished in 2017.",
+          "source": "SSC / FDI route distinction — frequently asked in regulatory GK",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "In the Balance of Payments framework, which account records Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI)?",
+          "options": [
+            "Current Account",
+            "Capital and Financial Account",
+            "Primary Income Account",
+            "Official Reserves Account"
+          ],
+          "answerIndex": 1,
+          "explanation": "FDI and FPI are recorded in the Capital and Financial Account of the BoP — they are financial flows (capital movements), not payments for goods or services. The Current Account records trade in goods (merchandise), services, primary income (wages, dividends), and secondary income (remittances). Remittances from Indian workers abroad appear in the Current Account (secondary income), NOT the Capital Account.",
+          "source": "SSC / BoP structure — account classification is underrated",
+          "verified": false
+        },
+        {
+          "text": "India's exchange rate system is best described as:",
+          "options": [
+            "Fixed exchange rate pegged to the US Dollar",
+            "Purely floating rate determined entirely by market forces",
+            "Managed float — market determines the rate but RBI intervenes to prevent excessive volatility",
+            "Crawling peg — rupee is adjusted monthly based on inflation differentials"
+          ],
+          "answerIndex": 2,
+          "explanation": "India follows a 'managed float' (or 'dirty float') exchange rate system. The rupee's value is primarily determined by market supply and demand forces. However, when volatility becomes excessive (sharp depreciation or appreciation), RBI intervenes by buying or selling US dollars in the forex market to stabilise the rupee. This is not a fixed peg (which would require maintaining a specific rate) but active management to prevent disruption to trade and investment.",
+          "source": "SSC / exchange rate system — managed float is underrated",
+          "verified": false
+        },
+        {
+          "text": "RoDTEP (Remission of Duties and Taxes on Exported Products), introduced in 2021, replaced which earlier export incentive scheme?",
+          "options": ["MEIS (Merchandise Exports from India Scheme)", "EPCG (Export Promotion Capital Goods) Scheme", "SEIS (Service Exports from India Scheme)", "Advance Authorisation Scheme"],
+          "answerIndex": 0,
+          "explanation": "RoDTEP (Remission of Duties and Taxes on Exported Products) replaced the MEIS (Merchandise Exports from India Scheme) in January 2021. MEIS was found to be WTO-incompatible because it was a direct export subsidy — WTO rules prohibit subsidies on exports. RoDTEP was designed as a WTO-compliant replacement: it only remits (refunds) taxes and duties that are embedded in exports but cannot be credited/refunded under other mechanisms — not an outright subsidy.",
+          "source": "SSC / export policy — RoDTEP replacing MEIS is underrated",
+          "verified": true
+        },
+        {
+          "text": "The 'Twin Deficit' problem in India refers to the simultaneous occurrence of:",
+          "options": [
+            "Trade deficit + fiscal deficit",
+            "Current Account Deficit + fiscal deficit",
+            "Revenue deficit + capital account deficit",
+            "Trade deficit + inflation"
+          ],
+          "answerIndex": 1,
+          "explanation": "Twin Deficit refers to the co-existence of: (1) Fiscal Deficit (government spends more than it earns) AND (2) Current Account Deficit (imports exceed exports). They are linked: fiscal deficit leads to government borrowing, which fuels consumption and investment demand, part of which spills into imports — widening the CAD. India has periodically suffered from twin deficits, most acutely before the 1991 crisis. Managing both deficits simultaneously is a core macroeconomic challenge.",
+          "source": "SSC / economy terminology — twin deficit is underrated but tested",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is the key difference between FDI (Foreign Direct Investment) and FPI (Foreign Portfolio Investment)?",
+          "options": [
+            "FDI is in stocks; FPI is in bonds and debentures",
+            "FDI involves substantial equity ownership (10%+) typically with management control; FPI is purchase of securities without management control",
+            "FDI requires SEBI approval; FPI requires RBI approval",
+            "FDI is allowed only in manufacturing; FPI is allowed only in services"
+          ],
+          "answerIndex": 1,
+          "explanation": "FDI = Foreign entity acquires 10% or more equity in an Indian entity, typically with strategic/management involvement (long-term, stable capital). FPI = Foreign entity buys Indian stocks, bonds, or other securities without management control — purely financial investment that can be withdrawn quickly (hot money). FDI is governed by DPIIT/RBI policy; FPI is governed by SEBI. FDI creates jobs and transfers technology; FPI can exit rapidly and cause market volatility.",
+          "source": "SSC CGL / SSC CHSL — FDI vs FPI is the single most frequently asked international finance question",
+          "verified": true
+        },
+        {
+          "text": "The Balance of Payments (BoP) account of a country records:",
+          "options": [
+            "Only the government's foreign currency earnings and payments",
+            "All economic transactions between residents of the country and the rest of the world",
+            "Only trade in physical goods (merchandise exports and imports)",
+            "Only foreign debt repayments and borrowings"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Balance of Payments (BoP) is a comprehensive record of ALL economic transactions between residents of a country and the rest of the world in a given period. It includes: merchandise trade (goods), services trade (IT, tourism), income flows (dividends, wages), transfers (remittances, grants), and capital flows (FDI, FPI, loans, reserve changes). The BoP must balance — surpluses in one account offset deficits in another.",
+          "source": "SSC CGL — BoP definition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "In which sector is 100% FDI allowed through the automatic route (no prior government approval) in India?",
+          "options": ["Atomic energy", "Newspaper publishing (print media)", "Manufacturing sector", "Multi-brand retail"],
+          "answerIndex": 2,
+          "explanation": "100% FDI is allowed through the Automatic Route in the Manufacturing sector — no prior government approval needed, only post-investment notification to RBI. Atomic energy: FDI prohibited. Print media/newspapers: maximum 26% FDI via Government route. Multi-brand retail: 51% maximum via Government route with conditions. Other sectors with 100% automatic route FDI include IT/software, e-commerce (marketplace model), infrastructure, and most services.",
+          "source": "SSC CGL — FDI sector limits comparison is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "India's merchandise Current Account Deficit (CAD) is primarily caused by which import?",
+          "options": ["Gold imports", "Crude oil and petroleum products", "Defence equipment", "Luxury goods"],
+          "answerIndex": 1,
+          "explanation": "Crude oil and petroleum products are the single largest contributor to India's import bill and the primary driver of the Current Account Deficit. India imports approximately 85% of its petroleum needs, making it highly vulnerable to global oil price movements. When global crude prices rise or the rupee weakens, the oil import bill surges, widening the CAD. Gold is the second-largest import contributor; electronics is third.",
+          "source": "SSC CGL / economy — crude oil as CAD driver is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
