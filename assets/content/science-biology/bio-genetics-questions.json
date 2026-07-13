@@ -1,0 +1,193 @@
+{
+  "topic": "Genetics — Mendel's Laws, DNA, RNA, Mutations & Heredity",
+  "topicId": "bio-genetics",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Gregor Mendel is known as the 'Father of Genetics'. On which plant did he conduct his famous experiments?",
+          "options": ["Maize (Zea mays)", "Garden pea (Pisum sativum)", "Snapdragon (Antirrhinum majus)", "Drosophila melanogaster"],
+          "answerIndex": 1,
+          "explanation": "Gregor Johann Mendel conducted his experiments on the garden pea plant (Pisum sativum) in his monastery garden in Brno (now Czech Republic) between 1856 and 1863. He chose pea plants because: they have a short generation time, are easy to grow, self-pollinate naturally (allowing control of crosses), have many clearly contrasting traits, and produce large numbers of offspring. He studied 7 pairs of contrasting characters. His results were published in 1866 but ignored until 1900 when Correns, de Vries, and Tschermak independently rediscovered his laws.",
+          "source": "SSC CGL / SSC CHSL previous years — Mendel's plant (Pisum sativum) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "In the ABO blood group system, which blood group is considered the 'Universal Donor'?",
+          "options": ["A", "AB", "B", "O"],
+          "answerIndex": 3,
+          "explanation": "Blood group O is the universal donor because O group RBCs have NO antigens on their surface (genotype ii) — they won't trigger an immune reaction in a recipient of any blood group. However, O group plasma has both anti-A and anti-B antibodies, so for plasma donation, O is not universal. Blood group AB is the universal RECIPIENT — AB individuals have no antibodies in their plasma, so they can receive blood from any group. Landsteiner discovered ABO blood groups in 1901 (Nobel Prize 1930).",
+          "source": "SSC CGL / SSC CHSL previous years — universal donor/recipient is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Watson and Crick proposed the double helix model of DNA in which year?",
+          "options": ["1944", "1950", "1953", "1958"],
+          "answerIndex": 2,
+          "explanation": "James Watson and Francis Crick proposed the double helix model of DNA in 1953, published in the journal Nature. Their model was built on: Rosalind Franklin's X-ray diffraction image of DNA (Photo 51, showing the helical structure), Chargaff's rules (A=T, G=C), and X-ray data from Wilkins. Watson, Crick, and Wilkins received the Nobel Prize in Physiology or Medicine in 1962. Franklin had died in 1958 and the Nobel is not awarded posthumously.",
+          "source": "SSC CGL / SSC CHSL previous years — Watson-Crick double helix year (1953) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Haemophilia is a sex-linked genetic disorder. Which clotting factor is deficient in Haemophilia A?",
+          "options": ["Factor V", "Factor VII", "Factor VIII", "Factor IX"],
+          "answerIndex": 2,
+          "explanation": "Haemophilia A is a deficiency of clotting Factor VIII — the most common form of haemophilia (accounts for ~80% of cases). Haemophilia B (Christmas disease) is a deficiency of Factor IX. Both are X-linked recessive disorders — males (XY) are more commonly affected because they have only one X chromosome. Females (XX) can be carriers (X^H X^h) without showing symptoms. Queen Victoria was a carrier who passed haemophilia B to several European royal descendants.",
+          "source": "SSC CGL / SSC CHSL previous years — Haemophilia A = Factor VIII (not IX) is frequently tested",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "In snapdragon flowers, crossing a red-flowered plant (RR) with a white-flowered plant (rr) produces pink-flowered offspring (Rr). What is the phenotype ratio in the F2 generation when two pink plants (Rr × Rr) are crossed?",
+          "options": [
+            "3 Red : 1 White (3:1)",
+            "1 Red : 2 Pink : 1 White (1:2:1)",
+            "All Pink",
+            "2 Red : 1 Pink : 2 White"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is incomplete dominance — neither R (red) nor r (white) allele is completely dominant. The heterozygote (Rr) shows an intermediate pink phenotype. When Rr × Rr: genotypes are 1 RR : 2 Rr : 1 rr → phenotypes are 1 Red : 2 Pink : 1 White. Note: In incomplete dominance, the phenotype ratio in F2 equals the genotype ratio (1:2:1), NOT the Mendelian 3:1. This is the key distinction from standard dominance where F2 phenotype is 3:1.",
+          "source": "SSC CGL — incomplete dominance F2 ratio (1:2:1, not 3:1) is a classic tricky question",
+          "verified": true
+        },
+        {
+          "text": "If the percentage of Adenine (A) in a double-stranded DNA molecule is 30%, what is the percentage of Guanine (G)?",
+          "options": ["30%", "20%", "10%", "40%"],
+          "answerIndex": 1,
+          "explanation": "Applying Chargaff's Rules: In double-stranded DNA, A = T and G = C, and A+T+G+C = 100%. If A = 30%, then T = 30% (because A=T). Therefore G+C = 100% - 60% = 40%, and since G = C, G = 20%. Answer: G = 20%. Common trap: students confuse 'A pairs with T' with 'A = G' — the pairing is A-T and G-C, so A and G are NOT equal (unless by coincidence).",
+          "source": "SSC CGL — Chargaff's rule calculation is a tricky but frequently appearing numerical question",
+          "verified": true
+        },
+        {
+          "text": "A woman with normal colour vision (but carrier for colour blindness) marries a colour-blind man. What proportion of their sons are expected to be colour-blind?",
+          "options": ["None (0%)", "25%", "50%", "100%"],
+          "answerIndex": 2,
+          "explanation": "Colour blindness is X-linked recessive. Let X^N = normal vision, X^c = colour blind. Carrier mother: X^N X^c. Colour-blind father: X^c Y. Cross: X^N X^c × X^c Y → offspring: X^N X^c (normal carrier daughter), X^c X^c (colour-blind daughter), X^N Y (normal son), X^c Y (colour-blind son). Among sons: 50% are X^N Y (normal), 50% are X^c Y (colour-blind). So 50% of sons will be colour-blind. Among daughters: 50% are carriers, 50% are colour-blind — but the question asks only about sons.",
+          "source": "SSC CGL — X-linked pedigree calculation is a tricky genetics question",
+          "verified": true
+        },
+        {
+          "text": "In sickle cell anaemia, the mutation causes glutamic acid to be replaced by which amino acid at position 6 of the β-globin chain?",
+          "options": ["Alanine", "Lysine", "Valine", "Glycine"],
+          "answerIndex": 2,
+          "explanation": "Sickle cell anaemia results from a single point mutation — Adenine is replaced by Thymine in the 6th codon of the β-globin gene, changing GAG (Glutamic acid) to GTG (Valine). This single amino acid change (Glu→Val) causes the haemoglobin to polymerise under low oxygen, distorting RBCs into a sickle shape. It is autosomal recessive — only homozygous individuals (HbS HbS) show severe disease. Heterozygous carriers (HbA HbS) are resistant to malaria, explaining why the mutation is common in malaria-endemic regions.",
+          "source": "SSC CGL — sickle cell mutation detail (Glu→Val) is a tricky but specific question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The experiment that proved DNA replication is semi-conservative was conducted by which scientists?",
+          "options": [
+            "Watson and Crick (1953)",
+            "Hershey and Chase (1952)",
+            "Meselson and Stahl (1958)",
+            "Avery, MacLeod and McCarty (1944)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Meselson and Stahl (1958) proved that DNA replication is semi-conservative — each daughter DNA has one old strand (from the parent) and one new strand. They grew bacteria in heavy nitrogen (^15N) medium, then transferred to ^14N medium and tracked DNA density by centrifugation. After one generation, all DNA was intermediate density (hybrid ^15N/^14N) — consistent with semi-conservative replication. Compare: Watson-Crick (1953) = double helix structure; Avery et al. (1944) = proved DNA is the genetic material; Hershey-Chase (1952) = confirmed DNA (not protein) is genetic material using bacteriophage.",
+          "source": "SSC CGL — Meselson-Stahl experiment is underrated but tested in exam",
+          "verified": true
+        },
+        {
+          "text": "Turner Syndrome (45, XO) is characterised by all of the following EXCEPT:",
+          "options": [
+            "Only one X chromosome (45 total chromosomes)",
+            "Female phenotype with infertility",
+            "Gynecomastia (development of breast tissue in males)",
+            "Short stature and webbed neck"
+          ],
+          "answerIndex": 2,
+          "explanation": "Gynecomastia (breast tissue development in males) is a characteristic of Klinefelter Syndrome (47, XXY) — NOT Turner Syndrome. Turner Syndrome (45, XO) features: female phenotype, only one X chromosome (45 total), infertility (non-functional ovaries/streak gonads), short stature, webbed neck (pterygium colli), broad chest, low-set ears, no pubertal development without hormone treatment. Klinefelter (XXY): male phenotype, extra X, infertility, tall stature, gynecomastia, small testes.",
+          "source": "SSC CGL — confusing Turner vs Klinefelter features is a very common trap",
+          "verified": true
+        },
+        {
+          "text": "Which scientist first demonstrated that DNA (not protein) is the genetic material, using a transformation experiment with pneumococcus bacteria?",
+          "options": [
+            "Rosalind Franklin",
+            "Hershey and Chase",
+            "Oswald Avery, MacLeod and McCarty",
+            "Watson and Crick"
+          ],
+          "answerIndex": 2,
+          "explanation": "Oswald Avery, Colin MacLeod, and Maclyn McCarty (1944) proved that DNA is the genetic material using Griffith's transformation experiment with Streptococcus pneumoniae. They showed that when they destroyed DNA (using DNase), the transforming principle lost its activity — only DNA could transfer traits between bacteria. Hershey and Chase (1952) later confirmed this using bacteriophages labelled with radioactive ^32P (DNA) and ^35S (protein). Franklin's Photo 51 revealed DNA's helical structure. Watson and Crick built the structural model.",
+          "source": "SSC CGL — Avery et al. as proof of DNA as genetic material is underrated",
+          "verified": true
+        },
+        {
+          "text": "In Mendel's dihybrid cross (TtRr × TtRr), the F2 phenotype ratio 9:3:3:1 is possible because genes for height and seed shape are on different chromosomes. What genetic principle does this demonstrate?",
+          "options": [
+            "Law of Dominance",
+            "Law of Segregation",
+            "Law of Independent Assortment",
+            "Incomplete dominance"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 9:3:3:1 ratio in a dihybrid cross demonstrates Mendel's Law of Independent Assortment (Law 3): genes for different traits located on different chromosome pairs segregate independently during gamete formation. Each gene pair assorts without reference to the other. This produces all possible combinations of alleles in gametes (TR, Tr, tR, tr in equal proportions), generating the 9:3:3:1 ratio. If the genes were on the same chromosome (linked), the ratio would deviate from 9:3:3:1.",
+          "source": "SSC CGL — identifying which Mendel's law applies to dihybrid cross is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "In Mendel's monohybrid cross, when F1 hybrids (Tt) are self-pollinated, what is the phenotype ratio in F2?",
+          "options": ["1:1", "1:2:1", "3:1", "9:3:3:1"],
+          "answerIndex": 2,
+          "explanation": "In a monohybrid cross (Tt × Tt): F2 genotype ratio = 1 TT : 2 Tt : 1 tt. Since T is dominant, both TT and Tt plants are Tall; only tt is Dwarf. F2 phenotype ratio = 3 Tall : 1 Dwarf = 3:1. The 1:2:1 is the genotype ratio (not phenotype); 9:3:3:1 is the dihybrid cross phenotype ratio; 1:1 is the test cross ratio. Always distinguish: phenotype ratio (3:1 monohybrid, 9:3:3:1 dihybrid) vs genotype ratio (1:2:1 monohybrid, 1:2:1:2:4:2:1:2:1 dihybrid).",
+          "source": "SSC CGL / SSC CHSL — monohybrid F2 phenotype ratio (3:1) is one of the most frequently asked genetics questions",
+          "verified": true
+        },
+        {
+          "text": "Which of the following nitrogenous bases is found in RNA but NOT in DNA?",
+          "options": ["Adenine", "Guanine", "Thymine", "Uracil"],
+          "answerIndex": 3,
+          "explanation": "Uracil (U) is found in RNA but NOT in DNA. In RNA, Uracil pairs with Adenine (A-U, 2 hydrogen bonds) — replacing the role that Thymine (T) plays in DNA. DNA has Thymine (T); RNA has Uracil (U). Both DNA and RNA contain: Adenine (A), Guanine (G), Cytosine (C). The other key difference: DNA has deoxyribose sugar; RNA has ribose sugar. DNA is mostly double-stranded; RNA is mostly single-stranded.",
+          "source": "SSC CGL / SSC CHSL — Uracil in RNA (not DNA) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Down Syndrome is caused by:",
+          "options": [
+            "Deletion of chromosome 21",
+            "Trisomy of chromosome 21 (three copies of chromosome 21)",
+            "Monosomy of chromosome 21 (one copy of chromosome 21)",
+            "Translocation involving chromosome 13"
+          ],
+          "answerIndex": 1,
+          "explanation": "Down Syndrome is caused by Trisomy 21 — the presence of three copies of chromosome 21 instead of the normal two, giving a total of 47 chromosomes. It usually occurs due to non-disjunction (failure of chromosome 21 to separate) during egg formation, especially when the mother is older. Features: characteristic facial features, intellectual disability of varying degree, heart defects, short stature. It is the most common chromosomal disorder and the most common genetic cause of intellectual disability.",
+          "source": "SSC CGL / SSC CHSL — Down Syndrome = Trisomy 21 = 47 chromosomes is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Central Dogma of Molecular Biology describes the flow of genetic information as:",
+          "options": [
+            "Protein → RNA → DNA",
+            "RNA → DNA → Protein",
+            "DNA → RNA → Protein",
+            "DNA → Protein → RNA"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Central Dogma (Francis Crick, 1958): DNA → RNA → Protein. More specifically: DNA is first transcribed into mRNA (messenger RNA) in the nucleus; the mRNA then travels to the ribosome where it is translated into a protein (polypeptide chain). DNA can also replicate itself (DNA → DNA). An important exception: retroviruses (like HIV) carry RNA as their genetic material and use reverse transcriptase to make DNA from RNA (RNA → DNA) — reverse transcription.",
+          "source": "SSC CGL / SSC CHSL — Central Dogma flow (DNA→RNA→Protein) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
