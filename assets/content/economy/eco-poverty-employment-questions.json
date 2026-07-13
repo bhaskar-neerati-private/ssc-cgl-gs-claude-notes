@@ -1,0 +1,203 @@
+{
+  "topic": "Poverty, Inequality, Unemployment & MGNREGS",
+  "topicId": "eco-poverty-employment",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantees how many days of wage employment per year per rural household?",
+          "options": ["50 days", "75 days", "100 days", "150 days"],
+          "answerIndex": 2,
+          "explanation": "MGNREGS guarantees 100 days of unskilled manual wage employment per financial year per rural household — this is the core legal guarantee. It can be extended to 150 days in the event of natural calamities such as drought or flood. Note: the guarantee is per HOUSEHOLD, not per person. The Act was passed in 2005 (as NREGA) and renamed Mahatma Gandhi NREGA in 2009 (Gandhi birth centenary year).",
+          "source": "SSC CGL / SSC CHSL previous years — 100 days is the most frequently asked MGNREGS fact",
+          "verified": true
+        },
+        {
+          "text": "Which committee recommended shifting India's poverty measurement from a calorie-based method to a consumption expenditure-based method?",
+          "options": ["Alagh Committee", "Lakdawala Committee", "Tendulkar Committee", "Rangarajan Committee"],
+          "answerIndex": 2,
+          "explanation": "The Tendulkar Committee (appointed 2005 by Planning Commission; report submitted 2009) recommended shifting India's poverty methodology from the calorie norm (2400 kcal/day rural, 2100 urban) to a broader consumption basket that includes food, education, health, and clothing expenditure. According to this method, poverty was 37.2% in 2004-05 and 21.9% in 2011-12. The Rangarajan Committee (2014) used even higher norms and found higher poverty.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "In economics, 'disguised unemployment' refers to:",
+          "options": [
+            "Workers who hide their employment status to claim benefits",
+            "Unemployment during economic recessions",
+            "A situation where more workers are employed on a task than needed, so the marginal productivity of some workers is zero",
+            "Workers who are employed part-time but want full-time jobs"
+          ],
+          "answerIndex": 2,
+          "explanation": "Disguised unemployment (also called hidden unemployment) occurs when more people are engaged in a productive activity than necessary — the marginal product of the extra workers is zero (removing them would not reduce output). It is rampant in Indian agriculture: farms employ entire families even when fewer workers could do the same work. This is why agriculture employs ~45% of India's workforce but contributes only ~18% of GDP.",
+          "source": "SSC CGL / SSC CHSL previous years — disguised unemployment is very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "The Gini Coefficient is used to measure:",
+          "options": [
+            "A country's GDP growth rate",
+            "The level of inflation in an economy",
+            "Income or consumption inequality within a country or group",
+            "A country's human development status"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Gini Coefficient measures income/wealth/consumption inequality — it ranges from 0 (perfect equality: all have the same income) to 1 (perfect inequality: one person has all income). It is derived from the Lorenz Curve. India's Gini coefficient is approximately 0.35–0.37, indicating moderate inequality. The HDI measures human development (income + health + education), not just inequality.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Under MGNREGS, if work is not provided to an applicant within 15 days of demand, what happens?",
+          "options": [
+            "The applicant must reapply next month",
+            "The state government must pay an unemployment allowance",
+            "The block development officer is penalised",
+            "The applicant gets double wages when work is eventually provided"
+          ],
+          "answerIndex": 1,
+          "explanation": "If work is not provided within 15 days of a valid demand being registered under MGNREGS, the applicant is entitled to an unemployment allowance — paid by the state government: 1/4 of the wage rate for the first 30 days of unemployment, and 1/2 thereafter. This is a key provision that makes MGNREGS a genuine entitlement (not just a scheme) — the state bears a financial penalty for failing to provide work. This allowance mechanism is frequently tested in SSC.",
+          "source": "SSC CGL — unemployment allowance provision is a tricky but important detail",
+          "verified": true
+        },
+        {
+          "text": "The Rangarajan Committee (2014) found India's poverty to be HIGHER than the Tendulkar Committee's estimate for the same year. What was the main reason?",
+          "options": [
+            "Rangarajan used a different survey methodology (PLFS instead of NSS)",
+            "Rangarajan used higher consumption norms for food, non-food, and services in its poverty basket",
+            "Rangarajan included urban poverty only; Tendulkar included rural only",
+            "Rangarajan used nominal income; Tendulkar used real income"
+          ],
+          "answerIndex": 1,
+          "explanation": "For 2011-12, Tendulkar method estimated poverty at 21.9% while Rangarajan found 29.5% — a large gap. The reason: Rangarajan used higher and more comprehensive consumption norms — ₹972/month rural and ₹1,407/month urban (vs Tendulkar's lower thresholds). Rangarajan also included separate norms for education and health expenditure beyond food. Higher norm = higher poverty line = more people fall below it. Both used NSS data; the methodology, not the survey, differed.",
+          "source": "SSC / poverty committee comparison — Rangarajan vs Tendulkar is a tricky comparative question",
+          "verified": true
+        },
+        {
+          "text": "India's Human Development Index (HDI) is published by which organisation, and in which broad category does India fall?",
+          "options": [
+            "World Bank; Low Human Development",
+            "NITI Aayog; Medium Human Development",
+            "UNDP; Medium Human Development",
+            "IMF; High Human Development"
+          ],
+          "answerIndex": 2,
+          "explanation": "HDI is published by UNDP (United Nations Development Programme) in its annual Human Development Report. India falls in the Medium Human Development category with an HDI value of 0.644 and a rank of 134th out of 193 countries (2023 report). Categories: Very High (≥0.800), High (0.700–0.799), Medium (0.550–0.699), Low (<0.550). NITI Aayog publishes India's National MPI — a different index.",
+          "source": "SSC CGL — HDI publisher, India's rank/category are tricky together",
+          "verified": true
+        },
+        {
+          "text": "The Lorenz Curve is used in economics to show:",
+          "options": [
+            "The relationship between inflation and unemployment",
+            "GDP growth trend over time",
+            "The cumulative distribution of income across the population (basis for Gini Coefficient)",
+            "The trade-off between exports and imports"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Lorenz Curve plots the cumulative percentage of total income (y-axis) received by the bottom X% of the population (x-axis). If income were perfectly equal, the curve would be the 45-degree 'line of perfect equality.' In reality, the curve bows below the diagonal — the more it bows (further from the diagonal), the greater the inequality. The Gini Coefficient is mathematically derived as the ratio of the area between the diagonal and the Lorenz Curve to the total area below the diagonal.",
+          "source": "SSC / Lorenz curve and Gini relationship — tricky graphical concept",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is the World Bank's threshold for 'extreme poverty' (as revised in 2022)?",
+          "options": ["$1.00/day (PPP)", "$1.90/day (PPP)", "$2.15/day (PPP)", "$3.65/day (PPP)"],
+          "answerIndex": 2,
+          "explanation": "The World Bank revised its extreme poverty threshold to $2.15 per day (PPP, 2017 international prices) in September 2022, updating the earlier $1.90/day (2011 PPP prices). The revision adjusts for changes in purchasing power parity estimates. People living below this threshold are considered in 'extreme poverty.' The World Bank also tracks poverty at $3.65/day (lower-middle income countries) and $6.85/day (upper-middle income countries).",
+          "source": "SSC / current affairs — updated extreme poverty threshold is underrated",
+          "verified": true
+        },
+        {
+          "text": "The PLFS (Periodic Labour Force Survey), which tracks employment and unemployment in India, is conducted by:",
+          "options": ["Ministry of Labour and Employment", "NITI Aayog", "Ministry of Statistics and Programme Implementation (MoSPI)", "Reserve Bank of India"],
+          "answerIndex": 2,
+          "explanation": "PLFS (Periodic Labour Force Survey) is conducted by MoSPI — specifically the National Statistical Office (NSO). It was launched in 2017-18, replacing the old NSSO (National Sample Survey Office) Employment-Unemployment Survey. PLFS provides annual (and quarterly for urban areas) data on LFPR (Labour Force Participation Rate), WPR (Worker Population Ratio), and UER (Unemployment Rate) by gender, sector, and activity status.",
+          "source": "SSC / PLFS publisher — underrated but appears in current affairs GK",
+          "verified": true
+        },
+        {
+          "text": "Under MGNREGS, what percentage of beneficiaries must mandatorily be women?",
+          "options": ["25%", "30%", "33% (at least one-third)", "50%"],
+          "answerIndex": 2,
+          "explanation": "MGNREGS mandates that at least 1/3 (33%) of all beneficiaries who work in a financial year must be women. This gender reservation ensures rural women — who are often excluded from labour markets — have access to guaranteed employment. In practice, women's participation has often exceeded 50% in many states, making MGNREGS one of India's most gender-inclusive employment programmes.",
+          "source": "SSC / MGNREGS gender provision — 33% is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The original NREGA (2005) was renamed Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in which year and why?",
+          "options": [
+            "2007 — on 60th anniversary of Independence",
+            "2008 — after the global financial crisis highlighted the need for rural employment",
+            "2009 — on the occasion of Mahatma Gandhi's birth centenary year",
+            "2014 — when the current government came to power"
+          ],
+          "answerIndex": 2,
+          "explanation": "NREGA was renamed Mahatma Gandhi NREGA (MGNREGA) in 2009 — on the occasion of Gandhi's birth centenary (Gandhi was born on 2 October 1869; the centenary year of that birth centenary fell in 2009). The renaming honoured Gandhi's philosophy of dignified labour for all. The scheme is sometimes called MGNREGS (Scheme) or MGNREGA (Act) — both refer to the same programme.",
+          "source": "SSC / MGNREGA renaming year — underrated fact",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which type of unemployment is most prevalent in Indian agriculture, where more workers are engaged than are actually needed?",
+          "options": ["Cyclical unemployment", "Frictional unemployment", "Disguised unemployment", "Structural unemployment"],
+          "answerIndex": 2,
+          "explanation": "Disguised unemployment is the dominant form of unemployment in Indian agriculture — entire farm families work on small holdings where the marginal product of several family members is zero (the same output could be produced with fewer people). This explains why agriculture employs nearly 45% of India's workforce but contributes only 18% of GDP — massive hidden underutilisation of labour. MGNREGS provides off-season work to partially address this seasonal disguised unemployment.",
+          "source": "SSC CGL / SSC CHSL — disguised unemployment in Indian agriculture is the most frequently asked unemployment type",
+          "verified": true
+        },
+        {
+          "text": "Under MGNREGS, the cost of unskilled wages is borne by:",
+          "options": [
+            "State Government (100%)",
+            "Central Government (100%)",
+            "Central Government (75%) and State Government (25%)",
+            "Central Government (50%) and State Government (50%)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under MGNREGS cost-sharing: the Central Government bears 100% of the unskilled wage cost. For material costs, the Centre bears 75% and states bear 25%. States also bear administrative expenses and the unemployment allowance (if work is not provided within 15 days). The Centre's full funding of wages was a deliberate choice to ensure states could not cut wage payments to save money.",
+          "source": "SSC CGL — MGNREGS cost sharing is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Human Development Index (HDI) is a composite measure that combines which three dimensions?",
+          "options": [
+            "GDP per capita, literacy rate, and life expectancy",
+            "Health (life expectancy), Education (mean + expected years of schooling), and Income (GNI per capita PPP)",
+            "Poverty rate, employment rate, and infant mortality",
+            "Trade balance, inflation rate, and HDI score"
+          ],
+          "answerIndex": 1,
+          "explanation": "HDI = composite of three dimensions: (1) Health: measured by life expectancy at birth; (2) Education: measured by mean years of schooling (adults) and expected years of schooling (children); (3) Income: measured by Gross National Income (GNI) per capita in PPP terms. Each dimension is normalised to a 0–1 scale; HDI = geometric mean of the three normalised values. Published annually by UNDP in the Human Development Report.",
+          "source": "SSC CGL / SSC CHSL — HDI three dimensions is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The National Rural Employment Guarantee Act (NREGA) was passed in which year?",
+          "options": ["2000", "2003", "2005", "2009"],
+          "answerIndex": 2,
+          "explanation": "NREGA (National Rural Employment Guarantee Act) was passed in 2005 and came into force on 2 February 2006, initially in 200 districts. It was extended nationally in phases and to all rural districts by April 2008. It was renamed Mahatma Gandhi NREGA in 2009. The Act created India's first statutory guarantee of wage employment — a legal right that can be enforced through courts.",
+          "source": "SSC CGL / SSC CHSL — NREGA year 2005 is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
