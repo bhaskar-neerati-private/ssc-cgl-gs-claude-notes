@@ -376,8 +376,69 @@
       "name": "Science — Biology",
       "tier": "B",
       "order": 5,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "bio-cell-biology",
+          "title": "Cell — Structure, Organelles & Division (Mitosis & Meiosis)",
+          "status": "done"
+        },
+        {
+          "id": "bio-genetics",
+          "title": "Genetics — Mendel's Laws, DNA, RNA, Mutations & Heredity",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-classification",
+          "title": "Classification of Living Organisms — Five Kingdoms, Phyla & Plant Kingdom",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-human-digestive",
+          "title": "Human Digestive System — Organs, Enzymes, Absorption & Disorders",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-human-circulatory",
+          "title": "Human Circulatory System — Heart, Blood, Blood Groups & Lymphatic System",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-human-respiratory",
+          "title": "Human Respiratory System — Lungs, Breathing & Gas Exchange",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-human-nervous-endocrine",
+          "title": "Nervous System & Endocrine Glands — Brain, Spinal Cord & Hormones",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-human-excretory-skeletal",
+          "title": "Excretory, Skeletal & Muscular Systems",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-nutrition-vitamins",
+          "title": "Nutrition — Vitamins, Minerals, Deficiency Diseases & BMI",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-diseases-vaccines",
+          "title": "Human Diseases — Bacterial, Viral, Protozoan, Fungal & Vaccines",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-plant-biology",
+          "title": "Plant Biology — Photosynthesis, Respiration, Transpiration & Plant Hormones",
+          "status": "not-started"
+        },
+        {
+          "id": "bio-ecology-environment",
+          "title": "Ecology — Food Chains, Pyramids, Biomes & Environmental Issues",
+          "status": "not-started"
+        }
+      ]
     },
     {
       "id": "science-chemistry",

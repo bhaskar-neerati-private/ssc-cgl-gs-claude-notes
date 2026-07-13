@@ -1,0 +1,193 @@
+{
+  "topic": "Cell — Structure, Organelles & Division (Mitosis & Meiosis)",
+  "topicId": "bio-cell-biology",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which organelle is known as the 'powerhouse of the cell'?",
+          "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi body"],
+          "answerIndex": 2,
+          "explanation": "Mitochondria is called the 'powerhouse of the cell' because it is the site of cellular respiration — the process that produces ATP (adenosine triphosphate), the cell's energy currency. The inner mitochondrial membrane is folded into structures called cristae, where oxidative phosphorylation occurs. Mitochondria have their own DNA and 70S ribosomes, indicating they evolved from endosymbiotic bacteria. Cells with high energy demands (heart muscle, liver) have the most mitochondria.",
+          "source": "SSC CGL / SSC CHSL previous years — mitochondria as powerhouse is one of the most frequently asked biology facts",
+          "verified": true
+        },
+        {
+          "text": "Cell wall in plants is made of:",
+          "options": ["Chitin", "Cellulose", "Peptidoglycan", "Lignin only"],
+          "answerIndex": 1,
+          "explanation": "Cell wall in plants is primarily made of cellulose — a polysaccharide composed of glucose monomers linked by β-1,4-glycosidic bonds. This gives plant cells their rigid, box-like shape. By contrast: Fungi cell walls are made of chitin; Bacterial cell walls are made of peptidoglycan (murein). Lignin is a secondary cell wall component in woody plants that provides extra rigidity, but cellulose is the primary material and the answer expected in SSC.",
+          "source": "SSC CGL / SSC CHSL previous years — plant cell wall composition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which phase of mitosis is the best for counting chromosomes?",
+          "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+          "answerIndex": 1,
+          "explanation": "Metaphase is the best phase to count chromosomes because chromosomes are at their maximum condensation and are aligned along the cell equator (metaphase plate) — each chromosome is distinct, visible, and attached to spindle fibres at the centromere. In Prophase they're condensing but tangled; in Anaphase they're moving (sister chromatids separated so chromosome number appears doubled); in Telophase they're de-condensing.",
+          "source": "SSC CGL / SSC CHSL previous years — Metaphase for chromosome counting is very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Meiosis results in the production of how many daughter cells, and what is their ploidy?",
+          "options": [
+            "2 cells, diploid (2n)",
+            "2 cells, haploid (n)",
+            "4 cells, diploid (2n)",
+            "4 cells, haploid (n)"
+          ],
+          "answerIndex": 3,
+          "explanation": "Meiosis produces 4 daughter cells, each haploid (n — half the chromosome number of the parent). This is essential for sexual reproduction — when two haploid gametes (sperm and egg) fuse during fertilisation, the diploid chromosome number (2n) is restored. Meiosis involves two sequential divisions: Meiosis I (separates homologous chromosome pairs) and Meiosis II (separates sister chromatids), producing 4 genetically unique haploid cells.",
+          "source": "SSC CGL / SSC CHSL previous years — meiosis outcome (4 haploid cells) is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Ribosomes in prokaryotes are 70S, while those in the cytoplasm of eukaryotes are 80S. What type of ribosomes are found in the mitochondria of eukaryotic cells?",
+          "options": ["80S (same as eukaryotic cytoplasm)", "70S (same as prokaryotes)", "60S only", "40S only"],
+          "answerIndex": 1,
+          "explanation": "Mitochondria (and chloroplasts) in eukaryotic cells contain 70S ribosomes — the same type found in prokaryotes. This is a key piece of evidence for the endosymbiotic theory: mitochondria and chloroplasts were once free-living prokaryotes that were engulfed by a larger cell and became permanent organelles. Their retained 70S ribosomes (and their own circular DNA) support this evolutionary history. This is also why some antibiotics that target bacterial 70S ribosomes can have side effects on mitochondria.",
+          "source": "SSC CGL — mitochondrial ribosome type (70S, not 80S) is a tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "During cell division, the nucleolus disappears. At which stage does it reappear?",
+          "options": ["At the beginning of Prophase", "At Metaphase", "During Anaphase", "At the end of Telophase / beginning of Interphase"],
+          "answerIndex": 3,
+          "explanation": "The nucleolus disappears at the beginning of cell division (early Prophase) when chromosomes condense and the nucleus begins to break down. It reappears at the end of Telophase / return to Interphase, when the nuclear envelope is re-established and chromosomes begin to de-condense. The nucleolus is the site of rRNA (ribosomal RNA) synthesis — it is only active (and therefore visible) in non-dividing cells during active transcription.",
+          "source": "SSC CGL — nucleolus disappearance and reappearance timing is a tricky cell division question",
+          "verified": false
+        },
+        {
+          "text": "Crossing over (genetic recombination) between homologous chromosomes during meiosis occurs specifically at which sub-stage?",
+          "options": [
+            "Leptotene of Prophase I",
+            "Zygotene of Prophase I",
+            "Pachytene of Prophase I",
+            "Diplotene of Prophase I"
+          ],
+          "answerIndex": 2,
+          "explanation": "Crossing over (exchange of segments between non-sister chromatids of homologous chromosomes) occurs during Pachytene — the third sub-stage of Prophase I of Meiosis I. The sequence is: Leptotene (chromosomes condense), Zygotene (homologues pair up/synapsis), Pachytene (crossing over at chiasmata), Diplotene (homologues begin to separate, chiasmata visible), Diakinesis (maximally condensed). The chiasmata (points of crossing) first become visible at Diplotene, but the actual exchange happened at Pachytene.",
+          "source": "SSC CGL — crossing over at Pachytene (not Diplotene) is a classic tricky question",
+          "verified": true
+        },
+        {
+          "text": "Which of the following cells does NOT undergo mitosis in a healthy adult human body?",
+          "options": ["Skin cells", "Liver cells", "Neurons (nerve cells)", "Red blood cell precursors in bone marrow"],
+          "answerIndex": 2,
+          "explanation": "Neurons (nerve cells) do not divide in a healthy adult — they are permanently in G0 phase (exit from the cell cycle). This is why brain or spinal cord injuries cause permanent damage — the lost neurons cannot be replaced by division. By contrast: skin cells divide continuously (every 2–4 weeks), liver cells can regenerate after injury, and bone marrow stem cells divide rapidly to produce blood cells. A small population of neural stem cells exists in some brain regions but is insufficient for significant repair.",
+          "source": "SSC CGL — neurons as non-dividing cells (G0) is a tricky and frequently misleading question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Who proposed the Fluid Mosaic Model of the cell membrane, and in what year?",
+          "options": [
+            "Watson and Crick, 1953",
+            "Singer and Nicolson, 1972",
+            "Robert Hooke, 1665",
+            "Schleiden and Schwann, 1838"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Fluid Mosaic Model of the cell (plasma) membrane was proposed by S.J. Singer and G.L. Nicolson in 1972. According to this model, the membrane is a phospholipid bilayer (the 'mosaic') in which proteins are embedded and can move laterally (the 'fluid'). Proteins can be integral (spanning the membrane) or peripheral (attached to surface). This model replaced the earlier sandwich model. Watson and Crick proposed the double helix model of DNA (1953); Hooke observed cells (1665).",
+          "source": "SSC CGL — Fluid Mosaic Model (Singer & Nicolson, 1972) is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The light reactions of photosynthesis occur in which part of the chloroplast?",
+          "options": ["Stroma", "Outer membrane", "Thylakoid membranes (grana)", "Intermembrane space"],
+          "answerIndex": 2,
+          "explanation": "Photosynthesis occurs in two stages in two different parts of the chloroplast: (1) Light reactions (light-dependent) occur on the thylakoid membranes, which are stacked into disc-like structures called grana. Here, light energy splits water (photolysis), generates ATP and NADPH, and releases oxygen. (2) Dark reactions / Calvin cycle (light-independent) occur in the stroma — the fluid-filled matrix surrounding the grana. Here, CO2 is fixed into glucose using the ATP and NADPH from the light reactions.",
+          "source": "SSC CGL — thylakoid (light) vs stroma (dark/Calvin) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "The 'S' in Svedberg unit (S), used to describe ribosome sizes like 70S and 80S, measures:",
+          "options": [
+            "Size in micrometres",
+            "Sedimentation coefficient (rate of settling in a centrifuge)",
+            "Surface area of the organelle",
+            "Strength of ribosomal RNA bonds"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Svedberg unit (S) measures the sedimentation coefficient — how fast a particle settles in a centrifuge. Larger/denser particles settle faster and have higher S values. This is why 70S and 80S don't add up (50S + 30S ≠ 70S; 60S + 40S ≠ 80S) — S units are not additive because they depend on shape and density, not just mass. The Svedberg unit is named after Theodor Svedberg who developed the ultracentrifuge.",
+          "source": "SSC CGL — why ribosome S values don't add up is underrated conceptual knowledge",
+          "verified": false
+        },
+        {
+          "text": "In plant cells undergoing mitosis, what structure forms the new cell wall between the two daughter cells (replacing the cleavage furrow seen in animal cells)?",
+          "options": ["Centrosome ring", "Phragmoplast and cell plate", "Tonoplast", "Plasmalemma division"],
+          "answerIndex": 1,
+          "explanation": "In animal cells, cytokinesis occurs by a cleavage furrow — the cell membrane pinches inward. In plant cells (which have rigid cell walls), this mechanism is impossible. Instead, a phragmoplast (array of microtubules and ER) assembles in the middle of the dividing cell and guides vesicles from the Golgi apparatus to form a cell plate — a new cell wall that grows outward from the centre to the edges, dividing the two daughter cells.",
+          "source": "SSC CGL — plant vs animal cytokinesis (cell plate vs cleavage furrow) is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following correctly distinguishes prokaryotic cells from eukaryotic cells?",
+          "options": [
+            "Prokaryotic cells are larger and have more DNA",
+            "Prokaryotic cells lack a membrane-bound nucleus and membrane-bound organelles",
+            "Prokaryotic cells always have a cell wall, while eukaryotes never do",
+            "Prokaryotic cells cannot perform cell division"
+          ],
+          "answerIndex": 1,
+          "explanation": "The defining feature of prokaryotic cells (bacteria, archaea) is that they lack a membrane-bound nucleus — their genetic material (circular DNA) floats in the nucleoid region of the cytoplasm. They also lack membrane-bound organelles (no mitochondria, ER, Golgi, lysosomes, etc.). They DO have: cell walls (peptidoglycan in bacteria), ribosomes (70S), and perform binary fission for division. Eukaryotes (all other life — plants, animals, fungi, protists) have a true nucleus surrounded by a nuclear envelope.",
+          "source": "SSC CGL / SSC CHSL — prokaryote vs eukaryote distinction is the most frequently tested cell biology question",
+          "verified": true
+        },
+        {
+          "text": "Which organelle is known as the 'suicide bag' of the cell and contains digestive enzymes?",
+          "options": ["Mitochondria", "Golgi apparatus", "Lysosome", "Vacuole"],
+          "answerIndex": 2,
+          "explanation": "Lysosomes are called 'suicide bags' of the cell because they contain powerful hydrolytic enzymes that can digest cellular components. They break down: worn-out organelles (autophagy), cellular debris, foreign bacteria/viruses (in immune cells), and — in a process called autolysis — the entire cell when it is damaged beyond repair (hence 'suicide bag'). Lysosomes are abundant in white blood cells (macrophages, neutrophils) that engulf pathogens. They are rare in plant cells.",
+          "source": "SSC CGL / SSC CHSL — lysosome as 'suicide bag' is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct sequence of phases in mitosis?",
+          "options": [
+            "Interphase → Metaphase → Prophase → Anaphase → Telophase",
+            "Interphase → Prophase → Metaphase → Anaphase → Telophase",
+            "Prophase → Interphase → Metaphase → Anaphase → Telophase",
+            "Interphase → Prophase → Anaphase → Metaphase → Telophase"
+          ],
+          "answerIndex": 1,
+          "explanation": "The correct sequence is: Interphase (DNA replication and cell growth) → Prophase (chromosomes condense, spindle forms) → Metaphase (chromosomes align at equator) → Anaphase (sister chromatids pulled to poles) → Telophase (nuclei reform) → Cytokinesis (cytoplasm divides). Mnemonic: IPMAT — Interphase, Prophase, Metaphase, Anaphase, Telophase. Note: Interphase is technically not a phase of mitosis itself, but it always precedes it.",
+          "source": "SSC CGL / SSC CHSL — sequence of mitosis phases is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Robert Hooke coined the term 'cell' in 1665. What did he observe to come up with this term?",
+          "options": [
+            "Living bacteria in pond water",
+            "Dead cork tissue under a microscope",
+            "Red blood cells in human blood",
+            "Nucleus inside a plant cell"
+          ],
+          "answerIndex": 1,
+          "explanation": "Robert Hooke coined the term 'cell' in 1665 after observing a thin slice of dead cork (bark of cork oak) under his compound microscope. The dead cork cells appeared as tiny, empty, box-like compartments that reminded him of monks' cells (small rooms) in a monastery. What he saw were actually cell walls — the living contents had dried up. Anton van Leeuwenhoek later (1670s–80s) became the first to observe living cells (bacteria and protozoa in pond water) using his more powerful single-lens microscopes.",
+          "source": "SSC CGL / SSC CHSL — Hooke's cork observation to coin 'cell' is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
