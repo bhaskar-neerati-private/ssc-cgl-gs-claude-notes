@@ -1,0 +1,188 @@
+{
+  "topic": "Development Finance — NABARD, SIDBI, NHB, Exim Bank & MUDRA",
+  "topicId": "eco-development-finance",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "NABARD (National Bank for Agriculture and Rural Development) was established in which year?",
+          "options": ["1969", "1975", "1982", "1991"],
+          "answerIndex": 2,
+          "explanation": "NABARD was established on 12 July 1982 under the NABARD Act, 1981. It was set up based on the recommendations of the B. Sivaraman Committee (CRAFICARD — Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development). Its headquarters is in Mumbai. NABARD is the apex institution for agricultural and rural development finance in India.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Under the PM MUDRA Yojana, which loan category covers amounts up to ₹50,000 for very early-stage micro enterprises?",
+          "options": ["Tarun", "Kishore", "Shishu", "Pradhan"],
+          "answerIndex": 2,
+          "explanation": "Under PM MUDRA Yojana (launched April 2015), loans are classified into three categories: (1) Shishu — up to ₹50,000 for early-stage micro enterprises; (2) Kishore — ₹50,001 to ₹5 lakh for growing enterprises; (3) Tarun — ₹5 lakh to ₹10 lakh for established enterprises. A fourth category, Tarun Plus (₹10–20 lakh), was added later. MUDRA is a subsidiary of SIDBI and provides refinance to banks/NBFCs/MFIs that lend to micro entrepreneurs.",
+          "source": "SSC CGL / SSC CHSL previous years — MUDRA tiers are frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Export-Import Bank of India (Exim Bank) is owned by:",
+          "options": ["RBI (100%)", "Government of India (100%)", "Government of India (51%) and RBI (49%)", "SBI and other public sector banks"],
+          "answerIndex": 1,
+          "explanation": "Exim Bank of India is 100% owned by the Government of India. It was established on 1 January 1982 under the Export-Import Bank of India Act, 1981. Its headquarters is in Mumbai. Exim Bank finances India's cross-border trade, provides Lines of Credit to foreign governments for purchasing Indian goods/services, and supports project exports by Indian companies.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "The headquarters of SIDBI (Small Industries Development Bank of India) is located in:",
+          "options": ["Mumbai", "New Delhi", "Lucknow", "Chennai"],
+          "answerIndex": 2,
+          "explanation": "SIDBI's headquarters is in Lucknow — making it the only major Development Finance Institution headquartered outside Mumbai or Delhi. SIDBI was established on 2 April 1990 under the SIDBI Act, 1989 as the apex institution for MSME financing. It was originally a subsidiary of IDBI but is now an independent statutory body. NABARD (Mumbai), Exim Bank (Mumbai), and NHB (New Delhi) are the HQ comparisons that make Lucknow a frequent SSC trap answer.",
+          "source": "SSC CGL / SSC CHSL — SIDBI HQ Lucknow is very frequently tested",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the Rural Infrastructure Development Fund (RIDF) and who manages it?",
+          "options": [
+            "A fund created by states to build rural roads; managed by state governments",
+            "A fund where banks deposit PSL shortfalls; managed by NABARD to finance rural infrastructure",
+            "A central government scheme under Ministry of Rural Development; managed by NITI Aayog",
+            "An RBI fund for refinancing rural cooperative banks"
+          ],
+          "answerIndex": 1,
+          "explanation": "RIDF (Rural Infrastructure Development Fund) is maintained with NABARD. Banks that fail to meet their Priority Sector Lending (PSL) targets must deposit the shortfall amount into RIDF at below-market interest rates — effectively a penalty. NABARD uses this pool to provide loans to state governments for rural infrastructure: village roads, minor irrigation, bridges, rural health centres, warehouses. The chain: PSL shortfall → RIDF at NABARD → rural infrastructure across India.",
+          "source": "SSC CGL — RIDF mechanism is a classic tricky question",
+          "verified": true
+        },
+        {
+          "text": "The regulation of Housing Finance Companies (HFCs) like HDFC and LIC Housing Finance was transferred FROM NHB TO which body in 2019?",
+          "options": ["SEBI", "Ministry of Finance", "Reserve Bank of India (RBI)", "IRDAI"],
+          "answerIndex": 2,
+          "explanation": "Until 2019, NHB (National Housing Bank) regulated Housing Finance Companies (HFCs). Following concerns about regulatory gaps in the NBFC/HFC sector (highlighted by the IL&FS and DHFL crises), the Government transferred the regulation of HFCs to RBI in August 2019 under the Housing Finance Companies (NHB) Directions. NHB retains its refinancing and developmental functions — it still provides funds to HFCs — but regulation moved to RBI.",
+          "source": "SSC / NHB-RBI regulatory transfer — tricky regulatory shuffle question",
+          "verified": true
+        },
+        {
+          "text": "MUDRA (Micro Units Development and Refinance Agency) was established as:",
+          "options": [
+            "An independent apex bank under a separate MUDRA Act",
+            "A department under the Ministry of Finance",
+            "A subsidiary of SIDBI set up under the Companies Act",
+            "A division of NABARD for micro enterprise credit"
+          ],
+          "answerIndex": 2,
+          "explanation": "MUDRA is a subsidiary of SIDBI — not an independent apex institution. It was set up as a company under the Companies Act (there is no separate MUDRA Act). It was launched on 8 April 2015 along with the PM MUDRA Yojana. MUDRA provides refinance to banks, NBFCs, and MFIs that lend to micro enterprises under the Shishu, Kishore, and Tarun categories. It does not directly lend to micro entrepreneurs in most cases.",
+          "source": "SSC / MUDRA's institutional nature — frequently confused with an apex bank",
+          "verified": true
+        },
+        {
+          "text": "Lines of Credit (LoC) extended by Exim Bank of India serve what primary purpose?",
+          "options": [
+            "Provide cheap home loans to Indian exporters",
+            "Offer concessional loans to foreign governments to finance their purchase of Indian goods and services",
+            "Fund imports of defence equipment from friendly countries",
+            "Provide working capital to Indian MSMEs engaged in exports"
+          ],
+          "answerIndex": 1,
+          "explanation": "Lines of Credit (LoC) by Exim Bank are concessional credit facilities extended to governments of developing countries — primarily in Africa, South Asia, and Southeast Asia — for purchasing Indian goods, services, or funding infrastructure projects built by Indian companies. It serves dual purposes: promoting Indian exports and serving India's foreign policy/development diplomacy goals. India's LoC portfolio is its largest foreign assistance instrument, especially in Africa.",
+          "source": "SSC / Exim Bank Lines of Credit — frequently tested as 'what does Exim Bank do internationally'",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The Kisan Credit Card (KCC) scheme was originally conceptualised by which institution?",
+          "options": ["State Bank of India", "RBI", "NABARD", "Ministry of Agriculture"],
+          "answerIndex": 2,
+          "explanation": "The Kisan Credit Card (KCC) scheme was conceptualised by NABARD in 1998 and implemented from that year. KCC provides farmers a revolving credit facility — like a credit card — that allows flexible borrowing up to a sanctioned limit for crop cultivation expenses, post-harvest needs, maintenance of farm assets, and allied activities. Repayment is flexible to match agricultural cycles. KCC has been one of India's most successful agricultural credit delivery innovations.",
+          "source": "SSC / NABARD schemes — KCC originator is underrated",
+          "verified": true
+        },
+        {
+          "text": "RESIDEX, India's first National Housing Price Index that tracks residential property prices across cities, is published by:",
+          "options": ["National Housing Bank (NHB)", "Reserve Bank of India (RBI)", "Ministry of Housing and Urban Affairs", "SEBI"],
+          "answerIndex": 0,
+          "explanation": "RESIDEX is published by NHB (National Housing Bank) — it is India's first and official residential property price index. It tracks home prices across major Indian cities on a quarterly basis and serves as a benchmark for monitoring housing market trends, policy analysis, and consumer guidance. NHB launched RESIDEX in 2007.",
+          "source": "SSC / NHB RESIDEX — underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), which enables collateral-free loans, is jointly managed by:",
+          "options": [
+            "NABARD and RBI",
+            "SIDBI and the Ministry of Micro, Small and Medium Enterprises",
+            "NHB and Ministry of Finance",
+            "MUDRA and SEBI"
+          ],
+          "answerIndex": 1,
+          "explanation": "CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises) is a joint initiative of SIDBI and the Ministry of MSME (Government of India). It provides credit guarantee coverage up to 85% of the loan amount for collateral-free loans to micro and small enterprises up to ₹2 crore — removing the biggest barrier to MSME credit access (lack of collateral). Banks that lend under CGTMSE coverage take on less risk and are willing to lend to smaller enterprises.",
+          "source": "SSC / CGTMSE management — underrated but targeted in exams",
+          "verified": true
+        },
+        {
+          "text": "NaBFID (National Bank for Financing Infrastructure and Development), established in 2021, was created primarily to:",
+          "options": [
+            "Replace NABARD as the apex agriculture finance institution",
+            "Provide long-term debt financing for infrastructure projects (roads, railways, ports)",
+            "Manage India's foreign exchange reserves",
+            "Regulate all Non-Banking Financial Companies"
+          ],
+          "answerIndex": 1,
+          "explanation": "NaBFID was established under the NaBFID Act, 2021, as India's new Development Finance Institution (DFI) specifically focused on long-term infrastructure financing — roads, railways, ports, airports, urban infrastructure, and energy. The gap it fills was created when IDBI (the old infrastructure DFI) converted into a commercial bank in 2004 and stopped providing long-term infrastructure project loans. NaBFID has government backing, enabling it to raise cheap long-term bonds from markets.",
+          "source": "SSC / NaBFID purpose — newest DFI, underrated for exam",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "NABARD serves as the apex institution for which sector?",
+          "options": [
+            "Export-import finance",
+            "Housing finance and urban development",
+            "Agriculture and rural development finance",
+            "MSME and small industry finance"
+          ],
+          "answerIndex": 2,
+          "explanation": "NABARD (National Bank for Agriculture and Rural Development) is the apex institution for agricultural and rural development finance. It provides refinance to commercial banks, RRBs, and cooperative banks for agricultural loans; supervises RRBs and cooperative banks; manages RIDF (Rural Infrastructure Development Fund); and promotes SHG-bank linkages and microfinance. SIDBI is the apex for MSMEs; NHB for housing; Exim Bank for trade.",
+          "source": "SSC CGL / SSC CHSL — NABARD mandate is the most frequently asked DFI question",
+          "verified": true
+        },
+        {
+          "text": "The headquarters of National Housing Bank (NHB) is located in:",
+          "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+          "answerIndex": 1,
+          "explanation": "NHB (National Housing Bank) is headquartered in New Delhi. It was established on 9 July 1988 under the NHB Act, 1987, originally as a subsidiary of RBI. In 2019, RBI transferred its equity stake to the Government of India. NHB provides refinance to housing finance companies (HFCs) and supports affordable housing through schemes like PMAY's Credit Linked Subsidy Scheme (CLSS). Its RESIDEX tracks residential property prices.",
+          "source": "SSC CGL — NHB headquarters New Delhi frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Under PM MUDRA Yojana, which category covers loans between ₹50,001 and ₹5 lakh?",
+          "options": ["Shishu", "Kishore", "Tarun", "Udyami"],
+          "answerIndex": 1,
+          "explanation": "Kishore category covers loans from ₹50,001 to ₹5 lakh — for growing micro enterprises that have moved past the initial startup stage (Shishu: up to ₹50,000) but are not yet at the established stage (Tarun: ₹5 lakh to ₹10 lakh). The names Shishu (infant), Kishore (adolescent), and Tarun (youth) follow a growth metaphor. No collateral is required for MUDRA loans under any category.",
+          "source": "SSC CGL / SSC CHSL — MUDRA Kishore definition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which DFI provides 'Lines of Credit' to foreign governments as part of India's development diplomacy?",
+          "options": ["NABARD", "SIDBI", "Export-Import Bank of India (Exim Bank)", "NHB"],
+          "answerIndex": 2,
+          "explanation": "Exim Bank of India provides Lines of Credit (LoC) to governments of developing countries — particularly in Africa, South Asia, and Southeast Asia — as concessional loans tied to procurement of Indian goods and services. This is India's primary instrument of development diplomacy and export promotion combined. The LoCs help Indian companies get export orders while helping recipient countries fund infrastructure. Exim Bank manages India's largest LoC portfolio.",
+          "source": "SSC CGL / current affairs — Exim Bank LoC is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
