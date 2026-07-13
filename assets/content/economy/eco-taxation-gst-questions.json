@@ -1,0 +1,178 @@
+{
+  "topic": "Taxation — Direct & Indirect Taxes, GST Structure & GST Council",
+  "topicId": "eco-taxation-gst",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "GST in India was implemented on which date?",
+          "options": ["1 April 2016", "1 January 2017", "1 July 2017", "1 April 2018"],
+          "answerIndex": 2,
+          "explanation": "GST (Goods and Services Tax) was launched in India on 1 July 2017 at midnight in a special session of Parliament held in the Central Hall. It was based on the 101st Constitutional Amendment Act, 2016 which inserted Article 246A (enabling both Centre and States to levy GST) and Article 279A (establishing the GST Council). It replaced a fragmented system of central and state indirect taxes.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is a DIRECT tax?",
+          "options": ["GST (Goods and Services Tax)", "Customs Duty", "Income Tax", "Excise Duty"],
+          "answerIndex": 2,
+          "explanation": "Income Tax is a direct tax — the person who earns income pays the tax directly to the government; the burden cannot be shifted to someone else. GST, Customs Duty, and Excise Duty are all indirect taxes — a business pays them to the government but passes the cost on to the consumer through higher prices. CBDT administers direct taxes; CBIC administers indirect taxes.",
+          "source": "SSC CGL / SSC CHSL previous years — direct vs indirect tax classification",
+          "verified": true
+        },
+        {
+          "text": "Who chairs the GST Council?",
+          "options": ["Prime Minister of India", "RBI Governor", "Union Finance Minister", "Chief Economic Adviser"],
+          "answerIndex": 2,
+          "explanation": "The GST Council (Article 279A) is chaired by the Union Finance Minister. The Vice-Chairperson is elected from among the Finance Ministers of states. Members include Finance Ministers of all states and Union Territories with legislatures. The Council recommends GST rates, exemptions, threshold limits, and rules — operating on a weighted voting system where the Centre holds 1/3 and states collectively hold 2/3 of votes.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which Constitutional Amendment enabled the introduction of GST in India?",
+          "options": ["99th Constitutional Amendment Act", "100th Constitutional Amendment Act", "101st Constitutional Amendment Act", "102nd Constitutional Amendment Act"],
+          "answerIndex": 2,
+          "explanation": "The 101st Constitutional Amendment Act, 2016 enabled GST by inserting Article 246A (giving Parliament and State Legislatures concurrent power to make laws on GST), Article 269A (IGST for inter-state trade to be apportioned between Centre and States), and Article 279A (establishing the GST Council). The 99th Amendment created the National Judicial Appointments Commission (later struck down). The 102nd Amendment gave constitutional status to OBC Commission.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which of the following items is NOT currently covered under GST in India?",
+          "options": ["Mobile phones", "Restaurant services", "Petrol and diesel", "Air travel tickets"],
+          "answerIndex": 2,
+          "explanation": "Petrol, diesel, crude oil, aviation turbine fuel (ATF), and natural gas are NOT under GST — they are outside the GST framework. The Centre continues to levy Central Excise Duty on them, and states levy Value Added Tax (VAT). Alcohol for human consumption, electricity, and stamp duty on property are also outside GST. Bringing petroleum products under GST is a long-pending reform that requires GST Council agreement.",
+          "source": "SSC CGL — exclusions from GST is a classic trap",
+          "verified": true
+        },
+        {
+          "text": "In the GST Council's voting mechanism, what share of votes does the Central Government hold?",
+          "options": ["1/4 of total votes cast", "1/3 of total votes cast", "1/2 of total votes cast", "2/3 of total votes cast"],
+          "answerIndex": 1,
+          "explanation": "In the GST Council, the Central Government's vote counts as 1/3 of total votes cast. All State Governments together hold 2/3 of votes. Decisions require a 3/4 majority of total votes cast. This means if all 31 states vote against a proposal, they can block it even if the Centre wants it — but the Centre can also block any proposal that doesn't reach 3/4 (since Centre's 1/3 > 1/4 needed to defeat a 3/4 majority). A carefully balanced federal arrangement.",
+          "source": "SSC CGL — GST Council voting numbers are a frequent trap",
+          "verified": true
+        },
+        {
+          "text": "What GST rate applies to gold and silver jewellery in India?",
+          "options": ["0% (exempt)", "5%", "3%", "12%"],
+          "answerIndex": 2,
+          "explanation": "Gold, silver, and jewellery are taxed at a special GST rate of 3% — outside the standard 0%, 5%, 12%, 18%, 28% slabs. This special rate was set to balance revenue needs with the sensitivity of gold pricing for Indian households (gold is both a cultural asset and an investment). Diamonds have an even lower special rate of 0.25%.",
+          "source": "SSC CGL — special GST rates are tricky",
+          "verified": true
+        },
+        {
+          "text": "Under the GST Composition Scheme, which of the following is NOT allowed for a registered dealer?",
+          "options": [
+            "Paying GST at a flat reduced rate",
+            "Availing Input Tax Credit on purchases",
+            "Registering for GST with simplified compliance",
+            "Selling goods within their home state"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under the Composition Scheme (for businesses with turnover up to ₹1.5 crore), dealers CANNOT claim Input Tax Credit (ITC). They pay a flat reduced GST rate (1%–6% depending on sector) without the full invoice-matching compliance. They also cannot make inter-state supplies or issue a regular GST invoice. The trade-off: simplified compliance but no ITC benefit — suitable for small, local businesses.",
+          "source": "SSC / GST composition scheme restrictions — tricky detail",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "For an inter-state supply of goods (e.g., goods sold from Maharashtra to Karnataka), which GST is applicable?",
+          "options": ["CGST + SGST", "SGST + UTGST", "IGST only", "CGST + IGST"],
+          "answerIndex": 2,
+          "explanation": "For inter-state transactions (goods or services moving from one state to another), IGST (Integrated GST) is levied — collected by the Central Government and then apportioned between the Centre and the consuming state. CGST + SGST applies to intra-state transactions (buyer and seller in the same state). UTGST applies to transactions within Union Territories that do not have their own legislature. The CGST + SGST vs IGST split is a frequently underrated distinction.",
+          "source": "SSC / GST type-of-transaction matching — underrated",
+          "verified": false
+        },
+        {
+          "text": "The GST Network (GSTN), the IT backbone of India's GST system, has which ownership structure?",
+          "options": [
+            "100% Government of India",
+            "49% Government + 51% private financial institutions (not-for-profit company)",
+            "51% Government + 49% private telecom companies",
+            "100% RBI subsidiary"
+          ],
+          "answerIndex": 1,
+          "explanation": "GSTN is structured as a not-for-profit private limited company where the government (Centre + States) holds 49% and non-government financial institutions (banks, insurance companies) hold 51%. This structure was chosen to keep GSTN nimble and technically competent (private sector efficiency) while ensuring government oversight. GSTN processes all GST registrations, return filings, tax payments, and refunds.",
+          "source": "SSC / GSTN ownership — underrated but tested",
+          "verified": false
+        },
+        {
+          "text": "The 15th Finance Commission recommended that states receive what percentage of the Centre's divisible tax pool?",
+          "options": ["32%", "38%", "41%", "42%"],
+          "answerIndex": 2,
+          "explanation": "The 15th Finance Commission (2021-26 period) recommended that states receive 41% of the Centre's divisible tax pool. This was a reduction from 42% recommended by the 14th Finance Commission — the 1% reduction was to account for J&K being bifurcated into two Union Territories (which are now funded separately by the Centre). The Finance Commission is constituted under Article 280 every 5 years.",
+          "source": "SSC / Finance Commission — state share percentage is underrated",
+          "verified": true
+        },
+        {
+          "text": "Which tax, previously levied on company profits distributed as dividends, was abolished in the Union Budget 2020?",
+          "options": ["Securities Transaction Tax (STT)", "Wealth Tax", "Dividend Distribution Tax (DDT)", "Capital Gains Tax"],
+          "answerIndex": 2,
+          "explanation": "Dividend Distribution Tax (DDT) was abolished in the Union Budget 2020-21. Earlier, companies paid DDT (at ~20%) before distributing dividends to shareholders — the dividend was therefore tax-free in the hands of shareholders. After abolition, dividends are now taxable in the hands of shareholders at their applicable income tax slab rate. Wealth Tax was abolished in 2015 (replaced by a surcharge on super-rich).",
+          "source": "SSC / direct tax changes — DDT abolition is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "CBDT and CBIC are both under the Ministry of Finance. What do they administer respectively?",
+          "options": [
+            "CBDT = indirect taxes; CBIC = direct taxes",
+            "CBDT = direct taxes; CBIC = indirect taxes and customs",
+            "CBDT = income tax only; CBIC = GST only",
+            "CBDT = central taxes; CBIC = state taxes"
+          ],
+          "answerIndex": 1,
+          "explanation": "CBDT (Central Board of Direct Taxes) administers direct taxes — Income Tax, Corporate Tax, Capital Gains Tax, STT. CBIC (Central Board of Indirect Taxes and Customs) administers indirect taxes — GST (central portion: CGST/IGST), Customs Duty. Both are statutory bodies under the Department of Revenue, Ministry of Finance. The distinction is simple: if you pay it directly yourself (income tax) → CBDT; if it's collected from businesses and passed to consumers (GST/customs) → CBIC.",
+          "source": "SSC CGL / SSC CHSL — CBDT vs CBIC is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the GST rate on most services in India (such as IT services, financial services, and most professional services)?",
+          "options": ["5%", "12%", "18%", "28%"],
+          "answerIndex": 2,
+          "explanation": "18% is the GST rate applicable to most services in India — IT services, financial services, insurance (non-life), professional services, AC restaurants, telecom, etc. It is also the rate for many manufactured goods (paints, soaps, toothpaste, industrial goods). The 18% slab covers the largest number of items by volume. The 28% slab is for demerit/luxury goods; 5% is for essentials; 12% for standard goods.",
+          "source": "SSC CGL — 18% as the standard service rate is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Under GST, 'Input Tax Credit (ITC)' means:",
+          "options": [
+            "Tax credit given by government to exporters",
+            "Reduction in taxable income by claiming deductions",
+            "The credit a registered business can claim for GST already paid on its inputs, to be set off against its output GST liability",
+            "Exemption from GST for small businesses"
+          ],
+          "answerIndex": 2,
+          "explanation": "Input Tax Credit (ITC) allows a GST-registered business to deduct the GST it paid on its purchases (inputs) from the GST it must pay on its sales (output). This eliminates the cascading 'tax-on-tax' effect. Example: A manufacturer pays ₹180 GST on raw materials → sells product and collects ₹500 GST → pays only ₹320 net to government (₹500 output minus ₹180 ITC). ITC flows through the entire supply chain, making GST a value-added tax.",
+          "source": "SSC CGL / economy — ITC definition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following goods attracts the highest GST rate of 28% (plus applicable cess)?",
+          "options": ["Gold jewellery", "Mobile phones", "Cigarettes and luxury cars", "Medicines"],
+          "answerIndex": 2,
+          "explanation": "Cigarettes, tobacco products, pan masala, luxury/high-end cars, SUVs, and aerated drinks attract 28% GST plus an additional Compensation Cess. This cess was introduced to compensate states for revenue losses during the GST transition period (guaranteed for 5 years; extended). Medicines typically attract 5% or 12% GST (life-saving drugs may be exempt). Mobile phones attract 18% GST. Gold attracts a special 3% rate.",
+          "source": "SSC CGL — 28% + cess category is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
