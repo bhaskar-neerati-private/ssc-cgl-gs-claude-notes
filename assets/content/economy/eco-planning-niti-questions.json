@@ -1,0 +1,188 @@
+{
+  "topic": "Five-Year Plans, Planning Commission & NITI Aayog",
+  "topicId": "eco-planning-niti",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Planning Commission of India was established in which year?",
+          "options": ["1947", "1948", "1950", "1952"],
+          "answerIndex": 2,
+          "explanation": "The Planning Commission was established on 15 March 1950 by an executive resolution of the Government of India — NOT by an Act of Parliament and NOT under any constitutional provision (it is an extra-constitutional body). Its first chairperson was PM Jawaharlal Nehru. The National Development Council, which approved plans, was established later in 1952.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "Which Five-Year Plan was based on the Mahalanobis model and focused on heavy industrialisation?",
+          "options": ["First Five-Year Plan", "Second Five-Year Plan", "Third Five-Year Plan", "Fourth Five-Year Plan"],
+          "answerIndex": 1,
+          "explanation": "The Second Five-Year Plan (1956–61) was based on the Mahalanobis model developed by statistician PC Mahalanobis of the Indian Statistical Institute (ISI), Kolkata. It emphasised investment in capital goods and heavy industry (steel, machinery) — inspired by the Soviet model. Three steel plants were set up under this plan: Bhilai (Soviet help), Rourkela (West Germany), Durgapur (Britain). The 1st Plan used the Harrod-Domar model and focused on agriculture.",
+          "source": "SSC CGL previous years",
+          "verified": true
+        },
+        {
+          "text": "NITI Aayog replaced the Planning Commission on which date?",
+          "options": ["1 April 2014", "15 August 2014", "1 January 2015", "15 March 2015"],
+          "answerIndex": 2,
+          "explanation": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on 1 January 2015, following PM Modi's announcement. The Planning Commission was formally dissolved on 1 January 2015 and NITI Aayog began functioning from the same date. Its chairperson is the Prime Minister (ex-officio), and its Governing Council includes all state Chief Ministers and LGs of UTs.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "How many Five-Year Plans has India completed in total?",
+          "options": ["10", "11", "12", "13"],
+          "answerIndex": 2,
+          "explanation": "India completed 12 Five-Year Plans — the 1st Plan (1951–56) through the 12th Plan (2012–17). The 12th Plan was the last; no 13th Plan was made. After the abolition of the Planning Commission (2015) and the merger of plan/non-plan expenditure categories (2017), India shifted away from Five-Year Plans. NITI Aayog instead prepares 15-year vision documents, 7-year strategies, and 3-year action agendas.",
+          "source": "SSC CGL — total number of Five-Year Plans is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "The Planning Commission of India was a constitutional body. True or False?",
+          "options": [
+            "True — it was set up under Article 280 of the Constitution",
+            "True — the Constitution's 7th Schedule mandates economic planning",
+            "False — it was established by an executive resolution, not by the Constitution or any Act of Parliament",
+            "False — it was set up by the Planning Commission Act of 1950"
+          ],
+          "answerIndex": 2,
+          "explanation": "FALSE. The Planning Commission was an EXTRA-CONSTITUTIONAL body — established on 15 March 1950 by an executive resolution (a cabinet decision), not by the Constitution or by any Act of Parliament. This is one of SSC's most reliable trap questions. Similarly, the National Development Council (1952) is also extra-constitutional. Both were created by executive order and could be abolished the same way — which is exactly how Modi abolished the Planning Commission in 2014.",
+          "source": "SSC CGL — constitutional vs non-constitutional body distinction is a top trap",
+          "verified": true
+        },
+        {
+          "text": "What is the single most important functional difference between NITI Aayog and the erstwhile Planning Commission?",
+          "options": [
+            "NITI Aayog is chaired by the President; Planning Commission was chaired by the PM",
+            "NITI Aayog prepares Five-Year Plans; Planning Commission did not",
+            "NITI Aayog CANNOT allocate funds to states or ministries; Planning Commission could",
+            "NITI Aayog is a constitutional body; Planning Commission was not"
+          ],
+          "answerIndex": 2,
+          "explanation": "The defining difference: Planning Commission had the power to ALLOCATE plan funds between Centre and States — states had to come to Delhi to get their plan budgets approved. NITI Aayog has NO such power. It is purely advisory — a think tank and policy body. Fund allocations now happen through the Ministry of Finance. This shift from 'command' to 'advice' is the core philosophical change. Both bodies have the PM as Chairperson and both are extra-constitutional.",
+          "source": "SSC CGL / economy — planning commission vs NITI Aayog key difference",
+          "verified": true
+        },
+        {
+          "text": "Which Five-Year Plan was TERMINATED EARLY by the Janata Party government after it came to power in 1977?",
+          "options": ["Fourth Plan", "Fifth Plan", "Sixth Plan", "Seventh Plan"],
+          "answerIndex": 1,
+          "explanation": "The Fifth Five-Year Plan (1974–79) was terminated a year early in 1978 by the Janata Party government, which came to power after the 1977 elections (defeating Indira Gandhi post-Emergency). The Janata government introduced its own 'Rolling Plan' (1978–80) instead of following the remaining year of the 5th Plan. When Indira Gandhi returned to power in 1980, she launched a new Sixth Plan (1980–85).",
+          "source": "SSC CGL — plan terminated by rival government; classic tricky question",
+          "verified": true
+        },
+        {
+          "text": "The three steel plants set up during India's Second Five-Year Plan and their foreign collaborators were:",
+          "options": [
+            "Bhilai (USA), Rourkela (Japan), Durgapur (France)",
+            "Bhilai (Soviet Union), Rourkela (West Germany), Durgapur (Britain)",
+            "Bhilai (Britain), Rourkela (Soviet Union), Durgapur (USA)",
+            "Bhilai (West Germany), Rourkela (France), Durgapur (Soviet Union)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Under the Second Five-Year Plan (1956–61), three integrated steel plants were established with foreign technical and financial collaboration: (1) Bhilai Steel Plant (Chhattisgarh) — Soviet Union; (2) Rourkela Steel Plant (Odisha) — West Germany; (3) Durgapur Steel Plant (West Bengal) — United Kingdom. The Cold War era geopolitics are visible: India maintained non-alignment by getting help from both the Soviet bloc and the Western bloc simultaneously.",
+          "source": "SSC CGL — collaborator-plant pairing is a frequent trap question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The National Development Council (NDC), which approved Five-Year Plans, was established in:",
+          "options": ["1947 (at Independence)", "1950 (with Planning Commission)", "1952", "1956"],
+          "answerIndex": 2,
+          "explanation": "The National Development Council (NDC) was established on 6 August 1952 — two years after the Planning Commission (1950). Like the Planning Commission, it too was created by an executive resolution (extra-constitutional). The NDC was composed of the PM, all Union Cabinet Ministers, all State Chief Ministers, and LGs of UTs. It met to approve Five-Year Plans and review economic policy. It has been effectively replaced by NITI Aayog's Governing Council.",
+          "source": "SSC / NDC establishment year — underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The 'Aspirational Districts Programme' launched under NITI Aayog targets:",
+          "options": [
+            "112 border districts for defence infrastructure",
+            "112 most backward districts for intensive development focus",
+            "All districts above a certain area threshold",
+            "200 urban districts for Smart City development"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Aspirational Districts Programme (launched January 2018) identifies 112 of India's most underdeveloped districts — those lagging on health, education, financial inclusion, basic infrastructure, and livelihood indicators. These districts are ranked monthly on 49 indicators across 5 sectors, creating competitive pressure for improvement. The programme is driven by NITI Aayog and monitored at the highest levels of government. States' cooperation is leveraged by making rankings public.",
+          "source": "SSC / NITI Aayog programmes — 112 districts is underrated",
+          "verified": true
+        },
+        {
+          "text": "Which was the period known as 'Plan Holiday' in India's planning history, and what caused it?",
+          "options": [
+            "1955–56: delay in starting the 2nd Plan due to food shortage",
+            "1966–69: three Annual Plans due to wars, drought, and economic stress after the 3rd Plan's failure",
+            "1979–80: after the Janata government's Rolling Plan",
+            "1990–92: during economic crisis before 8th Plan"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'Plan Holiday' refers to 1966–69 — three Annual Plans were made instead of launching the 4th Five-Year Plan. The causes: (1) the 3rd Plan failed badly (2.8% vs 5.6% target) due to the 1962 China War, 1965 Pakistan War, and 1965–66 severe drought; (2) India faced a food crisis (dependent on US PL-480 food aid); (3) Rupee was devalued in 1966; (4) political instability after Nehru's death (1964). The 1990–92 Annual Plans are a separate episode (also called a delay, not a 'Plan Holiday').",
+          "source": "SSC / Plan Holiday — underrated term but appears in exams",
+          "verified": true
+        },
+        {
+          "text": "Atal Innovation Mission (AIM), which runs Atal Tinkering Labs in schools, operates under which organisation?",
+          "options": ["Department of Science and Technology (DST)", "NITI Aayog", "Ministry of Education", "Department for Promotion of Industry and Internal Trade (DPIIT)"],
+          "answerIndex": 1,
+          "explanation": "Atal Innovation Mission (AIM) is a flagship initiative of NITI Aayog — India's premier innovation promotion platform. AIM runs: Atal Tinkering Labs (ATLs) in schools to foster scientific thinking among students; Atal Incubation Centres (AICs) for startups; Atal New India Challenges for technology-based solutions. It is not under DST (which runs separate science promotion schemes) or the Ministry of Education.",
+          "source": "SSC / current affairs GK — AIM under NITI Aayog is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Who is the ex-officio Chairperson of NITI Aayog?",
+          "options": ["President of India", "Vice President of India", "Prime Minister of India", "Finance Minister of India"],
+          "answerIndex": 2,
+          "explanation": "The Prime Minister of India is the ex-officio Chairperson of NITI Aayog — the same arrangement that existed for the Planning Commission. The PM chairs NITI Aayog's meetings (especially the Governing Council meetings attended by all state CMs). The Vice-Chairperson is appointed by the PM and handles day-to-day policy functions. The CEO is separately appointed for administrative operations.",
+          "source": "SSC CGL / SSC CHSL — NITI Aayog chairperson is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The First Five-Year Plan (1951–56) gave the highest priority to which sector?",
+          "options": ["Heavy industrialisation", "Defence and security", "Agriculture and irrigation", "Foreign trade and exports"],
+          "answerIndex": 2,
+          "explanation": "The First Five-Year Plan prioritised agriculture and irrigation — the most urgent need after Partition disrupted food supply chains and millions of refugees needed rehabilitation. Key projects included the Bhakra-Nangal Dam, Damodar Valley Project, and Hirakud Dam. The plan used the Harrod-Domar growth model and actually exceeded its 2.1% target by achieving 3.6% growth. Heavy industrialisation came in the 2nd Plan.",
+          "source": "SSC CGL — first plan priority is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "NITI Aayog, unlike the Planning Commission, does NOT have the power to:",
+          "options": [
+            "Advise the government on economic policy",
+            "Publish research reports and indices",
+            "Allocate funds to states or central ministries",
+            "Invite state Chief Ministers to its Governing Council meetings"
+          ],
+          "answerIndex": 2,
+          "explanation": "NITI Aayog cannot allocate funds — this is its most critical limitation compared to the Planning Commission. All fund allocations are made by the Ministry of Finance (Department of Expenditure). NITI Aayog is purely an advisory/research body that can recommend policies, rank states on various indices, and coordinate policy dialogue — but has no financial power over states or central ministries. States therefore have less incentive to 'listen to' NITI Aayog compared to the old Planning Commission.",
+          "source": "SSC CGL / economy — most frequently asked NITI Aayog limitation",
+          "verified": true
+        },
+        {
+          "text": "Which Five-Year Plan introduced the concept of 'Inclusive Growth' as its central theme?",
+          "options": ["9th Plan (1997–2002)", "10th Plan (2002–07)", "11th Plan (2007–12)", "12th Plan (2012–17)"],
+          "answerIndex": 2,
+          "explanation": "The Eleventh Five-Year Plan (2007–12) had 'Inclusive Growth' as its central theme — the idea that economic growth must benefit all sections of society, including the poor, marginalised, and geographically remote populations. It set ambitious targets of 9% growth while also targeting reductions in poverty, child mortality, and gender gaps. The 12th Plan's theme was 'Faster, Sustainable and More Inclusive Growth.'",
+          "source": "SSC CGL — plan themes are very frequently asked; 11th plan theme is most tested",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
