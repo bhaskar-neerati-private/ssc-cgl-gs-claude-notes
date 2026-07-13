@@ -1,0 +1,188 @@
+{
+  "topic": "Capital Markets — SEBI, Stock Exchanges, Mutual Funds & Insurance (IRDAI)",
+  "topicId": "eco-financial-markets",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Securities and Exchange Board of India (SEBI) was given statutory powers under the SEBI Act in which year?",
+          "options": ["1988", "1991", "1992", "1995"],
+          "answerIndex": 2,
+          "explanation": "SEBI was first set up on 12 April 1988 as a non-statutory body through an executive resolution — it had no legal enforcement powers. It was given statutory status on 30 January 1992 under the SEBI Act, 1992, following the Harshad Mehta securities scam (1992) which exposed the need for a powerful market regulator. SEBI's headquarters is at Bandra Kurla Complex, Mumbai.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The Bombay Stock Exchange (BSE) is known as the oldest stock exchange in Asia. In which year was it established?",
+          "options": ["1850", "1875", "1901", "1923"],
+          "answerIndex": 1,
+          "explanation": "The Bombay Stock Exchange (BSE) was established in 1875 — making it the oldest stock exchange in Asia. It was originally known as the Native Share & Stock Brokers' Association. Its flagship index, SENSEX (Sensitive Index), tracks 30 large-cap companies with a base year of 1978-79 = 100. BSE is located at Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "IRDAI, the regulator for the insurance sector in India, has its headquarters in:",
+          "options": ["Mumbai", "New Delhi", "Hyderabad", "Chennai"],
+          "answerIndex": 2,
+          "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) is headquartered in Hyderabad — making it unique among India's major financial regulators. RBI is in Mumbai; SEBI is in Mumbai (BKC); PFRDA is in New Delhi. IRDAI was established under the IRDA Act, 1999 and moved its headquarters from Delhi to Hyderabad in 2001.",
+          "source": "SSC CGL / SSC CHSL — IRDAI headquarters Hyderabad is very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "The Life Insurance Corporation of India (LIC) was established in which year?",
+          "options": ["1947", "1950", "1956", "1969"],
+          "answerIndex": 2,
+          "explanation": "LIC was established on 1 September 1956 under the Life Insurance Corporation Act, 1956, by nationalising 245 private life insurance companies. It was a state monopoly in life insurance until 2000, when private players were allowed following the IRDA Act 1999. LIC is India's largest financial institution by Assets Under Management (AUM). LIC's IPO in May 2022 was the largest IPO in Indian history at the time.",
+          "source": "SSC CGL / SSC CHSL previous years — LIC year is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Mutual Funds in India are regulated by which authority?",
+          "options": ["Reserve Bank of India (RBI)", "Securities and Exchange Board of India (SEBI)", "Insurance Regulatory and Development Authority of India (IRDAI)", "Ministry of Finance"],
+          "answerIndex": 1,
+          "explanation": "Mutual Funds are regulated by SEBI — not RBI. This is one of the most commonly confused facts in financial market GK. RBI regulates banks and NBFCs. SEBI regulates the capital market including mutual funds, stock exchanges, brokers, depositories, and FPIs. AMFI (Association of Mutual Funds in India) is the self-regulatory industry body, but the legal regulator is SEBI.",
+          "source": "SSC CGL — mutual fund regulator is a classic trap question",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between FDI (Foreign Direct Investment) and FPI (Foreign Portfolio Investment)?",
+          "options": [
+            "FDI is in stocks; FPI is in bonds",
+            "FDI involves acquiring substantial ownership/management control in an Indian company; FPI is purchase of Indian securities without management control",
+            "FDI is regulated by SEBI; FPI is regulated by RBI",
+            "FDI is short-term investment; FPI is long-term investment"
+          ],
+          "answerIndex": 1,
+          "explanation": "FDI (Foreign Direct Investment) involves a foreign entity acquiring a substantial stake (typically 10%+ equity) in an Indian company, usually with management control or strategic influence. Governed by DPIIT policy and approved by RBI/FIPB. FPI (Foreign Portfolio Investment) is purchase of Indian stocks, bonds, or other securities without management control — purely financial investment that can be withdrawn quickly. FPI is regulated by SEBI. The 'control vs no control' distinction is key.",
+          "source": "SSC CGL — FDI vs FPI distinction is a frequent trap",
+          "verified": false
+        },
+        {
+          "text": "The NIFTY 50 index of NSE has a base value of 1000 set at which date?",
+          "options": ["1 January 1994 (NSE launch)", "3 November 1995", "1 April 2000", "1 January 2001"],
+          "answerIndex": 1,
+          "explanation": "NIFTY 50's base date is 3 November 1995 = 1000. NSE was established in 1992 and began trading in 1994, but the NIFTY index was officially launched with the base date of November 3, 1995. For contrast: SENSEX (BSE) has base year 1978-79 = 100. Both base values (100 vs 1000) and base years (1978-79 vs 1995) are tested together in SSC questions.",
+          "source": "SSC / capital markets — NIFTY base date is tricky",
+          "verified": true
+        },
+        {
+          "text": "India's first depository, which enabled dematerialisation of shares, was:",
+          "options": [
+            "CDSL (Central Depository Services Limited), 1999",
+            "NSDL (National Securities Depository Limited), 1996",
+            "NSDL (National Securities Depository Limited), 1992",
+            "BSE Depository, 1993"
+          ],
+          "answerIndex": 1,
+          "explanation": "NSDL (National Securities Depository Limited) was established in 1996 — India's first depository, promoted by NSE, IDBI, and UTI. It enabled dematerialisation: converting physical share certificates into electronic holdings in Demat accounts. CDSL (Central Depository Services Limited) was the second depository, established in 1999, promoted by BSE. Both are regulated by SEBI. The 1996 (NSDL) vs 1999 (CDSL) years are tested together.",
+          "source": "SSC / depositories — NSDL first, CDSL second is a tricky ordering question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Unit Trust of India (UTI), India's first mutual fund, was established in which year?",
+          "options": ["1955", "1963", "1969", "1972"],
+          "answerIndex": 1,
+          "explanation": "UTI (Unit Trust of India) was established in 1963 under the Unit Trust of India Act, 1963 — India's first mutual fund. Its flagship scheme, US-64 (Unit Scheme 1964), was India's most popular investment vehicle for decades. A crisis in 2001 when US-64's NAV fell below its face value led to UTI's restructuring: it was split into UTI Mutual Fund (SEBI regulated, private management) and SUUTI (Specified Undertaking of UTI — government managed, handles old AS-64 investors).",
+          "source": "SSC / UTI history — 1963 is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The National Pension System (NPS) was first introduced for which category of employees, and in which year?",
+          "options": [
+            "All citizens of India from 2000",
+            "New Central Government employees from 2004",
+            "State government employees from 2001",
+            "Private sector employees from 2007"
+          ],
+          "answerIndex": 1,
+          "explanation": "NPS (National Pension System) was introduced for new Central Government employees joining on or after 1 January 2004 — replacing the old Defined Benefit pension scheme. It is a market-linked, defined contribution pension system. NPS was extended to all Indian citizens (including the unorganised sector) from 2009. PFRDA (Pension Fund Regulatory and Development Authority) regulates NPS. The 2004 date for central govt employees is frequently underrated.",
+          "source": "SSC / NPS history — 2004 (central govt) is underrated",
+          "verified": true
+        },
+        {
+          "text": "The Forward Markets Commission (FMC), which regulated the commodity futures markets, was merged with which body in 2015?",
+          "options": ["RBI", "SEBI", "IRDAI", "Ministry of Finance"],
+          "answerIndex": 1,
+          "explanation": "The Forward Markets Commission (FMC) was merged with SEBI in September 2015 — making SEBI the unified regulator for both securities markets (stocks, bonds) and commodity futures markets. Before this merger, FMC regulated commodity derivatives (gold futures, agricultural futures, etc.) under the Ministry of Consumer Affairs. Post-merger, SEBI now oversees commodity exchanges like MCX (Multi Commodity Exchange) and NCDEX (National Commodity and Derivatives Exchange).",
+          "source": "SSC / SEBI-FMC merger — underrated regulatory history",
+          "verified": true
+        },
+        {
+          "text": "The IFSCA (International Financial Services Centres Authority), established under IFSCA Act 2019, regulates financial activities at:",
+          "options": [
+            "All stock exchanges in India",
+            "All foreign banks operating in India",
+            "GIFT City (Gujarat International Finance Tec-City) — India's first IFSC",
+            "All NBFCs in India"
+          ],
+          "answerIndex": 2,
+          "explanation": "IFSCA (established under IFSCA Act, 2019) is the unified regulator for all financial services within International Financial Services Centres (IFSCs) — currently applicable to GIFT City (Gujarat International Finance Tec-City), Gandhinagar, India's first IFSC. Within the IFSC zone, IFSCA performs the combined functions of RBI (banking), SEBI (securities), IRDAI (insurance), and PFRDA (pensions) — a unique single-regulator model designed to compete with Singapore's and Dubai's financial centres.",
+          "source": "SSC / IFSCA and GIFT City — underrated regulatory body",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "SENSEX, the benchmark index of BSE, tracks how many companies?",
+          "options": ["25 companies", "30 companies", "50 companies", "100 companies"],
+          "answerIndex": 1,
+          "explanation": "SENSEX (Sensitive Index) of BSE tracks 30 large-cap companies from key sectors of the Indian economy. Base year: 1978-79 = 100. For contrast, NSE's NIFTY 50 tracks 50 companies with base November 3, 1995 = 1000. 'BSE 30 = SENSEX; NSE 50 = NIFTY' is the most frequently asked pairing in SSC exams. BSE also has BSE 100, BSE 200, and BSE 500 broader indices.",
+          "source": "SSC CGL / SSC CHSL — SENSEX composition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which regulatory body oversees the National Pension System (NPS) and Atal Pension Yojana (APY)?",
+          "options": ["SEBI", "IRDAI", "RBI", "PFRDA"],
+          "answerIndex": 3,
+          "explanation": "PFRDA (Pension Fund Regulatory and Development Authority) regulates both NPS (National Pension System) and APY (Atal Pension Yojana). PFRDA was established in 2003 and received full statutory powers under the PFRDA Act, 2013. Its headquarters is in New Delhi. NPS was introduced for new central government employees from 2004 and extended to all citizens in 2009. APY targets unorganised sector workers below age 40 for fixed pension of ₹1,000–₹5,000 per month.",
+          "source": "SSC CGL / current affairs GK — PFRDA vs other regulators is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "An IPO (Initial Public Offering) refers to:",
+          "options": [
+            "Government issuing bonds to fund infrastructure",
+            "A company selling its shares to the public for the first time",
+            "RBI issuing new currency notes",
+            "Mutual fund launching a new scheme"
+          ],
+          "answerIndex": 1,
+          "explanation": "An IPO (Initial Public Offering) is when a private company offers its shares to the general public for the first time, converting into a publicly listed company. The company raises capital by selling new shares (fresh issue) and/or existing promoters sell their shares (offer for sale/OFS). After IPO, shares are listed on a stock exchange (BSE/NSE) and traded in the secondary market. SEBI regulates the IPO process through its ICDR (Issue of Capital and Disclosure Requirements) regulations.",
+          "source": "SSC CGL — IPO definition is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct regulator for each financial sector? (Choose the CORRECT match)",
+          "options": [
+            "Banks → SEBI; Mutual Funds → RBI; Insurance → PFRDA",
+            "Banks → RBI; Mutual Funds → SEBI; Insurance → IRDAI; Pension → PFRDA",
+            "Banks → RBI; Mutual Funds → AMFI; Insurance → IRDAI; Pension → Ministry of Finance",
+            "Banks → SEBI; Mutual Funds → AMFI; Insurance → LIC; Pension → RBI"
+          ],
+          "answerIndex": 1,
+          "explanation": "The correct regulator mapping: Banks → RBI (Reserve Bank of India); Mutual Funds → SEBI (Securities and Exchange Board of India); Insurance → IRDAI (Insurance Regulatory and Development Authority of India); Pension funds (NPS/APY) → PFRDA (Pension Fund Regulatory and Development Authority); Stock exchanges and FPIs → SEBI. AMFI is the industry body for mutual funds, NOT the regulator.",
+          "source": "SSC CGL — regulator matching is the single most frequently asked financial markets question",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
