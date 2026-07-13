@@ -1,0 +1,193 @@
+{
+  "topic": "Flagship Economic Schemes — Jan Dhan, Ujjwala, PMAY, MUDRA & Others",
+  "topicId": "eco-schemes",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Pradhan Mantri Jan Dhan Yojana (PMJDY) was launched on which date?",
+          "options": ["15 August 2014", "28 August 2014", "2 October 2014", "1 January 2015"],
+          "answerIndex": 1,
+          "explanation": "PMJDY was launched on 28 August 2014 by PM Narendra Modi. It aimed to open a basic savings bank account for every unbanked household in India (financial inclusion). Key features: zero-balance account, free RuPay debit card, ₹2 lakh accidental insurance cover (via RuPay card), ₹30,000 life insurance, and access to Direct Benefit Transfer (DBT). Over 500 million accounts were opened by 2023, making it the world's largest financial inclusion drive.",
+          "source": "SSC CGL / SSC CHSL previous years — PMJDY launch date is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Under Pradhan Mantri Mudra Yojana (PMMY), a loan of ₹3 lakh would fall under which category?",
+          "options": ["Shishu", "Kishore", "Tarun", "Tarun Plus"],
+          "answerIndex": 1,
+          "explanation": "MUDRA loan tiers: Shishu (up to ₹50,000), Kishore (₹50,001 to ₹5 lakh), Tarun (₹5 lakh to ₹10 lakh), Tarun Plus (₹10 lakh to ₹20 lakh — introduced 2022). A ₹3 lakh loan falls within the Kishore range (₹50,001 to ₹5 lakh). None of these loans require collateral. MUDRA (Micro Units Development and Refinance Agency) is a subsidiary of SIDBI, established in 2015.",
+          "source": "SSC CGL / SSC CHSL previous years — MUDRA tier ranges are very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Pradhan Mantri Ujjwala Yojana was launched from which city?",
+          "options": ["Varanasi, Uttar Pradesh", "Ballia, Uttar Pradesh", "Lucknow, Uttar Pradesh", "New Delhi"],
+          "answerIndex": 1,
+          "explanation": "PM Ujjwala Yojana was launched on 1 May 2016 from Ballia, Uttar Pradesh — a symbolically chosen, relatively backward district. The scheme provides free LPG connections to BPL women, replacing biomass-burning chulhas that cause severe indoor air pollution (~5 lakh deaths/year). Initial target was 5 crore connections; later extended to 8 crore. By 2023, 10 crore+ connections had been provided. Ujjwala 2.0 was launched in August 2021, extending coverage to migrants without ration cards.",
+          "source": "SSC CGL previous years — Ujjwala launch city (Ballia) is frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Under Ayushman Bharat — Pradhan Mantri Jan Arogya Yojana (PM-JAY), the annual health cover provided per family is:",
+          "options": ["₹1 lakh", "₹2 lakh", "₹5 lakh", "₹10 lakh"],
+          "answerIndex": 2,
+          "explanation": "PM-JAY provides ₹5 lakh health insurance cover per family per year for secondary and tertiary hospitalisation. This cover is applicable at empanelled public and private hospitals across India, cashless. It covers approximately 55 crore people (the bottom 40% of the population). There is no premium paid by the beneficiary — it is fully funded by the government (Centre 60%, States 40%). PM-JAY is implemented by the National Health Authority (NHA) and is the world's largest government-funded health insurance scheme.",
+          "source": "SSC CGL / SSC CHSL previous years — PM-JAY ₹5 lakh cover is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the key difference between PMSBY and PMJJBY — two Jan Suraksha insurance schemes launched on the same day in 2015?",
+          "options": [
+            "PMSBY is for urban areas; PMJJBY is for rural areas",
+            "PMSBY covers accidental death/disability (₹20 premium); PMJJBY covers death from any cause (₹436 premium)",
+            "PMSBY is for women only; PMJJBY is for all adults",
+            "PMSBY is managed by LIC; PMJJBY is managed by general insurers"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both PMSBY and PMJJBY were launched on 9 May 2015 as Jan Suraksha schemes. The distinction: PMSBY (Pradhan Mantri Suraksha Bima Yojana) = ACCIDENTAL insurance — covers death or disability due to accidents only; ₹2 lakh cover; ₹20/year premium; age 18–70; administered by general insurance companies. PMJJBY (Pradhan Mantri Jeevan Jyoti Bima Yojana) = LIFE insurance — covers death from ANY cause (not just accident); ₹2 lakh cover; ₹436/year premium; age 18–50; administered by life insurance companies (LIC and others). Common trap: both offer ₹2 lakh cover — the difference is cause of death (accident vs any) and premium (₹20 vs ₹436).",
+          "source": "SSC CGL — confusing PMSBY with PMJJBY is the most common scheme trap",
+          "verified": true
+        },
+        {
+          "text": "PM-KISAN provides ₹6,000 per year to farmer families. How is this amount disbursed?",
+          "options": [
+            "As a lump sum at the start of the Kharif season",
+            "In 2 instalments of ₹3,000 each (twice a year)",
+            "In 3 instalments of ₹2,000 each (every 4 months)",
+            "In 12 monthly instalments of ₹500 each"
+          ],
+          "answerIndex": 2,
+          "explanation": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) provides ₹6,000/year to farmer families in 3 equal instalments of ₹2,000 each, every 4 months — directly to the farmer's bank account via DBT. This structure aligns with seasonal agricultural needs. Launched 24 February 2019. Covers 11 crore+ farmer families. The exam often asks whether it is 2 instalments of ₹3,000 or 3 instalments of ₹2,000 — the answer is always 3 × ₹2,000.",
+          "source": "SSC CGL — PM-KISAN disbursement structure (3 × ₹2,000) is a tricky recall question",
+          "verified": true
+        },
+        {
+          "text": "Which scheme provides for mandatory housing of at least 1 SC/ST and 1 woman entrepreneur per bank branch, with loans between ₹10 lakh and ₹1 crore?",
+          "options": ["Startup India", "Stand-Up India", "MUDRA Tarun", "PM MSME scheme"],
+          "answerIndex": 1,
+          "explanation": "Stand-Up India (launched 5 April 2016) mandates that every scheduled commercial bank branch must facilitate at least 1 SC/ST borrower and 1 woman borrower with bank loans between ₹10 lakh and ₹1 crore for greenfield (new) enterprises. This is distinct from: Startup India (16 Jan 2016) — for innovative startups of any category; MUDRA/PMMY — for micro-enterprises up to ₹10 lakh. The name 'Stand-Up' is a deliberate contrast to 'Startup' — targeting those who literally need to stand up from social disadvantage.",
+          "source": "SSC CGL — Stand-Up India vs Startup India is a very common confusion trap",
+          "verified": true
+        },
+        {
+          "text": "Jal Jeevan Mission aims to provide piped drinking water of at least how many litres per person per day?",
+          "options": ["40 litres", "50 litres", "55 litres", "70 litres"],
+          "answerIndex": 2,
+          "explanation": "Jal Jeevan Mission (Har Ghar Jal) — launched 15 August 2019 — aims to provide Functional Household Tap Connections (FHTC) to every rural household, supplying at least 55 litres of potable water per person per day. This standard (55 LPCD) is based on WHO/BIS guidelines for minimum acceptable supply. The mission targets 19 crore rural households and is managed by the Ministry of Jal Shakti. The 55-litre figure is specifically tested because students often guess 40 (the old NSSO benchmark) or 50.",
+          "source": "SSC CGL — Jal Jeevan Mission 55 LPCD standard is a tricky specific number",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Pradhan Mantri Awas Yojana — Gramin (PMAY-G) was the renamed version of which earlier housing scheme?",
+          "options": ["Valmiki Ambedkar Awas Yojana", "Indira Awas Yojana", "Rajiv Awas Yojana", "National Rural Housing Scheme"],
+          "answerIndex": 1,
+          "explanation": "PMAY-G (Pradhan Mantri Awas Yojana — Gramin), launched on 20 November 2016, is the renamed and restructured version of Indira Awas Yojana (IAY), which had been running since 1985. PMAY-G retained the objective (rural housing for homeless poor) but strengthened it with: SECC-2011 data for beneficiary identification (removing political patronage), larger unit cost (₹1.2 lakh plains, ₹1.3 lakh hilly), convergence with MGNREGS for 90–95 days of labour wages, and a technology platform (AwaasSoft/AwaasApp) for geotagging and monitoring.",
+          "source": "SSC CGL — IAY to PMAY-G renaming is underrated but a classic exam question",
+          "verified": true
+        },
+        {
+          "text": "Under PM Fasal Bima Yojana (PMFBY), the farmer's premium for Rabi crops is:",
+          "options": ["1% of sum insured", "1.5% of sum insured", "2% of sum insured", "5% of sum insured"],
+          "answerIndex": 1,
+          "explanation": "PM Fasal Bima Yojana (PMFBY) premium structure for farmers: Kharif crops = 2% of sum insured; Rabi crops = 1.5% of sum insured; Horticultural/commercial crops = 5% of sum insured. The balance premium is shared equally between the Central and state governments. The deliberately low farmer premium (especially 1.5% for Rabi, which covers wheat and mustard) was designed to make crop insurance affordable for all farmers. Launched on 13 January 2016, it replaced the older NAIS and MNAIS schemes.",
+          "source": "SSC CGL — Rabi premium rate (1.5%) is underrated; often confused with Kharif (2%)",
+          "verified": true
+        },
+        {
+          "text": "Atal Pension Yojana (APY), which provides guaranteed pension to unorganised sector workers, is regulated by which authority?",
+          "options": ["RBI", "SEBI", "IRDAI", "PFRDA"],
+          "answerIndex": 3,
+          "explanation": "APY (Atal Pension Yojana), launched on 9 May 2015, is regulated by PFRDA (Pension Fund Regulatory and Development Authority) — the same regulator that oversees the National Pension System (NPS). APY targets unorganised sector workers aged 18–40 who are not members of any statutory social security scheme. Subscribers receive a guaranteed monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 from age 60, depending on their contribution. Banks administer APY accounts on behalf of PFRDA.",
+          "source": "SSC CGL — APY regulator (PFRDA, not RBI or IRDAI) is underrated",
+          "verified": true
+        },
+        {
+          "text": "The Swachh Bharat Mission (SBM) Phase 2 (ODF Plus) focuses on which aspect, beyond just building toilets?",
+          "options": [
+            "Building more toilets in areas that remain ODF-negative",
+            "Solid and liquid waste management, and maintaining ODF status",
+            "Providing running water connections to every household with a toilet",
+            "Converting dry latrines to wet latrines"
+          ],
+          "answerIndex": 1,
+          "explanation": "SBM Phase 1 (2014–19) focused on building individual household latrines (IHHLs) and achieving ODF (Open Defecation Free) status — 10 crore+ toilets. SBM Phase 2 / ODF Plus (2020–25) moves beyond toilets to: solid waste management (processing garbage, composting), liquid waste management (greywater from kitchens/drains), and ensuring villages sustain ODF status (preventing regression). It also targets plastic-free and clean-drainage villages. This shift from infrastructure to behaviour change and waste management is what 'ODF Plus' captures.",
+          "source": "SSC CGL — SBM Phase 2 ODF Plus focus is underrated in preparation",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Swachh Bharat Mission was launched on 2 October 2014. Why was this date specifically chosen?",
+          "options": [
+            "It is India's Republic Day",
+            "It is the birth anniversary of Mahatma Gandhi (Gandhi Jayanti)",
+            "It is the death anniversary of Jawaharlal Nehru",
+            "It is World Environment Day"
+          ],
+          "answerIndex": 1,
+          "explanation": "Swachh Bharat Mission was launched on 2 October 2014 — Mahatma Gandhi's birth anniversary (Gandhi Jayanti). Gandhi had a lifelong commitment to sanitation and cleanliness (he often said sanitation is more important than independence). The ODF (Open Defecation Free) target was set for 2 October 2019 — the 150th birth anniversary of Gandhi. Connecting the mission to Gandhi's philosophy and his centenary anniversary was a deliberate tribute and messaging choice.",
+          "source": "SSC CGL / SSC CHSL — Swachh Bharat Mission launch date and significance is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Pradhan Mantri Jan Arogya Yojana (PM-JAY), which provides ₹5 lakh health cover per family, is implemented by which apex body?",
+          "options": [
+            "IRDAI (Insurance Regulatory and Development Authority of India)",
+            "Ministry of Health and Family Welfare directly",
+            "National Health Authority (NHA)",
+            "LIC of India"
+          ],
+          "answerIndex": 2,
+          "explanation": "PM-JAY under Ayushman Bharat is implemented by the National Health Authority (NHA) — an apex body set up specifically for this purpose. NHA manages the scheme at the national level: empanelling hospitals, setting rates, monitoring claims, and grievance redressal. IRDAI is the general insurance regulator (not the implementing agency). PM-JAY launched in September 2018, covering the bottom 40% (~55 crore) of India's population with ₹5 lakh/family/year cashless hospitalisation cover.",
+          "source": "SSC CGL — NHA as PM-JAY implementing body is very frequently tested",
+          "verified": true
+        },
+        {
+          "text": "Digital India was launched on 1 July 2015. Under this mission, BharatNet aims to provide connectivity to:",
+          "options": [
+            "All district headquarters",
+            "All state capitals",
+            "All gram panchayats (through optical fibre network)",
+            "All block-level offices"
+          ],
+          "answerIndex": 2,
+          "explanation": "BharatNet is the flagship connectivity component of Digital India — it aims to connect all 2.5 lakh+ gram panchayats in India through a high-speed optical fibre network (at least 100 Mbps broadband). This forms the backbone for rural digital services: Common Service Centres, e-governance, telemedicine, online education. Digital India itself was launched on 1 July 2015 by PM Modi. The three pillars are: (1) Digital infrastructure as a utility, (2) Governance and services on demand, (3) Digital empowerment of citizens.",
+          "source": "SSC CGL — BharatNet target (gram panchayats) is very frequently tested under Digital India",
+          "verified": true
+        },
+        {
+          "text": "Which of the following correctly describes the One Nation One Ration Card (ONORC) initiative?",
+          "options": [
+            "All ration card holders receive the same quantity of foodgrain regardless of category",
+            "A ration card holder can lift their entitled foodgrain from any Fair Price Shop anywhere in India",
+            "The ration card is now a physical card issued once for lifetime",
+            "All states issue the same colour ration card for uniform identification"
+          ],
+          "answerIndex": 1,
+          "explanation": "One Nation One Ration Card (ONORC) enables portability of food entitlements — a beneficiary can buy their NFSA-entitled grain from any Fair Price Shop (PDS shop) anywhere in India, not just their registered shop. This is critical for migrant workers who move between states for work. The system uses Aadhaar-based biometric authentication at the PoS machine. ONORC has been implemented across all states/UTs. It operates within the framework of the National Food Security Act (NFSA), 2013.",
+          "source": "SSC CGL — ONORC concept and purpose is very frequently asked in current affairs GK",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
