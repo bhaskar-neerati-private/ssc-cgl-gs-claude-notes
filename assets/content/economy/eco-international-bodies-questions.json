@@ -1,0 +1,198 @@
+{
+  "topic": "International Economic Bodies — WTO, IMF, World Bank Group & ADB",
+  "topicId": "eco-international-bodies",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The World Trade Organization (WTO) came into existence on which date, replacing GATT?",
+          "options": ["1 January 1948", "1 January 1991", "1 January 1995", "1 July 2001"],
+          "answerIndex": 2,
+          "explanation": "WTO was established on 1 January 1995, replacing GATT (General Agreement on Tariffs and Trade, 1948). GATT was not a formal international organisation — it was a provisional agreement and negotiating forum. The Uruguay Round of GATT negotiations (1986–1994) created the WTO as a permanent organisation with binding dispute settlement. WTO is headquartered in Geneva, Switzerland. India is a founding member of WTO.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The headquarters of the International Monetary Fund (IMF) is located in:",
+          "options": ["Geneva, Switzerland", "New York, USA", "Washington D.C., USA", "London, UK"],
+          "answerIndex": 2,
+          "explanation": "The IMF is headquartered in Washington D.C., USA — alongside the World Bank Group (IBRD, IDA, IFC, MIGA, ICSID). Both the IMF and the World Bank were born from the Bretton Woods Conference (July 1944) and are headquartered in Washington D.C. The WTO and UNCTAD are in Geneva. The UN General Assembly is in New York.",
+          "source": "SSC CGL / SSC CHSL previous years",
+          "verified": true
+        },
+        {
+          "text": "The Asian Development Bank (ADB) has its headquarters in:",
+          "options": ["Tokyo, Japan", "Beijing, China", "Manila, Philippines", "Singapore"],
+          "answerIndex": 2,
+          "explanation": "ADB is headquartered in Mandaluyong City, Manila, Philippines — established on 19 December 1966. Although Japan is the largest shareholder (tied with USA at ~15.6% each) and the ADB President is traditionally Japanese, the headquarters is in the Philippines. ADB's mandate is to reduce poverty and promote sustainable development in Asia and the Pacific. It has 68 members including both regional and non-regional countries.",
+          "source": "SSC CGL / SSC CHSL previous years — ADB HQ Manila is frequently tested",
+          "verified": true
+        },
+        {
+          "text": "The 'Special Drawing Right (SDR)' is associated with which international body?",
+          "options": ["World Trade Organization (WTO)", "Asian Development Bank (ADB)", "International Monetary Fund (IMF)", "World Bank (IBRD)"],
+          "answerIndex": 2,
+          "explanation": "SDR (Special Drawing Right) is the IMF's synthetic international reserve asset — not a currency itself, but a claim on the freely usable currencies of IMF members. SDRs are allocated to member countries in proportion to their IMF quotas. The SDR basket (since 2016) comprises five currencies: US Dollar, Euro, Chinese Yuan (Renminbi), Japanese Yen, and British Pound. China's Yuan was added in 2016 — a significant development recognising China's economic weight.",
+          "source": "SSC CGL / SSC CHSL previous years — SDR-IMF link is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the 'Most Favoured Nation (MFN)' principle under WTO?",
+          "options": [
+            "Developed countries give preferential tariff rates to developing countries",
+            "Any trade advantage granted to one WTO member must be extended to all other WTO members",
+            "Countries with the largest trade volumes receive preferential treatment",
+            "Members that joined WTO first get better trading conditions"
+          ],
+          "answerIndex": 1,
+          "explanation": "MFN (Most Favoured Nation) is WTO's foundational non-discrimination principle: any trade concession (lower tariff, better market access, etc.) that a country grants to any one WTO member MUST be applied equally to ALL WTO members. Despite the name, no single country is 'most favoured' — everyone gets the same best treatment. Exceptions: Regional Trade Agreements (RTAs) like ASEAN FTA allow preferential rates within the bloc; and the Generalised System of Preferences (GSP) allows developed countries to give preferential access to developing countries.",
+          "source": "SSC CGL — MFN definition is a classic tricky question",
+          "verified": true
+        },
+        {
+          "text": "Within the World Bank Group, which institution specifically supports the PRIVATE SECTOR in developing countries?",
+          "options": [
+            "IBRD (International Bank for Reconstruction and Development)",
+            "IDA (International Development Association)",
+            "IFC (International Finance Corporation)",
+            "MIGA (Multilateral Investment Guarantee Agency)"
+          ],
+          "answerIndex": 2,
+          "explanation": "IFC (International Finance Corporation), established 1956, is the World Bank Group's private sector arm. While IBRD and IDA lend to GOVERNMENTS of developing countries, IFC directly invests in and lends to PRIVATE COMPANIES. It provides equity, loans, and advisory services to private businesses in developing nations. MIGA provides political risk insurance (guarantees) to private investors. ICSID arbitrates investment disputes. Together they form the 5-institution World Bank Group.",
+          "source": "SSC CGL — World Bank Group institution roles are tricky to distinguish",
+          "verified": true
+        },
+        {
+          "text": "TRIPS (Trade-Related Intellectual Property Rights) is an agreement under WTO. What does it govern?",
+          "options": [
+            "Investment conditions that countries can impose on foreign investors",
+            "Liberalisation of international trade in services like banking and IT",
+            "Minimum standards for protection of patents, copyrights, trademarks, and geographical indications",
+            "Tariff reductions on manufactured goods between WTO members"
+          ],
+          "answerIndex": 2,
+          "explanation": "TRIPS (Trade-Related Intellectual Property Rights) agreement governs intellectual property protection — patents (medicines, inventions), copyrights (books, software), trademarks, geographical indications (Darjeeling tea, Basmati rice), and industrial designs. All WTO members must provide minimum IP protection standards. TRIPS was controversial for developing countries — it required them to protect pharmaceutical patents, potentially raising medicine prices (the 'TRIPS and public health' debate). GATS covers services; TRIMS covers investment measures; AoA covers agriculture.",
+          "source": "SSC CGL — TRIPS vs GATS vs TRIMS acronym distinction is frequently tested",
+          "verified": true
+        },
+        {
+          "text": "The IMF's voting system is based on:",
+          "options": [
+            "One-country-one-vote (equal voting for all members)",
+            "Population of each member country",
+            "Quota-based weighted voting (proportional to economic size and contribution)",
+            "GDP growth rate of each member country"
+          ],
+          "answerIndex": 2,
+          "explanation": "IMF voting is quota-based — weighted by each member's quota, which reflects economic size, openness, and financial contributions. The USA has the largest quota (~17% of votes) and thus the most influence. For decisions requiring an 85% supermajority (like changes to the IMF charter), the USA effectively holds a veto since no coalition can reach 85% without it. This quota structure is fundamentally different from the UN General Assembly's one-country-one-vote system.",
+          "source": "SSC CGL / economy — IMF voting system is tricky",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The GATT (General Agreement on Tariffs and Trade), which preceded WTO, was signed in which year?",
+          "options": ["1944 (at Bretton Woods)", "1945", "1947 (signed) / 1948 (effective)", "1951"],
+          "answerIndex": 2,
+          "explanation": "GATT was signed on 30 October 1947 and entered into force on 1 January 1948. It was intended as a temporary arrangement until the International Trade Organisation (ITO) was ratified — but ITO was never ratified (US Congress rejected it), so GATT served as the de facto trade framework for 47 years until WTO replaced it in 1995. GATT was NOT created at Bretton Woods (1944) — that conference created IMF and World Bank; GATT was a later, separate development.",
+          "source": "SSC / GATT history — 1948 effective date is underrated",
+          "verified": true
+        },
+        {
+          "text": "The New Development Bank (NDB), often called the BRICS Bank, has its headquarters in:",
+          "options": ["New Delhi, India", "Moscow, Russia", "Shanghai, China", "Brasília, Brazil"],
+          "answerIndex": 2,
+          "explanation": "NDB (New Development Bank), established at the BRICS Fortaleza Summit in 2014 and operational from 2015, is headquartered in Shanghai, China. It was set up by the BRICS nations (Brazil, Russia, India, China, South Africa) to finance infrastructure and sustainable development projects. The first NDB President was K.V. Kamath (Indian). Current President is Dilma Rousseff (former President of Brazil, since 2023). NDB is distinct from ADB, which is Manila-based and has broader membership including USA and Japan.",
+          "source": "SSC / NDB HQ Shanghai — underrated but tested in current affairs GK",
+          "verified": true
+        },
+        {
+          "text": "Which of the following correctly describes the difference between IBRD and IDA within the World Bank Group?",
+          "options": [
+            "IBRD lends to the private sector; IDA lends to governments",
+            "IBRD provides concessional loans to poor countries; IDA provides market-rate loans to middle-income countries",
+            "IBRD lends to middle-income countries at near-market rates; IDA provides concessional loans to the poorest countries",
+            "IBRD is for reconstruction; IDA is for investment in developing countries"
+          ],
+          "answerIndex": 2,
+          "explanation": "IBRD (established 1944) lends to middle-income and creditworthy low-income countries at near-market interest rates; repayment period is 15–20 years. IDA (established 1960) provides highly concessional loans (near-zero interest rates of 0–1.25%) and grants to the world's poorest countries; repayment spans 25–40 years. India has graduated from IDA to IBRD borrower status. The IBRD-IDA distinction is essential for correctly answering which 'World Bank' provides what.",
+          "source": "SSC / World Bank Group internal distinction — IBRD vs IDA is underrated",
+          "verified": true
+        },
+        {
+          "text": "Which currency was added to the IMF's Special Drawing Rights (SDR) basket in 2016, reflecting that country's growing economic importance?",
+          "options": ["Indian Rupee", "Brazilian Real", "Chinese Yuan (Renminbi)", "Russian Ruble"],
+          "answerIndex": 2,
+          "explanation": "The Chinese Yuan (Renminbi/CNY) was added to the IMF's SDR basket on 1 October 2016 — joining the US Dollar, Euro, Japanese Yen, and British Pound. This was a landmark recognition of China's economic weight and the Renminbi's increasing international use. The SDR basket is reviewed every five years. The Indian Rupee, despite India being a major economy, is not in the SDR basket as it is not yet freely convertible on the capital account.",
+          "source": "SSC / current affairs GK — yuan in SDR basket is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is the key difference between the IMF and the World Bank?",
+          "options": [
+            "IMF is for developed countries; World Bank is for developing countries",
+            "IMF provides long-term development loans; World Bank provides short-term balance of payments support",
+            "IMF focuses on monetary stability and balance of payments support; World Bank focuses on long-term development loans and poverty reduction",
+            "IMF is headquartered in Geneva; World Bank is in Washington D.C."
+          ],
+          "answerIndex": 2,
+          "explanation": "IMF's mandate: International monetary cooperation, exchange rate stability, and providing short-to-medium-term support to countries with balance of payments problems. World Bank's mandate: Long-term development financing and poverty reduction — funding infrastructure, education, health, governance in developing countries. Both are headquartered in Washington D.C. (not Geneva). The head of IMF is called 'Managing Director'; the World Bank's head is 'President'.",
+          "source": "SSC CGL / SSC CHSL — IMF vs World Bank is the most frequently asked comparison",
+          "verified": true
+        },
+        {
+          "text": "The largest shareholders of the Asian Development Bank (ADB) are:",
+          "options": [
+            "China and India (tied)",
+            "Japan alone (largest by far)",
+            "Japan and USA (tied at approximately 15.6% each)",
+            "USA alone (largest, as with IMF and World Bank)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Japan and USA are tied as ADB's largest shareholders — each holding approximately 15.6% of shares. Despite Japan topping the list along with the USA, and the ADB Presidency always going to a Japanese national (by convention), the headquarters is in Manila, Philippines. China holds about 6.4% and India holds about 6.3% — both significant but well below Japan and USA. ADB's 68 members include both Asian/Pacific (regional) and non-Asian (non-regional) countries.",
+          "source": "SSC CGL / current affairs GK — ADB shareholders is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Ajay Banga, who became World Bank President in June 2023, is notable because:",
+          "options": [
+            "He is the first developing-country national to lead the World Bank",
+            "He is the first person of Indian origin to serve as World Bank President",
+            "He is the first woman to lead the World Bank Group",
+            "He is the youngest person ever to become World Bank President"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ajay Banga (Indian-American; previously CEO of Mastercard) became the 14th President of the World Bank Group on 2 June 2023 — making him the first person of Indian origin to lead the World Bank. He was nominated by US President Joe Biden. While he holds Indian-origin status, he is a US citizen (by convention, the World Bank President is an American). His appointment broke no gender record but was notable for the Indian-origin aspect.",
+          "source": "SSC CGL / current affairs GK — Ajay Banga as World Bank President is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "India hosted the G20 Summit in 2023 with the theme 'Vasudhaiva Kutumbakam'. Where was this summit held?",
+          "options": ["Mumbai", "New Delhi", "Bengaluru", "Varanasi"],
+          "answerIndex": 1,
+          "explanation": "India hosted the G20 Leaders' Summit on September 9-10, 2023 in New Delhi (Bharat Mandapam convention centre). India held the G20 Presidency from December 2022 to November 2023. The theme was 'Vasudhaiva Kutumbakam' — Sanskrit for 'One Earth, One Family, One Future.' A landmark outcome: the African Union (AU) was admitted as a permanent member of G20 at this summit, expanding G20 from 19+EU to 20+EU+AU effectively.",
+          "source": "SSC CGL / current affairs — India G20 summit details are very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
