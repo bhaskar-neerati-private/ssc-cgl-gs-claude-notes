@@ -1,0 +1,208 @@
+{
+  "topic": "Human Digestive System — Organs, Enzymes, Absorption & Disorders",
+  "topicId": "bio-human-digestive",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which enzyme present in saliva begins the digestion of carbohydrates in the mouth?",
+          "options": ["Pepsin", "Lipase", "Salivary amylase (Ptyalin)", "Trypsin"],
+          "answerIndex": 2,
+          "explanation": "Salivary amylase (also called Ptyalin) is the enzyme in saliva that begins carbohydrate digestion in the mouth — it converts starch (a polysaccharide) into maltose (a disaccharide). This is the only digestion that begins in the mouth; protein digestion begins in the stomach (pepsin) and fat digestion mainly in the small intestine. Salivary amylase is inactivated by the acidic HCl in the stomach, so starch digestion stops there and resumes in the small intestine with pancreatic amylase.",
+          "source": "SSC CGL / SSC CHSL previous years — salivary amylase as the mouth enzyme is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Bile is produced by which organ and stored in which organ?",
+          "options": [
+            "Produced by pancreas, stored in gallbladder",
+            "Produced by liver, stored in gallbladder",
+            "Produced by liver, stored in duodenum",
+            "Produced by gallbladder, stored in liver"
+          ],
+          "answerIndex": 1,
+          "explanation": "Bile is produced by the liver (~600–1000 ml/day) and stored and concentrated in the gallbladder. When fatty food enters the duodenum, the hormone cholecystokinin (CCK) triggers the gallbladder to contract and release bile into the duodenum via the common bile duct. Bile is not an enzyme — it is a digestive fluid that emulsifies (physically breaks up) large fat globules into tiny droplets, massively increasing surface area for lipase enzymes to act on. Bile pigments (bilirubin, biliverdin) are waste products of haemoglobin breakdown.",
+          "source": "SSC CGL / SSC CHSL previous years — bile production (liver) and storage (gallbladder) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the correct function of the enzyme pepsin?",
+          "options": [
+            "Converts starch into maltose",
+            "Converts fats into fatty acids and glycerol",
+            "Converts proteins into peptides",
+            "Converts sucrose into glucose and fructose"
+          ],
+          "answerIndex": 2,
+          "explanation": "Pepsin is a protease enzyme secreted by the chief (zymogenic) cells of the stomach as an inactive precursor called pepsinogen. HCl (secreted by parietal cells) activates pepsinogen into pepsin by cleaving a peptide fragment. Pepsin then converts proteins into shorter peptides (endopeptidase — cleaves internal peptide bonds). The optimum pH for pepsin is ~1.5–3.5 (acidic). Salivary amylase converts starch to maltose; lipase converts fats; sucrase converts sucrose.",
+          "source": "SSC CGL / SSC CHSL previous years — pepsin's function (proteins → peptides) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The largest gland in the human body is the:",
+          "options": ["Pancreas", "Thyroid", "Liver", "Spleen"],
+          "answerIndex": 2,
+          "explanation": "The liver is the largest gland in the human body (weight ~1.5 kg in adults). It is also the largest internal organ. It performs over 500 known functions: producing bile, metabolising nutrients, detoxifying drugs and alcohol, synthesising plasma proteins, storing glycogen and fat-soluble vitamins, producing heat, and removing old RBCs via Kupffer cells. Note: the skin is the largest organ overall (not a gland). The pancreas is a mixed gland (exocrine + endocrine) but much smaller than the liver.",
+          "source": "SSC CGL / SSC CHSL previous years — liver as largest gland is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Trypsinogen (the inactive form of trypsin) is produced by the pancreas. Which enzyme activates it in the duodenum?",
+          "options": ["Pepsin", "Bile salts", "Enterokinase (Enteropeptidase)", "HCl"],
+          "answerIndex": 2,
+          "explanation": "Trypsinogen is the inactive (zymogen) form of trypsin. In the duodenum, the intestinal enzyme enterokinase (enteropeptidase), secreted by intestinal gland cells, cleaves a peptide from trypsinogen to activate it into trypsin. Trypsin can then also activate more trypsinogen (autocatalytic) and activate other pancreatic zymogens like chymotrypsinogen. This cascade of activation in the intestine (not inside the pancreas) prevents the pancreas from digesting itself — a condition called pancreatitis when the mechanism fails.",
+          "source": "SSC CGL — enterokinase activating trypsinogen is a tricky but important specificity question",
+          "verified": true
+        },
+        {
+          "text": "Fatty acids and glycerol produced from fat digestion are absorbed differently from glucose and amino acids. Where do they go first?",
+          "options": [
+            "Directly into blood capillaries in the villi",
+            "Into lacteals (lymph capillaries) in the villi, then into the lymphatic system",
+            "Into the portal vein going to the liver",
+            "Into the bile duct going back to the gallbladder"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fatty acids and glycerol are reassembled into triglycerides within intestinal cells and packaged into chylomicrons (lipoprotein particles). These chylomicrons are too large to enter blood capillaries directly and instead enter lacteals — the lymph capillaries at the centre of each villus. They travel through the lymphatic system, eventually entering the bloodstream via the thoracic duct into the subclavian vein. Glucose, amino acids, and galactose enter blood capillaries directly → portal vein → liver. This is why fat-soluble vitamins (A, D, E, K) are also absorbed via lymph.",
+          "source": "SSC CGL — fatty acid absorption into lacteals (not blood capillaries) is a tricky distinction",
+          "verified": true
+        },
+        {
+          "text": "Pernicious anaemia is caused by deficiency of Vitamin B12 due to a missing factor. Which organ produces this factor and what is it called?",
+          "options": [
+            "Liver — extrinsic factor",
+            "Stomach — intrinsic factor",
+            "Pancreas — enterokinase",
+            "Small intestine — transferrin"
+          ],
+          "answerIndex": 1,
+          "explanation": "Pernicious anaemia is caused by deficiency of Vitamin B12 (cobalamin), not due to lack of B12 in diet, but due to absence of intrinsic factor produced by the parietal (oxyntic) cells of the stomach. Intrinsic factor is a glycoprotein that binds vitamin B12 and allows its absorption in the ileum. Without intrinsic factor (e.g., after total gastrectomy, or autoimmune destruction of parietal cells), B12 cannot be absorbed regardless of dietary intake. B12 is essential for RBC formation — its deficiency causes megaloblastic anaemia (large, immature RBCs).",
+          "source": "SSC CGL — intrinsic factor from stomach for B12 absorption is a tricky but frequently appearing question",
+          "verified": true
+        },
+        {
+          "text": "The hormone glucagon is secreted by which cells of the islets of Langerhans in the pancreas?",
+          "options": ["Beta (β) cells", "Delta (δ) cells", "Alpha (α) cells", "Epsilon (ε) cells"],
+          "answerIndex": 2,
+          "explanation": "Alpha (α) cells of the islets of Langerhans secrete glucagon, which raises blood glucose by stimulating glycogenolysis (glycogen → glucose) and gluconeogenesis in the liver. Beta (β) cells secrete insulin, which lowers blood glucose by promoting glucose uptake by cells. Delta (δ) cells secrete somatostatin, which inhibits the secretion of both insulin and glucagon. The exam often swaps alpha and beta — remember: Alpha = gluCAgon (cA for Alpha), Beta = insulin (which is what diabetics lack).",
+          "source": "SSC CGL — alpha cell (glucagon) vs beta cell (insulin) is a classic tricky question where the two are swapped",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Vitamin K is essential for blood clotting. What is a significant source of Vitamin K in the human body?",
+          "options": [
+            "It is made by the liver from dietary fat",
+            "It is synthesised by bacteria in the large intestine",
+            "It is produced by red blood cells during clotting",
+            "It is synthesised in the skin on exposure to sunlight"
+          ],
+          "answerIndex": 1,
+          "explanation": "While Vitamin K is also obtained from dietary sources (green leafy vegetables), a significant portion of the human body's Vitamin K requirement is met by bacteria in the large intestine (gut microbiome), which synthesise Vitamin K2 (menaquinone). This is why prolonged use of antibiotics (which kill gut bacteria) can lead to Vitamin K deficiency and impaired blood clotting. Vitamin D is the vitamin synthesised by the skin on exposure to sunlight — a common point of confusion.",
+          "source": "SSC CGL — Vitamin K synthesis by gut bacteria is underrated but tested in general science",
+          "verified": true
+        },
+        {
+          "text": "The enzyme rennin, which coagulates milk, is primarily active in which demographic and what does it convert?",
+          "options": [
+            "Active in adults; converts casein into caseinogen",
+            "Active in infants; converts caseinogen (milk protein) into casein (curd)",
+            "Active in all ages; converts lactose into lactic acid",
+            "Active in adults; converts fat in milk into fatty acids"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rennin (chymosin) is a proteolytic enzyme secreted by chief cells of the stomach, primarily active in infants. It coagulates milk protein: caseinogen (soluble milk protein) → casein (insoluble curd). This coagulation slows the passage of milk through the stomach, allowing pepsin more time to digest it. Rennin is nearly absent in adult human stomachs (pepsin takes over). Rennet (animal rennin from calves' stomach) is used commercially in cheese-making. Confusion: rennin ≠ renin (renin is a kidney enzyme involved in blood pressure regulation — entirely different).",
+          "source": "SSC CGL — rennin (infants, milk coagulation) is underrated; frequently confused with renin",
+          "verified": true
+        },
+        {
+          "text": "The surface area of the small intestine for absorption is dramatically increased by three structural features. Which combination is correct?",
+          "options": [
+            "Rugae, villi, and microvilli",
+            "Crypts of Lieberkühn, Peyer's patches, and lacteals",
+            "Folds (plicae circulares), villi, and microvilli (brush border)",
+            "Goblet cells, Kupffer cells, and Brunner's glands"
+          ],
+          "answerIndex": 2,
+          "explanation": "The small intestine's absorptive surface area is expanded at three levels: (1) Plicae circulares (circular folds/valvulae conniventes) — large folds of mucosa that increase area ~3×; (2) Villi — finger-like projections (~1 mm) on plicae, increase area ~10×; (3) Microvilli (brush border) — tiny projections on each villus cell, increase area ~20×. Together, they increase the surface area from ~33 m² (if flat tube) to approximately 600 m² — the size of a tennis court. Rugae are folds in the stomach wall, not the small intestine.",
+          "source": "SSC CGL — three levels of small intestine surface area increase is underrated",
+          "verified": true
+        },
+        {
+          "text": "Mumps is a viral disease that primarily affects which salivary glands?",
+          "options": ["Sublingual glands", "Submandibular glands", "Parotid glands", "All three pairs equally"],
+          "answerIndex": 2,
+          "explanation": "Mumps (caused by Paramyxovirus) primarily infects the parotid glands — the largest pair of salivary glands, located in front of and below each ear. Infection causes painful swelling of the parotid glands, giving the characteristic 'chipmunk cheek' appearance. The mumps virus can also cause orchitis (testicular inflammation) in post-pubertal males, potentially causing infertility. MMR vaccine (Measles-Mumps-Rubella) prevents mumps. The three pairs of salivary glands are: parotid (largest, targeted by mumps), submandibular, and sublingual (smallest).",
+          "source": "SSC CGL — mumps affecting parotid glands (not sublingual) is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "In which part of the human digestive system does the maximum absorption of digested food take place?",
+          "options": ["Stomach", "Large intestine", "Small intestine", "Oesophagus"],
+          "answerIndex": 2,
+          "explanation": "The small intestine is the primary site of both digestion and absorption of nutrients. Its inner wall has villi and microvilli that create an enormous surface area (~600 m²). Glucose, fructose, galactose (from carbs), amino acids (from proteins) are absorbed into blood capillaries; fatty acids/glycerol (from fats) enter lacteals. The large intestine mainly absorbs water and electrolytes — not nutrients. The stomach mainly mixes and chemically breaks down food. The oesophagus merely transports food (no digestion or absorption).",
+          "source": "SSC CGL / SSC CHSL — maximum absorption in small intestine is one of the most frequently asked questions",
+          "verified": true
+        },
+        {
+          "text": "The pancreas is described as a 'mixed gland'. What does this mean?",
+          "options": [
+            "It secretes both acids and bases",
+            "It functions as both an exocrine gland (digestive enzymes) and endocrine gland (hormones)",
+            "It is partly located in the stomach and partly in the small intestine",
+            "It can substitute for the liver when the liver fails"
+          ],
+          "answerIndex": 1,
+          "explanation": "The pancreas is called a mixed (or heterocrine) gland because it performs both exocrine and endocrine functions. Exocrine function: Acinar cells secrete pancreatic juice (containing amylase, lipase, trypsinogen, chymotrypsinogen, nucleases) through the pancreatic duct into the duodenum — digestive function. Endocrine function: Islets of Langerhans secrete hormones directly into the blood — alpha cells → glucagon (raises blood sugar); beta cells → insulin (lowers blood sugar); delta cells → somatostatin (regulatory).",
+          "source": "SSC CGL / SSC CHSL — pancreas as mixed gland is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the role of Hydrochloric acid (HCl) in the stomach?",
+          "options": [
+            "It directly digests carbohydrates into simple sugars",
+            "It kills bacteria in food, creates acidic pH for pepsin, and activates pepsinogen into pepsin",
+            "It neutralises the acidic chyme entering the duodenum",
+            "It emulsifies fats for easier digestion by lipase"
+          ],
+          "answerIndex": 1,
+          "explanation": "HCl secreted by parietal (oxyntic) cells of the stomach performs three key roles: (1) Creates an acidic environment (pH 1.5–3.5) optimal for pepsin's protein-digesting activity; (2) Converts inactive pepsinogen (secreted by chief cells) into active pepsin by cleaving a peptide fragment; (3) Kills most bacteria and pathogens that enter with food (antibacterial). HCl does not itself digest carbohydrates. Bile neutralises acidic chyme in the duodenum (not HCl). Emulsification of fats is done by bile salts.",
+          "source": "SSC CGL / SSC CHSL — HCl's multiple roles in the stomach is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is jaundice, and which pigment is responsible for the yellowing of skin and eyes?",
+          "options": [
+            "Excess urea in blood; responsible pigment is urobilin",
+            "Excess bilirubin in blood; responsible pigment is bilirubin (from haemoglobin breakdown)",
+            "Excess bile salts in blood; responsible pigment is biliverdin only",
+            "Excess glycogen in liver; responsible pigment is carotenoids"
+          ],
+          "answerIndex": 1,
+          "explanation": "Jaundice is a condition where bilirubin (a yellow bile pigment produced from the breakdown of haemoglobin in old RBCs) accumulates in the blood and deposits in tissues, causing yellow discolouration of the skin, whites of the eyes (scleral icterus), and urine. Three types: (1) Pre-hepatic/Haemolytic — excessive RBC destruction; (2) Hepatic — liver disease (hepatitis, cirrhosis) impairing bilirubin processing; (3) Post-hepatic/Obstructive — bile duct blockage (gallstones, tumour) preventing bile from reaching the intestine. All three result in elevated blood bilirubin.",
+          "source": "SSC CGL / SSC CHSL — jaundice and bilirubin is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
