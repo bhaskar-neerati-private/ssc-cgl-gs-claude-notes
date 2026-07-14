@@ -1,0 +1,218 @@
+{
+  "topic": "Human Respiratory System — Lungs, Breathing & Gas Exchange",
+  "topicId": "bio-human-respiratory",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The normal tidal volume (volume of air breathed in one normal quiet breath) in a healthy adult is approximately:",
+          "options": ["150 mL", "350 mL", "500 mL", "1200 mL"],
+          "answerIndex": 2,
+          "explanation": "Tidal Volume (TV) is approximately 500 mL — the volume of air inhaled or exhaled in one normal, quiet breath at rest. Of this 500 mL, about 150 mL is 'dead space air' that fills the conducting airways (trachea, bronchi) and does not participate in gas exchange. Only ~350 mL actually reaches the alveoli for exchange. The other key volumes: Inspiratory Reserve Volume (IRV) ~3000 mL; Expiratory Reserve Volume (ERV) ~1100 mL; Residual Volume (RV) ~1200 mL; Vital Capacity (TV+IRV+ERV) ~4600 mL.",
+          "source": "SSC CGL / SSC CHSL previous years — tidal volume (500 mL) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Tuberculosis (TB) is caused by which organism?",
+          "options": [
+            "Plasmodium falciparum",
+            "Mycobacterium tuberculosis",
+            "Streptococcus pneumoniae",
+            "Wuchereria bancrofti"
+          ],
+          "answerIndex": 1,
+          "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, a gram-positive, acid-fast bacillus (rod-shaped bacterium). It primarily infects the lungs (pulmonary TB) but can affect any organ. Transmission is airborne — by inhaling droplets from coughs/sneezes of infected persons. Symptoms: chronic cough, blood-streaked sputum, fever, night sweats, weight loss. Treatment: DOTS (6-month combination antibiotics: rifampicin, isoniazid, pyrazinamide, ethambutol). BCG vaccine prevents severe childhood TB. India has the highest TB burden globally. Streptococcus pneumoniae causes pneumonia; Plasmodium causes malaria; Wuchereria causes filariasis.",
+          "source": "SSC CGL / SSC CHSL previous years — TB causative organism is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which muscle is most important for breathing (inspiration)?",
+          "options": ["External intercostal muscles", "Internal intercostal muscles", "Diaphragm", "Abdominal muscles"],
+          "answerIndex": 2,
+          "explanation": "The diaphragm is the most important muscle for breathing, responsible for ~75% of the work in normal quiet inspiration. When it contracts, it moves downward (flattening from its dome shape), increasing the volume of the thoracic cavity, which lowers intrapulmonary pressure below atmospheric — causing air to rush into the lungs. The external intercostal muscles assist by lifting the ribs up and outward. The diaphragm is innervated by the phrenic nerve. Internal intercostal muscles and abdominal muscles are primarily used in forced expiration.",
+          "source": "SSC CGL / SSC CHSL previous years — diaphragm as most important breathing muscle is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The exchange of gases between blood and body cells (internal respiration) is driven by:",
+          "options": [
+            "Active transport requiring ATP energy",
+            "Osmosis across cell membranes",
+            "Diffusion — gases move from high partial pressure to low partial pressure",
+            "Pumping action of the heart through the capillary walls"
+          ],
+          "answerIndex": 2,
+          "explanation": "Internal respiration (gas exchange between blood and tissue cells) is driven entirely by diffusion — gases move passively from areas of high partial pressure to low partial pressure, requiring no energy. O₂ in arterial blood (PO₂ ~95 mmHg) diffuses into tissue cells (PO₂ ~40 mmHg); CO₂ in cells (PCO₂ ~45 mmHg) diffuses into blood (PCO₂ ~40 mmHg). The same principle applies at the alveoli (external respiration). The thin, moist walls of capillaries and cell membranes allow rapid diffusion. This is why the enormous surface area of alveoli (~70–80 m²) is so critical.",
+          "source": "SSC CGL / SSC CHSL previous years — diffusion driving gas exchange is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which is the PRIMARY chemical stimulus that triggers increased breathing rate in humans?",
+          "options": [
+            "Falling blood oxygen (O₂) levels",
+            "Rising blood carbon dioxide (CO₂) causing falling blood pH",
+            "Rising blood glucose during exercise",
+            "Falling body temperature"
+          ],
+          "answerIndex": 1,
+          "explanation": "The primary stimulus for breathing is rising blood CO₂ (hypercapnia) — which lowers blood pH (more H⁺ ions as CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻). Central chemoreceptors in the medulla oblongata detect this pH change and trigger increased respiratory rate. Blood O₂ level is monitored by peripheral chemoreceptors (carotid and aortic bodies) but under NORMAL conditions these are only secondary. This is why you cannot stay indefinitely underwater by hyperventilating (you blow off CO₂, removing the trigger) — dangerous practice called hypocapnic blackout.",
+          "source": "SSC CGL — CO₂/pH as primary breathing stimulus (not O₂) is a classic tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Emphysema patients often develop a characteristic 'barrel chest'. Why?",
+          "options": [
+            "Their chest muscles hypertrophy from constant coughing effort",
+            "Alveolar walls are destroyed, air is trapped in lungs, and the chest expands to accommodate the trapped air permanently",
+            "Their ribs fuse together from chronic inflammation, preventing normal chest movement",
+            "Excess mucus production pushes the ribcage outward over time"
+          ],
+          "answerIndex": 1,
+          "explanation": "In emphysema (mainly caused by smoking), the enzyme elastase destroys the elastic alveolar walls — multiple alveoli merge into large, inefficient air spaces with dramatically reduced surface area for gas exchange. Crucially, the destroyed elastic tissue can no longer recoil and help expel air. Air becomes trapped in the enlarged air spaces. Over time, to accommodate this chronically trapped air and to use accessory muscles for breathing, the chest becomes permanently expanded into a rounded 'barrel chest' shape. Emphysema is irreversible — alveolar walls cannot regenerate.",
+          "source": "SSC CGL — emphysema barrel chest mechanism is a tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Carbon dioxide is transported in blood primarily in which form?",
+          "options": [
+            "Dissolved CO₂ gas in plasma (~70%)",
+            "As carbaminohaemoglobin (bound to Hb) (~70%)",
+            "As bicarbonate ions (HCO₃⁻) in plasma (~70%)",
+            "As carboxyhaemoglobin (CO₂ bound to iron of Hb) (~70%)"
+          ],
+          "answerIndex": 2,
+          "explanation": "CO₂ transport in blood: ~70% as bicarbonate ions (HCO₃⁻) in plasma. Inside RBCs, the enzyme carbonic anhydrase rapidly converts CO₂ + H₂O → H₂CO₃ (carbonic acid) → H⁺ + HCO₃⁻. HCO₃⁻ exits the RBC into plasma (via Chloride shift — Cl⁻ enters RBC in exchange). ~23% as carbaminohaemoglobin (CO₂ bound to globin chains, not to iron). ~7% dissolved in plasma. Important: carboxyhaemoglobin is CO (carbon monoxide) bound to Hb — NOT CO₂ — a very common exam confusion.",
+          "source": "SSC CGL — CO₂ transport as bicarbonate (70%) is a tricky question often confused with carboxyhaemoglobin",
+          "verified": true
+        },
+        {
+          "text": "Residual Volume (RV) of the lungs cannot be expelled even after maximum expiration. Why is this functionally important?",
+          "options": [
+            "It maintains the concentration of respiratory gases for accurate chemoreceptor readings",
+            "It prevents the alveoli from completely collapsing (atelectasis) between breaths",
+            "It stores extra O₂ for use during periods of breathlessness",
+            "It prevents the diaphragm from rising too high and compressing the heart"
+          ],
+          "answerIndex": 1,
+          "explanation": "Residual Volume (~1200 mL) is the air that remains in the lungs after maximum expiration — it cannot be expelled because the small airways collapse before all air can be removed. Its functional importance: it prevents the alveoli from completely collapsing (atelectasis) between breaths. If alveoli collapsed completely with every expiration, each new breath would require enormous effort to re-inflate them against surface tension forces. The residual air also ensures continuous gas exchange even during expiration — blood continues to pick up O₂ and release CO₂ even when no new air is entering.",
+          "source": "SSC CGL — Residual Volume's functional role (preventing alveolar collapse) is a tricky reasoning question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Type II pneumocytes (Type II alveolar cells) secrete surfactant. What happens to a premature baby that lacks sufficient surfactant?",
+          "options": [
+            "Excess oxygen absorption causes oxygen toxicity in the bloodstream",
+            "Alveoli collapse because surface tension is not reduced — causing Neonatal Respiratory Distress Syndrome (NRDS)",
+            "The baby cannot produce haemoglobin, causing immediate severe anaemia",
+            "The larynx fails to close during swallowing, causing aspiration pneumonia"
+          ],
+          "answerIndex": 1,
+          "explanation": "Surfactant (produced by Type II pneumocytes) is a phospholipid-protein mixture that coats the inner surface of alveoli and reduces surface tension — preventing alveoli from collapsing during expiration. In premature babies (<28 weeks gestation), Type II cells have not yet produced sufficient surfactant. Without it, the massive surface tension causes alveoli to collapse (atelectasis) with each breath, requiring enormous muscular effort to reopen them. This is NRDS (Neonatal Respiratory Distress Syndrome), also called Hyaline Membrane Disease — a leading cause of death in premature newborns. Treatment: artificial surfactant administered into the trachea.",
+          "source": "SSC CGL — NRDS from surfactant deficiency in premature babies is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The right primary bronchus is described as shorter, wider, and more vertical than the left. What is the clinical significance of this?",
+          "options": [
+            "The right lung receives more blood flow than the left",
+            "Inhaled foreign bodies are more likely to lodge in the right bronchus or right lung",
+            "The right lung inflates faster than the left during inspiration",
+            "Pneumonia is more likely to occur in the left lung"
+          ],
+          "answerIndex": 1,
+          "explanation": "The right primary bronchus is shorter (~2.5 cm), wider, and deviates less from the vertical compared to the left primary bronchus (~5 cm, more angled). This anatomical difference means that any inhaled foreign body (peanut, coin, small toy in children) is statistically more likely to pass into the right bronchus and lodge in the right lung (specifically the lower lobe, which the right bronchus angles toward). This is an important clinical fact in emergency medicine — when an adult aspirates something, the right lower lobe is the first place to look.",
+          "source": "SSC CGL — right bronchus wider/shorter → foreign body goes right is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "The BCG vaccine is used to prevent tuberculosis. What does BCG stand for?",
+          "options": [
+            "Bacillus Cell Guard (killed Mycobacterium tuberculosis)",
+            "Bacillus Calmette-Guérin (attenuated Mycobacterium bovis)",
+            "Bacterial Culture Grade vaccine (synthetic antigen)",
+            "Broad Contagion Guard (antibody preparation from immune donors)"
+          ],
+          "answerIndex": 1,
+          "explanation": "BCG = Bacillus Calmette-Guérin, named after Albert Calmette and Camille Guérin (French scientists) who developed it between 1906 and 1921. BCG is a live attenuated (weakened) strain of Mycobacterium bovis (cattle TB bacterium), which is closely related to M. tuberculosis but much less virulent. BCG provides protection against severe forms of childhood TB (TB meningitis, miliary TB) but is less effective against adult pulmonary TB. In India, BCG is given at birth as part of the Universal Immunisation Programme (UIP). The Mantoux test (tuberculin test) checks prior TB exposure/infection.",
+          "source": "SSC CGL — BCG full form and nature (attenuated M. bovis) is underrated",
+          "verified": true
+        },
+        {
+          "text": "The Adam's apple is a visible feature of the neck in humans, more prominent in males. Which cartilage forms the Adam's apple?",
+          "options": ["Cricoid cartilage", "Epiglottis", "Thyroid cartilage", "Arytenoid cartilage"],
+          "answerIndex": 2,
+          "explanation": "The Adam's apple is formed by the thyroid cartilage — the largest cartilage of the larynx. During puberty, testosterone causes the larynx (especially the thyroid cartilage) to enlarge, making the Adam's apple more prominent in males and deepening the voice (voice 'breaks' as vocal cords lengthen). The cricoid cartilage is the ring-shaped cartilage below the thyroid; the epiglottis is the leaf-shaped flap that closes over the larynx during swallowing; arytenoid cartilages control vocal cord tension.",
+          "source": "SSC CGL — Adam's apple = thyroid cartilage is underrated but directly tested",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "The right lung has how many lobes, and the left lung has how many?",
+          "options": ["Right: 2, Left: 3", "Right: 3, Left: 2", "Both have 3 lobes", "Both have 2 lobes"],
+          "answerIndex": 1,
+          "explanation": "The right lung has 3 lobes (upper, middle, and lower) and is larger. The left lung has only 2 lobes (upper and lower) and is smaller. The left lung has a cardiac notch — an indentation on its medial surface to accommodate the heart, which lies slightly to the left of the midline. Both lungs are enclosed in pleural membranes and lie in the thoracic cavity. The total surface area of the alveoli in both lungs combined is approximately 70–80 m².",
+          "source": "SSC CGL / SSC CHSL — right lung 3 lobes, left lung 2 lobes is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Asthma is a respiratory disorder. What is the primary pathological mechanism in asthma?",
+          "options": [
+            "Permanent destruction of alveolar walls reducing gas exchange surface",
+            "Bacterial infection of alveoli causing them to fill with fluid",
+            "Bronchospasm — constriction of smooth muscle in bronchioles causing airflow obstruction",
+            "Fibrosis of lung tissue preventing lung expansion"
+          ],
+          "answerIndex": 2,
+          "explanation": "Asthma is characterised by: (1) Bronchospasm — smooth muscle in the bronchioles contracts, narrowing the airways; (2) Mucosal oedema — inflammation of airway lining; (3) Excess mucus secretion. Together these cause the classic symptoms: wheezing (due to turbulent airflow through narrowed airways), shortness of breath, and chest tightness — typically triggered by allergens (pollen, dust mites, animal dander), exercise, cold air, or infections. Bronchioles (unlike bronchi) have no cartilage rings — their smooth muscle can constrict freely. Treatment: bronchodilators (e.g., salbutamol/albuterol via inhaler) relax smooth muscle.",
+          "source": "SSC CGL / SSC CHSL — asthma as bronchospasm in bronchioles is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Vital Capacity of the lungs is defined as:",
+          "options": [
+            "The total volume of air the lungs can hold at maximum inflation",
+            "The volume of air remaining in the lungs after maximum expiration",
+            "The maximum volume of air that can be inhaled and exhaled in one breath",
+            "The maximum volume exhaled after a maximum inhalation (TV + IRV + ERV)"
+          ],
+          "answerIndex": 3,
+          "explanation": "Vital Capacity (VC) = Tidal Volume (TV) + Inspiratory Reserve Volume (IRV) + Expiratory Reserve Volume (ERV) = ~500 + ~3000 + ~1100 = ~4600 mL. It is the maximum volume of air a person can exhale after taking the deepest possible breath. Vital Capacity does NOT include Residual Volume (RV ~1200 mL). Total Lung Capacity (TLC) = Vital Capacity + Residual Volume = ~6000 mL. Vital capacity is reduced in restrictive lung diseases (fibrosis, obesity) and severe obstructive diseases (emphysema). Athletes typically have higher vital capacity than sedentary individuals.",
+          "source": "SSC CGL / SSC CHSL — Vital Capacity definition and formula is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Pneumonia is an infection that affects the lungs. What happens inside the lungs during pneumonia?",
+          "options": [
+            "The bronchioles constrict, preventing airflow to alveoli",
+            "Alveoli fill with fluid (inflammatory exudate) — reducing gas exchange",
+            "Alveolar walls are destroyed, reducing surface area for exchange",
+            "The pleural cavity fills with air, collapsing the lung"
+          ],
+          "answerIndex": 1,
+          "explanation": "In pneumonia, infection (most commonly by Streptococcus pneumoniae in adults, or viruses like influenza, COVID-19, RSV) triggers inflammation in the alveoli. Immune cells rush to the site, causing the alveoli to fill with fluid (inflammatory exudate — containing plasma, WBCs, and debris) — a process called consolidation. Fluid-filled alveoli cannot exchange gases properly, causing hypoxaemia (low blood O₂). Symptoms: fever, cough (productive), difficulty breathing, rapid breathing, chest pain. Note: option C describes emphysema; option D describes pneumothorax.",
+          "source": "SSC CGL / SSC CHSL — what happens in pneumonia (alveoli fill with fluid) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
