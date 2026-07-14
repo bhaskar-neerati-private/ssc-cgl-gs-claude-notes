@@ -1,0 +1,203 @@
+{
+  "topic": "Human Circulatory System — Heart, Blood, Blood Groups & Lymphatic System",
+  "topicId": "bio-human-circulatory",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following blood vessels carries deoxygenated blood from the heart to the lungs?",
+          "options": ["Aorta", "Pulmonary vein", "Pulmonary artery", "Superior vena cava"],
+          "answerIndex": 2,
+          "explanation": "The pulmonary artery carries deoxygenated blood from the right ventricle to the lungs — it is the only artery in the human body that carries deoxygenated blood. This is the beginning of pulmonary circulation. In the lungs, blood releases CO₂ and picks up O₂ (oxygenation). The four pulmonary veins then carry the oxygenated blood back to the left atrium — making them the only veins carrying oxygenated blood. The aorta carries oxygenated blood from the left ventricle to the body. Superior Vena Cava brings deoxygenated blood from the upper body to the right atrium.",
+          "source": "SSC CGL / SSC CHSL previous years — pulmonary artery carrying deoxygenated blood is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The 'pacemaker' of the human heart is:",
+          "options": [
+            "AV node (Atrioventricular node)",
+            "SA node (Sinoatrial node)",
+            "Bundle of His",
+            "Purkinje fibres"
+          ],
+          "answerIndex": 1,
+          "explanation": "The SA node (Sinoatrial node) is called the natural pacemaker of the heart. Located in the wall of the right atrium, it spontaneously generates electrical impulses at 60–100 times per minute, setting the heart rate. The impulse travels: SA node → AV node (slight delay for ventricular filling) → Bundle of His → Purkinje fibres → ventricular contraction. When the SA node fails, an artificial electronic pacemaker can be surgically implanted to maintain the rhythm. The AV node can take over (at 40–60 bpm) if the SA node fails.",
+          "source": "SSC CGL / SSC CHSL previous years — SA node as pacemaker is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which component of blood is responsible for clotting?",
+          "options": ["Red blood cells", "White blood cells", "Plasma proteins (fibrinogen)", "Platelets and clotting factors"],
+          "answerIndex": 3,
+          "explanation": "Blood clotting involves two components working together: (1) Platelets (thrombocytes) — they aggregate at the wound site to form a temporary platelet plug; (2) Clotting factors including fibrinogen (a plasma protein) — the coagulation cascade converts prothrombin to thrombin, which then converts soluble fibrinogen into insoluble fibrin threads that reinforce the platelet plug into a stable blood clot. Vitamin K and Calcium (Ca²⁺) are essential cofactors. Deficiency of specific factors causes haemophilia (A = Factor VIII, B = Factor IX).",
+          "source": "SSC CGL / SSC CHSL previous years — blood clotting components is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The normal range of blood pressure in a healthy adult human is:",
+          "options": ["80/120 mmHg", "120/80 mmHg", "140/90 mmHg", "160/100 mmHg"],
+          "answerIndex": 1,
+          "explanation": "Normal blood pressure is 120/80 mmHg. The first number (120) is systolic pressure — the pressure when the left ventricle contracts and pushes blood into the aorta. The second number (80) is diastolic pressure — the pressure when the ventricles relax and the heart refills. Blood pressure is measured using a sphygmomanometer. Hypertension is defined as consistently ≥140/90 mmHg. Hypertension is called the 'silent killer' because it often has no symptoms yet significantly increases the risk of stroke, heart attack, and kidney failure.",
+          "source": "SSC CGL / SSC CHSL previous years — normal blood pressure (120/80 mmHg) is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "William Harvey made a landmark discovery about blood circulation in 1628. What was the prevailing wrong belief before Harvey?",
+          "options": [
+            "That blood was made in the lungs and circulated only once",
+            "That blood was continuously made in the liver and consumed by organs (not recirculated)",
+            "That the heart was a passive reservoir and blood moved on its own",
+            "That blood circulated in two separate, non-connected systems"
+          ],
+          "answerIndex": 1,
+          "explanation": "Before Harvey (1628), the dominant view (based on Galen, ~2nd century AD) was that blood was continuously manufactured in the liver from digested food and consumed by organs — it was believed to ebb and flow like tides, not circulate in a closed loop. Harvey used quantitative arguments: the heart pumps ~70 mL per beat × 72 bpm = ~5 litres/minute — far more than the body could possibly manufacture from food. Therefore blood must be the same blood, circulating in a closed system driven by the heart. This was one of the greatest insights in medical history.",
+          "source": "SSC CGL — Harvey's discovery context is a tricky historical question",
+          "verified": true
+        },
+        {
+          "text": "Carbon monoxide (CO) poisoning is dangerous because CO binds to haemoglobin. Why is this binding more harmful than the absence of oxygen itself?",
+          "options": [
+            "CO binds to the iron of haemoglobin with 200–250 times greater affinity than oxygen, forming stable carboxyhaemoglobin that cannot carry O₂",
+            "CO destroys the haemoglobin molecule completely, reducing RBC count",
+            "CO reacts with plasma to form a toxic acid that damages blood vessels",
+            "CO triggers rapid RBC destruction in the spleen"
+          ],
+          "answerIndex": 0,
+          "explanation": "CO binds to the Fe²⁺ (iron) of haemoglobin with approximately 200–250 times greater affinity than oxygen. The resulting carboxyhaemoglobin (COHb) is extremely stable and cannot carry oxygen — effectively removing haemoglobin molecules from function. Worse, CO also shifts the oxygen dissociation curve (Haldane effect), making the remaining oxyhemoglobin release O₂ less readily to tissues. Victims appear cherry-red (COHb is bright red unlike dark deoxyHb) and lose consciousness without warning. Treatment: 100% O₂ to displace CO; hyperbaric oxygen in severe cases.",
+          "source": "SSC CGL — CO poisoning mechanism (affinity 200×) is a tricky but important question",
+          "verified": true
+        },
+        {
+          "text": "Serum and plasma are both derived from blood but differ in one key component. What is the difference?",
+          "options": [
+            "Serum has RBCs removed; plasma retains RBCs",
+            "Serum = plasma minus clotting factors (fibrinogen); plasma retains all proteins",
+            "Serum is plasma heated to 56°C; used only for vaccines",
+            "Serum contains antibodies only; plasma contains all other proteins"
+          ],
+          "answerIndex": 1,
+          "explanation": "Plasma is the liquid component of blood with all formed elements (RBCs, WBCs, platelets) removed — it retains all plasma proteins including fibrinogen and other clotting factors. Serum is plasma from which the clotting factors (primarily fibrinogen) have been removed — it is what remains after blood has clotted and the clot is removed. Serum still contains antibodies (immunoglobulins), albumin, and other proteins. Antiserum (serum containing specific antibodies) is used in treatments and diagnostics.",
+          "source": "SSC CGL — serum vs plasma distinction is a tricky but frequently asked question",
+          "verified": true
+        },
+        {
+          "text": "The spleen is described as the 'graveyard of RBCs'. Which other important function does the spleen perform in the immune system?",
+          "options": [
+            "It produces red blood cells in adults",
+            "It is the site where T cells mature and learn to recognise self from non-self",
+            "It is the largest lymphoid organ — filters blood and acts as a reservoir of blood and lymphocytes",
+            "It produces Vitamin K needed for blood clotting"
+          ],
+          "answerIndex": 2,
+          "explanation": "The spleen is the largest lymphoid organ in the body and performs multiple functions: (1) 'Graveyard of RBCs' — macrophages in the spleen phagocytose old/damaged RBCs (~120 days old) and break down haemoglobin into bilirubin; (2) Blood filter — removes pathogens and cellular debris from blood; (3) Blood reservoir — stores blood that can be released during haemorrhage; (4) Lymphocyte reservoir — produces lymphocytes for immune defence. Note: T cell maturation occurs in the thymus (not spleen). RBC production in adults occurs in red bone marrow (spleen does this only in foetal life).",
+          "source": "SSC CGL — spleen's multiple roles (graveyard + largest lymphoid organ + reservoir) is a tricky combination question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Which white blood cell becomes a macrophage when it moves from blood into tissues?",
+          "options": ["Neutrophil", "Lymphocyte", "Monocyte", "Basophil"],
+          "answerIndex": 2,
+          "explanation": "Monocytes are agranulocyte WBCs (~2–8% of WBCs) that circulate in blood. When they migrate into tissues in response to infection or inflammation, they differentiate into macrophages — large, long-lived phagocytic cells that engulf and destroy pathogens, cellular debris, and old RBCs. Tissue-specific macrophages have different names: Kupffer cells (liver), microglial cells (brain), osteoclasts (bone), alveolar macrophages (lungs), and Langerhans cells (skin). Neutrophils are also phagocytic but are short-lived (hours) and stay in blood/immediate tissue.",
+          "source": "SSC CGL — monocyte → macrophage transformation is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "Dengue fever is well known for causing a dangerous drop in one blood component. Which is it, and why is it dangerous?",
+          "options": [
+            "RBCs — causes severe anaemia",
+            "WBCs — destroys immune defences completely",
+            "Platelets (thrombocytopenia) — impairs blood clotting, causing bleeding",
+            "Plasma proteins — causes oedema throughout the body"
+          ],
+          "answerIndex": 2,
+          "explanation": "Dengue fever (caused by dengue virus, transmitted by Aedes aegypti mosquito) characteristically causes thrombocytopenia — a dangerous drop in platelet count (normal: 1.5–4 lakh/mm³; dengue can drop it below 20,000/mm³). This severely impairs blood clotting — patients are at risk of spontaneous bleeding (haemorrhagic dengue), internal haemorrhage, and death. Platelet count monitoring is essential in dengue management. There is no specific antiviral drug; treatment is supportive (fluids, platelet transfusions in severe cases). The Aedes mosquito is also the vector for Zika, chikungunya, and yellow fever.",
+          "source": "SSC CGL — dengue causing thrombocytopenia (not anaemia or leukopenia) is underrated",
+          "verified": true
+        },
+        {
+          "text": "The thoracic duct is the largest lymphatic vessel. Where does it empty lymph into the bloodstream?",
+          "options": [
+            "Right subclavian vein",
+            "Superior vena cava",
+            "Left subclavian vein",
+            "Pulmonary vein"
+          ],
+          "answerIndex": 2,
+          "explanation": "The thoracic duct is the largest lymphatic vessel, draining lymph from: the entire lower body (below the diaphragm), the left side of the head, neck, and chest, and the left arm. It empties into the left subclavian vein (where lymph rejoins the bloodstream). The right lymphatic duct (much smaller) drains the right side of the head, neck, right arm, and right chest — emptying into the right subclavian vein. This distinction (thoracic duct → left subclavian) is specifically tested in SSC.",
+          "source": "SSC CGL — thoracic duct emptying into left subclavian vein is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "Which heart valve is most commonly damaged in rheumatic fever, causing regurgitation (backward leakage of blood)?",
+          "options": ["Tricuspid valve", "Aortic semilunar valve", "Pulmonary semilunar valve", "Mitral (Bicuspid) valve"],
+          "answerIndex": 3,
+          "explanation": "The mitral valve (bicuspid valve), located between the left atrium and left ventricle, is most commonly affected in rheumatic fever — a complication of untreated Group A Streptococcal throat infection. Rheumatic fever causes autoimmune inflammation that scars and thickens the mitral valve leaflets, causing mitral stenosis (narrowing) or mitral regurgitation (backward leakage). Because the left side of the heart operates at much higher pressures, the mitral and aortic valves are more vulnerable to wear and damage than the right-side valves (tricuspid and pulmonary).",
+          "source": "SSC CGL — mitral valve as most affected in rheumatic fever is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Mature human Red Blood Cells (RBCs) lack a nucleus. What other key organelle is absent in mature RBCs?",
+          "options": [
+            "Ribosome only",
+            "Golgi apparatus only",
+            "Nucleus and mitochondria — RBCs rely entirely on anaerobic glycolysis for energy",
+            "Cell membrane (plasma membrane)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Mature mammalian RBCs lack both a nucleus (lost during maturation from reticulocytes) and mitochondria. Without mitochondria, RBCs cannot perform oxidative phosphorylation — they generate ATP entirely through anaerobic glycolysis (breaking down glucose without oxygen). This is actually beneficial: if RBCs used O₂ for their own energy production, they would consume the very O₂ they are meant to transport. The biconcave disc shape (no nucleus = more internal space), large surface area, and flexibility to squeeze through capillaries are all adaptations for O₂ transport. Bird and reptile RBCs, by contrast, retain their nucleus.",
+          "source": "SSC CGL / SSC CHSL — RBCs lacking nucleus AND mitochondria is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which organ is known as the 'graveyard of Red Blood Cells'?",
+          "options": ["Liver", "Kidney", "Spleen", "Bone marrow"],
+          "answerIndex": 2,
+          "explanation": "The spleen is called the 'graveyard of Red Blood Cells.' After ~120 days, RBCs become old and fragile — their membranes lose flexibility. The spleen's tortuous capillary passages filter these stiff old RBCs out of circulation: macrophages (Kupffer-equivalent cells in the spleen) phagocytose them. Haemoglobin is broken down: globin → amino acids (recycled); haem → bilirubin (goes to liver → bile) + iron (recycled for new RBC production). Bone marrow is the birthplace (graveyard = spleen; nursery = bone marrow).",
+          "source": "SSC CGL / SSC CHSL — spleen as graveyard of RBCs is one of the most frequently asked questions",
+          "verified": true
+        },
+        {
+          "text": "Which type of White Blood Cell is most numerous in human blood, and what is its primary function?",
+          "options": [
+            "Lymphocytes (50–60%); produce antibodies",
+            "Neutrophils (60–70%); phagocytosis of bacteria",
+            "Monocytes (20–25%); phagocytosis and antigen presentation",
+            "Eosinophils (60–70%); fight parasitic infections"
+          ],
+          "answerIndex": 1,
+          "explanation": "Neutrophils are the most abundant WBCs — approximately 60–70% of all leukocytes. They are the first responders to bacterial infection: they rapidly migrate to infection sites (chemotaxis), engulf bacteria by phagocytosis, and destroy them with enzymes and reactive oxygen species. Neutrophils are short-lived (~6–8 hours in blood, up to a few days at infection sites). Pus consists mainly of dead neutrophils, dead bacteria, and cellular debris. Lymphocytes are second most common (20–25%) and are responsible for adaptive immunity (B cells → antibodies; T cells → cell-mediated immunity).",
+          "source": "SSC CGL / SSC CHSL — neutrophils as most common WBC and phagocytes is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The normal lifespan of a human Red Blood Cell is approximately:",
+          "options": ["10–15 days", "30 days", "120 days", "1 year"],
+          "answerIndex": 2,
+          "explanation": "Human RBCs have a lifespan of approximately 120 days. During this time, they circulate through the body hundreds of thousands of times, carrying oxygen to tissues and carbon dioxide away. After 120 days, their membranes become fragile and less flexible — they are filtered out and destroyed primarily in the spleen and liver. The body produces approximately 2–3 million new RBCs per second in the red bone marrow to replace them. Platelets live only ~10 days; most WBCs live hours to days (though memory lymphocytes can live years).",
+          "source": "SSC CGL / SSC CHSL — RBC lifespan (120 days) is one of the most frequently asked biology facts",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
