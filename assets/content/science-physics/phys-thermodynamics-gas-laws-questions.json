@@ -1,0 +1,158 @@
+{
+  "topic": "Gas Laws & Thermodynamics — Boyle's, Charles', Ideal Gas & Laws of Thermodynamics",
+  "topicId": "phys-thermodynamics-gas-laws",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Boyle's Law states that at constant temperature, for a fixed mass of gas:",
+          "options": ["Pressure is proportional to volume", "Pressure is inversely proportional to volume", "Pressure is proportional to temperature", "Volume is proportional to temperature"],
+          "answerIndex": 1,
+          "explanation": "Boyle's Law (1662): P ∝ 1/V at constant T. So PV = constant → P₁V₁ = P₂V₂. Doubling pressure halves volume; halving pressure doubles volume. This is why bicycle pumps heat up when you compress air, and why deep-sea bubbles grow as divers ascend.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The second law of thermodynamics says that heat flows spontaneously:",
+          "options": ["From cold body to hot body", "From hot body to cold body", "In both directions equally", "Only in a vacuum"],
+          "answerIndex": 1,
+          "explanation": "The Second Law (Clausius statement): heat never flows spontaneously from a cold body to a hot body. It always flows from higher temperature to lower temperature. A refrigerator CAN move heat from cold to hot, but only by doing work (using electrical energy) — the process is not spontaneous.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Universal Gas Constant R in PV = nRT has the value:",
+          "options": ["1.38 × 10⁻²³ J/K", "6.022 × 10²³ J/mol", "8.314 J/(mol·K)", "9.8 m/s²"],
+          "answerIndex": 2,
+          "explanation": "R = 8.314 J/(mol·K) = 8.314 Pa·m³/(mol·K). It appears in the ideal gas law PV = nRT. The Boltzmann constant k = R/N_A = 1.38 × 10⁻²³ J/K relates to individual molecules. N_A = 6.022 × 10²³ is Avogadro's number (not a rate or energy unit).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "At STP (0°C and 1 atm), 1 mole of an ideal gas occupies:",
+          "options": ["1 litre", "11.2 litres", "22.4 litres", "44.8 litres"],
+          "answerIndex": 2,
+          "explanation": "By Avogadro's Law, at STP (0°C = 273 K, 1 atm), 1 mole of ANY ideal gas occupies exactly 22.4 litres (22,400 mL). This is the molar volume of an ideal gas at STP. Whether it's H₂, O₂, N₂, or CO₂ — 1 mole occupies 22.4 L at STP.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A gas is compressed rapidly (adiabatically). Its temperature:",
+          "options": ["Stays constant (isothermal compression)", "Decreases because compression does negative work", "Increases because work is done ON the gas", "Depends only on the type of gas"],
+          "answerIndex": 2,
+          "explanation": "In adiabatic compression, Q = 0 (no heat exchange with surroundings). First Law: Q = ΔU + W → 0 = ΔU + W → ΔU = −W. Work is done ON the gas (W is negative for compression done on gas) → ΔU is positive → internal energy increases → temperature increases. This is why bicycle pump gets warm and diesel engines ignite fuel through compression alone.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Charles' Law states V ∝ T. A gas at 27°C is heated until its volume doubles. Its new temperature is:",
+          "options": ["54°C", "327°C", "300°C", "600°C"],
+          "answerIndex": 1,
+          "explanation": "Charles' Law: V₁/T₁ = V₂/T₂ (T in Kelvin!). T₁ = 27 + 273 = 300 K. V₂ = 2V₁ → T₂ = 2T₁ = 600 K = 600 − 273 = 327°C. Common trap: if you use Celsius (27 to 54°C = double in Celsius), you get the wrong answer. Always convert to Kelvin first.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Which statement about entropy is CORRECT?",
+          "options": ["Entropy decreases in all natural processes", "Entropy of the universe remains constant in all processes", "Entropy of the universe increases in all irreversible (natural) processes", "Entropy is a measure of temperature"],
+          "answerIndex": 2,
+          "explanation": "Second Law (entropy statement): In any irreversible process, total entropy of the universe (system + surroundings) increases. Entropy can decrease locally (e.g., freezing water, organising a room) but only if the surroundings' entropy increases by at least as much. For reversible processes, total entropy change = 0. Entropy never measures temperature — temperature measures average kinetic energy.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "The Carnot efficiency of a heat engine is 1 − T_C/T_H. For an engine with hot source at 500 K and cold sink at 300 K, maximum efficiency is:",
+          "options": ["40%", "60%", "80%", "100%"],
+          "answerIndex": 0,
+          "explanation": "η_Carnot = 1 − T_C/T_H = 1 − 300/500 = 1 − 0.6 = 0.4 = 40%. This is the MAXIMUM possible efficiency for any engine operating between these temperatures. Real engines achieve less due to friction and irreversibilities. To get 100% efficiency, you'd need T_C = 0 K (absolute zero — impossible).",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Dalton's Law of Partial Pressures states that in a gas mixture:",
+          "options": ["All gases reach the same partial pressure", "The total pressure equals the sum of individual partial pressures of each gas", "Partial pressure depends on the mass of each gas", "Gases with higher molecular weight have higher partial pressure"],
+          "answerIndex": 1,
+          "explanation": "Dalton's Law: P_total = P₁ + P₂ + P₃ + ... Each gas exerts pressure independently as if alone in the container. Atmospheric air at 1 atm: P(N₂) ≈ 0.78 atm + P(O₂) ≈ 0.21 atm + P(Ar) ≈ 0.009 atm + others = 1 atm. This is crucial for scuba diving — divers must avoid oxygen toxicity (high P_O₂ at depth).",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Why does a refrigerator have the condenser coils at the back (hot)?",
+          "options": ["To prevent the refrigerator from tipping over (counterweight)", "The refrigerant releases heat absorbed from inside the fridge to the kitchen air at the back", "To cool the motor that drives the compressor", "The coils collect dust which acts as insulation"],
+          "answerIndex": 1,
+          "explanation": "A refrigerator is a heat engine in reverse. The refrigerant absorbs heat from inside (cold compartment) by evaporating, then is compressed and condenses at the hot condenser coils at the back — releasing that heat to the kitchen. The net effect: heat is pumped from cold (inside) to hot (kitchen), requiring electrical work input (Second Law: this doesn't happen spontaneously).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Which law of thermodynamics is the basis for the operation of thermometers?",
+          "options": ["First Law (Conservation of Energy)", "Second Law (Entropy)", "Third Law (Absolute Zero)", "Zeroth Law (Thermal Equilibrium)"],
+          "answerIndex": 3,
+          "explanation": "The Zeroth Law: if A is in thermal equilibrium with C, and B is in thermal equilibrium with C, then A and B are in thermal equilibrium. A thermometer (C) equilibrates with the body being measured (A) and displays a reading. By the Zeroth Law, the thermometer reading accurately represents the body's temperature, and two bodies at the same thermometer reading are at the same temperature.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Newton's calculation of the speed of sound in air gave an incorrect (lower) value because he assumed sound propagation is isothermal. Laplace corrected it by using:",
+          "options": ["Isobaric (constant pressure) propagation", "Adiabatic (no heat exchange) propagation giving a higher speed", "Isochoric (constant volume) propagation", "He used the real gas equation instead of ideal gas law"],
+          "answerIndex": 1,
+          "explanation": "Sound waves compress and rarefy air too rapidly for heat exchange to occur — the process is adiabatic, not isothermal. For adiabatic processes, the effective 'bulk modulus' is γ times larger (γ = Cp/Cv ≈ 1.4 for air). Speed of sound = √(γP/ρ) instead of √(P/ρ). Laplace's correction gives v ≈ 332 m/s at 0°C, matching experiment, vs Newton's ~279 m/s.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Gay-Lussac's Law relates pressure and temperature at constant volume. A sealed rigid container is heated from 300 K to 600 K. Its pressure:",
+          "options": ["Remains the same", "Doubles", "Becomes four times", "Halves"],
+          "answerIndex": 1,
+          "explanation": "Gay-Lussac's Law: P/T = constant (at constant V). P₂/P₁ = T₂/T₁ = 600/300 = 2. Pressure doubles when absolute temperature doubles. Example: pressure cooker sealed and heated — both P and T increase proportionally. This is also why tyre pressures should be checked cold (before driving heats them).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The first law of thermodynamics is a statement of:",
+          "options": ["Direction of heat flow", "Conservation of energy", "Entropy increase in irreversible processes", "Absolute zero of temperature"],
+          "answerIndex": 1,
+          "explanation": "The First Law of Thermodynamics is the law of conservation of energy applied to thermodynamic systems: Q = ΔU + W (heat added = change in internal energy + work done by system). Energy cannot be created or destroyed. It rules out 'perpetual motion machines of the first kind' (machines that create energy from nothing).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is correct about an ideal gas?",
+          "options": ["Ideal gas molecules have significant volume and intermolecular forces", "Ideal gas obeys PV = nRT at all temperatures and pressures", "Real gases behave ideally at high pressure and low temperature", "Ideal gases condense to liquid at low temperatures"],
+          "answerIndex": 1,
+          "explanation": "An ideal gas perfectly obeys PV = nRT under all conditions. Ideal gas assumptions: molecules have no volume; no intermolecular forces; elastic collisions only. Real gases deviate from ideal behaviour at HIGH pressure (volume of molecules matters) and LOW temperature (intermolecular forces matter, and gases can condense). Real gases approach ideal behaviour at LOW pressure and HIGH temperature.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The phenomenon that makes a hot air balloon rise is based on:",
+          "options": ["Boyle's Law — heated air at constant volume has higher pressure", "Charles' Law — heated air at constant pressure expands and becomes less dense", "Gay-Lussac's Law — heated sealed air has higher pressure", "Dalton's Law — different gases in the balloon have different partial pressures"],
+          "answerIndex": 1,
+          "explanation": "Hot air balloon: the balloon is open at the bottom (constant atmospheric pressure). When air inside is heated, it expands (Charles' Law: V ∝ T at constant P). The expanded, hot air is less dense than surrounding cool air. When the balloon + envelope weight < weight of displaced air → net buoyant force upward → balloon rises (Archimedes + Charles' Law combined).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

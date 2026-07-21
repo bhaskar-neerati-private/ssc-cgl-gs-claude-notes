@@ -1,0 +1,158 @@
+{
+  "topic": "Electricity — Ohm's Law, Resistance, Circuits, Heating Effect & Household Wiring",
+  "topicId": "phys-electricity",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Domestic electricity supply in India is:",
+          "options": ["110 V, 60 Hz AC", "220 V, 50 Hz AC", "220 V, 60 Hz DC", "110 V, 50 Hz AC"],
+          "answerIndex": 1,
+          "explanation": "India's domestic electricity supply: 220 Volts, 50 Hertz, Alternating Current (AC). The USA uses 110 V, 60 Hz AC. This is why Indian appliances used in the USA (and vice versa) need voltage/frequency converters. The 50 Hz frequency means AC completes 50 full cycles per second; current direction reverses 100 times per second.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The unit of electrical resistance is:",
+          "options": ["Ampere", "Volt", "Watt", "Ohm"],
+          "answerIndex": 3,
+          "explanation": "Electrical resistance is measured in Ohm (Ω), named after Georg Simon Ohm who formulated Ohm's Law (V = IR). Ampere = unit of electric current. Volt = unit of electric potential difference (EMF). Watt = unit of electric power (P = VI). The relationship: 1 Ω = 1 V / 1 A (one ohm is the resistance that allows 1 ampere of current when 1 volt is applied).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which material is used in the filament of an electric bulb?",
+          "options": ["Copper", "Nichrome", "Tungsten", "Aluminium"],
+          "answerIndex": 2,
+          "explanation": "Tungsten (W) is used in incandescent bulb filaments because: (1) it has the highest melting point of all metals (3,422°C), so it can glow white-hot (~2,500°C) without melting. (2) It has high electrical resistance → converts electricity to heat and light efficiently. Nichrome is used in heaters and irons (high resistance, lower melting point than tungsten, does not oxidise). Copper has low resistance → used in wiring, not heating.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "When electrical appliances are connected in parallel in a household circuit:",
+          "options": ["They all get reduced voltage depending on their individual resistance", "All appliances get the same full voltage (220 V) and can be operated independently", "Current through each appliance is the same", "If one appliance is switched off, all others also switch off"],
+          "answerIndex": 1,
+          "explanation": "In parallel connection: each branch has the same voltage (full 220 V from the supply). Each appliance draws its own current independently. Switching off one appliance does NOT affect others. Total current drawn = sum of individual currents. This is why household wiring is parallel — each room and each appliance operates independently and receives full voltage.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A 60 W bulb and a 100 W bulb are connected to the SAME 220 V supply separately. Which bulb has HIGHER resistance?",
+          "options": ["The 100 W bulb has higher resistance (more power = more resistance)", "The 60 W bulb has higher resistance (less power at same voltage = higher resistance)", "Both have equal resistance since they use the same supply voltage", "Resistance is not related to power consumption"],
+          "answerIndex": 1,
+          "explanation": "P = V²/R → R = V²/P. At the same voltage (220 V): R₆₀ = 220²/60 ≈ 807 Ω; R₁₀₀ = 220²/100 = 484 Ω. The 60 W bulb has HIGHER resistance (lower power at same voltage requires higher R, which limits current). Counterintuitive: 'more powerful' appliance has lower resistance (draws more current). A 1000 W heater has lower resistance than a 60 W bulb.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Why is the fuse wire always connected to the LIVE wire in a circuit, not the neutral wire?",
+          "options": ["Because live wire carries more current than neutral wire", "Because connecting it to neutral would not protect the appliance — even if fuse blows, the appliance casing remains at 220 V (live), dangerous to touch", "Because neutral wire already has a built-in circuit breaker", "It makes no difference which wire the fuse is on — both provide equal protection"],
+          "answerIndex": 1,
+          "explanation": "If the fuse were on the neutral wire and it blew, the appliance would be disconnected from the return path — but the live wire (220 V) would still be connected to the appliance casing. Anyone touching the appliance would receive a shock. With the fuse on the LIVE wire: when it blows, the appliance is disconnected from the high-voltage supply → safe to touch. Always: fuse on live wire, switch on live wire.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The resistance of metals INCREASES with temperature. This is because:",
+          "options": ["Metal atoms become lighter at higher temperatures and block electron flow more", "At higher temperatures, metal ions vibrate more intensely — more collisions between electrons and ions → more resistance", "Higher temperature reduces the number of free electrons in metals", "Metal expands with temperature, increasing its cross-sectional area and thus resistance"],
+          "answerIndex": 1,
+          "explanation": "In metals, current flows via free electrons drifting through the lattice of metal ions. At higher temperatures, metal ions vibrate with greater amplitude → more frequent and more energetic collisions between drifting electrons and vibrating ions → electrons are impeded more → higher resistance. This is why connecting wires get warm under heavy current — resistance converts electrical energy to heat. Contrast with semiconductors (negative temperature coefficient — resistance decreases with temperature).",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "An ELCB (Earth Leakage Circuit Breaker) is designed to protect against:",
+          "options": ["Overloading the circuit with too many appliances", "Short circuits between live and neutral", "Current leaking to earth through a person (electrocution)", "Voltage fluctuations from the power supply"],
+          "answerIndex": 2,
+          "explanation": "ELCB (also called RCB/RCCB — Residual Current Circuit Breaker) detects even a tiny imbalance between the current in the live wire and neutral wire. In a healthy circuit, I_live = I_neutral. If current leaks to earth (e.g., through a person touching a faulty appliance), I_live > I_neutral by even 30 mA → ELCB trips within milliseconds. This prevents electrocution. Regular fuses/MCBs are too slow and insensitive to protect against this. ELCB is mandated in modern installations.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Nichrome is used in electric heaters and irons (not copper) because:",
+          "options": ["Nichrome is cheaper than copper", "Nichrome has very HIGH resistance and high melting point — converts electricity to heat efficiently without melting", "Nichrome is a better conductor than copper at high temperatures", "Nichrome is magnetic and aligns with Earth's field to produce directional heat"],
+          "answerIndex": 1,
+          "explanation": "Nichrome (80% nickel + 20% chromium alloy) has: (1) High resistivity (~1.10 × 10⁻⁶ Ω·m) — much higher than copper (1.72 × 10⁻⁸ Ω·m) → more heat generated per amp (H = I²Rt). (2) Very high melting point (~1400°C) → won't melt during operation. (3) Does not oxidise (corrode) at high temperatures (chromium forms a protective oxide layer). Copper wires have low resistance → generate very little heat → ideal for wiring but useless for heaters.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "1 kilowatt-hour (kWh) — the unit used in electricity bills — equals:",
+          "options": ["1,000 Joules", "360,000 Joules (3.6 × 10⁵ J)", "3,600,000 Joules (3.6 × 10⁶ J)", "36,000,000 Joules (3.6 × 10⁷ J)"],
+          "answerIndex": 2,
+          "explanation": "1 kWh = 1,000 W × 3,600 s = 3,600,000 J = 3.6 × 10⁶ J. This is '1 unit' of electricity on your bill. A 100 W bulb running for 10 hours = 1 kWh = 1 unit. A 2 kW air conditioner running for 1 hour = 2 kWh = 2 units. At ₹8 per unit, that AC costs ₹16/hour. This conversion (1 kWh = 3.6 × 10⁶ J) is frequently asked in SSC numericals.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Kirchhoff's Current Law (KCL) states that at any junction in a circuit:",
+          "options": ["Voltage is the same entering and leaving the junction", "The algebraic sum of currents at a junction is zero (total current in = total current out)", "The product of current and resistance at a junction is constant", "Current always divides equally between branches"],
+          "answerIndex": 1,
+          "explanation": "KCL (Junction Rule): the algebraic sum of currents at any junction = 0. Equivalently: sum of currents entering = sum of currents leaving. This is based on conservation of charge — charge cannot accumulate at a junction. If 5 A and 3 A flow in → 8 A must flow out. KVL (Loop Rule): algebraic sum of voltages (EMF and potential drops) around any closed loop = 0 — based on conservation of energy.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Thomas Edison advocated DC power, while Tesla/Westinghouse promoted AC power. AC won because:",
+          "options": ["AC is safer than DC — lower risk of electric shock at the same voltage", "AC can be stepped up to high voltage for efficient long-distance transmission, then stepped down — impossible with DC using transformers", "AC travels faster than DC through wires", "DC was too expensive to generate while AC was nearly free"],
+          "answerIndex": 1,
+          "explanation": "The decisive advantage of AC: transformers work ONLY with AC (not DC). Transformers can step up voltage to 400 kV for transmission — at high voltage, current is low, so I²R power loss in transmission lines is minimal. Then step down to 220 V for home use. DC had no equivalent transformer technology in Edison's era — it had to be transmitted at the working voltage (~100 V) causing enormous line losses over distances beyond a few km.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Ohm's Law states that the current through a conductor is proportional to the voltage, provided:",
+          "options": ["The material is a non-metal", "Temperature and other physical conditions remain constant", "The conductor is at least 1 metre long", "The voltage is above 100 V"],
+          "answerIndex": 1,
+          "explanation": "Ohm's Law (V = IR) applies only at constant temperature and constant physical conditions. If temperature changes (especially in metals, whose resistance increases with temperature), the V-I relationship is no longer linear → Ohm's Law breaks down. Non-ohmic devices (diodes, transistors, LEDs, thermistors) also don't obey Ohm's Law even at constant temperature because their resistance itself is a function of current/voltage.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The heating effect of electric current is used in which of the following?",
+          "options": ["Electric motors", "Electric generators", "Electric irons and heaters", "Electric fans"],
+          "answerIndex": 2,
+          "explanation": "The heating effect (Joule heating: H = I²Rt) is exploited in: electric irons (nichrome heating element), room heaters, geysers, electric kettles, toasters, incandescent bulbs, and electric fuses (which melt due to excessive heating). Electric motors and generators convert electrical ↔ mechanical energy. Electric fans use motors — they also heat the air slightly, but that is incidental, not the primary purpose.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "If the resistance in a circuit is doubled while the voltage remains the same, the current:",
+          "options": ["Doubles", "Remains the same", "Becomes half", "Becomes four times less"],
+          "answerIndex": 2,
+          "explanation": "From Ohm's Law: I = V/R. If V is constant and R doubles: I_new = V/(2R) = (V/R)/2 = I_old/2. Current becomes HALF. Conversely, if resistance is halved (e.g., by adding a parallel path), current doubles. This relationship is fundamental: at constant voltage, current and resistance are inversely proportional.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "In a series circuit, three resistors of 2 Ω, 3 Ω, and 5 Ω are connected. The total resistance is:",
+          "options": ["0.97 Ω (parallel formula)", "10 Ω", "30 Ω", "1/10 Ω"],
+          "answerIndex": 1,
+          "explanation": "In series: R_total = R₁ + R₂ + R₃ = 2 + 3 + 5 = 10 Ω. In parallel: 1/R = 1/2 + 1/3 + 1/5 = 15/30 + 10/30 + 6/30 = 31/30 → R = 30/31 ≈ 0.97 Ω. Series gives the largest total resistance (greater than the largest individual). Parallel gives the smallest total resistance (less than the smallest individual). These are the two most common resistance calculation types in SSC.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

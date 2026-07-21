@@ -1,0 +1,178 @@
+{
+  "topic": "Units, Measurement & Dimensions — SI Units, Scalars, Vectors & Significant Figures",
+  "topicId": "phys-units-measurement",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "A light year is a unit of:",
+          "options": ["Time", "Distance", "Speed", "Energy"],
+          "answerIndex": 1,
+          "explanation": "A light year is the distance light travels in one year — approximately 9.46 × 10¹⁵ metres. It is a unit of DISTANCE, not time. This is one of SSC's most repeated traps. The speed of light is 3 × 10⁸ m/s.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Which instrument is used to measure the humidity of the atmosphere?",
+          "options": ["Hydrometer", "Hygrometer", "Barometer", "Lactometer"],
+          "answerIndex": 1,
+          "explanation": "A hygrometer measures humidity (moisture content) in the atmosphere. A hydrometer measures the density/specific gravity of liquids. A barometer measures atmospheric pressure. A lactometer is a specialised hydrometer to test milk purity.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is NOT a scalar quantity?",
+          "options": ["Mass", "Temperature", "Velocity", "Energy"],
+          "answerIndex": 2,
+          "explanation": "Velocity is a vector quantity — it has both magnitude (speed) and direction. Mass, temperature, and energy are all scalar quantities (magnitude only, no direction). The vector counterpart of mass is weight; of temperature, there is no vector counterpart.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The SI unit of luminous intensity is:",
+          "options": ["Lumen", "Lux", "Candela", "Watt"],
+          "answerIndex": 2,
+          "explanation": "Candela (cd) is the SI base unit of luminous intensity — the brightness of a light source in a given direction. Lumen (lm) is luminous flux (total light emitted). Lux (lx) is illuminance (lumens per square metre). All are related but measure different aspects of light.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A person runs four rounds of a 400-metre circular track. Their total distance and displacement are respectively:",
+          "options": [
+            "1600 m and 1600 m",
+            "1600 m and 0 m",
+            "0 m and 1600 m",
+            "400 m and 0 m"
+          ],
+          "answerIndex": 1,
+          "explanation": "Distance = total path length = 4 × 400 = 1600 m (scalar, always positive). Displacement = shortest path from start to end. After 4 complete rounds, the person is back at the starting point, so displacement = 0 m. This is a classic scalar/vector distinction trap.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Which one of the following pairs has the SAME dimensional formula?",
+          "options": [
+            "Work and Power",
+            "Force and Momentum",
+            "Work and Torque",
+            "Pressure and Force"
+          ],
+          "answerIndex": 2,
+          "explanation": "Work = Force × distance = [ML²T⁻²]. Torque = Force × perpendicular distance = [ML²T⁻²]. Both have the same dimension, though they are physically different concepts. Power = [ML²T⁻³]; Momentum = [MLT⁻¹]; Pressure = [ML⁻¹T⁻²].",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The unit of which physical quantity is the same as that of impulse?",
+          "options": ["Energy", "Force", "Momentum", "Power"],
+          "answerIndex": 2,
+          "explanation": "Impulse = Force × time = [MLT⁻²] × [T] = [MLT⁻¹]. Momentum = mass × velocity = [M] × [LT⁻¹] = [MLT⁻¹]. Both have the same unit (kg·m/s). This is because impulse equals the change in momentum (Newton's 2nd Law in impulse form: J = Δp).",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Which of the following is the largest unit of distance?",
+          "options": ["Light year", "Astronomical Unit (AU)", "Parsec", "Kilometre"],
+          "answerIndex": 2,
+          "explanation": "1 Parsec = 3.26 light years = 3.086 × 10¹⁶ m. 1 light year = 9.46 × 10¹⁵ m. 1 AU = 1.496 × 10¹¹ m (Earth-Sun distance). Order from smallest to largest: km < AU < light year < parsec.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "How many base units does the International System (SI) have?",
+          "options": ["5", "6", "7", "8"],
+          "answerIndex": 2,
+          "explanation": "The SI has exactly 7 base units: metre (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount of substance), and candela (luminous intensity). Radian and steradian are supplementary/dimensionless units — not base units.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "An Ångström (Å) equals:",
+          "options": ["10⁻⁶ m", "10⁻⁸ m", "10⁻¹⁰ m", "10⁻¹² m"],
+          "answerIndex": 2,
+          "explanation": "1 Ångström = 10⁻¹⁰ m = 0.1 nm. It is used to express atomic radii (~1–3 Å), bond lengths, and visible light wavelengths (3800–7500 Å). It is named after Swedish physicist Anders Jonas Ångström. Although not an SI unit, it is widely used in chemistry and spectroscopy.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Which of the following instruments is used to measure blood pressure?",
+          "options": ["Stethoscope", "Sphygmomanometer", "Galvanometer", "Manometer"],
+          "answerIndex": 1,
+          "explanation": "A sphygmomanometer (Greek: sphygmos = pulse) measures blood pressure using an inflatable cuff. It reads systolic and diastolic pressure in mmHg. A stethoscope listens to heart/lung sounds. A manometer measures gas or fluid pressure in pipes/containers. A galvanometer detects small electric currents.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "The kilogram is unique among SI base units because it:",
+          "options": [
+            "Is the only unit defined by a physical object (the IPK)",
+            "Is the only SI base unit whose name contains a prefix (kilo)",
+            "Is the heaviest base unit in value",
+            "Was the first SI unit to be redefined in 2019"
+          ],
+          "answerIndex": 1,
+          "explanation": "The kilogram is the only SI base unit whose name includes a prefix ('kilo'). All other base units (metre, second, ampere, kelvin, mole, candela) have no prefix. This means the gram is not a base unit — the kilogram is. In 2019, the kilogram was redefined in terms of Planck's constant, replacing the physical prototype (IPK) that had served since 1889.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which of the following is a vector quantity?",
+          "options": ["Speed", "Distance", "Mass", "Force"],
+          "answerIndex": 3,
+          "explanation": "Force is a vector quantity — it has both magnitude and direction (e.g., 10 N downwards). Speed, distance, and mass are all scalar quantities (magnitude only). The vector counterparts are: velocity (speed + direction), displacement (distance + direction), and weight (mass × g, a force).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Ammeter is used to measure electric current. It should be connected:",
+          "options": [
+            "In parallel with the circuit element",
+            "In series with the circuit element",
+            "Either in series or parallel",
+            "Between live and neutral wires only"
+          ],
+          "answerIndex": 1,
+          "explanation": "An ammeter measures current flowing through a circuit element and must be in SERIES so the same current passes through it. It has very low resistance to avoid disturbing the circuit. A voltmeter measures potential difference and is connected in PARALLEL (high resistance, draws negligible current).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The dimensional formula for pressure is:",
+          "options": ["[MLT⁻²]", "[ML⁻¹T⁻²]", "[ML²T⁻²]", "[MLT⁻¹]"],
+          "answerIndex": 1,
+          "explanation": "Pressure = Force/Area = [MLT⁻²] / [L²] = [ML⁻¹T⁻²]. Common trap: [MLT⁻²] is Force; [ML²T⁻²] is Energy/Work; [MLT⁻¹] is Momentum. The negative exponent on L in pressure reflects that pressure decreases with area.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which instrument is used to measure the speed of rotation (RPM) of a machine part?",
+          "options": ["Speedometer", "Odometer", "Tachometer", "Anemometer"],
+          "answerIndex": 2,
+          "explanation": "A tachometer measures rotational speed in revolutions per minute (RPM) — used for engines, motors, and turbines. A speedometer measures linear vehicle speed. An odometer measures total distance travelled. An anemometer measures wind speed.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

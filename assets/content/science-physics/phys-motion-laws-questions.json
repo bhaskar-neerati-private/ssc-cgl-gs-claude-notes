@@ -1,0 +1,223 @@
+{
+  "topic": "Motion & Newton's Laws — Equations of Motion, Momentum, Forces & Friction",
+  "topicId": "phys-motion-laws",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "A cricket fielder pulls his hands backward while catching the ball. This is an application of:",
+          "options": [
+            "Newton's First Law (inertia)",
+            "Newton's Second Law (impulse = change in momentum)",
+            "Newton's Third Law (action-reaction)",
+            "Conservation of energy"
+          ],
+          "answerIndex": 1,
+          "explanation": "By pulling hands back, the fielder increases the time (Δt) over which the ball decelerates. Since Impulse = FΔt = Δp, and Δp is fixed (ball must stop), increasing Δt decreases F. This is Newton's Second Law (impulse-momentum theorem) in action — longer time means less force on the hands.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of Newton's Laws explains the recoil of a gun when a bullet is fired?",
+          "options": [
+            "First Law — Law of Inertia",
+            "Second Law — F = ma",
+            "Third Law — Action and Reaction",
+            "Law of Conservation of Energy"
+          ],
+          "answerIndex": 2,
+          "explanation": "Gun recoil is Newton's Third Law: the gun exerts a forward force on the bullet (action), and the bullet exerts an equal and opposite backward force on the gun (reaction), causing it to recoil. Momentum is also conserved: total initial momentum = 0; bullet momentum (forward) + gun momentum (backward) = 0.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The inertia of a body depends on its:",
+          "options": ["Speed", "Acceleration", "Mass", "Weight"],
+          "answerIndex": 2,
+          "explanation": "Inertia is the resistance of a body to change in its state of motion. It depends solely on mass — greater mass means greater inertia. Weight (mg) changes with location (gravity), but mass and therefore inertia remain constant everywhere. Speed and acceleration don't determine inertia.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "A body is thrown at 45° to the horizontal. For the maximum horizontal range, the angle should be:",
+          "options": ["30°", "45°", "60°", "90°"],
+          "answerIndex": 1,
+          "explanation": "Horizontal range = u²·sin2θ/g. This is maximum when sin2θ = 1, i.e., 2θ = 90°, so θ = 45°. At 45°, the range equals u²/g (maximum possible for given initial speed). At 90°, the body goes straight up with zero horizontal range.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A car moving at constant velocity on a level road has zero net force. But the engine is running. Where does the engine force go?",
+          "options": [
+            "It is stored as kinetic energy",
+            "It exactly balances friction and air drag",
+            "It converts to heat without doing work",
+            "It accelerates the car slowly in the direction of motion"
+          ],
+          "answerIndex": 1,
+          "explanation": "Newton's First Law: constant velocity requires zero NET force. The engine applies a forward driving force, but friction (road) and air drag act backward. At constant velocity, engine force = friction + drag exactly. Net force = zero. The engine works to maintain constant velocity, not to accelerate.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "In a perfectly inelastic collision between two bodies, what is conserved?",
+          "options": [
+            "Kinetic energy only",
+            "Momentum only",
+            "Both kinetic energy and momentum",
+            "Neither kinetic energy nor momentum"
+          ],
+          "answerIndex": 1,
+          "explanation": "In a perfectly inelastic collision (bodies stick together), momentum is ALWAYS conserved (no external force). Kinetic energy is NOT conserved — some is converted to heat, sound, and deformation energy. This is the maximum possible loss of kinetic energy in any type of collision.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Why does static friction exceed kinetic friction?",
+          "options": [
+            "Static objects are heavier than moving ones",
+            "Surface asperities interlock more when stationary than when sliding",
+            "Kinetic friction adds velocity to the denominator",
+            "Static friction has a greater contact area"
+          ],
+          "answerIndex": 1,
+          "explanation": "When two surfaces are stationary relative to each other, microscopic surface irregularities (asperities) have time to interlock and form micro-welds/adhesion bonds. This requires more force to break than to maintain sliding. Once sliding begins, these bonds continuously break and reform, giving a lower average (kinetic) friction. Friction does NOT depend on contact area.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "A ball of mass m moving east at speed v collides and sticks with an identical ball at rest. The combined system moves:",
+          "options": [
+            "East at speed v",
+            "East at speed v/2",
+            "East at speed 2v",
+            "The system stops"
+          ],
+          "answerIndex": 1,
+          "explanation": "Conservation of momentum (perfectly inelastic collision): mv + m(0) = (m + m)V → mv = 2mV → V = v/2. The combined system moves east at half the original speed. Kinetic energy before = ½mv²; after = ½(2m)(v/2)² = ¼mv². Half the kinetic energy is lost to heat/deformation.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Rockets in space can accelerate even in the absence of any medium to push against because:",
+          "options": [
+            "They use solar radiation pressure as thrust",
+            "They work on Newton's Third Law — ejecting gas backward propels the rocket forward",
+            "In vacuum, friction is zero and any small force accelerates the rocket",
+            "They rely on gravitational slingshot from nearby planets"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rockets carry both fuel AND oxidiser. Burning them produces hot gas ejected backward at very high speed (action). By Newton's Third Law, this produces an equal and opposite forward force on the rocket (reaction). No external medium is needed — the rocket's own exhaust is the 'push'. This is why space travel is possible.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Galileo disproved Aristotle's belief about falling bodies by demonstrating that:",
+          "options": [
+            "Heavier bodies fall faster than lighter ones",
+            "All bodies fall with the same acceleration regardless of mass (in absence of air)",
+            "Bodies fall faster in water than in air",
+            "Falling speed depends on the body's shape, not mass"
+          ],
+          "answerIndex": 1,
+          "explanation": "Galileo showed (through inclined plane experiments and logic — air resistance aside) that all bodies fall with the same gravitational acceleration (g ≈ 9.8 m/s²) regardless of their mass. Aristotle had claimed heavier objects fall faster. This was confirmed in the famous Moon feather-and-hammer experiment by Apollo 15 (1971) — both fell identically in vacuum.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Banking of roads (raising the outer edge of a curve) is done primarily to:",
+          "options": [
+            "Increase vehicle speed on curves",
+            "Provide centripetal force without relying on friction, reducing tyre wear",
+            "Reduce the turning radius required",
+            "Allow water to drain off the road surface"
+          ],
+          "answerIndex": 1,
+          "explanation": "On a banked curve, the component of normal force toward the centre provides centripetal force. Without banking, friction alone provides centripetal force — which can fail in wet/icy conditions. Banked roads allow safe turning at higher speeds without depending on friction. The optimal banking angle: tan(θ) = v²/(rg).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Which of the following correctly states why action and reaction forces (Newton's 3rd Law) do NOT cancel each other?",
+          "options": [
+            "Action is always greater than reaction",
+            "They act on different bodies, so they affect different objects",
+            "They act in the same direction",
+            "Reaction is always delayed"
+          ],
+          "answerIndex": 1,
+          "explanation": "Forces only cancel when they act on the SAME body. Action-reaction pairs always act on DIFFERENT bodies simultaneously. A horse pulls a cart forward; the cart pulls the horse backward with equal force. These don't cancel because one acts on the cart, the other on the horse. They are simultaneous, equal in magnitude, and opposite in direction.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "A man standing in a bus falls backward when the bus suddenly accelerates. This is due to:",
+          "options": [
+            "Newton's Third Law — bus pushes man backward",
+            "Newton's First Law — man's inertia of rest keeps him behind as bus accelerates",
+            "Friction between feet and floor",
+            "Centripetal force pushing man backward"
+          ],
+          "answerIndex": 1,
+          "explanation": "Newton's First Law (Inertia of rest): When the bus accelerates forward, the man's lower body (in contact with the bus floor) moves forward with the bus, but his upper body (due to inertia) tends to stay where it was. The result: he appears to fall backward relative to the bus. This is the inertia of rest resisting the change.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "SI unit of momentum is:",
+          "options": ["N·s or kg·m/s", "kg·m/s²", "N·m", "J·s"],
+          "answerIndex": 0,
+          "explanation": "Momentum p = mv. Units = kg × m/s = kg·m/s. Also, since Impulse = FΔt = Δp, and F is in Newtons (N) and time in seconds (s), impulse units = N·s. Both kg·m/s and N·s are correct and equivalent for momentum/impulse.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The first equation of motion v = u + at is applicable only when:",
+          "options": [
+            "The body moves in a circular path",
+            "Acceleration is uniform (constant) and motion is in a straight line",
+            "Initial velocity is zero",
+            "The body is in free fall only"
+          ],
+          "answerIndex": 1,
+          "explanation": "The three equations of motion (v=u+at; s=ut+½at²; v²=u²+2as) apply ONLY when acceleration is uniform (constant in magnitude and direction) and motion is along a straight line. They don't apply to circular motion, projectile motion as a whole, or varying acceleration.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Rolling friction is much less than sliding friction. This principle is used in:",
+          "options": [
+            "Parachutes to slow descent",
+            "Ball bearings in machinery to reduce friction",
+            "Car brakes to increase stopping friction",
+            "Lubricating oil in engines"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rolling friction is far less than sliding (kinetic) friction for the same surfaces. Ball bearings replace sliding contact with rolling contact in machinery, dramatically reducing frictional resistance, heat generation, and energy loss. This is the primary reason ball bearings are used in motors, wheels, and mechanical joints.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

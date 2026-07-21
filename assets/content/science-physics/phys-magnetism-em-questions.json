@@ -1,0 +1,158 @@
+{
+  "topic": "Magnetism & Electromagnetism — Magnets, Induction, Motors, Generators & Transformers",
+  "topicId": "phys-magnetism-em",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "The phenomenon of electromagnetic induction was discovered by:",
+          "options": ["Hans Christian Oersted", "Michael Faraday", "James Clerk Maxwell", "Heinrich Hertz"],
+          "answerIndex": 1,
+          "explanation": "Michael Faraday discovered electromagnetic induction in 1831: a changing magnetic field induces an EMF (and current) in a conductor. Oersted (1820) had earlier discovered the reverse — that electric current creates a magnetic field. Maxwell (1860s) unified electricity, magnetism, and light into four equations. Hertz (1888) experimentally demonstrated electromagnetic waves predicted by Maxwell.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "A step-up transformer:",
+          "options": ["Increases current and decreases voltage", "Increases voltage and decreases current", "Increases both voltage and current", "Converts AC to DC"],
+          "answerIndex": 1,
+          "explanation": "Step-up transformer: N_s > N_p (more secondary turns). V_s/V_p = N_s/N_p > 1 → V_s > V_p (voltage increases). Since P = VI is conserved (ignoring losses): V_s × I_s = V_p × I_p → I_s < I_p (current decreases). Used in power plants to step voltage up (11 kV → 220 kV) for long-distance transmission — high voltage, low current minimises I²R transmission losses.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Fleming's Left-Hand Rule is used to find the direction of force on a current-carrying conductor in a magnetic field. This is the principle used in:",
+          "options": ["AC Generator", "Transformer", "DC Motor", "Electromagnet"],
+          "answerIndex": 2,
+          "explanation": "Fleming's Left-Hand Rule (FBI on Left Hand) gives the force on a current-carrying conductor in a magnetic field: index finger = magnetic field direction, middle finger = current direction, thumb = force/motion direction. This is the motor principle — used in DC motors (current-carrying armature coil in magnetic field experiences rotational force). Fleming's Right-Hand Rule is the generator principle (motion of conductor in field → induced EMF).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Earth's geographic North Pole corresponds to which type of magnetic pole?",
+          "options": ["Magnetic North Pole (same polarity as geographic north)", "Magnetic South Pole (because compass north seeks geographic north)", "There is no magnetic pole near the geographic North Pole", "Magnetic poles rotate with Earth and are always aligned with geographic poles"],
+          "answerIndex": 1,
+          "explanation": "Earth's geographic North Pole has a magnetic SOUTH pole beneath it. The north-seeking end of a compass needle (magnetic North) points geographically north — but unlike poles attract, so there must be a magnetic South pole there. Earth's magnetic axis is tilted ~11.5° from its rotational axis, and the magnetic poles slowly shift over years (magnetic pole wander). Currently, Earth's magnetic 'south' is near geographic north (near northern Canada/Siberia).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "Why does a transformer NOT work with Direct Current (DC)?",
+          "options": ["DC voltage is too low for transformers to step up efficiently", "DC creates a constant magnetic flux — no change in flux → no induced EMF in secondary coil → no output", "DC current is too large and would overheat the transformer windings", "DC flows in one direction only and cannot produce electromagnetic waves"],
+          "answerIndex": 1,
+          "explanation": "Faraday's Law: EMF is induced only when magnetic flux CHANGES (EMF = −dΦ/dt). DC creates a constant (steady) current → constant magnetic field → constant flux → dΦ/dt = 0 → no induced EMF in secondary. AC continuously changes direction → continuously changing flux → continuously induced EMF. This is the fundamental reason AC won over DC — transformers enable efficient long-distance AC power transmission.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "When a magnet is quickly pulled away from a coil of wire, according to Lenz's Law, the induced current in the coil will:",
+          "options": ["Flow to oppose the motion — creating a magnetic field that tries to attract the magnet back", "Flow in the same direction as the magnetic field of the retreating magnet to help it leave faster", "Not flow because removing a magnet reduces flux to zero instantly", "Flow in a direction that creates a south pole facing the retreating north pole — attracting it"],
+          "answerIndex": 0,
+          "explanation": "Lenz's Law: induced current always opposes the cause. When a N-pole magnet is pulled away (flux through coil decreases), the induced current creates a magnetic field to try to maintain the flux — i.e., it attracts the magnet back (opposing the removal). The face of the coil facing the departing N-pole becomes a S-pole (to attract it). This is conservation of energy — you must do work to pull the magnet away against this attractive force.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "In an electric bell, which component ensures the hammer vibrates continuously (and does not just strike once)?",
+          "options": ["The battery keeps increasing voltage to maintain vibration", "A spring under tension releases stored energy for repeated strikes", "A make-and-break contact: when armature is attracted to electromagnet, it breaks the circuit → electromagnet turns off → spring returns armature → circuit remakes → cycle repeats", "Two electromagnets alternately attract and repel the hammer"],
+          "answerIndex": 2,
+          "explanation": "The electric bell uses a self-interrupting mechanism: current flows through the electromagnet, attracting the iron armature (and hammer strikes the bell). But the movement of the armature breaks the contact (circuit opens) → electromagnet is de-energised → spring pulls armature back to original position → circuit remakes → electromagnet reactivates → hammer strikes again. This cycle repeats very rapidly (~10–50 times/second), creating the continuous ringing sound.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "MRI (Magnetic Resonance Imaging) machines use which type of electromagnet?",
+          "options": ["Simple copper-wound iron-core electromagnets (low field, room temperature)", "Superconducting electromagnets cooled to near absolute zero with liquid helium to achieve very strong, stable fields (1.5–3 Tesla)", "Permanent neodymium magnets for consistent field strength", "Rotating electromagnets to generate the imaging field dynamically"],
+          "answerIndex": 1,
+          "explanation": "Clinical MRI machines use superconducting coils (typically niobium-titanium alloy) cooled to ~4 K (−269°C) using liquid helium. At this temperature, resistance = 0 → huge currents flow without energy loss → very strong, stable magnetic fields (1.5 T or 3 T for clinical; research machines up to 20 T). This field aligns protons in body tissue. Ordinary electromagnets would need enormous electrical power and would heat up uncontrollably to achieve comparable fields.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "The AC generator (alternator) uses slip rings instead of a split-ring commutator. This is because:",
+          "options": ["Slip rings are cheaper and easier to manufacture than commutators", "Slip rings allow the naturally alternating induced EMF to flow out unchanged; a commutator would reverse the current to give DC output", "Slip rings rotate with the coil while the commutator is stationary", "Slip rings provide better contact than commutator brushes"],
+          "answerIndex": 1,
+          "explanation": "In a rotating coil, the induced EMF naturally alternates (reverses each half turn). A DC generator uses a split-ring commutator to reverse the connections at exactly the right moment — converting the alternating EMF into unidirectional (DC) output. An AC generator uses continuous slip rings — the natural AC output flows out unchanged. AC generators (alternators) are used in power plants; DC generators are used in cars (alternator with rectifier).",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Earth's magnetic field shields life from solar wind primarily by:",
+          "options": ["Reflecting the Sun's visible light, keeping Earth cool enough for life", "Deflecting the stream of charged particles (solar wind) from the Sun around Earth via the magnetosphere", "Generating an electric field that neutralises incoming radiation", "Creating aurora that convert harmful radiation to visible light at the poles"],
+          "answerIndex": 1,
+          "explanation": "Earth's magnetic field creates the magnetosphere — a region of space dominated by Earth's field, extending ~65,000 km toward the Sun. Charged particles (protons, electrons) in the solar wind are deflected by the Lorentz force (force on moving charge in magnetic field) and curve around Earth. Without this shielding, the solar wind would gradually erode Earth's atmosphere (as it has stripped Mars's atmosphere over billions of years). Aurora form where particles DO enter near the magnetic poles.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "In a scrapyard, an electromagnet on a crane picks up iron and steel objects. Which change makes the crane drop the objects?",
+          "options": ["Reversing the current direction in the electromagnet (field reverses, no longer magnetic)", "Increasing the voltage to the electromagnet to full power (too strong, releases grip)", "Switching off the electric current — the electromagnet loses its magnetism", "Pulling a rope to mechanically detach the electromagnet from the crane"],
+          "answerIndex": 2,
+          "explanation": "Electromagnets require continuous electric current to maintain their magnetism. The core used is 'soft iron' (not steel) — soft iron is easily magnetised AND easily demagnetised. When current is switched off → magnetic field disappears → soft iron is instantly demagnetised → scrap iron falls. If a permanent magnet (steel) were used, it couldn't be turned off — the scrap could never be released. This controllability is the fundamental advantage of electromagnets over permanent magnets.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The split-ring commutator in a DC motor ensures that:",
+          "options": ["The motor runs on alternating current by switching polarity every half rotation", "The current direction in the armature coil reverses every half turn, maintaining torque in the same rotational direction", "The magnetic poles of the field magnets are reversed to generate rotation", "Current bypasses the coil when the magnetic force is at maximum, preventing overload"],
+          "answerIndex": 1,
+          "explanation": "Without a commutator, a current-carrying coil in a magnetic field would rotate to the position of maximum flux (aligned with field) and stop — net torque is zero at alignment. The split-ring commutator reverses the current direction at exactly the moment the coil passes through the plane of alignment — ensuring the torque always acts in the same rotational direction. This sustains continuous rotation. Without it, the coil would oscillate like a compass needle, not spin.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Oersted's experiment showed that:",
+          "options": ["A changing magnetic field induces current in a wire", "An electric current creates a magnetic field around the conductor", "Moving magnets generate electricity in a conductor", "Two current-carrying wires always repel each other"],
+          "answerIndex": 1,
+          "explanation": "Oersted (1820): when he switched on a current through a wire, a compass needle nearby deflected. When the current was reversed, the needle deflected in the opposite direction. This proved that electric current creates a magnetic field — linking electricity and magnetism for the first time. This discovery inspired Faraday (reverse effect: magnetic field → current) and eventually Maxwell and the entire theory of electromagnetism.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which of the following materials is attracted by a magnet?",
+          "options": ["Copper", "Aluminium", "Gold", "Iron"],
+          "answerIndex": 3,
+          "explanation": "Ferromagnetic materials are attracted by magnets: Iron (Fe), Nickel (Ni), and Cobalt (Co). Copper, aluminium, gold, silver, zinc, tin are NON-magnetic (paramagnetic, very weakly attracted, or diamagnetic, very weakly repelled). Stainless steel may or may not be magnetic depending on its composition (austenitic stainless steel is non-magnetic; ferritic/martensitic is magnetic). Brass (copper + zinc) and bronze (copper + tin) are non-magnetic.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Lenz's Law is a statement of which fundamental conservation principle?",
+          "options": ["Conservation of charge", "Conservation of mass", "Conservation of energy", "Conservation of angular momentum"],
+          "answerIndex": 2,
+          "explanation": "Lenz's Law: the induced current opposes the change that caused it. This is conservation of energy — if induced current aided the change, it would amplify itself indefinitely, creating energy from nothing (perpetual motion). Instead, opposing the change means you must supply mechanical energy to maintain relative motion against the opposing magnetic force. The mechanical energy you put in = electrical energy generated = energy out. Energy is conserved.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "A transformer has 100 turns in its primary coil and 500 turns in its secondary coil. If the primary voltage is 220 V, the secondary voltage is:",
+          "options": ["44 V", "110 V", "440 V", "1,100 V"],
+          "answerIndex": 3,
+          "explanation": "Transformer ratio: V_s/V_p = N_s/N_p. V_s = V_p × (N_s/N_p) = 220 × (500/100) = 220 × 5 = 1,100 V. This is a step-up transformer (5:1 turns ratio, secondary voltage is 5× primary). If primary current is 10 A, secondary current = 10/5 = 2 A (power conservation: 220×10 = 1100×2 = 2200 W).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

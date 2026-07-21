@@ -1,0 +1,158 @@
+{
+  "topic": "Modern Physics — Photoelectric Effect, X-Rays, Semiconductors & Dual Nature of Light",
+  "topicId": "phys-modern-physics",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Einstein received the Nobel Prize in Physics in 1921 for:",
+          "options": ["The Special Theory of Relativity (E = mc²)", "The General Theory of Relativity", "Explaining the Photoelectric Effect", "Discovering nuclear fission"],
+          "answerIndex": 2,
+          "explanation": "Einstein's 1921 Nobel Prize was specifically for the photoelectric effect (1905 paper), NOT for relativity (though relativity is his more famous work). The Nobel Committee was cautious about awarding for relativity, which was still controversial. The photoelectric effect explained that light behaves as discrete photons (E = hf) — a quantum result that classical wave theory could not explain.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "X-rays were discovered by:",
+          "options": ["Marie Curie", "Henri Becquerel", "Wilhelm Röntgen", "Ernest Rutherford"],
+          "answerIndex": 2,
+          "explanation": "Wilhelm Conrad Röntgen discovered X-rays on 8 November 1895. He noticed a cathode ray tube caused a fluorescent screen to glow across the room, even when shielded. He called them 'X-rays' (X = unknown). He received the FIRST Nobel Prize in Physics in 1901. His first X-ray image was of his wife's hand, showing her wedding ring and bones — the first medical X-ray image.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which type of semiconductor is formed by doping silicon with a pentavalent (5-valence-electron) impurity like phosphorus?",
+          "options": ["p-type semiconductor", "n-type semiconductor", "Intrinsic semiconductor", "Superconductor"],
+          "answerIndex": 1,
+          "explanation": "n-type semiconductor: doped with pentavalent (Group 15) elements — Phosphorus (P), Arsenic (As), Antimony (Sb). The extra (5th) valence electron from the dopant is not needed for bonding → becomes a free electron → majority carrier is ELECTRON (negative). p-type: doped with trivalent (Group 13) elements — Boron (B), Aluminium (Al), Gallium (Ga). One fewer electron → creates 'hole' (positive carrier) → majority carrier is HOLE.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "A solar cell converts solar energy directly into:",
+          "options": ["Heat energy which then drives a generator to produce electricity", "Chemical energy stored in a battery", "Electrical energy through the photoelectric effect at a p-n junction", "Mechanical energy through expansion of heated gas"],
+          "answerIndex": 2,
+          "explanation": "Solar cells (photovoltaic cells) use the photoelectric effect at a semiconductor p-n junction. Photons from sunlight excite electrons across the junction, creating a voltage (EMF). This drives current in an external circuit — direct solar-to-electrical energy conversion. Solar thermal systems heat water (different principle). Photovoltaic effect was first observed by Edmond Becquerel (1839), not to be confused with Henri Becquerel (radioactivity).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "In the photoelectric effect, increasing the INTENSITY of light (keeping frequency constant above threshold) causes:",
+          "options": ["Higher kinetic energy of emitted electrons (more energetic photons)", "More electrons to be emitted per second (more photons → more electrons), but same KE per electron", "No change — electrons stop being emitted once a certain number have been ejected", "Emission of electrons with higher frequency (Doppler shift due to intense light)"],
+          "answerIndex": 1,
+          "explanation": "In photoelectric effect: each photon ejects at most one electron. Intensity = number of photons per second. More photons → more electrons ejected per second → higher photoelectric current. BUT kinetic energy of each electron = hf − φ (depends only on frequency, not intensity). Higher frequency → higher KE per electron. This is the counterintuitive result that classical wave theory couldn't explain and Einstein's photon model resolves.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "A p-n junction diode allows current to flow in forward bias but not in reverse bias. This makes it useful as:",
+          "options": ["An amplifier — it increases the signal strength in one direction", "A rectifier — it converts alternating current (AC) to direct current (DC)", "A capacitor — it stores charge in the depletion region", "A resistor — it provides a fixed opposition to current flow"],
+          "answerIndex": 1,
+          "explanation": "A diode conducts in one direction only (forward bias: p to n conventional current). In reverse bias, negligible current flows. This asymmetric conduction allows a diode to rectify AC: in a half-wave rectifier, the diode passes only the positive half cycles of AC, blocking the negative — giving pulsating DC. A full-wave bridge rectifier (4 diodes) converts both halves of AC into DC. Rectification is the first step in all DC power supplies.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The Nobel Prize in Physics 2014 was awarded for the invention of efficient blue LEDs. Why was the blue LED specifically revolutionary?",
+          "options": ["Blue LEDs enabled undersea communication by penetrating ocean water which only transmits blue light", "Blue LEDs completed the RGB triad — combining R, G, B LEDs enabled white LED light, making efficient indoor lighting possible", "Blue LED light has the most health benefits among all LED colours", "Blue LEDs use less energy than red and green LEDs, making the overall LED product cheaper"],
+          "answerIndex": 1,
+          "explanation": "Red LEDs (1962) and green LEDs existed for decades. Blue LED proved extremely difficult to make — it requires wide-bandgap semiconductors (GaN). Shuji Nakamura, Isamu Akasaki, and Hiroshi Amano solved this in the early 1990s using GaN. With R+G+B LEDs available, white light (all three combined, or blue LED + yellow phosphor) became possible. White LED bulbs are 5–10× more efficient than incandescent bulbs, used worldwide for lighting — hence the Nobel Prize.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "The de Broglie hypothesis states that moving particles have wave character with wavelength λ = h/mv. This is experimentally confirmed by:",
+          "options": ["The fact that planets orbit the Sun in elliptical paths (wave-like periodic motion)", "Electron diffraction — electrons passing through a crystal lattice show diffraction patterns just like X-rays", "The ability of radio waves to diffract around buildings", "The interference patterns seen in Michelson's light interferometer"],
+          "answerIndex": 1,
+          "explanation": "de Broglie (1924) proposed that particles have wave character. Davisson and Germer (1927) confirmed it: electrons diffracting off a nickel crystal produced patterns identical to X-ray diffraction, proving electron wave character. λ = h/mv for electrons (~0.01–0.1 nm) is comparable to atomic spacing in crystals — hence diffraction occurs. This led to electron microscopy: electrons have much shorter wavelength than visible light → much higher resolution → can image individual atoms.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "The Nobel Prize in Physics 1956 was awarded to Bardeen, Brattain, and Shockley for:",
+          "options": ["Discovery of X-rays", "Invention of the transistor", "Theory of superconductivity (BCS theory)", "Laser development"],
+          "answerIndex": 1,
+          "explanation": "William Shockley, John Bardeen, and Walter Brattain received the 1956 Nobel Prize for inventing the point-contact transistor (1947) at Bell Labs. The transistor replaced bulky, fragile, power-hungry vacuum tubes and enabled miniaturisation of electronics. Modern processors contain billions of transistors on a chip the size of a fingernail. John Bardeen later won a SECOND Nobel Prize in Physics (1972) for BCS theory of superconductivity — the only physicist to win the Nobel twice.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Radiocarbon dating (C-14 method) can date organic material up to approximately:",
+          "options": ["500 years", "5,000 years", "50,000 years", "5 million years"],
+          "answerIndex": 2,
+          "explanation": "C-14 (carbon-14) has a half-life of ~5,730 years. After ~8–10 half-lives (~50,000 years), too little C-14 remains for accurate measurement. So radiocarbon dating is reliable for objects up to ~50,000 years old. For older geological samples, other isotopes are used: Potassium-Argon (K-Ar, half-life 1.25 billion years) for volcanic rocks; Uranium-Lead (U-Pb, 4.5 billion year half-life) for very ancient rocks and Earth age determination.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Rosalind Franklin's contribution to the discovery of DNA's structure was:",
+          "options": ["She proposed the double helix model based on chemical bonding principles", "Her X-ray crystallography images of DNA fibres (Photo 51) revealed the helical structure, which Watson and Crick used to build their model", "She discovered DNA's composition of four nucleotide bases", "She extracted and purified the first sample of DNA from cells"],
+          "answerIndex": 1,
+          "explanation": "Rosalind Franklin's X-ray diffraction images of DNA — particularly 'Photo 51' (1952) — clearly revealed DNA's helical structure with precise measurements of the helix diameter, pitch, and number of nucleotides per turn. Watson and Crick accessed her data (via Wilkins, without her knowledge) and used it to build their correct double helix model (1953). Watson, Crick, and Wilkins received the 1962 Nobel Prize. Franklin had died of ovarian cancer in 1958 at age 37 and was ineligible (Nobels are not awarded posthumously).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "An LED (Light Emitting Diode) emits light when forward biased because:",
+          "options": ["The high current heats the semiconductor to incandescence (like a bulb filament)", "Electrons and holes recombine at the p-n junction, releasing energy as photons of light", "The depletion layer generates photons due to the strong electric field", "The external voltage excites the semiconductor's outer electron shells, causing fluorescence"],
+          "answerIndex": 1,
+          "explanation": "In a forward-biased LED, electrons from the n-region are injected across the junction and recombine with holes in the p-region. The energy released during recombination is emitted as a photon (light). The photon energy (= hf) corresponds to the semiconductor's bandgap energy, which determines the wavelength (colour) of emitted light. GaAs → IR; GaP → green/red; InGaN → blue/green; AlGaInP → red/orange. This is electroluminescence — not incandescence or fluorescence.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "The resistance of a semiconductor (like silicon or germanium):",
+          "options": ["Increases with temperature (like metals)", "Decreases with temperature (negative temperature coefficient)", "Is unaffected by temperature", "Becomes zero (superconducting) at very low temperatures"],
+          "answerIndex": 1,
+          "explanation": "Semiconductors have negative temperature coefficient of resistance — their resistance DECREASES as temperature increases. At room temperature, few electrons have enough energy to conduct. As temperature rises, more electrons gain enough energy to break free from their bonds and conduct → resistance falls. This is opposite to metals (positive temperature coefficient). Thermistors (temperature-sensitive resistors) exploit this property for temperature sensing in electronic circuits.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The photoelectric effect proves that light has:",
+          "options": ["Only wave nature (electromagnetic wave)", "Only particle nature (photons)", "Both wave and particle nature (dual nature)", "Neither wave nor particle nature"],
+          "answerIndex": 2,
+          "explanation": "Light has DUAL NATURE: wave nature is proven by interference and diffraction (Young's double-slit experiment); particle nature is proven by the photoelectric effect and Compton scattering. In some experiments light behaves as waves; in others as particles (photons). This wave-particle duality is a fundamental principle of quantum mechanics. de Broglie extended this: all particles (electrons, protons) also have wave-particle duality.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "X-rays are NOT used for imaging a developing foetus because:",
+          "options": ["X-rays cannot penetrate through the mother's abdomen to reach the foetus", "Foetal tissue does not differ enough from maternal tissue to give contrast in X-ray images", "X-rays are ionising radiation — they can damage the rapidly dividing cells of a developing foetus, causing birth defects or cancer", "X-ray machines cannot produce images at the required scale for foetal imaging"],
+          "answerIndex": 2,
+          "explanation": "X-rays are ionising radiation — they carry enough energy to knock electrons off atoms and break chemical bonds, including DNA strands. Rapidly dividing cells (like those in a developing foetus) are most vulnerable to radiation damage. Instead, ultrasound (non-ionising mechanical waves) is used for foetal imaging — it is completely safe, produces real-time 2D/3D images, and can assess foetal growth, position, and organ development without any radiation risk.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is NOT a ferromagnetic material?",
+          "options": ["Iron", "Nickel", "Cobalt", "Copper"],
+          "answerIndex": 3,
+          "explanation": "Ferromagnetic materials (strongly attracted by magnets, can be permanently magnetised): Iron (Fe), Nickel (Ni), Cobalt (Co). Copper (Cu) is diamagnetic — very weakly repelled by magnetic fields. Aluminium and platinum are paramagnetic — very weakly attracted. SSC tests this frequently. Common confusion: copper wire is used in electric motors and generators (excellent conductor), but it is NOT magnetic.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

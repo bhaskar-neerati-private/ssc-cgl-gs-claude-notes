@@ -1,0 +1,158 @@
+{
+  "topic": "Space Technology & Defence — ISRO Missions, Satellites, Missiles, NAVIC & Radar",
+  "topicId": "phys-space-tech",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "India's Chandrayaan-3 mission successfully landed near the Moon's south pole on:",
+          "options": ["14 July 2023", "23 August 2023", "2 September 2023", "15 November 2023"],
+          "answerIndex": 1,
+          "explanation": "Chandrayaan-3's Vikram lander successfully touched down near the lunar south pole on 23 August 2023. India became the 4th nation to achieve a soft landing on the Moon (after USSR, USA, China) and the first to land at the south pole region. The rover was named Pragyan. The mission was launched on 14 July 2023 aboard LVM3-M4.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        },
+        {
+          "text": "PSLV (Polar Satellite Launch Vehicle) is called ISRO's workhorse because:",
+          "options": ["It is the only rocket ISRO has ever built", "It has had 100+ consecutive successful missions and launched a wide variety of satellites including Chandrayaan-1 and MOM", "It is the most powerful rocket in the world", "It was the first rocket to put a human in space"],
+          "answerIndex": 1,
+          "explanation": "PSLV earned its 'workhorse' title through extraordinary reliability — over 100 consecutive successful missions. It launched India's first Moon mission (Chandrayaan-1, 2008), Mars Orbiter Mission (MOM/Mangalyaan, 2013), all IRNSS/NAVIC navigation satellites, foreign satellites for 34+ countries, and set a world record by launching 104 satellites in a single mission (PSLV-C37, February 2017).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "India's Navigation with Indian Constellation (NAVIC) system covers:",
+          "options": ["The entire globe (like GPS)", "India and approximately 1,500 km around its borders", "Only India's landmass and territorial waters", "South and Southeast Asia up to 5,000 km from India"],
+          "answerIndex": 1,
+          "explanation": "NAVIC (formerly IRNSS) is a regional navigation satellite system covering India and approximately 1,500 km around it — this includes neighbouring countries and surrounding maritime regions. Unlike GPS, GLONASS, Galileo, and BeiDou which have global coverage, NAVIC is regional. It uses 7 satellites (3 geostationary + 4 geosynchronous) and provides accuracy better than 20 metres for civilian use.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "BrahMos is described as a supersonic cruise missile. 'BrahMos' is named after:",
+          "options": ["Brahmaputra river (India) and Moskva river (Russia) — a joint India-Russia missile", "Dr. Brahm Prakash (ISRO scientist) and Moscow University", "Brahmaputra and Mahanadi rivers, symbolising India's riverine strength", "Brahmos tribe of Rajasthan, known for archery"],
+          "answerIndex": 0,
+          "explanation": "BrahMos is named by combining Brahmaputra (India's river) and Moskva (Moscow's river, Russia). It is a joint venture between India's DRDO and Russia's NPO Mashinostroyeniya (BrahMos Aerospace Pvt Ltd). BrahMos travels at Mach 2.8+ — making it the world's fastest supersonic cruise missile in operational service. It can be launched from land, sea, submarine, and air.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A geostationary satellite must orbit at exactly 35,786 km altitude because:",
+          "options": ["At this altitude, the satellite is above Earth's atmosphere and can orbit for centuries without fuel", "At 35,786 km, orbital period is exactly 24 hours — matching Earth's rotation, so the satellite appears stationary over one point on the equator", "Earth's gravitational field exactly cancels at 35,786 km — the satellite is in gravitational equilibrium", "At this altitude, solar panels receive maximum continuous sunlight for power"],
+          "answerIndex": 1,
+          "explanation": "Geostationary orbit (GEO): at 35,786 km altitude above the equator, the orbital period is exactly 24 hours — equal to Earth's rotational period. The satellite moves eastward at the same angular speed as Earth rotates → appears stationary relative to the ground. This makes it ideal for TV broadcasting (no dish-tracking needed), weather monitoring (continuous view of same region), and communications. First proposed by Arthur C. Clarke (1945) — hence also called 'Clarke orbit'.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "India's MOM (Mars Orbiter Mission) was notable for being:",
+          "options": ["The first mission ever to reach Mars successfully", "The cheapest Mars mission ever and the first Asian country to succeed at Mars on the maiden attempt", "The first mission to land a rover on Mars", "The first mission to bring back Mars soil samples"],
+          "answerIndex": 1,
+          "explanation": "MOM (launched November 2013, Mars orbit insertion September 2014) was notable for: (1) India became the first Asian nation to reach Mars (China's earlier attempt failed). (2) India succeeded on the FIRST attempt — no other space agency achieved Mars on the first try. (3) Cost ₹450 crore (~$74 million) — cheaper than Hollywood film 'Gravity' ($100M). (4) MOM was an orbiter, not a lander/rover. The mission operated for ~8 years (designed for 6 months) before communications were lost in 2022.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "India's Aditya-L1 mission was placed at the Sun-Earth L1 Lagrange point (~1.5 million km from Earth). Why L1 specifically?",
+          "options": ["L1 is the closest point to Earth outside the atmosphere, minimising communication delay", "L1 is a gravitational balance point between Sun and Earth — a spacecraft there remains roughly stationary relative to both, providing unobstructed continuous view of the Sun", "L1 is the farthest point from Earth in a 6-month elliptical orbit used to gain speed via gravity assist", "L1 is where the solar wind is strongest, making solar study most effective"],
+          "answerIndex": 1,
+          "explanation": "Lagrange points are positions in space where gravitational forces of two large bodies (Sun + Earth) and the centrifugal force balance out — an object placed there stays approximately stationary relative to both. L1 (between Sun and Earth, 1.5 million km from Earth) provides a halo orbit with unobstructed, continuous view of the Sun — no eclipses. This enables Aditya-L1 to study solar wind, solar flares, and coronal mass ejections 24/7. NASA's SOHO, DSCOVR are also at L1.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Why are India's most advanced missiles (Agni series) called 'ballistic missiles' while BrahMos is a 'cruise missile'? The key difference is:",
+          "options": ["Ballistic missiles are nuclear-capable; cruise missiles are only conventional", "Ballistic missiles follow a high-arcing free-flight trajectory after engine burnout; cruise missiles use jet engines throughout flight, flying at low altitude", "Ballistic missiles are launched from land; cruise missiles only from sea", "Ballistic missiles target land; cruise missiles target ships"],
+          "answerIndex": 1,
+          "explanation": "Ballistic missile (Agni, Prithvi): uses rocket motor for initial boost phase, then engine cuts off and the warhead follows a ballistic (free-fall) arc through space, reaching very high altitude before plunging to target at very high speed. Cruise missile (BrahMos, Nirbhay): uses air-breathing jet engine throughout flight; flies at low altitude (terrain-following or sea-skimming) to avoid radar detection; maintains powered, sustained flight. Both can carry conventional or nuclear warheads.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "India's first satellite Aryabhata (1975) was:",
+          "options": ["Launched by India's own SLV-3 rocket from Sriharikota", "Launched by the Soviet Union from Kapustin Yar, as India did not yet have its own launch vehicle", "A joint mission with NASA launched from Cape Canaveral, Florida", "Launched by ISRO from Thumba using the first PSLV rocket"],
+          "answerIndex": 1,
+          "explanation": "Aryabhata (named after the 5th-century Indian mathematician-astronomer) was India's first satellite, but it was launched on 19 April 1975 by the Soviet Union's Intercosmos rocket from Kapustin Yar launch site in Russia. India did not yet have its own orbital launch vehicle. India's own launch vehicle (SLV-3) successfully placed the Rohini satellite in orbit in 1980 — making Rohini the first satellite launched by an Indian rocket.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "RADAR (Radio Detection And Ranging) calculates distance to an object using the formula d = ct/2. If a radar pulse returns after 0.001 seconds, the object is approximately:",
+          "options": ["300 km away", "150 km away", "600 km away", "30 km away"],
+          "answerIndex": 1,
+          "explanation": "d = ct/2 (c = speed of EM waves = 3 × 10⁸ m/s). t = 0.001 s. d = (3 × 10⁸ × 0.001)/2 = 3 × 10⁵/2 = 1.5 × 10⁵ m = 150 km. Divide by 2 because the pulse travels to the object AND back (total distance = 2d). This formula and approach appears in numerical reasoning questions. Radar used in air traffic control typically has range of 200–400 km for commercial aircraft.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The Gaganyaan programme is significant because it will make India:",
+          "options": ["The first country to send astronauts to the Moon since Apollo 17 (1972)", "The 4th nation in the world to independently send humans to space (after USSR/Russia, USA, and China)", "The first country to use a reusable rocket for human spaceflight", "The first Asian country to have a permanent space station"],
+          "answerIndex": 1,
+          "explanation": "Gaganyaan is India's first crewed spaceflight programme. If successful, India will become only the 4th nation to independently launch humans into space — after USSR/Russia (Gagarin, 1961), USA (Glenn, 1962), and China (Yang Liwei, 2003). The mission will use LVM3 rocket and an Indian crew module carrying 2–3 astronauts (Gaganauts) for a 3-day orbital mission. TV-D1 (abort system test) was successfully conducted on 21 October 2023.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Dr. Vikram Sarabhai is called the 'Father of India's Space Programme' primarily because:",
+          "options": ["He designed and built India's first satellite Aryabhata entirely on his own", "He founded INCOSPAR (1962) and ISRO (1969), established the Thumba launch site, and built the institutional foundations of India's space research before his death in 1971", "He was the first Indian to travel to space in a Soviet spacecraft", "He developed the PSLV rocket that became ISRO's workhorse"],
+          "answerIndex": 1,
+          "explanation": "Dr. Vikram Sarabhai (1919–1971) had the vision and leadership that built India's space programme from scratch. He founded the Physical Research Laboratory (Ahmedabad, 1947), INCOSPAR (1962), and ISRO (1969). He established the Thumba Equatorial Rocket Launching Station (TERLS) in Kerala — negotiating with the local bishop to use the St. Mary Magdalene Church as the first rocket laboratory. He died in 1971, before Aryabhata's launch. The Vikram lander of Chandrayaan-2/3 is named after him.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which ISRO launch vehicle is considered the 'workhorse' of India's space programme?",
+          "options": ["SLV-3 (Satellite Launch Vehicle)", "PSLV (Polar Satellite Launch Vehicle)", "GSLV Mk III / LVM3", "ASLV (Augmented Satellite Launch Vehicle)"],
+          "answerIndex": 1,
+          "explanation": "PSLV (Polar Satellite Launch Vehicle) is ISRO's most reliable and frequently used rocket. Key achievements: 100+ consecutive successes; launched Chandrayaan-1 (2008), Mars Orbiter Mission (2013), all 7 NAVIC satellites, RISAT series, Cartosat series, and foreign satellites for 34+ countries. Record: launched 104 satellites in a single mission (PSLV-C37, 2017). GSLV Mk III (LVM3) is more powerful and used for heavier payloads like Chandrayaan-2, Chandrayaan-3.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The escape velocity from Earth's surface is approximately:",
+          "options": ["7.9 km/s", "11.2 km/s", "17.5 km/s", "3 km/s"],
+          "answerIndex": 1,
+          "explanation": "Escape velocity from Earth = 11.2 km/s (approximately 40,000 km/h). This is the minimum speed needed for an object to escape Earth's gravity without further propulsion. Orbital velocity for LEO (~300 km altitude) ≈ 7.9 km/s (first cosmic velocity). Moon's escape velocity = 2.38 km/s (lower gravity). Mars escape velocity = 5.03 km/s. These values are directly tested in SSC.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Agni-V missile is classified as which type of missile?",
+          "options": ["Surface-to-Air missile (SAM)", "Anti-Tank Guided Missile (ATGM)", "Inter-Continental Ballistic Missile (ICBM) class Surface-to-Surface missile", "Air-to-Air missile (AAM)"],
+          "answerIndex": 2,
+          "explanation": "Agni-V is India's longest-range ballistic missile (~5,000+ km) — ICBM class. It is a surface-to-surface ballistic missile that can reach targets deep inside China, Europe, and beyond. It is nuclear-capable and part of India's strategic deterrence. Agni-I: 700 km; Agni-II: 2,000 km; Agni-III: 3,000 km; Agni-IV: 3,500+ km; Agni-V: 5,000+ km. The MIRV (Multiple Independently Targetable Re-entry Vehicle) variant of Agni-5 was tested in 2024.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Geostationary satellites are used for TV broadcasting and weather monitoring. They orbit at:",
+          "options": ["400 km (same as the International Space Station)", "2,000 km (medium earth orbit)", "35,786 km above the equator with a 24-hour period", "200,000 km (half way to the Moon)"],
+          "answerIndex": 2,
+          "explanation": "Geostationary orbit: exactly 35,786 km above Earth's equator; orbital period = 24 hours = Earth's rotation period → satellite appears stationary over one point on equator. India's INSAT series (telecom, broadcasting) and GSAT series occupy geostationary slots. Doordarshan, cable TV, and VSAT internet services use GEO satellites. INSAT satellites also carry meteorological sensors — the images used in weather forecasts come from these geostationary satellites.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

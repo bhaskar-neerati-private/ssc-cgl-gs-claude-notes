@@ -1,0 +1,183 @@
+{
+  "topic": "Work, Energy & Power — Kinetic/Potential Energy, Conservation & Simple Machines",
+  "topicId": "phys-work-energy-power",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "A coolie carries a load on his head and walks horizontally. The work done by the coolie on the load is:",
+          "options": ["Positive", "Negative", "Zero", "Cannot be determined"],
+          "answerIndex": 2,
+          "explanation": "Work = F × d × cosθ. The coolie exerts an upward force on the load (to support it against gravity). The displacement is horizontal. The angle between upward force and horizontal displacement = 90°. cos90° = 0. Therefore, work done by coolie on the load = 0. However, the coolie does work against friction while walking.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "1 kilowatt-hour (kWh) is equal to:",
+          "options": ["3.6 × 10³ J", "3.6 × 10⁴ J", "3.6 × 10⁶ J", "3.6 × 10⁸ J"],
+          "answerIndex": 2,
+          "explanation": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J = 3.6 MJ. This is the 'unit' on electricity bills — using a 1-kilowatt device for 1 hour consumes 1 unit (1 kWh). It is a unit of ENERGY, not power.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "In which of the following simple machines is the load placed between the fulcrum and effort?",
+          "options": ["First class lever", "Second class lever", "Third class lever", "Inclined plane"],
+          "answerIndex": 1,
+          "explanation": "Second class lever: load is between the fulcrum and the effort. This always gives mechanical advantage > 1 (effort < load). Examples: wheelbarrow (wheel is fulcrum, load in tray, hands apply effort at handles), nutcracker, bottle opener. First class: fulcrum between load and effort. Third class: effort between fulcrum and load.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "1 horsepower is equal to approximately:",
+          "options": ["550 W", "746 W", "1000 W", "375 W"],
+          "answerIndex": 1,
+          "explanation": "1 horsepower (hp) = 746 W ≈ 0.746 kW. James Watt defined horsepower from experiments with mine horses: 1 hp = 33,000 ft·lb/min = 550 ft·lb/s. The SI unit of power, the watt (W), is named in his honour. Most car engines are rated in horsepower (e.g., 100 hp = 74.6 kW).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A car doubles its speed. Its kinetic energy becomes:",
+          "options": ["Double", "Four times", "Half", "Unchanged"],
+          "answerIndex": 1,
+          "explanation": "KE = ½mv². If speed doubles (v → 2v): KE_new = ½m(2v)² = ½m × 4v² = 4 × ½mv² = 4 × KE. Kinetic energy increases by a factor of 4. This is why high-speed collisions are so much more destructive — a 100 km/h crash has 4× the kinetic energy of a 50 km/h crash.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "A body is moving with constant velocity on a flat road. The work done by friction is:",
+          "options": ["Positive", "Zero", "Negative", "Equal to kinetic energy"],
+          "answerIndex": 2,
+          "explanation": "Friction opposes motion. The friction force acts backward while the displacement is forward — angle between them = 180°. cos180° = −1. Therefore, work by friction = F × d × (−1) = negative. Friction always does negative work, removing kinetic energy from the moving body (converting it to heat).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "In a simple pulley system with 4 rope segments supporting the load, the mechanical advantage is:",
+          "options": ["1", "2", "4", "8"],
+          "answerIndex": 2,
+          "explanation": "In a block and tackle system, the mechanical advantage = number of rope segments supporting the movable pulley (the load side). With 4 rope segments supporting the load: MA = 4, meaning you need to apply only 1/4 of the load as effort. However, you must pull the rope 4× the distance the load moves.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "A pendulum swings from one end to the other. At which point is its kinetic energy maximum?",
+          "options": [
+            "At the extreme ends (highest points)",
+            "At the middle (lowest point)",
+            "Kinetic energy is equal throughout",
+            "At 45° from vertical"
+          ],
+          "answerIndex": 1,
+          "explanation": "At the extreme ends, the pendulum momentarily stops (v = 0) — KE = 0, PE is maximum. At the lowest (middle) point, all PE has converted to KE — KE is maximum, PE is minimum (zero, taking bottom as reference). This conversion (PE↔KE) while total mechanical energy remains constant is conservation of mechanical energy.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "The human forearm acts as which class of lever?",
+          "options": ["First class (fulcrum between load and effort)", "Second class (load between fulcrum and effort)", "Third class (effort between fulcrum and load)", "It is not a lever"],
+          "answerIndex": 2,
+          "explanation": "Human forearm: elbow joint = fulcrum; bicep muscle attaches close to elbow = effort point; hand (carrying load) = load point. Effort is between fulcrum and load → third class lever. MA < 1 (muscle must exert more force than load). Advantage: speed and range of motion at the hand are amplified.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "A satellite moving in a circular orbit does NOT slow down despite gravity acting on it. This is because:",
+          "options": [
+            "The satellite is above the atmosphere where gravity is zero",
+            "Gravity is perpendicular to the satellite's velocity, so does zero work on it",
+            "The satellite has enough thrust to counteract gravity",
+            "Gravity and centrifugal force cancel out exactly"
+          ],
+          "answerIndex": 1,
+          "explanation": "In a circular orbit, gravity points toward the centre (centripetal), while the satellite's velocity is tangential (perpendicular to gravity). Work = F × d × cosθ = 0 (θ = 90°). Zero work means no energy transfer — gravity changes the direction of velocity but not its magnitude (speed). That's why orbiting satellites maintain constant speed without thrust.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Two springs with spring constants k₁ and k₂ are connected in series. Their effective spring constant is:",
+          "options": [
+            "k₁ + k₂",
+            "k₁ × k₂",
+            "k₁k₂/(k₁+k₂)",
+            "(k₁+k₂)/2"
+          ],
+          "answerIndex": 2,
+          "explanation": "Springs in series: 1/k_eff = 1/k₁ + 1/k₂ → k_eff = k₁k₂/(k₁+k₂). This is less than either k₁ or k₂ — springs in series are 'weaker' (easier to stretch). Springs in parallel: k_eff = k₁ + k₂ (stiffer). Analogy: resistors in series add up; springs in series use the reciprocal rule.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Which of the following does NOT violate the Law of Conservation of Energy?",
+          "options": [
+            "A perpetual motion machine that runs forever without energy input",
+            "A heat engine that converts 100% of heat to work",
+            "A ball bouncing to the same height it was dropped from in air",
+            "A hydroelectric dam converting gravitational PE of water to electrical energy"
+          ],
+          "answerIndex": 3,
+          "explanation": "A hydroelectric dam converts gravitational PE (water at height) to kinetic energy (falling water) to electrical energy — all valid energy conversions, nothing created. Options A, B, and C violate physics: perpetual motion violates energy conservation; 100% heat-to-work efficiency violates the Second Law of Thermodynamics; in real air, a bouncing ball loses energy to air resistance and inelastic deformation each bounce.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which of the following is an example of a second class lever?",
+          "options": ["Scissors", "Wheelbarrow", "Tweezers", "Seesaw"],
+          "answerIndex": 1,
+          "explanation": "Wheelbarrow is a second class lever: wheel/axle at front = fulcrum; load (in tray) is between the fulcrum and effort (hands at handles). Always gives MA > 1. Scissors = first class (fulcrum at pivot between blades). Tweezers = third class. Seesaw = first class.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The potential energy of a body of mass m at height h above the ground is:",
+          "options": ["mh", "mg/h", "mgh", "m²gh"],
+          "answerIndex": 2,
+          "explanation": "Gravitational PE = mgh, where m = mass (kg), g = acceleration due to gravity (9.8 m/s² on Earth's surface), h = height above reference level (m). Unit = kg × m/s² × m = J (joule). A 10 kg object at 5 m height has PE = 10 × 9.8 × 5 = 490 J.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The work-energy theorem states that the net work done on a body equals:",
+          "options": [
+            "Its total potential energy",
+            "The change in its kinetic energy",
+            "The product of force and time",
+            "Its total mechanical energy"
+          ],
+          "answerIndex": 1,
+          "explanation": "Work-Energy Theorem: W_net = ΔKE = ½mv² − ½mu². Net work done by all forces equals the change in kinetic energy. If net work is positive, KE increases (body speeds up). If negative, KE decreases (body slows down). If zero, KE is unchanged (constant speed).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Power is defined as:",
+          "options": ["Force × distance", "Work / time", "Mass × velocity", "Force / area"],
+          "answerIndex": 1,
+          "explanation": "Power = Work / Time = Energy / Time. SI unit is Watt (W) = Joule per second (J/s). Also, P = F × v (force × velocity) when force and velocity are in the same direction. Power measures how quickly work is done — a more powerful engine does the same work in less time.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

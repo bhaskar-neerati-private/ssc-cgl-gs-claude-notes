@@ -1,0 +1,183 @@
+{
+  "topic": "Heat Transfer & Calorimetry — Temperature Scales, Specific Heat, Latent Heat & Modes of Transfer",
+  "topicId": "phys-heat-transfer",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "At what temperature are the Celsius and Fahrenheit scales equal?",
+          "options": ["0°", "−40°", "100°", "32°"],
+          "answerIndex": 1,
+          "explanation": "°F = (9/5)°C + 32. Setting °F = °C: x = (9/5)x + 32 → x − (9/5)x = 32 → −(4/5)x = 32 → x = −40. At −40°, both Celsius and Fahrenheit give the same reading. This is the only such point. A useful fact for SSC trick questions.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Water has the highest specific heat capacity among common substances. This makes water ideal for:",
+          "options": ["Making thermometers (expands uniformly)", "Use as coolant in engines, reactors, and for climate moderation", "Dissolving other substances (universal solvent)", "Storing electrical energy (batteries)"],
+          "answerIndex": 1,
+          "explanation": "Water's high specific heat (4,186 J/kg·K) means it absorbs/releases large amounts of heat with little temperature change. This makes it ideal as a coolant (car radiators, nuclear reactors, industrial cooling towers) and explains why coastal climates are milder (ocean moderates temperature). It also makes the monsoon system possible.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The mode of heat transfer that can occur in vacuum (without any medium) is:",
+          "options": ["Conduction", "Convection", "Radiation", "Both conduction and convection"],
+          "answerIndex": 2,
+          "explanation": "Radiation transfers heat as electromagnetic waves (infrared) and requires NO medium. Conduction requires direct contact between materials. Convection requires a fluid (liquid or gas) to move and carry heat. The Sun heats Earth across 150 million km of vacuum by radiation.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Steam at 100°C causes more severe burns than water at 100°C because:",
+          "options": ["Steam has higher temperature than water at 100°C", "Steam moves faster and hits skin harder", "Steam releases its latent heat of vaporisation (2,260 kJ/kg) upon condensing on skin", "Steam is lighter and rises, covering more skin area"],
+          "answerIndex": 2,
+          "explanation": "Both are at 100°C, so temperature alone doesn't explain the difference. When steam contacts skin, it first releases its latent heat of vaporisation (2,260 kJ/kg) while condensing to water at 100°C — THEN that 100°C water cools further, releasing more heat. Total heat delivered by steam is far greater than by water at the same temperature.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "Why do lakes NOT freeze to the bottom even in severe winters in cold countries?",
+          "options": [
+            "Lake water is salty, which depresses its freezing point",
+            "Water's anomalous expansion — it is densest at 4°C, so 4°C water sinks to bottom while ice forms at surface, insulating the rest",
+            "Geothermal heat from the lake bed prevents complete freezing",
+            "The high specific heat of water prevents freezing below the surface"
+          ],
+          "answerIndex": 1,
+          "explanation": "As a lake cools, water at 4°C (maximum density) sinks to the bottom. When surface temperature drops below 4°C, the cooling water is lighter than the 4°C layer below — it stays at top and freezes first. Ice (lower density than water) floats. The ice layer insulates the water below, which stays at 4°C (or between 0–4°C) — liquid, allowing aquatic life to survive.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Why does wearing woollen clothes keep you warm in winter? Wool itself is a poor conductor. The main reason is:",
+          "options": [
+            "Wool fibres generate heat through friction",
+            "Wool fibres trap air, which is an excellent thermal insulator",
+            "Wool absorbs body radiation and converts it to heat",
+            "Wool creates a vacuum layer that prevents heat loss"
+          ],
+          "answerIndex": 1,
+          "explanation": "Wool is a poor heat conductor, but the primary reason for warmth is that wool's crimped fibres trap still air. Air has very low thermal conductivity (k ≈ 0.025 W/m·K) — one of the best thermal insulators. The trapped air creates dead air pockets that drastically reduce heat loss by conduction and convection. The same principle applies to double-glazed windows, foam insulation, and down jackets.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Normal body temperature is 37°C. In Fahrenheit, this equals:",
+          "options": ["95°F", "98.6°F", "100°F", "102°F"],
+          "answerIndex": 1,
+          "explanation": "°F = (9/5 × °C) + 32 = (9/5 × 37) + 32 = 66.6 + 32 = 98.6°F. Normal body temperature = 37°C = 98.6°F = 310 K. Fever is typically defined as above 38°C (100.4°F). This conversion is directly tested in SSC.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "A black body absorbs all radiation falling on it. It also:",
+          "options": ["Emits no radiation (it absorbs everything)", "Emits radiation at the maximum possible rate for its temperature", "Reflects radiation after absorbing it", "Only emits visible light when heated"],
+          "answerIndex": 1,
+          "explanation": "Kirchhoff's Law: a good absorber is also a good emitter at any given temperature. A perfect blackbody (ε = 1) absorbs all incident radiation AND emits the maximum possible radiation for its temperature (given by Stefan-Boltzmann Law: P = σAT⁴). Black/dark objects are both the best absorbers and the best emitters of radiation.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "A thermos flask (vacuum flask) minimises heat transfer. It uses which combination of principles?",
+          "options": [
+            "Double walls only to prevent conduction",
+            "Vacuum between walls (eliminates conduction and convection) and silvered walls (reduces radiation)",
+            "Thick cork stopper to prevent conduction and convection",
+            "Vacuum inside the liquid space"
+          ],
+          "answerIndex": 1,
+          "explanation": "A thermos flask has: (1) Vacuum between double glass walls — vacuum eliminates conduction (no direct contact medium) and convection (no fluid to move). (2) Silvered inner and outer walls — silvered surfaces are poor emitters and poor absorbers, reflecting radiation back. (3) Cork/plastic stopper — poor conductor, minimises conduction through the top. Together these address all three heat transfer modes.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Sea breeze during daytime blows from sea to land because:",
+          "options": [
+            "The sea is colder, pushing cold air toward land",
+            "Land heats up faster (lower specific heat) than sea → hot air rises over land → cool sea air moves in to replace it",
+            "The Moon's gravitational pull creates sea breezes during daytime",
+            "Evaporation from sea surface pushes air toward land"
+          ],
+          "answerIndex": 1,
+          "explanation": "Land (rock/soil) has lower specific heat than water → heats up more quickly in sunlight. Hot air over land rises (convection), creating low pressure. Cool, denser air over the sea flows landward to fill this low — creating a sea breeze. At night, the reverse: land cools faster than sea → air rises over sea → land breeze blows seaward.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "During melting of ice at 0°C, the temperature:",
+          "options": ["Continuously rises from 0°C", "Stays constant at 0°C until all ice melts", "Drops below 0°C briefly", "Rises to 4°C immediately"],
+          "answerIndex": 1,
+          "explanation": "During a phase transition (solid → liquid), all heat added goes into breaking intermolecular bonds (latent heat) — none goes into raising temperature. Temperature stays constant at 0°C until the last piece of ice melts. Only after complete melting does temperature begin to rise again. This is reflected as a horizontal plateau on a heating curve.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Why does a pressure cooker cook food faster?",
+          "options": [
+            "Steam in the sealed cooker has more thermal energy than open steam",
+            "Increased pressure raises the boiling point of water above 100°C, cooking food at higher temperature",
+            "The sealed environment prevents heat loss, concentrating energy on food",
+            "Steam under pressure is denser and penetrates food more effectively"
+          ],
+          "answerIndex": 1,
+          "explanation": "In a sealed pressure cooker, steam builds up and increases pressure (typically to ~2 atm). Higher pressure raises the boiling point of water above 100°C (to about 120°C). Food cooks at this higher temperature, completing the cooking process faster. This is the reverse of why cooking takes longer at high altitudes (lower pressure → lower boiling point).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "0°C is equal to how many Kelvin?",
+          "options": ["0 K", "100 K", "273 K", "373 K"],
+          "answerIndex": 2,
+          "explanation": "K = °C + 273.15 ≈ °C + 273. So 0°C = 273 K. Absolute zero = 0 K = −273°C. The boiling point of water = 100°C = 373 K. Kelvin is the SI unit of temperature, used in all scientific calculations especially gas laws (PV = nRT requires T in Kelvin).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Latent heat of vaporisation of water (2,260 kJ/kg) is much greater than latent heat of fusion (334 kJ/kg). This means:",
+          "options": ["It takes more energy to freeze water than to boil it", "It takes more energy to boil water (convert to steam) than to melt ice", "Both phase changes require the same energy", "Latent heat of vaporisation is relevant only at temperatures above 100°C"],
+          "answerIndex": 1,
+          "explanation": "Latent heat of vaporisation (2,260 kJ/kg) ≈ 6.8 × Latent heat of fusion (334 kJ/kg). Converting 1 kg of water to steam at 100°C requires about 7 times more energy than melting 1 kg of ice at 0°C. This is why it takes so long to fully boil away water on a stove after it reaches 100°C.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Which metal is the best conductor of heat?",
+          "options": ["Copper", "Aluminium", "Silver", "Iron"],
+          "answerIndex": 2,
+          "explanation": "Silver has the highest thermal conductivity among metals (k ≈ 429 W/m·K), followed by copper (401), gold (318), and aluminium (237). Despite silver being the best conductor, copper is more commonly used in cookware and wiring due to its lower cost. Silver is used in specialised electronics and some high-end kitchenware.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The body temperature of 98.6°F in Celsius is:",
+          "options": ["36°C", "37°C", "38°C", "39°C"],
+          "answerIndex": 1,
+          "explanation": "°C = (°F − 32) × 5/9 = (98.6 − 32) × 5/9 = 66.6 × 5/9 = 37°C. Normal body temperature = 37°C = 98.6°F = 310 K. A fever is generally considered above 38°C (100.4°F). This is a direct conversion question frequently asked in SSC.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

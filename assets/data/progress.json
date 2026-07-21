@@ -524,8 +524,79 @@
       "name": "Science — Physics",
       "tier": "B",
       "order": 7,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "phys-units-measurement",
+          "title": "Units, Measurement & Dimensions — SI Units, Scalars, Vectors & Significant Figures",
+          "status": "done"
+        },
+        {
+          "id": "phys-motion-laws",
+          "title": "Motion & Newton's Laws — Equations of Motion, Momentum, Forces & Friction",
+          "status": "done"
+        },
+        {
+          "id": "phys-work-energy-power",
+          "title": "Work, Energy & Power — Kinetic/Potential Energy, Conservation & Simple Machines",
+          "status": "done"
+        },
+        {
+          "id": "phys-gravitation",
+          "title": "Gravitation — Universal Law, Kepler's Laws, Escape Velocity & Satellites",
+          "status": "done"
+        },
+        {
+          "id": "phys-properties-matter",
+          "title": "Properties of Matter — Pressure, Buoyancy, Bernoulli, Surface Tension & Viscosity",
+          "status": "done"
+        },
+        {
+          "id": "phys-heat-transfer",
+          "title": "Heat Transfer & Calorimetry — Temperature Scales, Specific Heat, Latent Heat & Modes of Transfer",
+          "status": "done"
+        },
+        {
+          "id": "phys-thermodynamics-gas-laws",
+          "title": "Gas Laws & Thermodynamics — Boyle's, Charles', Ideal Gas & Laws of Thermodynamics",
+          "status": "done"
+        },
+        {
+          "id": "phys-waves-sound",
+          "title": "Waves & Sound — Frequency, Speed, Doppler Effect, Echo, Ultrasound & Resonance",
+          "status": "done"
+        },
+        {
+          "id": "phys-ray-optics",
+          "title": "Ray Optics — Reflection, Refraction, TIR, Lenses, Mirrors & Optical Instruments",
+          "status": "done"
+        },
+        {
+          "id": "phys-light-phenomena",
+          "title": "Light Phenomena — Dispersion, Spectrum, Rainbow, Scattering, Laser & Fibre Optics",
+          "status": "done"
+        },
+        {
+          "id": "phys-electricity",
+          "title": "Electricity — Ohm's Law, Resistance, Circuits, Heating Effect & Household Wiring",
+          "status": "done"
+        },
+        {
+          "id": "phys-magnetism-em",
+          "title": "Magnetism & Electromagnetism — Magnets, Induction, Motors, Generators & Transformers",
+          "status": "done"
+        },
+        {
+          "id": "phys-modern-physics",
+          "title": "Modern Physics — Photoelectric Effect, X-Rays, Semiconductors & Dual Nature of Light",
+          "status": "done"
+        },
+        {
+          "id": "phys-space-tech",
+          "title": "Space Technology & Defence — ISRO Missions, Satellites, Missiles, NAVIC & Radar",
+          "status": "done"
+        }
+      ]
     },
     {
       "id": "ancient-medieval-history",

@@ -1,0 +1,158 @@
+{
+  "topic": "Light Phenomena — Dispersion, Spectrum, Rainbow, Scattering, Laser & EM Spectrum",
+  "topicId": "phys-light-phenomena",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "The sky appears blue because:",
+          "options": ["The ozone layer reflects blue light from the sun", "Blue light has the highest energy and is emitted preferentially by the Sun", "Air molecules scatter shorter wavelengths (blue light) much more than longer wavelengths (red light) — Rayleigh scattering", "The sea reflects blue light upward into the atmosphere"],
+          "answerIndex": 2,
+          "explanation": "Rayleigh scattering: scattering intensity ∝ 1/λ⁴. Blue light (~450 nm wavelength) is scattered ~5.5 times more than red light (~700 nm). Sunlight contains all colours, but air molecules scatter blue and violet light in all directions across the sky. We see scattered blue from all overhead directions → blue sky. (Our eyes are slightly less sensitive to violet, hence blue rather than violet sky.)",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "In a primary rainbow, which colour appears at the top (outermost arc)?",
+          "options": ["Violet", "Blue", "Green", "Red"],
+          "answerIndex": 3,
+          "explanation": "Primary rainbow (from single internal reflection in raindrops): Red appears on the OUTSIDE (top, ~42° from anti-solar point); Violet on the INSIDE (bottom, ~40°). Red is deviated the LEAST during refraction (lowest refractive index), so it exits the raindrop at a larger angle → forms the outer arc. VIBGYOR from inside to outside is reversed: Violet inside, Red outside.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "LASER stands for:",
+          "options": ["Light Acceleration by Stimulated Emission of Radiation", "Light Amplification by Stimulated Emission of Radiation", "Light Absorption and Selective Emission of Radiation", "Long Amplitude Sustained Electromagnetic Radiation"],
+          "answerIndex": 1,
+          "explanation": "LASER = Light Amplification by Stimulated Emission of Radiation. Key properties: monochromatic (single wavelength), coherent (all waves in phase), directional (minimal divergence). The first laser was built by Theodore Maiman in 1960 using a ruby crystal. Applications: surgery, barcode scanners, fibre optic communication, CD/DVD/Blu-ray, industrial cutting.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The correct order of electromagnetic spectrum from lowest to highest frequency is:",
+          "options": ["Gamma → X-ray → UV → Visible → IR → Microwave → Radio", "Radio → Microwave → IR → Visible → UV → X-ray → Gamma", "Visible → UV → X-ray → Gamma → Radio → Microwave → IR", "IR → Visible → UV → Microwave → Radio → X-ray → Gamma"],
+          "answerIndex": 1,
+          "explanation": "EM spectrum in increasing frequency (and energy), decreasing wavelength: Radio → Microwave → Infrared (IR) → Visible → Ultraviolet (UV) → X-ray → Gamma ray. Memory: 'Rather Many Indians View Upcoming X-ray Games.' All travel at c = 3 × 10⁸ m/s in vacuum, regardless of frequency.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "The Sun appears reddish/orange at sunrise and sunset because:",
+          "options": ["The Sun emits more red light in the morning and evening due to lower temperature", "At the horizon, sunlight travels through more atmosphere; blue light is scattered away, leaving red/orange", "The Earth's atmosphere absorbs blue light and re-emits red light", "Dust near the horizon reflects red light from the desert surface"],
+          "answerIndex": 1,
+          "explanation": "At sunrise/sunset, sunlight travels through a much greater thickness of atmosphere to reach the observer. Blue light (scattered most strongly, 1/λ⁴ dependence) is almost entirely scattered away. The remaining light is predominantly the least-scattered wavelengths — red and orange. This is the same Rayleigh scattering that makes the sky blue, but now the direct light (rather than scattered light) is what we observe.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "In a secondary rainbow (visible above the primary), which colour appears on the OUTSIDE?",
+          "options": ["Red (same as primary rainbow)", "Violet (reversed from primary rainbow)", "Green (central colour, always outside)", "White (secondary rainbow has no colour separation)"],
+          "answerIndex": 1,
+          "explanation": "The secondary rainbow forms from TWO internal reflections inside the raindrop. Each reflection reverses the colour order. So the secondary rainbow has VIOLET on the OUTSIDE and RED on the INSIDE — exactly the reverse of the primary. The secondary rainbow is also less bright (some light escapes at each reflection). The dark band between primary and secondary (where neither sends light toward the observer) is called Alexander's Dark Band.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Which property of laser light makes it useful for reading barcodes, playing DVDs, and transmitting data through optical fibres?",
+          "options": ["Laser produces heat that melts barcode ink, revealing data", "Laser is monochromatic and directional — a narrow, single-wavelength beam can be focused precisely and transmitted without divergence", "Laser produces X-rays that penetrate the barcode substrate", "Laser is invisible, so it can scan without affecting the product"],
+          "answerIndex": 1,
+          "explanation": "Laser's directionality (beam doesn't spread) and monochromaticity (single wavelength) allow it to be focused to a tiny spot for precise reading. In barcode scanners (He-Ne red laser), the reflected light pattern from black/white bars encodes data. In optical fibres, laser pulses carry digital data. Blu-ray uses shorter wavelength (violet, ~405 nm) than DVD (red, ~650 nm) → smaller spot → more data density.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Why are traffic signals, brake lights, and fire engines painted red?",
+          "options": ["Red is the most visible colour to the human eye under all conditions", "Red dye is cheapest and most widely available", "Red light has the longest wavelength — it scatters least in fog and dust, travelling furthest while remaining visible", "Red light is reflected by the retina's rod cells, making it perceptible at greater distances"],
+          "answerIndex": 2,
+          "explanation": "Rayleigh scattering ∝ 1/λ⁴. Red light (longest visible wavelength ~700 nm) is scattered the LEAST by fog, rain, and dust particles. It penetrates fog and poor visibility conditions furthest, remaining a distinct signal at the greatest distance. For safety signals (stop lights, emergency vehicles, ship lights), the greatest visible range is critical. This is why red was chosen for danger signals globally.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Which electromagnetic wave is detected by thermal cameras and is used in TV remote controls?",
+          "options": ["Ultraviolet (UV)", "Visible light (short wavelength)", "Infrared (IR)", "Microwaves"],
+          "answerIndex": 2,
+          "explanation": "Infrared (IR) radiation, with wavelengths 700 nm to 1 mm, is emitted by all objects above absolute zero as heat radiation. TV remotes use IR LED pulses (near-IR, ~900 nm) — invisible to humans but detected by the TV's IR sensor. Thermal cameras detect IR from warm bodies (humans, animals, engines) and render images based on temperature differences — used by fire departments, military, and wildlife researchers.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "The primary colours of LIGHT (additive mixing) are:",
+          "options": ["Red, Yellow, Blue (RYB — as taught in primary school painting)", "Red, Green, Blue (RGB)", "Cyan, Magenta, Yellow (CMY)", "White, Black, Grey"],
+          "answerIndex": 1,
+          "explanation": "Primary colours of LIGHT are Red, Green, Blue (RGB) — additive mixing. R + G + B = White. R + G = Yellow; G + B = Cyan; R + B = Magenta. Used in TV screens, monitors, projectors, and photography. Primary colours of PIGMENT are Cyan, Magenta, Yellow (CMY) — subtractive mixing used in printing. RYB (red-yellow-blue) taught in school painting is an approximation of pigment mixing, not light mixing.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Theodore Maiman built the first working laser in 1960 using which material?",
+          "options": ["Helium-Neon gas mixture", "Carbon dioxide gas", "Ruby crystal (chromium in aluminium oxide)", "Gallium arsenide semiconductor"],
+          "answerIndex": 2,
+          "explanation": "Theodore Maiman (Hughes Research Laboratories, 1960) built the first laser using a synthetic ruby crystal (chromium ions doped in aluminium oxide, Al₂O₃). A high-intensity xenon flash lamp provided the energy to excite the chromium atoms; they emitted coherent red light at 694 nm. The He-Ne laser followed shortly after (1960, Javan). CO₂ lasers came later. Ruby lasers are still used in medical applications and for tattoo removal.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Which form of electromagnetic radiation is used in airport security scanners to detect objects inside luggage?",
+          "options": ["Infrared rays", "Microwaves", "Ultraviolet rays", "X-rays"],
+          "answerIndex": 3,
+          "explanation": "Airport baggage scanners use X-rays, which are highly penetrating (pass through the soft material of bags) and are absorbed to different degrees by dense objects (metals, explosives). The transmitted X-ray pattern forms an image showing the contents of the bag. Body scanners at airports may use millimetre-wave (microwave frequency) scanners instead of X-rays to image objects under clothing without ionising radiation.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which colour of light is deviated (refracted) the most when white light passes through a glass prism?",
+          "options": ["Red", "Green", "Blue", "Violet"],
+          "answerIndex": 3,
+          "explanation": "Violet light has the shortest wavelength (~380–450 nm) among visible colours and therefore the highest refractive index in glass. Higher refractive index → greater bending (deviation). In a prism: violet is deviated most (appears at bottom of spectrum); red is deviated least (appears at top). VIBGYOR from least to most deviated: Red → Orange → Yellow → Green → Blue → Indigo → Violet.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which electromagnetic waves are used in microwave ovens for heating food?",
+          "options": ["Infrared radiation", "Microwaves at 2.45 GHz frequency", "Radio waves at AM frequency", "Ultraviolet waves"],
+          "answerIndex": 1,
+          "explanation": "Microwave ovens use microwaves at 2.45 GHz (12.2 cm wavelength). This frequency causes water molecules (which are polar — have a positive and negative end) to vibrate and rotate rapidly → friction between molecules generates heat throughout the food. Metal objects reflect microwaves (don't heat), while some plastics and ceramics are transparent to microwaves and don't heat significantly.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Dispersion of white light through a prism occurs because different colours:",
+          "options": ["Travel at different speeds (different refractive indices) in the prism material", "Have different intensities in white light", "Reflect at different angles from the prism surface", "Absorb different amounts of energy from the prism"],
+          "answerIndex": 0,
+          "explanation": "Dispersion occurs because glass (and most transparent materials) has different refractive indices for different wavelengths of light. Violet light travels slowest in glass (highest n ≈ 1.532) and is bent most. Red light travels fastest in glass (lowest n ≈ 1.513) and is bent least. Since each colour bends by a different angle, white light fans out into its component colours — VIBGYOR spectrum.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Gamma rays are produced by:",
+          "options": ["High-energy electrons striking a metal target", "Rapid oscillation of charges in an antenna", "Nuclear decay (transitions within the atomic nucleus)", "Heating a gas to very high temperature"],
+          "answerIndex": 2,
+          "explanation": "Gamma rays originate from nuclear transitions — radioactive nuclei release excess energy as extremely high-energy photons (gamma rays). X-rays, by contrast, are produced by electron transitions or by accelerated electrons striking a metal target (bremsstrahlung). Gamma rays have shorter wavelength and higher energy than typical X-rays, making them the most penetrating and most dangerous form of electromagnetic radiation.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

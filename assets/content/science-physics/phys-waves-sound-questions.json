@@ -1,0 +1,158 @@
+{
+  "topic": "Waves & Sound — Frequency, Speed, Doppler Effect, Echo, Ultrasound & Resonance",
+  "topicId": "phys-waves-sound",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "The speed of sound in air at 0°C is approximately:",
+          "options": ["232 m/s", "332 m/s", "432 m/s", "532 m/s"],
+          "answerIndex": 1,
+          "explanation": "Speed of sound in air at 0°C = 332 m/s (approximately 340 m/s at room temperature of 20°C). Speed increases by ~0.6 m/s per °C rise in temperature. Speed of sound in water (~1500 m/s) and steel (~5960 m/s) are much higher than in air — sound travels fastest in solids.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The minimum distance required between a person and a wall for a distinct echo to be heard is:",
+          "options": ["8.5 m", "17 m", "34 m", "68 m"],
+          "answerIndex": 1,
+          "explanation": "The human ear cannot distinguish two sounds less than 0.1 second apart (persistence of hearing). At 340 m/s, sound travels 34 m in 0.1 s. For an echo, sound must travel to the wall AND back: 34/2 = 17 metres. So the wall must be at least 17 m away. This is a direct SSC PYQ numerical.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The frequency range of sounds audible to the human ear is:",
+          "options": ["0 Hz to 20 Hz", "20 Hz to 20,000 Hz", "200 Hz to 2,000 Hz", "20,000 Hz to 200,000 Hz"],
+          "answerIndex": 1,
+          "explanation": "The audible frequency range for humans is 20 Hz to 20,000 Hz (20 kHz). Below 20 Hz is infrasound (earthquakes, elephants produce this). Above 20 kHz is ultrasound (bats, dolphins use this). Both infrasound and ultrasound are inaudible to humans but not to certain animals.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "SONAR (Sound Navigation And Ranging) primarily uses:",
+          "options": ["Infrasound (below 20 Hz)", "Ultrasonic waves (above 20,000 Hz)", "Visible light waves", "Electromagnetic microwaves"],
+          "answerIndex": 1,
+          "explanation": "SONAR uses ultrasonic waves (frequency > 20,000 Hz) to detect underwater objects, submarines, and measure ocean depth. The technique uses echo timing — the time for the ultrasonic pulse to return gives the distance. Ultrasound is used because it can travel long distances underwater without significant absorption.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "An ambulance with a siren is approaching you. As it passes and moves away, the pitch of the siren:",
+          "options": ["Increases as it approaches and continues to increase after passing", "Stays constant — the actual frequency of the siren doesn't change", "Appears higher as it approaches, then drops suddenly as it passes and continues lower as it recedes", "Decreases as it approaches and increases as it recedes"],
+          "answerIndex": 2,
+          "explanation": "This is the Doppler Effect. When the source approaches, sound waves are compressed → higher apparent frequency (higher pitch). When it passes, there is an abrupt change, and as it recedes, waves are stretched → lower apparent frequency (lower pitch). The ACTUAL siren frequency never changes — only the APPARENT pitch heard by the stationary observer changes.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The Tacoma Narrows Bridge collapsed in 1940 primarily due to:",
+          "options": ["Material fatigue from heavy vehicle loads over 10 years", "Resonance — wind driving the bridge at its natural frequency amplified oscillations until failure", "Lightning striking the main support cables", "An earthquake registering magnitude 6.0"],
+          "answerIndex": 1,
+          "explanation": "The Tacoma Narrows Bridge collapsed due to resonance. Wind at ~67 km/h happened to match the bridge's natural frequency of oscillation. Like pushing a swing at exactly the right moment each time, the amplitude built up rapidly over 4 hours until the bridge twisted itself apart. Engineers now design bridges to have natural frequencies far from typical wind frequencies.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Sound cannot travel in vacuum because:",
+          "options": ["Sound is an electromagnetic wave and gets absorbed by the vacuum field", "Sound is a mechanical longitudinal wave requiring material medium — vacuum has no molecules to compress or rarefy", "The speed of sound in vacuum would be infinite, making it inaudible", "Vacuum absorbs sound energy and converts it to heat"],
+          "answerIndex": 1,
+          "explanation": "Sound is a mechanical wave — it propagates as compression and rarefaction of the medium's molecules. In vacuum, there are no molecules to compress. There is no medium → no sound propagation. This is why space is completely silent. Contrast with light (electromagnetic wave) which travels perfectly through vacuum at 3 × 10⁸ m/s.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "A bat navigates in total darkness using echolocation. Which property of the bat's emitted sound makes this possible?",
+          "options": ["Infrasound (very low frequency) that penetrates objects", "Ultrasound (very high frequency — 20–200 kHz) that reflects off small objects and returns as echoes", "Loud sound that creates a pressure wave felt on the bat's skin when it bounces back", "Electromagnetic waves emitted by the bat's eyes"],
+          "answerIndex": 1,
+          "explanation": "Bats emit ultrasound pulses (20–200 kHz) — far above human hearing. These short-wavelength waves reflect off objects as small as insects. The bat's ears detect the returning echoes and its brain processes the time delay and frequency shift (Doppler) to build a 3D mental map of its surroundings with remarkable precision. This evolved echolocation system inspired sonar technology.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "The phenomenon of reverberation is undesirable in auditoriums and concert halls because:",
+          "options": ["It makes sounds louder, causing hearing damage", "Multiple reflections of sound cause it to persist and jumble with new sounds, making speech unintelligible", "Reverberation cools the air, making listeners uncomfortable", "It causes resonance in the building structure"],
+          "answerIndex": 1,
+          "explanation": "Reverberation = persistence of sound due to multiple reflections in an enclosed space. Excessive reverberation causes the tail of one syllable to overlap with the next → speech becomes unintelligible. Concert halls use sound-absorbing materials (carpets, curtains, acoustic tiles, perforated boards, audience members' clothing) to control reverberation. Optimal reverberation time is ~1–2 seconds for music; ~0.5–1 second for speech.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "At very high altitudes, the speed of sound in air:",
+          "options": ["Increases due to lower pressure", "Decreases because temperature is lower (v_sound increases with temperature)", "Remains exactly constant regardless of altitude", "Becomes infinite in the extremely thin atmosphere"],
+          "answerIndex": 1,
+          "explanation": "Speed of sound in air depends on temperature: v ≈ 331 + 0.6T (where T is in °C). At high altitude, temperature is much lower (e.g., −55°C at cruising altitude) → speed of sound is lower (~295 m/s at −55°C). This is why Mach 1 at cruising altitude represents a lower speed in m/s than Mach 1 at sea level. Speed does NOT depend on pressure at constant temperature.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Lithotripsy (kidney stone treatment without surgery) uses:",
+          "options": ["Laser light to burn the stones", "Focused ultrasonic waves to shatter kidney stones", "Strong magnetic fields (MRI) to dissolve stones", "High-energy X-rays to destroy the stones"],
+          "answerIndex": 1,
+          "explanation": "Extracorporeal Shock Wave Lithotripsy (ESWL) uses focused ultrasonic shock waves generated outside the body. The waves pass through soft tissue harmlessly (it has similar acoustic impedance to water) but converge at the kidney stone (denser, different impedance) — creating intense stress that shatters the stone into sand-like fragments that can pass through the urinary tract naturally. No incision is needed.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Dolphins communicate with each other and navigate using clicks at frequencies up to:",
+          "options": ["Up to 20 Hz (infrasound)", "20 Hz to 20 kHz (audible range only)", "Up to 120 kHz (ultrasound)", "Up to 1 MHz (very high ultrasound)"],
+          "answerIndex": 2,
+          "explanation": "Dolphins produce clicks and whistles up to ~120 kHz for echolocation and communication — well into the ultrasound range. This allows them to detect fish and navigate underwater with remarkable precision. Whales use much lower frequencies (infrasound, 10–40 Hz) for long-distance communication across ocean basins — low frequency sound travels further in water.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "The pitch of a sound depends on its:",
+          "options": ["Amplitude", "Frequency", "Speed", "Wavelength times amplitude"],
+          "answerIndex": 1,
+          "explanation": "Pitch is determined by frequency. Higher frequency = higher pitch. Lower frequency = lower pitch. Loudness (volume) is determined by amplitude. Quality (timbre) is determined by waveform/harmonics. A dog whistle has high frequency (high pitch, inaudible to humans); a bass drum produces low frequency (low pitch). These three characteristics — pitch (f), loudness (A), quality — are frequently tested.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Speed of sound is highest in which medium?",
+          "options": ["Air", "Water", "Steel", "Vacuum"],
+          "answerIndex": 2,
+          "explanation": "Speed of sound: Steel (~5960 m/s) > Water (~1500 m/s) > Air (332 m/s at 0°C). Sound does NOT travel in vacuum (no medium). The general rule: v_solid > v_liquid > v_gas. Solids are more elastic (greater restoring force) → vibrations transmit faster. This is why you can hear a distant train by pressing your ear to the rail before you hear it through the air.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Ultrasound is used in medical imaging (sonography) because it:",
+          "options": ["Is brighter than visible light and easier to focus", "Is ionising radiation and can kill viruses in the body", "Reflects differently from different tissue types, giving soft-tissue images without ionising radiation", "Travels faster than light and gives instant imaging"],
+          "answerIndex": 2,
+          "explanation": "Ultrasound waves reflect at boundaries between tissues of different densities (acoustic impedances). By measuring the timing and intensity of reflections at different angles, a computer constructs a 2D or 3D image. Key advantage: no ionising radiation (unlike X-rays or CT scans) → safe for foetal scanning, repeat examinations, and monitoring organ function in real time.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Doppler Effect refers to the apparent change in frequency when:",
+          "options": ["A sound wave enters a denser medium and slows down", "The sound intensity decreases with distance from the source", "There is relative motion between the source of sound and the observer", "A sound wave reflects off a wall and returns to the source"],
+          "answerIndex": 2,
+          "explanation": "The Doppler Effect occurs whenever there is relative motion between the sound source and observer. Source approaching → waves compressed → higher apparent frequency (higher pitch). Source receding → waves stretched → lower apparent frequency (lower pitch). Named after Austrian physicist Christian Doppler (1842). Applications include radar speed guns, weather Doppler radar, and astronomical redshift/blueshift.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

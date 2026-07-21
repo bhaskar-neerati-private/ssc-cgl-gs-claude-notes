@@ -1,0 +1,158 @@
+{
+  "topic": "Ray Optics — Reflection, Refraction, TIR, Lenses, Mirrors & Optical Instruments",
+  "topicId": "phys-ray-optics",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "A convex lens is used to correct which vision defect?",
+          "options": ["Myopia (short-sightedness)", "Hypermetropia (long-sightedness)", "Astigmatism", "Colour blindness"],
+          "answerIndex": 1,
+          "explanation": "Hypermetropia (long-sightedness) occurs when the eyeball is too short — image forms behind the retina. A convex (converging) lens is placed in front of the eye to converge light earlier, bringing the image to focus on the retina. Myopia (short-sightedness, image forms in front of retina) is corrected by a concave (diverging) lens.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The refractive index of diamond is 2.42. This means that:",
+          "options": ["Light travels 2.42 times faster in diamond than in vacuum", "Light travels 2.42 times slower in diamond than in vacuum", "Diamond absorbs 2.42% of light that enters it", "Diamond reflects 2.42 times more light than air"],
+          "answerIndex": 1,
+          "explanation": "Refractive index n = c/v (speed of light in vacuum / speed of light in medium). n = 2.42 means light travels 2.42 times SLOWER in diamond than in vacuum. The very high refractive index also gives diamond a very small critical angle (~24°) — most light entering a diamond undergoes Total Internal Reflection multiple times before finally exiting, producing the characteristic sparkle (brilliance).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which type of mirror is used as a rear-view mirror in vehicles?",
+          "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Cylindrical mirror"],
+          "answerIndex": 2,
+          "explanation": "Convex mirrors are used as rear-view mirrors in vehicles because they: (1) always form a virtual, erect, diminished image (you can see more of what's behind), (2) provide a wider field of view than a plane or concave mirror, (3) image appears smaller but covers a wider area. The disadvantage is that objects appear further away than they actually are (hence the warning: 'Objects in mirror are closer than they appear').",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The power of a concave lens of focal length 50 cm is:",
+          "options": ["+2 D", "+0.5 D", "−2 D", "−0.5 D"],
+          "answerIndex": 2,
+          "explanation": "Power P = 1/f (f in metres). Concave lens: f is negative (by sign convention). f = −50 cm = −0.5 m. P = 1/(−0.5) = −2 D. Negative power = concave (diverging) lens. Convex (converging) lens has positive power. This calculation appears regularly in SSC — always convert focal length from cm to metres first.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "When light goes from glass (n=1.5) to air (n=1.0) at an angle greater than the critical angle, what happens?",
+          "options": ["Light passes through air but is slowed down significantly", "Light is partially reflected and partially refracted", "Total Internal Reflection occurs — all light reflects back into the glass", "Light is absorbed by the glass-air boundary"],
+          "answerIndex": 2,
+          "explanation": "Total Internal Reflection (TIR) occurs when: (1) light travels from denser (glass, n=1.5) to less dense (air, n=1.0) medium, AND (2) angle of incidence exceeds the critical angle. For glass-air, critical angle ≈ 42°. When both conditions are met, ALL incident light is reflected internally — zero transmission into air. This is 100% efficient reflection — more efficient than the best metallic mirrors (~95%). Optical fibres exploit this principle.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Why does a pencil placed in a glass of water appear broken/bent at the water surface?",
+          "options": ["Water exerts pressure on the pencil, bending it", "Light from the submerged portion is refracted (bent) at the water-air interface, changing its apparent direction", "The glass magnifies the submerged portion, making it appear displaced", "The density difference causes an optical illusion unrelated to light behavior"],
+          "answerIndex": 1,
+          "explanation": "This is refraction. Light rays from the submerged pencil travel from water (denser, n=1.33) to air (less dense, n=1.0), bending away from the normal (Snell's Law). The eye traces these bent rays in straight lines back to where they appear to originate — an apparent position different from the real position. The pencil appears displaced upward and to one side → looks bent or broken at the waterline.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "A mirage in the desert is caused by:",
+          "options": ["Reflection of sky light from the flat sandy surface", "Scattering of sunlight by hot sand particles", "Total Internal Reflection of sky light through progressively less dense air layers near the hot ground", "Evaporation of water creating a watery shimmer on the surface"],
+          "answerIndex": 2,
+          "explanation": "Mirage is a TIR phenomenon. Near a hot desert surface, air is hottest (least dense, lowest refractive index) near the ground, becoming cooler (denser) higher up. Light from the sky entering this gradient of decreasing n continuously bends away from the normal. Eventually, at some angle, TIR occurs — the light curves upward and enters the observer's eye from below. The brain interprets this as a reflection from water on the ground.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The least distance of distinct vision for a normal human eye is:",
+          "options": ["10 cm", "25 cm", "50 cm", "100 cm"],
+          "answerIndex": 1,
+          "explanation": "The least distance of distinct vision (D) = 25 cm for a normal adult eye. Objects closer than 25 cm cannot be focused clearly — the eye's lens cannot accommodate (become curved enough). This value is used in the magnification formula for microscopes: M = 1 + D/f. A child's eye can see clearly as close as 7–8 cm (more flexible lens); in old age, D increases to 100 cm or more (presbyopia).",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Optical fibres work on the principle of:",
+          "options": ["Regular reflection at the silvered inner surface", "Refraction at each bend in the fibre", "Total Internal Reflection at the glass-cladding boundary", "Diffraction of light around the fibre's curves"],
+          "answerIndex": 2,
+          "explanation": "Optical fibres consist of a high-refractive-index glass core surrounded by lower-refractive-index cladding. Light entering the core at the correct angle undergoes repeated Total Internal Reflection at the core-cladding boundary and travels the length of the fibre with very low loss. Modern optical fibres transmit data as light pulses at ~70% the speed of light in vacuum — internet backbone cables are optical fibres.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "A dentist's mirror (used to examine teeth) is which type of mirror?",
+          "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+          "answerIndex": 2,
+          "explanation": "Dentists use a small concave mirror because when the object (tooth) is placed between the focal point and the mirror, the concave mirror produces a virtual, erect, and magnified image. This allows the dentist to see an enlarged view of the tooth clearly. The image is on the same side as the object (virtual) and easier to view at close range. This is the same principle as a shaving/makeup mirror.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "In a compound microscope, which lens is placed closest to the object being examined?",
+          "options": ["The eyepiece (ocular lens) with short focal length", "The objective lens with short focal length and high magnification power", "A plane mirror for illumination", "The condenser lens for focusing light"],
+          "answerIndex": 1,
+          "explanation": "In a compound microscope, the objective lens (short focal length, placed near the object) forms the first magnified real image. The eyepiece (another converging lens of short focal length) then acts as a magnifying glass to further magnify this intermediate image. The objective determines the resolution (ability to distinguish fine detail); the eyepiece provides additional magnification. Total magnification = M_objective × M_eyepiece.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Presbyopia (the age-related vision problem requiring reading glasses) is caused by:",
+          "options": ["The eyeball becoming too short with age", "The lens of the eye losing its flexibility — ciliary muscles weaken and lens cannot accommodate for near vision", "The cornea becoming less transparent with age", "Degeneration of the retina's cone cells"],
+          "answerIndex": 1,
+          "explanation": "Presbyopia: the ciliary muscles (which change lens curvature for accommodation) weaken with age, and the eye lens itself loses elasticity. The eye can no longer adjust its focal length sufficiently for near objects (the near point recedes from 25 cm in young adults to 100 cm or more). This is why most people over 45 need reading glasses (convex lens for near vision). Presbyopia is not myopia or hypermetropia — it is specifically the loss of accommodation.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which type of lens is used to correct myopia (short-sightedness)?",
+          "options": ["Convex (converging) lens", "Concave (diverging) lens", "Cylindrical lens", "Bifocal lens"],
+          "answerIndex": 1,
+          "explanation": "Myopia: the image of distant objects forms in front of the retina (eyeball too long, or lens too curved). A concave (diverging) lens diverges light before it enters the eye → the eye then converges it properly onto the retina. The concave lens has negative power (in dioptres). Hypermetropia (long-sightedness) → convex lens. Astigmatism → cylindrical lens. Presbyopia → bifocal or reading glasses (convex).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "When light goes from a rare medium (air) to a dense medium (glass), it bends:",
+          "options": ["Away from the normal", "Toward the normal", "Parallel to the surface", "In the same direction without bending"],
+          "answerIndex": 1,
+          "explanation": "Snell's Law: n₁ sin θ₁ = n₂ sin θ₂. Going from air (n=1) to glass (n=1.5): θ₂ < θ₁ → the refracted ray bends toward the normal. The light slows down in the denser medium. Conversely, going from glass to air, light speeds up and bends away from the normal (θ increases).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Headlights and searchlights use which type of mirror to produce a strong parallel beam?",
+          "options": ["Convex mirror", "Plane mirror", "Concave mirror with bulb at focus", "Two plane mirrors at 45°"],
+          "answerIndex": 2,
+          "explanation": "When a light source is placed at the principal focus of a concave mirror, all reflected rays are parallel to the principal axis — producing a powerful parallel beam. This is used in headlights, torches, spotlights, and searchlights. The parabolic concave mirror is ideal for this (focus is a sharp point). Reverse: parallel sunlight reflected by concave mirror converges at focus → solar cooker.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The speed of light in vacuum is:",
+          "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10¹² m/s"],
+          "answerIndex": 1,
+          "explanation": "Speed of light in vacuum c = 3 × 10⁸ m/s = 300,000 km/s. This is the universal speed limit — no information or matter can travel faster. Light from the Moon reaches Earth in ~1.3 seconds; from the Sun in ~8 minutes; from the nearest star (Proxima Centauri) in ~4.2 years. Light is slower in any medium (speed = c/n, where n is refractive index).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

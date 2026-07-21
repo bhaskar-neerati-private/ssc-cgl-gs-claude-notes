@@ -1,0 +1,188 @@
+{
+  "topic": "Properties of Matter — Pressure, Buoyancy, Bernoulli, Surface Tension & Viscosity",
+  "topicId": "phys-properties-matter",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Archimedes' Principle states that the buoyant force on a submerged body is equal to:",
+          "options": ["The weight of the body", "The weight of the fluid displaced", "The product of density and volume of the body", "The difference in weight of body in air and in fluid"],
+          "answerIndex": 1,
+          "explanation": "Archimedes' Principle: Buoyant force = weight of fluid displaced by the submerged (or partially submerged) body. F_B = ρ_fluid × V_submerged × g. This is the weight of the fluid that occupies the same volume as the submerged part of the body.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Pascal's Law is the basis of which of the following?",
+          "options": ["Aeroplane wing lift", "Hydraulic brakes and jacks", "Capillary action in plants", "Surface tension of water"],
+          "answerIndex": 1,
+          "explanation": "Pascal's Law states that pressure applied to an enclosed fluid is transmitted equally in all directions. This principle operates in hydraulic brakes (foot pressure transmitted equally to all wheels), hydraulic jacks (small force on small piston creates large force on large piston), and hydraulic machinery.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "An aeroplane's wing generates lift based on:",
+          "options": ["Newton's Third Law only", "Bernoulli's principle — faster air above wing creates lower pressure", "Archimedes' principle — plane displaces air", "Pascal's Law — pressure applied to air is transmitted upward"],
+          "answerIndex": 1,
+          "explanation": "An aerofoil (wing) is curved on top and flatter below. Air moves faster over the curved top surface (greater path length), creating lower pressure above. Slower air below creates higher pressure. The pressure difference produces net upward lift. This is Bernoulli's theorem: P + ½ρv² = constant → higher v means lower P.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The viscosity of a liquid generally:",
+          "options": ["Increases with temperature", "Decreases with temperature", "Is unaffected by temperature", "First increases then decreases with temperature"],
+          "answerIndex": 1,
+          "explanation": "Viscosity of liquids DECREASES with temperature — thermal energy weakens intermolecular bonds that resist flow (honey flows more easily when warm). This is opposite for gases: gas viscosity INCREASES with temperature (more molecular collisions increase momentum transfer between layers). This difference is a classic exam trap.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "When a body is taken from the surface to the bottom of a lake, its weight:",
+          "options": ["Increases because of water pressure", "Decreases because buoyancy acts upward, reducing apparent weight", "Remains the same as weight is a constant", "Becomes zero at sufficient depth"],
+          "answerIndex": 1,
+          "explanation": "True weight (mg) is constant regardless of location in water. But APPARENT weight (what a scale reads) = True weight − Buoyant force. Since buoyant force acts upward, apparent weight < true weight when submerged. An object weighs less on a spring balance when submerged in water than in air. This is why gold appears lighter when submerged (Archimedes' crown problem).",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Why does hot water clean better than cold water (aside from chemical effects)?",
+          "options": [
+            "Hot water has higher density, exerting more force on dirt",
+            "Hot water has lower surface tension, allowing it to penetrate fabric fibres more easily",
+            "Heat melts dirt particles directly",
+            "Hot water has higher viscosity, trapping more dirt"
+          ],
+          "answerIndex": 1,
+          "explanation": "Surface tension decreases with temperature. Cold water's high surface tension makes it 'bead up' on surfaces. Hot water has lower surface tension and spreads more easily, penetrating fabric fibres and reaching dirt more effectively. Detergents further reduce surface tension (surfactants) — the combination of heat and detergent is most effective.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Mercury shows a convex meniscus in a glass tube while water shows a concave meniscus because:",
+          "options": [
+            "Mercury is denser than water",
+            "For mercury, cohesion (Hg-Hg) > adhesion (Hg-glass); for water, adhesion (water-glass) > cohesion (water-water)",
+            "Mercury is a metal and doesn't obey normal surface tension rules",
+            "The glass tube diameter is different for each"
+          ],
+          "answerIndex": 1,
+          "explanation": "Meniscus shape depends on relative strength of adhesion (liquid-glass) vs cohesion (liquid-liquid). Water: adhesion to glass > cohesion between water molecules → water wets glass, concave meniscus, rises in capillary. Mercury: cohesion between Hg atoms > adhesion to glass → mercury doesn't wet glass, convex meniscus, is depressed in capillary.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "A steel needle can float on water if placed carefully. This is due to:",
+          "options": ["Steel density equals water density", "Surface tension of water supports the needle", "The needle is hollow inside", "Magnetic repulsion from Earth"],
+          "answerIndex": 1,
+          "explanation": "A steel needle (density ~7,800 kg/m³, far denser than water) cannot float by buoyancy. But if placed gently on the water surface, it deforms the surface tension 'skin' without breaking through. The surface tension provides an upward force sufficient to support the needle's weight. Once the surface is punctured, the needle immediately sinks.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "A submarine changes its depth by:",
+          "options": [
+            "Changing its propeller speed only",
+            "Filling or emptying ballast tanks with seawater to change buoyancy",
+            "Changing the shape of its hull to alter displacement",
+            "Using a pump to push water downward"
+          ],
+          "answerIndex": 1,
+          "explanation": "Submarines use ballast tanks. To dive: seawater floods ballast tanks → submarine weight increases beyond buoyant force → submarine sinks. To surface: compressed air forces water out of tanks → weight decreases below buoyant force → submarine rises. At depth: weight = buoyancy (neutral buoyancy). This is a direct application of Archimedes' Principle.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Water boils at a lower temperature at high altitudes because:",
+          "options": [
+            "Less oxygen is available at high altitude",
+            "Atmospheric pressure decreases with altitude, lowering the boiling point",
+            "The air is colder at altitude, reducing heat input",
+            "High altitude water has fewer dissolved minerals"
+          ],
+          "answerIndex": 1,
+          "explanation": "Boiling point is the temperature at which vapour pressure equals atmospheric pressure. At higher altitudes, atmospheric pressure is lower. Therefore, water needs to reach a lower vapour pressure to boil — which occurs at a lower temperature. At Everest base camp (~5,400 m), water boils at ~83°C instead of 100°C. Food takes longer to cook, and pressure cookers are used to raise the boiling point.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Terminal velocity of a falling body through a viscous fluid is the velocity at which:",
+          "options": [
+            "The body reaches maximum speed before hitting the ground",
+            "The net downward force (weight − buoyancy − drag) becomes zero",
+            "The body changes direction",
+            "Drag force equals weight only"
+          ],
+          "answerIndex": 1,
+          "explanation": "Terminal velocity: weight (downward) = buoyancy (upward) + drag force (upward, Stokes' Law: 6πηrv). When these balance, net force = 0 → no more acceleration → constant velocity = terminal velocity. v_t = 2r²(ρ_body − ρ_fluid)g/(9η). Larger spheres and denser bodies have higher terminal velocities; more viscous fluids give lower terminal velocities.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Capillary action in plant stems (rise of water from roots to leaves) works because:",
+          "options": [
+            "Plants actively pump water using electrical signals",
+            "Adhesion between water and xylem walls and cohesion between water molecules pull water upward",
+            "Osmotic pressure alone drives water up",
+            "The leaves create a partial vacuum drawing water up"
+          ],
+          "answerIndex": 1,
+          "explanation": "Water rises in narrow xylem vessels through a combination of: (1) Capillary action — adhesion of water to xylem walls + cohesion between water molecules (COHESION-TENSION theory). (2) Root pressure (osmosis in roots pushes water up). (3) Transpiration pull from leaves creates tension that draws water up the stem. Capillary action alone cannot account for trees over ~10 m, so transpiration pull is the main mechanism.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "A body floats in a liquid when:",
+          "options": ["Its density equals the liquid density", "Its weight equals the buoyant force (weight of liquid displaced)", "Its volume is greater than the liquid volume", "The liquid density is less than the body density"],
+          "answerIndex": 1,
+          "explanation": "Floating condition: Weight of body = Weight of liquid displaced (= Buoyant force). This means the body displaces liquid equal to its own weight. If the body is less dense than the liquid, it displaces only part of its volume to equal its own weight — it floats partially submerged. If same density, it floats fully submerged (neutral buoyancy).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The instrument used to measure the specific gravity (relative density) of liquids is:",
+          "options": ["Barometer", "Manometer", "Hydrometer", "Thermometer"],
+          "answerIndex": 2,
+          "explanation": "A hydrometer measures the specific gravity (ratio of density to that of water) of liquids based on how deep it sinks (buoyancy principle). It is used to test milk purity (lactometer is a specialised hydrometer), battery acid concentration, and alcohol content. A barometer measures atmospheric pressure.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "In Bernoulli's equation (P + ½ρv² + ρgh = constant), when fluid velocity increases, pressure:",
+          "options": ["Increases proportionally", "Decreases", "Remains unchanged", "Becomes zero"],
+          "answerIndex": 1,
+          "explanation": "Bernoulli's equation: P + ½ρv² + ρgh = constant. If v increases (fluid speeds up), ½ρv² increases, so P must decrease (assuming constant height h). This counter-intuitive result — faster flow means lower pressure — is the basis of lift in aeroplane wings, the curveball in cricket/baseball, and carburetors.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The standard atmospheric pressure at sea level is approximately:",
+          "options": ["760 mmHg or 101,325 Pa", "500 mmHg or 66,661 Pa", "1000 mmHg or 133,322 Pa", "760 Pa"],
+          "answerIndex": 0,
+          "explanation": "Standard atmospheric pressure = 101,325 Pa = 1 atm = 760 mmHg (Torr) = 1.013 bar = 14.7 psi. This is the pressure exerted by a 760 mm column of mercury (as demonstrated by Torricelli's barometer in 1643). At high altitudes, atmospheric pressure decreases; in deep mines, it increases.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

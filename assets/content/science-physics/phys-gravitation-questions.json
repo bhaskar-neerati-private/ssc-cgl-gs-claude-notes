@@ -1,0 +1,193 @@
+{
+  "topic": "Gravitation — Universal Law, Kepler's Laws, Escape Velocity & Satellites",
+  "topicId": "phys-gravitation",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "The escape velocity from the Earth's surface is approximately:",
+          "options": ["7.9 km/s", "11.2 km/s", "3 km/s", "25 km/s"],
+          "answerIndex": 1,
+          "explanation": "Escape velocity from Earth = √(2gR) ≈ 11.2 km/s. This is the minimum speed needed to permanently escape Earth's gravitational field. Orbital velocity (near-Earth) = 7.9 km/s, which is √2 times less than escape velocity. Moon's escape velocity ≈ 2.37 km/s.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Kepler's second law (equal areas in equal times) is a consequence of:",
+          "options": ["Conservation of linear momentum", "Conservation of angular momentum", "Conservation of energy", "Newton's Third Law"],
+          "answerIndex": 1,
+          "explanation": "Kepler's Second Law states that a planet sweeps equal areas in equal time intervals. Since no external torque acts on the planet-Sun system, angular momentum is conserved. Conservation of angular momentum means when a planet is closer to the Sun (smaller r), it moves faster (larger v) so that r × v = constant.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "A geostationary satellite orbits Earth at an altitude of approximately:",
+          "options": ["400 km", "2,000 km", "20,200 km", "35,786 km"],
+          "answerIndex": 3,
+          "explanation": "Geostationary satellites orbit at exactly 35,786 km (≈ 36,000 km) above Earth's equator. At this altitude, the orbital period is exactly 24 hours — matching Earth's rotation — making the satellite appear stationary relative to the ground. Used for TV broadcast, weather (INSAT), and communication.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Value of acceleration due to gravity (g) is maximum at:",
+          "options": ["The equator", "The poles", "The Tropic of Cancer", "The centre of Earth"],
+          "answerIndex": 1,
+          "explanation": "g is maximum at the poles because: (1) Earth is oblate — the polar radius is less than equatorial radius (R_pole < R_equator), and g ∝ 1/R², so g_pole > g_equator. (2) Earth's rotation reduces effective g at the equator. g is zero at Earth's centre, and decreases with altitude above the surface.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "An astronaut in the International Space Station (ISS) at ~400 km altitude feels weightless. This is because:",
+          "options": [
+            "Gravity is zero at 400 km altitude",
+            "The ISS is too far from Earth for gravity to act",
+            "Both the ISS and astronaut are in free fall toward Earth at the same rate",
+            "The astronaut's mass becomes zero in space"
+          ],
+          "answerIndex": 2,
+          "explanation": "At 400 km, g ≈ 8.7 m/s² (about 89% of surface value — gravity is very much present). The ISS and astronaut are both in free fall (orbiting = continuous falling). Since both fall at the same rate, there is no normal force between astronaut and floor — apparent weight = 0. Mass never changes; true weight still exists but apparent weight is zero.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "During which lunar phase do SPRING TIDES (highest tidal range) occur?",
+          "options": [
+            "First Quarter and Third Quarter Moon",
+            "New Moon and Full Moon only when Moon is at perigee",
+            "New Moon and Full Moon",
+            "Only during solar eclipses"
+          ],
+          "answerIndex": 2,
+          "explanation": "Spring tides occur at New Moon AND Full Moon — whenever the Sun, Earth, and Moon are approximately aligned (syzygy). At these times, the Sun's and Moon's tidal forces add together, producing the highest high tides and lowest low tides. Neap tides (smallest range) occur at First and Third Quarter when Sun and Moon are at 90° to Earth.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "If the distance between two bodies is doubled, the gravitational force between them becomes:",
+          "options": ["Half", "Double", "One-quarter", "Four times"],
+          "answerIndex": 2,
+          "explanation": "F = Gm₁m₂/r². If r → 2r: F_new = Gm₁m₂/(2r)² = Gm₁m₂/4r² = F/4. Force becomes one-quarter. Gravitational force follows an inverse-square law — doubling distance reduces force to 1/4; tripling distance reduces it to 1/9. This is the same rule followed by electric force (Coulomb's law).",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Earth is slightly closer to the Sun in January (perihelion) than in July (aphelion). According to Kepler's Second Law, Earth moves:",
+          "options": [
+            "Slower in January and faster in July",
+            "At the same speed throughout the year",
+            "Faster in January and slower in July",
+            "Faster in April and October (equinoxes)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Kepler's Second Law: equal areas in equal time. When Earth is closer to the Sun (perihelion in January, ~147 million km), it must move faster to sweep the same area as when far (aphelion in July, ~152 million km). This also means Northern Hemisphere winter (Earth near perihelion) is slightly shorter than Southern Hemisphere winter.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "What is the difference between a geostationary satellite and a geosynchronous satellite?",
+          "options": [
+            "Geostationary has a 24-hour period; geosynchronous has a 12-hour period",
+            "Geosynchronous has a 24-hour period but may be inclined; geostationary must be equatorial and appear fixed",
+            "Geostationary is for communication; geosynchronous is for GPS",
+            "They are identical terms for the same orbit"
+          ],
+          "answerIndex": 1,
+          "explanation": "Geosynchronous = any orbit with a 24-hour period (may be inclined to equator — traces a figure-8 path over the ground). Geostationary = geosynchronous + equatorial orbit + same direction as Earth's rotation. A geostationary satellite appears perfectly fixed in the sky. A geosynchronous inclined satellite oscillates north-south. All geostationary satellites are geosynchronous, but not vice versa.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Why does light hydrogen gas escape from Earth's atmosphere but heavier nitrogen does not?",
+          "options": [
+            "Hydrogen reacts with oxygen and is consumed",
+            "Hydrogen molecules at normal temperatures can reach speeds close to Earth's escape velocity",
+            "UV radiation strips hydrogen from the atmosphere",
+            "Hydrogen dissolves in ocean water and sinks"
+          ],
+          "answerIndex": 1,
+          "explanation": "Escape velocity from Earth = 11.2 km/s. At room temperature, average speed of H₂ molecules (~1.8 km/s) is much less — but there is a distribution of speeds. Some H₂ molecules at the top of the atmosphere have sufficient thermal speeds to exceed escape velocity and leave permanently. N₂ and O₂ molecules are much heavier (slower at same temperature) — essentially none reach 11.2 km/s, so they stay. This explains why Earth has little free hydrogen.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Kepler's Third Law states T² ∝ R³. If a planet is 4 times farther from the Sun than Earth, its orbital period is:",
+          "options": ["4 years", "8 years", "16 years", "64 years"],
+          "answerIndex": 1,
+          "explanation": "T² ∝ R³ → T²/T_Earth² = R³/R_Earth³. If R = 4 R_Earth: T²/1 = 4³ = 64 → T = √64 = 8 years. A planet 4 AU from the Sun takes 8 Earth years to complete one orbit. This is close to Jupiter (5.2 AU, 11.86 years) and explains the long orbital periods of outer planets.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Sun-Synchronous Orbit (SSO) satellites are particularly useful for remote sensing because:",
+          "options": [
+            "They orbit very close to Earth, giving high-resolution images",
+            "They remain over the same spot always, enabling continuous monitoring",
+            "They pass over any location at the same local solar time each day, ensuring consistent lighting",
+            "They orbit at 35,786 km for wide-area coverage"
+          ],
+          "answerIndex": 2,
+          "explanation": "SSO satellites have their orbital plane precess at the same rate as Earth orbits the Sun (about 1° per day). This means they pass over any given location at the same local time each day — identical Sun angle and lighting conditions. This consistency is vital for comparing images taken on different dates to detect changes (deforestation, floods, crop growth). ISRO's Cartosat and Resourcesat use SSO.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Kepler's First Law states that planets move in:",
+          "options": ["Circular orbits with Sun at centre", "Elliptical orbits with Sun at one focus", "Parabolic orbits", "Hyperbolic orbits"],
+          "answerIndex": 1,
+          "explanation": "Kepler's First Law (Law of Orbits): Every planet revolves around the Sun in an elliptical orbit with the Sun at one of the two foci. Copernicus had assumed circular orbits; Kepler's correction to ellipses (derived from Tycho Brahe's data) was a major advance. Newton later proved that gravitational inverse-square law implies elliptical orbits.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Weight of a body on the Moon compared to Earth is:",
+          "options": ["Same as on Earth", "6 times more", "1/6th of Earth weight", "Zero"],
+          "answerIndex": 2,
+          "explanation": "g_Moon ≈ 1.63 m/s² ≈ g_Earth/6. Weight = mg. So weight on Moon ≈ mg/6 = 1/6th of weight on Earth. Mass remains the same (mass is independent of gravity). A 60 kg person weighs 588 N on Earth and 97.8 N on Moon, but has the same mass (60 kg) both places.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The universal gravitational constant G has the value:",
+          "options": ["9.8 m/s²", "6.674 × 10⁻¹¹ N·m²/kg²", "6.022 × 10²³", "1.6 × 10⁻¹⁹ C"],
+          "answerIndex": 1,
+          "explanation": "G = 6.674 × 10⁻¹¹ N·m²/kg² — the Universal Gravitational Constant. It was first measured by Henry Cavendish in 1798 using a torsion balance. It is the same throughout the universe. g = 9.8 m/s² is the acceleration due to gravity at Earth's surface — a derived, location-dependent quantity.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which statement about geostationary satellites is CORRECT?",
+          "options": [
+            "They orbit above the poles",
+            "Their orbital period is 12 hours",
+            "They appear stationary from Earth because their orbital period equals Earth's rotation period",
+            "They orbit at 400 km altitude"
+          ],
+          "answerIndex": 2,
+          "explanation": "Geostationary satellites orbit above the equator at 35,786 km with a 24-hour period — exactly matching Earth's rotation. This makes them appear fixed in the sky from any point on Earth. Three geostationary satellites spaced 120° apart can provide global coverage (except polar regions). INSAT-3D (weather), GSAT series (communication) are Indian geostationary satellites.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
