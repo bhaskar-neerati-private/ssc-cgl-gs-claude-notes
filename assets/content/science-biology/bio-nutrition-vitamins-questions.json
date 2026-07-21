@@ -1,0 +1,208 @@
+{
+  "topic": "Nutrition — Vitamins, Minerals, Deficiency Diseases & BMI",
+  "topicId": "bio-nutrition-vitamins",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which vitamin deficiency causes night blindness?",
+          "options": ["Vitamin B12", "Vitamin C", "Vitamin A", "Vitamin D"],
+          "answerIndex": 2,
+          "explanation": "Vitamin A (Retinol) deficiency causes night blindness (nyctalopia). Vitamin A is essential for synthesising rhodopsin — the photosensitive pigment in rod cells of the retina. Rod cells are responsible for vision in dim light (scotopic vision). Without adequate Vitamin A, rhodopsin cannot be regenerated after exposure to light, making it impossible to see in low-light conditions. Prolonged Vitamin A deficiency progresses to Xerophthalmia (dry eye, Bitot's spots on conjunctiva), and finally keratomalacia (corneal softening and ulceration) → permanent blindness. Vitamin A deficiency is the leading preventable cause of childhood blindness worldwide.",
+          "source": "SSC CGL / SSC CHSL previous years — Vitamin A and night blindness is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Scurvy is caused by the deficiency of which vitamin?",
+          "options": ["Vitamin A", "Vitamin B1", "Vitamin C", "Vitamin D"],
+          "answerIndex": 2,
+          "explanation": "Scurvy is caused by deficiency of Vitamin C (Ascorbic acid). Vitamin C is essential for collagen synthesis — specifically for hydroxylation of proline and lysine, which gives collagen fibres their structural strength. Without collagen, blood vessel walls weaken, causing: bleeding gums, loose teeth, perifollicular haemorrhages (bleeding around hair follicles), poor wound healing, reopening of old wounds, fatigue, and joint pain. Historically it killed thousands of sailors on long sea voyages with no fresh fruit. James Lind proved citrus fruit cured scurvy in 1747. The richest food source of Vitamin C is Amla (Indian gooseberry), not oranges as commonly thought.",
+          "source": "SSC CGL / SSC CHSL previous years — scurvy and Vitamin C is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The disease Pellagra is caused by the deficiency of which vitamin?",
+          "options": ["Vitamin B1 (Thiamine)", "Vitamin B3 (Niacin)", "Vitamin B9 (Folic acid)", "Vitamin B12 (Cobalamin)"],
+          "answerIndex": 1,
+          "explanation": "Pellagra is caused by deficiency of Vitamin B3 (Niacin/Nicotinic acid). Niacin is a component of NAD and NADP — coenzymes essential to hundreds of metabolic reactions. Pellagra is classically remembered by the '4 Ds': Dermatitis (photosensitive skin rash on sun-exposed areas — rough, hyperpigmented, scaly), Diarrhoea, Dementia (neurological deterioration), and Death (if untreated). It was historically common in populations subsisting on maize (corn), which has niacin in an unabsorbable bound form — unless treated with lime (traditional Mexican nixtamalization freed the niacin). Beriberi = B1 (Thiamine); Megaloblastic anaemia = B9 (Folate); Pernicious anaemia = B12.",
+          "source": "SSC CGL / SSC CHSL previous years — Pellagra and Niacin (B3) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following vitamins is synthesised in the skin upon exposure to sunlight?",
+          "options": ["Vitamin A", "Vitamin C", "Vitamin E", "Vitamin D"],
+          "answerIndex": 3,
+          "explanation": "Vitamin D (Cholecalciferol, D3) is unique among vitamins in that it can be synthesised by the body itself — the skin converts 7-dehydrocholesterol to cholecalciferol (Vitamin D3) under UV-B radiation (sunlight). This is why Vitamin D is sometimes called the 'sunshine vitamin.' The synthesis is reduced by: sunscreen use, dark skin pigmentation (melanin absorbs UV before it acts), indoor lifestyle, winter/high latitudes (less UV-B), and ageing. Vitamin D must then be activated: liver converts D3 → 25-OH-D3, then kidneys convert it → 1,25-(OH)₂-D3 (calcitriol, the active form). Deficiency causes Rickets in children (soft, bowed bones) and Osteomalacia in adults.",
+          "source": "SSC CGL / SSC CHSL previous years — Vitamin D synthesised by sunlight is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the richest food source of Vitamin C — and why do most people get this wrong?",
+          "options": [
+            "Orange — highest Vitamin C at ~50mg/100g; the 'classic' scurvy prevention fruit",
+            "Amla (Indian gooseberry) — ~600mg/100g; 10× more Vitamin C than orange; many candidates incorrectly choose citrus",
+            "Guava — highest Vitamin C at ~228mg/100g; only Indian fruit with more than lemon",
+            "Lemon — historically used by British sailors to prevent scurvy; highest concentration"
+          ],
+          "answerIndex": 1,
+          "explanation": "Amla (Phyllanthus emblica / Indian gooseberry) contains approximately 600 mg of Vitamin C per 100g — making it the richest natural food source of Vitamin C by far. For comparison: orange = ~50 mg/100g; guava = ~228 mg/100g; lemon = ~50 mg/100g. Additionally, the Vitamin C in amla is unusually stable to heat (due to the presence of tannins that protect it during processing), unlike the easily-oxidised Vitamin C in most other fruits. SSC frequently exploits the common assumption that oranges or lemons are the richest source — always choose Amla. Guava is the second-richest common fruit. Amla is also a key ingredient in Chyawanprash.",
+          "source": "SSC CGL — richest source of Vitamin C = Amla (not orange) is a classic trap question",
+          "verified": true
+        },
+        {
+          "text": "Pernicious anaemia and iron-deficiency anaemia are both types of anaemia, but their causes are completely different. What distinguishes pernicious anaemia?",
+          "options": [
+            "Pernicious anaemia is caused by low dietary iron; iron-deficiency anaemia is caused by blood loss",
+            "Pernicious anaemia results from B12 deficiency due to lack of intrinsic factor (often autoimmune), producing large abnormal RBCs; iron-deficiency anaemia produces small, pale RBCs",
+            "Both are caused by dietary deficiency — pernicious by lack of B12 foods, iron-deficiency by lack of iron-rich foods",
+            "Pernicious anaemia is a genetic disorder; iron-deficiency anaemia is always from dietary deficiency"
+          ],
+          "answerIndex": 1,
+          "explanation": "Pernicious anaemia is specifically caused by inability to absorb Vitamin B12 due to lack of intrinsic factor. Intrinsic factor is a glycoprotein secreted by parietal cells of the gastric (stomach) mucosa — it is essential for B12 absorption in the terminal ileum. Autoimmune gastritis destroys parietal cells → no intrinsic factor → B12 malabsorption even if diet is adequate. B12 deficiency impairs DNA synthesis → abnormally large, fragile RBCs (megaloblastic anaemia). Also causes subacute combined degeneration of the spinal cord (neurological damage). Iron-deficiency anaemia: small (microcytic), pale (hypochromic) RBCs — from blood loss (menstruation, bleeding), poor diet, or poor absorption. Completely different pathology.",
+          "source": "SSC CGL — pernicious anaemia (B12 + intrinsic factor) vs iron-deficiency anaemia is a tricky distinction",
+          "verified": true
+        },
+        {
+          "text": "Vitamin K deficiency causes bleeding. Warfarin, a blood-thinning drug used to prevent clots, also works on Vitamin K. What is the mechanism and the implication for diet?",
+          "options": [
+            "Warfarin supplements Vitamin K; patients should avoid all foods with Vitamin K",
+            "Warfarin blocks Vitamin K's role in activating clotting factors (II, VII, IX, X); patients must maintain consistent Vitamin K intake so warfarin doses can be calibrated — sudden increases in leafy green intake can reduce warfarin's effect",
+            "Warfarin destroys Vitamin K in the blood; patients need Vitamin K injections monthly",
+            "Vitamin K and warfarin have no interaction; warfarin works through a different pathway entirely"
+          ],
+          "answerIndex": 1,
+          "explanation": "Warfarin (a vitamin K antagonist) works by inhibiting VKORC1 — the enzyme that recycles Vitamin K to its active form. Without active Vitamin K, the liver cannot carboxylate (activate) clotting factors II (prothrombin), VII, IX, and X → reduced clotting → anticoagulation. The practical implication: the dose of warfarin is calibrated against a patient's usual Vitamin K intake. If a patient suddenly increases consumption of Vitamin K-rich foods (spinach, kale, broccoli), it competes with warfarin → clotting factors are activated more → clot risk increases. Consistency of Vitamin K intake (not eliminating it) is required, and INR (International Normalised Ratio) blood tests monitor anticoagulation level. Warfarin is used for DVT, pulmonary embolism, atrial fibrillation, mechanical heart valves.",
+          "source": "SSC CGL — Vitamin K and warfarin interaction is a tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Neural tube defects (NTDs) like spina bifida are linked to deficiency of which nutrient, and why is the TIMING of supplementation critical?",
+          "options": [
+            "Vitamin B12 — must be taken in the third trimester when the spinal cord myelinates",
+            "Folic acid (Vitamin B9) — must be taken BEFORE conception and in the FIRST TRIMESTER, because neural tube closure occurs by week 4 of pregnancy (often before a woman even knows she is pregnant)",
+            "Calcium — must be taken throughout pregnancy for foetal bone development including spinal vertebrae",
+            "Iron — must be taken in the second trimester when foetal red blood cell production begins"
+          ],
+          "answerIndex": 1,
+          "explanation": "Folic acid (Vitamin B9) is critical for the closure of the neural tube — the embryonic structure that develops into the brain and spinal cord. The neural tube forms and closes between days 21–28 of pregnancy (weeks 3–4). This is often before a woman even knows she is pregnant (most women first realise at 6–8 weeks). Folic acid deficiency during this critical window → neural tube fails to close → Spina bifida (spinal defect → paralysis, bladder/bowel dysfunction) or Anencephaly (absent brain — lethal). This is why international medical guidelines recommend folic acid supplementation for ALL women of childbearing age, starting BEFORE conception, not waiting until pregnancy is confirmed. 400–800 mcg/day of folic acid is the standard recommendation.",
+          "source": "SSC CGL — folic acid timing for neural tube defect prevention (must be BEFORE conception) is tricky",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Beriberi has two forms — dry and wet — caused by the same deficiency (Vitamin B1). What is the fundamental difference between them?",
+          "options": [
+            "Dry beriberi affects well-nourished people; wet beriberi affects malnourished people with concurrent protein deficiency",
+            "Dry beriberi primarily affects the NERVOUS SYSTEM (peripheral neuropathy: weakness, numbness, wasting); wet beriberi primarily affects the CARDIOVASCULAR SYSTEM (heart failure, oedema/fluid accumulation)",
+            "Dry beriberi is caused by B1 deficiency alone; wet beriberi is caused by B1 + B2 combined deficiency",
+            "Dry beriberi is congenital (from birth); wet beriberi develops in adult life"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both forms of beriberi result from Vitamin B1 (Thiamine) deficiency. Thiamine is a coenzyme in carbohydrate metabolism — particularly the conversion of pyruvate → Acetyl-CoA (enters Krebs cycle). Without energy production, high-demand tissues fail first. Dry beriberi: peripheral nervous system affected → peripheral neuropathy (numbness, burning, tingling), muscle weakness and wasting, especially in the legs. Patients walk with a characteristic stepping gait. Wet beriberi: cardiovascular system affected → high-output heart failure → oedema (fluid accumulation) in legs and body → breathlessness, rapid heart rate. The 'wet' refers to oedema, not moisture. Infantile beriberi (in breastfed babies of thiamine-deficient mothers) is rapidly fatal. Wernicke's encephalopathy (eye movement abnormalities, confusion, ataxia) is the CNS form seen in alcoholics.",
+          "source": "SSC CGL — dry (neurological) vs wet (cardiovascular) beriberi is an underrated distinction",
+          "verified": true
+        },
+        {
+          "text": "Why are raw egg whites dangerous if consumed excessively over time?",
+          "options": [
+            "Raw egg whites contain Salmonella bacteria which gradually colonise the gut",
+            "Raw egg whites contain avidin — a protein that binds biotin (Vitamin B7) and prevents its absorption, causing progressive biotin deficiency",
+            "Raw egg whites contain excess cholesterol which raw cooking does not denature",
+            "Raw egg whites have trypsin inhibitors which over time impair protein digestion"
+          ],
+          "answerIndex": 1,
+          "explanation": "Raw egg whites contain avidin — a glycoprotein that binds very tightly (one of the strongest protein-ligand interactions known) to biotin (Vitamin B7), making biotin completely unavailable for absorption. Biotin is essential for carboxylation reactions (fatty acid synthesis, gluconeogenesis). Prolonged consumption of large quantities of raw egg whites (as in some bodybuilding diets) leads to biotin deficiency: hair loss (alopecia), skin rash, brittle nails, neurological symptoms. Cooking egg whites denatures avidin → it can no longer bind biotin → biotin from other foods is absorbable. Cooked eggs are safe. Egg YOLKS are a rich source of biotin, so whole cooked eggs provide biotin rather than depleting it.",
+          "source": "SSC CGL — avidin in raw egg whites blocks biotin is an underrated but repeatedly asked fact",
+          "verified": true
+        },
+        {
+          "text": "Fluoride is added to toothpaste and sometimes to drinking water to prevent cavities. Yet the same element can cause disease if consumed in excess. What are the two types of fluorosis?",
+          "options": [
+            "Dental fluorosis (white spots/mottling/pitting of tooth enamel) and Skeletal fluorosis (joint pain, spinal stiffness, bone deformity from fluoride accumulation in bones)",
+            "Dental fluorosis (tooth decay) and Renal fluorosis (kidney stones) from excess fluoride",
+            "Mucosal fluorosis (stomach lining damage) and Haematological fluorosis (blood disorder)",
+            "Dental fluorosis (gum disease) and Neurological fluorosis (brain damage)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Fluoride in optimal amounts (0.5–1 ppm in drinking water) hardens tooth enamel (incorporates into hydroxyapatite → fluorapatite, more resistant to acid dissolution by bacteria) and prevents dental caries. However, excess fluoride causes: (1) Dental fluorosis: white spots, brown staining, pitting, and mottling of tooth enamel during tooth formation in childhood — an irreversible cosmetic defect. (2) Skeletal fluorosis: chronic exposure to very high fluoride → fluoride accumulates in bone → bone hardening and brittleness, joint pain, spinal stiffness, crippling deformity in severe cases. Skeletal fluorosis is endemic in parts of India — Rajasthan, Gujarat, Andhra Pradesh, parts of UP — where groundwater fluoride is naturally very high (>1.5 ppm). India's Bureau of Indian Standards limits drinking water fluoride to 1 ppm.",
+          "source": "SSC CGL — dental fluorosis vs skeletal fluorosis from excess fluoride is underrated but asked in SSC",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between Kwashiorkor and Marasmus — two forms of childhood malnutrition?",
+          "options": [
+            "Kwashiorkor = total calorie deficiency (severe underweight, wasting); Marasmus = protein deficiency only",
+            "Kwashiorkor = protein deficiency despite adequate calories (oedema, pot belly, depigmented hair, moon face); Marasmus = total calorie + protein deficiency (severe wasting, 'skin and bones', no oedema)",
+            "Both are identical forms of protein-energy malnutrition with different geographic names",
+            "Kwashiorkor = Vitamin A deficiency causing blindness; Marasmus = protein deficiency causing wasting"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both are forms of Protein-Energy Malnutrition (PEM), but with distinct patterns. Kwashiorkor: adequate or near-adequate calorie intake but severely deficient in protein. The child appears to have a swollen belly (pot belly/oedema due to low plasma proteins — hypoalbuminaemia reduces oncotic pressure → fluid leaks into tissues), moon face, depigmented hair (reddish/lighter colour — 'flag sign' if bands alternate with normal pigmentation), apathy, skin lesions, and fatty liver. The name comes from the Ghanaian word meaning 'displaced child' — typically seen when a child is weaned from breast milk on the arrival of a new sibling and given a high-starch, low-protein diet. Marasmus: severe deficiency of BOTH calories and protein → extreme wasting ('skin and bones'), very low weight, no oedema, shrunken appearance, prominent ribs and facial bones — the child looks aged.",
+          "source": "SSC CGL — Kwashiorkor vs Marasmus distinction is underrated but examined at SSC level",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which vitamins are fat-soluble, and what is the clinical significance of fat solubility?",
+          "options": [
+            "Vitamins B and C are fat-soluble; they are stored in adipose tissue and rarely deficient",
+            "Vitamins A, D, E, K are fat-soluble; they are stored in liver and fat tissue (can accumulate → toxicity possible); not required daily unlike water-soluble vitamins",
+            "All vitamins are equally soluble and the distinction is clinically irrelevant",
+            "Vitamins A and D are fat-soluble; B, C, E, K are water-soluble"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fat-soluble vitamins — A, D, E, K (mnemonic: 'ADEK' or 'All Dogs Eat Kibble') — dissolve in fat and are absorbed with dietary fat through the lymphatic system. They are stored in the liver and adipose tissue, meaning: (1) Deficiency develops slowly (stores must be depleted); (2) Excess can accumulate → toxicity (hypervitaminosis A and D are known clinical problems). They do not need to be consumed every day. Deficiency occurs in fat malabsorption conditions (celiac disease, Crohn's, cystic fibrosis, cholestasis). Water-soluble vitamins (B complex + C) dissolve in water, are absorbed directly into blood, are not stored significantly, are excreted in urine, and must be consumed regularly — but are rarely toxic (excess excreted).",
+          "source": "SSC CGL / SSC CHSL — fat-soluble vs water-soluble vitamins is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which nutritional deficiency is the most common in the world, affecting approximately 2 billion people?",
+          "options": ["Vitamin A deficiency", "Vitamin C deficiency", "Iron deficiency", "Vitamin D deficiency"],
+          "answerIndex": 2,
+          "explanation": "Iron deficiency is the most prevalent nutritional deficiency worldwide, affecting approximately 2 billion people — about 25% of the global population. Iron is essential for haemoglobin synthesis (carries oxygen in RBCs) and myoglobin (oxygen storage in muscles). Deficiency causes iron-deficiency anaemia: reduced haemoglobin → microcytic (small), hypochromic (pale) RBCs → reduced oxygen carrying capacity → fatigue, pallor, breathlessness, reduced physical and cognitive performance. High-risk groups: women of reproductive age (menstrual blood loss), pregnant women (foetal demand), infants and children (rapid growth), and populations with low meat intake. India has one of the highest anaemia burdens globally — NFHS data consistently shows >50% prevalence in women and children.",
+          "source": "SSC CGL / SSC CHSL — iron deficiency as most common nutritional deficiency worldwide is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "According to WHO standards, what is the BMI range for a person classified as 'normal weight'?",
+          "options": ["15.0 – 20.0", "18.5 – 24.9", "20.0 – 27.5", "22.0 – 28.0"],
+          "answerIndex": 1,
+          "explanation": "BMI (Body Mass Index) = Weight in kg ÷ (Height in metres)². WHO classifications: Underweight = <18.5; Normal weight = 18.5–24.9; Overweight = 25.0–29.9; Obese Class I = 30.0–34.9; Obese Class II = 35.0–39.9; Morbidly obese = ≥40. BMI is widely used because it is easy to calculate and correlates broadly with body fat percentage and disease risk. Limitations: it cannot distinguish fat from muscle mass (a muscular athlete can have BMI > 25 with very low body fat), does not reflect fat distribution (abdominal fat carries higher cardiovascular risk than peripheral fat), and may not be accurate for different ethnic groups. The Asian Pacific region uses slightly lower cutoffs: overweight ≥23, obese ≥27.5.",
+          "source": "SSC CGL / SSC CHSL — BMI classification and normal range is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which vitamin is specifically needed for blood clotting, and which anticoagulant drug works by antagonising it?",
+          "options": [
+            "Vitamin E; Heparin antagonises it",
+            "Vitamin C; Aspirin antagonises it",
+            "Vitamin K; Warfarin antagonises it",
+            "Vitamin B12; Clopidogrel antagonises it"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vitamin K is essential for the synthesis of functional blood clotting factors: prothrombin (Factor II), Factor VII, Factor IX, and Factor X — as well as the anticoagulant proteins C and S. The liver requires Vitamin K to carboxylate (activate) these factors. Without Vitamin K, the clotting cascade cannot function → prolonged bleeding. Warfarin (Coumadin) is a Vitamin K antagonist — it inhibits the enzyme VKORC1 that recycles Vitamin K to its active form, reducing clotting factor production. This anticoagulant effect is used to prevent thrombosis in conditions like atrial fibrillation, DVT, and pulmonary embolism. Warfarin dose must be carefully balanced and monitored by INR blood tests, as too much causes bleeding, too little allows clots.",
+          "source": "SSC CGL / SSC CHSL — Vitamin K for clotting and warfarin as antagonist is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

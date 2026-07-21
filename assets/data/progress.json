@@ -416,27 +416,27 @@
         {
           "id": "bio-human-excretory-skeletal",
           "title": "Excretory, Skeletal & Muscular Systems",
-          "status": "not-started"
+          "status": "done"
         },
         {
           "id": "bio-nutrition-vitamins",
           "title": "Nutrition — Vitamins, Minerals, Deficiency Diseases & BMI",
-          "status": "not-started"
+          "status": "done"
         },
         {
           "id": "bio-diseases-vaccines",
           "title": "Human Diseases — Bacterial, Viral, Protozoan, Fungal & Vaccines",
-          "status": "not-started"
+          "status": "done"
         },
         {
           "id": "bio-plant-biology",
           "title": "Plant Biology — Photosynthesis, Respiration, Transpiration & Plant Hormones",
-          "status": "not-started"
+          "status": "done"
         },
         {
           "id": "bio-ecology-environment",
           "title": "Ecology — Food Chains, Pyramids, Biomes & Environmental Issues",
-          "status": "not-started"
+          "status": "done"
         }
       ]
     },

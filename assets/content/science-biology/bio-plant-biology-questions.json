@@ -1,0 +1,208 @@
+{
+  "topic": "Plant Biology — Photosynthesis, Respiration, Transpiration & Plant Hormones",
+  "topicId": "bio-plant-biology",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The overall equation for photosynthesis is: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Where does the oxygen (O₂) released during photosynthesis come from?",
+          "options": [
+            "From carbon dioxide (CO₂) — the carbon atom releases oxygen when CO₂ is split",
+            "From water (H₂O) — water molecules are split by light energy in Photosystem II, releasing O₂",
+            "From both CO₂ and H₂O in equal proportions",
+            "From glucose (C₆H₁₂O₆) as it is synthesised in the Calvin cycle"
+          ],
+          "answerIndex": 1,
+          "explanation": "The oxygen released in photosynthesis comes exclusively from WATER (H₂O), not from CO₂. This was definitively proven by C.B. van Niel (1931) and later confirmed with isotopically labelled oxygen (¹⁸O). In the light-dependent reactions, Photosystem II (P680) absorbs light and uses this energy to split (photolyse) water molecules: 2H₂O → 4H⁺ + 4e⁻ + O₂. The protons (H⁺) and electrons are used in the electron transport chain (producing ATP and NADPH), and the oxygen is released as a by-product into the atmosphere. The carbon dioxide is NOT split — it is incorporated intact into organic molecules (3-PGA) in the Calvin cycle via the enzyme RuBisCO.",
+          "source": "SSC CGL / SSC CHSL previous years — oxygen in photosynthesis comes from water (not CO₂) is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following best describes C4 plants, and what are some examples?",
+          "options": [
+            "Plants that fix carbon only at night; examples: cactus, pineapple, agave",
+            "Plants that have a more efficient photosynthetic pathway suited to hot conditions; first CO₂ fixation product is a 4-carbon compound; examples: maize, sugarcane, sorghum",
+            "Plants that produce 4 molecules of glucose per CO₂ fixed; examples: rice, wheat",
+            "Plants with 4 layers of photosynthetic cells; examples: tobacco, cotton, tomato"
+          ],
+          "answerIndex": 1,
+          "explanation": "C4 plants have a modified photosynthetic pathway that is more efficient in hot, bright, dry conditions than the basic C3 pathway. In C4 plants: CO₂ is first captured by PEP carboxylase (in mesophyll cells) to form a 4-carbon compound — oxaloacetate — which is rapidly converted to malate or aspartate. This is transported to bundle sheath cells where CO₂ is released and enters the Calvin cycle. PEP carboxylase has a much higher affinity for CO₂ than RuBisCO and does not perform photorespiration — making C4 plants significantly more productive in high-temperature, high-light conditions. Classic C4 plants: Maize (corn), Sugarcane, Sorghum, Bajra (pearl millet), Amaranth. CAM plants (cactus, pineapple) are different — they open stomata at night.",
+          "source": "SSC CGL / SSC CHSL previous years — C4 plants and examples (maize, sugarcane) is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which plant hormone is responsible for phototropism — the bending of plant shoots toward light?",
+          "options": ["Gibberellin", "Cytokinin", "Abscisic Acid (ABA)", "Auxin (IAA)"],
+          "answerIndex": 3,
+          "explanation": "Auxin (Indole-3-Acetic Acid, IAA) is responsible for phototropism. Charles Darwin and his son Francis Darwin (1880) first demonstrated that the tip of a grass seedling (coleoptile) was responsible for the bending response toward light. Later, Frits Went (1926) extracted the substance (naming it 'auxin' from Greek 'auxein' = to grow). The mechanism: when light comes from one side, auxin moves laterally from the lit side to the shaded side. Higher auxin concentration on the shaded side causes those cells to elongate more than the lit side → the shoot bends toward the light. Similarly, roots show negative phototropism (grow away from light) because roots are more sensitive to auxin concentration — even the slight excess inhibits root cell elongation on the shaded side.",
+          "source": "SSC CGL / SSC CHSL previous years — auxin responsible for phototropism is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Transpiration in plants mainly occurs through which structure?",
+          "options": ["Root hairs", "Lenticels", "Stomata", "Cuticle"],
+          "answerIndex": 2,
+          "explanation": "Approximately 90% of transpiration in plants occurs through stomata — tiny pores in the leaf epidermis (mostly on the lower surface of the leaf). Each stoma is flanked by two guard cells which control opening and closing through changes in turgor pressure (K⁺ ion-driven water movement). The remaining ~10% occurs through the cuticle (cuticular transpiration) and a tiny fraction through lenticels (in woody stems). Transpiration is essential for: (1) water transport from roots to leaves (transpiration pull via cohesion-tension); (2) uptake of mineral salts (dissolved in transpiration stream); (3) evaporative cooling. Excessive transpiration is harmful (wilting) — ABA closes stomata to reduce water loss under drought stress.",
+          "source": "SSC CGL / SSC CHSL previous years — transpiration mainly through stomata is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Why does numbering matter: Photosystem II is numbered before Photosystem I, yet it functions first in the electron transport chain?",
+          "options": [
+            "The numbering reflects their discovery order — PS II was discovered and numbered second, but its role in the electron transport chain was later found to precede PS I",
+            "The numbering is arbitrary — PS I functions before PS II in actual photosynthesis",
+            "PS I splits water and PS II produces NADPH — the numbers correctly reflect this reversed functional order",
+            "There is no electron transport chain in photosynthesis — both photosystems function independently"
+          ],
+          "answerIndex": 0,
+          "explanation": "The counterintuitive numbering reflects the order of discovery, not the order of function. Photosystem I (PS I) was discovered and characterised first (hence '1'), and Photosystem II (PS II) was discovered and named second (hence '2') — AFTER it was found that there were two photosystems. In the actual electron transport chain (the Z-scheme of photosynthesis), PS II functions FIRST: PS II (P680) absorbs light → splits water → releases electrons. These electrons travel through the ETC (plastoquinone → cytochrome b6f complex → plastocyanin) → reach PS I (P700), which re-energises them and ultimately reduces NADP⁺ to NADPH. So the functional order is PS II → PS I, but the naming order is I, II. Critical to remember: PS II = water splitting + O₂ release; PS I = NADPH production.",
+          "source": "SSC CGL — PS I vs PS II numbering vs functional order is a classic tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Pineapple can be made to flower out of season commercially. Which plant hormone is used, and how does it work?",
+          "options": [
+            "Gibberellin — sprayed on pineapple plants to trigger bolting and then flower initiation",
+            "Auxin — inhibits vegetative growth and forces the plant into flowering",
+            "Ethylene — promotes flowering in pineapple (and other bromeliads); applied as Ethephon (which releases ethylene) to time flowering and thus fruit production",
+            "Cytokinin — delays senescence of leaves, redirecting energy to flower production"
+          ],
+          "answerIndex": 2,
+          "explanation": "Ethylene is used commercially to induce flowering in pineapple (Ananas comosus, a bromeliad) out of season. Pineapple plants flower naturally in response to cool temperatures or dry stress — both of which trigger ethylene production. Commercial growers apply Ethephon (2-chloroethylphosphonic acid) — a liquid that penetrates plant tissues and decomposes to release ethylene — to synchronise flowering (and thus fruit development) so that all plants in a field flower at the same time. This allows harvesting of uniform-sized fruits at a predictable date. Ethylene also promotes ripening and abscission. This is also why keeping an apple (which produces ethylene) next to unripe bananas accelerates their ripening — the ethylene gas diffuses to the bananas.",
+          "source": "SSC CGL — ethylene promotes pineapple flowering (commercial application) is a tricky-underrated fact",
+          "verified": true
+        },
+        {
+          "text": "A farmer notices that a field of pulse (legume) crops has pink/red nodules on the roots, while a field of wheat has no nodules. What explains this difference?",
+          "options": [
+            "Wheat has a disease causing nodule suppression; the pulses have a natural genetic advantage",
+            "Legumes (pulses) form a symbiotic relationship with Rhizobium bacteria that colonise root hairs, forming nitrogen-fixing nodules; wheat is a non-legume and forms no such association",
+            "The pink nodules are a sign of a fungal pathogen infecting the legume roots — they should be treated with fungicide",
+            "Root nodules only form in waterlogged soil; the wheat field must be better drained"
+          ],
+          "answerIndex": 1,
+          "explanation": "Root nodules are formed when Rhizobium bacteria (soil bacteria) infect the root hairs of leguminous (pulse) plants — lentils, chickpeas, beans, soybeans, groundnuts, peas. The bacteria colonise root cortex cells → the infected cells proliferate → form nodules. Inside nodules, Rhizobium fixes atmospheric N₂ into NH₃ using the nitrogenase enzyme. The pink/red colour is due to LEGHAEMOGLOBIN — a haemoprotein (similar to mammalian haemoglobin) produced jointly by the plant and bacteria. Leghaemoglobin binds O₂ in the nodule, maintaining anaerobic conditions necessary for nitrogenase (which is irreversibly destroyed by oxygen). Pink nodules = active nitrogen fixation; white/grey nodules = inactive. This symbiosis is the basis of crop rotation: legumes enrich soil nitrogen, benefiting subsequent cereal crops like wheat.",
+          "source": "SSC CGL — legume root nodules, Rhizobium, and leghaemoglobin function is a tricky mechanistic question",
+          "verified": true
+        },
+        {
+          "text": "Apical dominance is a well-known phenomenon in plants. What exactly happens when a gardener 'pinches' the growing tip of a plant?",
+          "options": [
+            "Removing the tip stimulates gibberellin production in the stem → bolting and rapid height increase",
+            "Removing the apex removes the primary source of auxin → lateral (side) buds are no longer suppressed → they grow → plant becomes bushy rather than tall",
+            "Pinching stimulates ethylene production → promotes root formation from the wound site",
+            "Removing the tip removes cytokinin production → senescence of existing leaves is accelerated"
+          ],
+          "answerIndex": 1,
+          "explanation": "Apical dominance is the suppression of lateral (axillary) bud growth by auxin produced at the shoot apex (apical meristem). High auxin concentration from the growing tip travels down the shoot and inhibits lateral bud development — the plant grows tall and narrow rather than branching. When a gardener 'pinches' (removes) the growing tip: the source of auxin is removed → auxin levels in the shoot fall → lateral buds, which were previously suppressed, are released from inhibition → multiple side branches grow → the plant becomes bushier. This technique is used in horticulture to produce: compact ornamental plants, fuller herb plants (basil, mint), higher-yielding vegetable plants (tomatoes, peppers), and in tea plantation management (keeps tea plants bushy for easy leaf picking). Cytokinins from roots also promote lateral bud growth and work antagonistically with auxin in this context.",
+          "source": "SSC CGL — apical dominance mechanism and 'pinching' a plant tip is a tricky applied question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "RuBisCO is described as 'the most important protein on Earth.' What does it do, and what is its limitation?",
+          "options": [
+            "RuBisCO is a structural protein in chloroplast membranes that holds the photosystems in place — its abundance explains why plants are green",
+            "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase) is the enzyme that fixes CO₂ in the Calvin cycle; it is the most abundant protein on Earth but reacts slowly and also accepts O₂ (photorespiration) — hence C4 plants evolved to concentrate CO₂ around it",
+            "RuBisCO is found in human muscle cells and is the most abundant protein in animals",
+            "RuBisCO is a storage protein in plant seeds — abundant in legumes; it is the protein that makes lentils nutritious"
+          ],
+          "answerIndex": 1,
+          "explanation": "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase) is the enzyme that catalyses the central step of the Calvin cycle: CO₂ + RuBP (ribulose bisphosphate) → 3-PGA (3-phosphoglycerate). It is the most abundant protein on Earth (estimated 0.7 billion tonnes in the biosphere) because plants must produce enormous quantities to compensate for its limitations: (1) It is catalytically slow — fixates only ~3-10 CO₂ molecules per second (most enzymes work at thousands per second); (2) It has a competing reaction — at high O₂ / low CO₂ concentrations (such as on hot days when stomata close), RuBisCO mistakenly binds O₂ instead of CO₂ → photorespiration → wastes fixed carbon and energy with no ATP gain. C4 plants evolved a CO₂-concentrating mechanism (PEP carboxylase in mesophyll cells) that delivers concentrated CO₂ to bundle sheath cells where RuBisCO operates → effectively suppresses photorespiration.",
+          "source": "SSC CGL — RuBisCO as most abundant protein and its role in Calvin cycle is underrated",
+          "verified": true
+        },
+        {
+          "text": "What is the ecological and agricultural significance of leghaemoglobin in legume root nodules?",
+          "options": [
+            "Leghaemoglobin gives legumes their red/pink colour as a visual warning signal to insects",
+            "Leghaemoglobin protects the oxygen-sensitive nitrogenase enzyme by binding free O₂ inside nodules — maintaining anaerobic conditions necessary for nitrogen fixation, while still allowing O₂ for bacterial respiration",
+            "Leghaemoglobin stores nitrogen gas (N₂) within the nodule until it can be fixed",
+            "Leghaemoglobin transports fixed nitrogen (NH₃) from nodule to leaves via the phloem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Leghaemoglobin is a red, haem-containing protein (similar in structure to mammalian haemoglobin and myoglobin) found in the cytoplasm of infected cells in legume root nodules. Its crucial role: nitrogenase (the enzyme that fixes N₂ → NH₃) is extremely sensitive to oxygen — even trace amounts of free O₂ irreversibly destroy nitrogenase. Yet the Rhizobium bacteria inside nodules are aerobic — they need O₂ for respiration to generate the enormous ATP amounts required for nitrogen fixation. Leghaemoglobin solves this paradox: it buffers oxygen, releasing O₂ slowly and steadily to bacterial respiration while preventing any free O₂ from reaching nitrogenase. The pink/red colour of active nodules is from leghaemoglobin; white/grey nodules are inactive. Leghaemoglobin is encoded jointly by plant (haem) and bacterial (globin) genes — an evolutionary marvel of symbiosis.",
+          "source": "SSC CGL — leghaemoglobin function in root nodules is underrated but conceptually important",
+          "verified": true
+        },
+        {
+          "text": "CAM plants have stomata that open at night. Why is this an advantage in deserts, and what is the trade-off?",
+          "options": [
+            "Night air contains more CO₂ than day air because all animals respire but no photosynthesis occurs at night — CAM plants exploit this concentration difference",
+            "Nights in deserts are cooler and less dry than days — opening stomata at night allows CO₂ uptake with much less water loss; the trade-off is that the Calvin cycle cannot run at night (no light), so CO₂ is stored as malic acid and used the next day with stomata closed",
+            "CAM plants open stomata at night because insects pollinate at night; the CO₂ uptake is a side effect of allowing pollinator access",
+            "Nights have lower UV radiation — opening stomata at night prevents UV damage to the delicate guard cells that regulate pores"
+          ],
+          "answerIndex": 1,
+          "explanation": "CAM (Crassulacean Acid Metabolism) is a desert adaptation that separates CO₂ uptake (night) from light-driven carbon fixation (day): At night: temperatures are lower and relative humidity is higher → vapour pressure gradient between leaf interior and air is smaller → opening stomata causes MUCH less water loss than daytime. CO₂ absorbed at night → fixed by PEP carboxylase → forms oxaloacetate → converted to malic acid → stored in vacuoles (cells become acidic at night = 'crassulacean acid'). During the day: stomata CLOSE (water conservation paramount) → malic acid released from vacuoles → CO₂ released → enters Calvin cycle (powered by light). Trade-off: the amount of CO₂ that can be stored overnight limits the total carbon gain. CAM plants grow slowly compared to C4 plants. Examples: Cacti, Agave, Aloe vera, Stonecrop (Sedum), pineapple, Jade plant.",
+          "source": "SSC CGL — CAM plant mechanism (night stomata opening, malic acid storage) is underrated",
+          "verified": true
+        },
+        {
+          "text": "2,4-D (2,4-Dichlorophenoxyacetic acid) is used as an agricultural herbicide. Why does it kill broad-leaved plants but not cereal grasses?",
+          "options": [
+            "2,4-D is toxic to all plants but cereals have evolved resistance through millions of years of cultivation",
+            "2,4-D is a synthetic auxin that mimics natural auxin at extremely high concentrations → causes uncontrolled growth in dicots (broad-leaved plants) whose tissues are more sensitive, leading to abnormal cell division and death; monocots (grasses/cereals) are less responsive to auxin",
+            "2,4-D inhibits chlorophyll synthesis, which broad-leaved plants perform differently from grasses",
+            "2,4-D is sprayed on roots only, which broad-leaved plants have in a different configuration from grass roots"
+          ],
+          "answerIndex": 1,
+          "explanation": "2,4-D (2,4-dichlorophenoxyacetic acid) is a synthetic auxin. At the high concentrations used as a herbicide, it overstimulates auxin responses in dicots (broad-leaved plants like dandelions, thistles, broadleaf weeds): uncontrolled, uncoordinated cell division and elongation → tissues grow abnormally in all directions → vascular system is disrupted → plant dies (twisted, curled stems and leaves are classic signs). Monocots (cereals: wheat, rice, maize, barley, sugarcane) are much less sensitive because: their vascular bundles are scattered differently; their leaf anatomy processes auxin differently; their growing point (apical meristem) is deep in the leaf sheath, more protected. This selectivity makes 2,4-D a valuable selective herbicide — killing weeds in cereal fields without harming the crop. It was developed in the 1940s and was used (in combination with other chemicals) in Agent Orange during the Vietnam War.",
+          "source": "SSC CGL — 2,4-D as selective herbicide (kills dicots, spares monocots/cereals) is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which plant hormone is known as the 'stress hormone' and is responsible for closing stomata during drought?",
+          "options": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic Acid (ABA)"],
+          "answerIndex": 3,
+          "explanation": "Abscisic Acid (ABA), also historically called 'dormin' or 'abscisin,' is the primary plant stress hormone. Under conditions of water deficit (drought), ABA levels in leaves rise rapidly. ABA acts on guard cells: (1) activates ion channels → K⁺ flows out of guard cells → osmotic potential decreases → water leaves guard cells by osmosis → guard cells lose turgor → become flaccid → stoma closes. Closing stomata prevents further water loss by transpiration, allowing the plant to survive drought conditions. ABA also: promotes seed dormancy (inhibits premature germination), promotes leaf abscission (leaf drop), and triggers stress responses to cold, salinity, and heat. Gibberellins break seed dormancy (opposing ABA); cytokinins delay leaf senescence; auxins mediate phototropism.",
+          "source": "SSC CGL / SSC CHSL — ABA as stress hormone that closes stomata is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which gas-form plant hormone is responsible for the ripening of fruits?",
+          "options": ["Auxin", "Abscisic Acid", "Ethylene", "Gibberellin"],
+          "answerIndex": 2,
+          "explanation": "Ethylene (C₂H₄) is the plant hormone responsible for fruit ripening — and it is unique as the only gaseous plant hormone. As fruits mature, they begin producing ethylene → ethylene promotes: colour change (chlorophyll breaks down → anthocyanins and carotenoids revealed → red/yellow/orange colour), softening (cell wall-degrading enzymes activated), increased sweetness (starch → sugars), aroma development. Ethylene is released by ripening fruits and diffuses to nearby fruits, explaining why 'one rotten apple spoils the barrel.' Commercial applications: fruits are harvested unripe (for shipping) and stored with CO₂ / low O₂ to suppress ethylene; then exposed to ethylene gas to trigger ripening before sale. Ethylene also promotes leaf/flower/fruit drop (abscission) and is involved in wound responses. It is the only plant hormone that is a gas at room temperature.",
+          "source": "SSC CGL / SSC CHSL — ethylene for fruit ripening (gaseous hormone) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Nitrogen fixation is the conversion of atmospheric nitrogen (N₂) into a usable form. Which organism forms a symbiotic relationship with legume plant roots to achieve this?",
+          "options": ["Azotobacter", "Rhizobium", "Nitrobacter", "Pseudomonas"],
+          "answerIndex": 1,
+          "explanation": "Rhizobium is the bacterium that forms a symbiotic (mutually beneficial) relationship with leguminous plants (pulses: lentils, chickpeas, soybeans, groundnuts, peas, beans). Rhizobium infects root hair cells of legumes → stimulates nodule formation → lives inside nodules where it fixes atmospheric N₂ → NH₃ using the enzyme nitrogenase. In return, the plant provides sugars and nutrients to the bacteria. Pink/red nodules = active nitrogen fixation (due to leghaemoglobin). Azotobacter and Anabaena are FREE-LIVING nitrogen fixers (not symbiotic) in soil. Nitrobacter performs nitrification (converts NO₂⁻ → NO₃⁻ in soil — different from nitrogen fixation). Pseudomonas performs denitrification (converts NO₃⁻ → N₂ — returns nitrogen to atmosphere).",
+          "source": "SSC CGL / SSC CHSL — Rhizobium in legume root nodules for nitrogen fixation is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which plant hormone promotes cell elongation, is responsible for phototropism, and exercises 'apical dominance'?",
+          "options": ["Gibberellin", "Cytokinin", "Auxin (IAA)", "Ethylene"],
+          "answerIndex": 2,
+          "explanation": "Auxin (Indole-3-Acetic Acid, IAA) is the plant hormone that: (1) Promotes cell elongation — the primary mechanism of plant growth; auxin loosens cell walls by acidification (acid growth theory), allowing cells to take in water and expand; (2) Phototropism — when light comes from one side, auxin migrates to the shaded side, causing those cells to elongate more → shoot bends toward light; (3) Apical dominance — auxin produced by the apical (tip) meristem travels downward and suppresses growth of lateral (axillary) buds. Remove the tip → lateral buds freed from auxin → bushy growth. Auxins also promote root initiation, fruit development, and are involved in fruit drop prevention. Gibberellins promote stem ELONGATION differently (especially in internodes, breaking dormancy). Cytokinins promote cell DIVISION. Ethylene ripens fruits.",
+          "source": "SSC CGL / SSC CHSL — auxin for phototropism and apical dominance is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

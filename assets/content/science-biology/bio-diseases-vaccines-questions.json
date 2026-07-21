@@ -1,0 +1,218 @@
+{
+  "topic": "Human Diseases — Bacterial, Viral, Protozoan, Fungal & Vaccines",
+  "topicId": "bio-diseases-vaccines",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Malaria is caused by which type of organism, and which mosquito transmits it?",
+          "options": [
+            "Bacterium; transmitted by Culex mosquito",
+            "Virus; transmitted by Aedes aegypti mosquito",
+            "Protozoan (Plasmodium); transmitted by female Anopheles mosquito",
+            "Fungus; transmitted by sandfly"
+          ],
+          "answerIndex": 2,
+          "explanation": "Malaria is caused by Plasmodium — a protozoan (single-celled eukaryote), NOT a bacterium or virus. This is one of SSC's favourite classification traps. The parasite is transmitted exclusively by the bite of an infected female Anopheles mosquito. There are four main species of Plasmodium that infect humans: P. falciparum (most dangerous — causes cerebral malaria; highest mortality; most drug-resistant), P. vivax (most common in India; causes relapses due to dormant liver stages called hypnozoites), P. malariae (milder; 72-hour fever cycle), and P. ovale (rare; mainly West Africa). Ronald Ross (Nobel Prize 1902) discovered the Anopheles-malaria link in Secunderabad, India in 1897; Charles Laveran discovered Plasmodium in RBCs in 1880.",
+          "source": "SSC CGL / SSC CHSL previous years — malaria as protozoan, Anopheles vector is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The BCG vaccine protects against which disease?",
+          "options": ["Polio", "Tuberculosis", "Diphtheria", "Tetanus"],
+          "answerIndex": 1,
+          "explanation": "BCG (Bacille Calmette-Guérin) vaccine protects against Tuberculosis (TB), caused by Mycobacterium tuberculosis. BCG is a live attenuated strain of Mycobacterium bovis (bovine tuberculosis). In India, BCG is given at birth as part of the Universal Immunisation Programme (UIP). BCG does not prevent TB infection or pulmonary (lung) TB in adults, but effectively prevents the severe and potentially fatal forms of childhood TB: TB meningitis, miliary TB (disseminated TB), and other extra-pulmonary TB. Robert Koch discovered Mycobacterium tuberculosis in 1882. India has the world's highest burden of TB; the National TB Elimination Programme (NTEP) aims to eliminate TB by 2025.",
+          "source": "SSC CGL / SSC CHSL previous years — BCG vaccine for TB is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which disease was the first to be completely eradicated by a global vaccination campaign?",
+          "options": ["Polio", "Measles", "Smallpox", "Cholera"],
+          "answerIndex": 2,
+          "explanation": "Smallpox (caused by Variola virus) is the only human infectious disease ever completely eradicated from the world. The WHO declared smallpox eradicated on 8 May 1980, after a global vaccination campaign that began in the 1960s. The last naturally occurring case was Ali Maow Maalin in Somalia in October 1977. The smallpox vaccine, developed by Edward Jenner in 1796, used the related cowpox (vaccinia) virus — the world's first vaccine ever. Today, Variola virus exists only in two secure laboratories: the CDC in Atlanta (USA) and the VECTOR Institute in Novosibirsk (Russia). Polio is near-eradicated but not yet completely eradicated (endemic in Afghanistan and Pakistan).",
+          "source": "SSC CGL / SSC CHSL previous years — smallpox as the only eradicated disease is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "India was declared polio-free by the WHO in which year?",
+          "options": ["2011", "2012", "2014", "2016"],
+          "answerIndex": 2,
+          "explanation": "India was certified polio-free by the WHO on 27 March 2014. The last case of wild poliovirus in India was a 2-year-old girl in Howrah, West Bengal in January 2011. India's achievement was remarkable given its large population, density, and sanitation challenges. The success was due to the Pulse Polio campaign (1995 onwards) — mass immunisation days where children under 5 received OPV (Oral Polio Vaccine). India uses both OPV (Oral Polio Vaccine — Sabin's live attenuated vaccine) and IPV (Inactivated Polio Vaccine — Salk's killed vaccine) in its immunisation schedule. Wild poliovirus now only circulates in Afghanistan and Pakistan.",
+          "source": "SSC CGL / SSC CHSL previous years — India polio-free in 2014 is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Dengue mosquito and malaria mosquito — both female, both transmit dangerous diseases. What are the key differences SSC loves to test?",
+          "options": [
+            "Both are Aedes mosquitoes; dengue is transmitted by day-biting, malaria by night-biting varieties",
+            "Dengue: female Aedes aegypti mosquito, bites during DAYTIME, breeds in clean stagnant water; Malaria: female Anopheles mosquito, bites at NIGHT, breeds in slow-moving water",
+            "Dengue: female Culex mosquito (night biting); Malaria: female Anopheles (day biting)",
+            "Both are Anopheles species; dengue spreads through A. albopictus and malaria through A. gambiae"
+          ],
+          "answerIndex": 1,
+          "explanation": "SSC loves to mix up these two: Dengue: caused by Dengue virus (Flavivirus, 4 serotypes); vector = female Aedes aegypti (distinctive black and white striped legs); bites primarily during the DAY (dawn and dusk peaks); breeds in clean, stagnant water in artificial containers (flower pots, tyres, coolers, discarded containers — even small amounts). Malaria: caused by Plasmodium (protozoan); vector = female Anopheles; bites at NIGHT (dusk to dawn); breeds in larger, slow-moving or stagnant natural water bodies (ponds, irrigation canals, waterlogged areas). The night-biting habit of Anopheles makes insecticide-treated bed nets effective for malaria prevention but not for dengue.",
+          "source": "SSC CGL — Aedes (dengue, day) vs Anopheles (malaria, night) distinction is a classic exam trap",
+          "verified": true
+        },
+        {
+          "text": "Ringworm, despite its name, has nothing to do with worms. What actually causes it, and why might someone think this is a trick question?",
+          "options": [
+            "Ringworm is caused by a parasitic roundworm — it is NOT a trick; the name is accurate",
+            "Ringworm is caused by a dermatophyte FUNGUS (Trichophyton, Microsporum, or Epidermophyton) — the 'worm' in the name refers to its ring-shaped lesion, not the organism",
+            "Ringworm is caused by a bacterial infection — specifically Staphylococcus — and spreads by contact",
+            "Ringworm is a viral skin infection spread by direct skin contact, similar to herpes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ringworm (Tinea) is caused by dermatophyte fungi — specifically species of Trichophyton, Microsporum, or Epidermophyton — not by any worm. The name 'ringworm' arose centuries ago because the infection causes a circular (ring-shaped), scaly, itchy rash on the skin. The edge is raised and red while the centre clears — resembling a worm curling under the skin. It is a FUNGAL infection treated with antifungal agents (clotrimazole, terbinafine) — NOT antiparasitic or anthelmintic drugs. Different forms: Tinea corporis (body), Tinea capitis (scalp), Tinea pedis (athlete's foot — between toes), Tinea cruris (groin). SSC explicitly asks whether ringworm is fungal or caused by worms — always: FUNGAL.",
+          "source": "SSC CGL — ringworm is a fungal infection (not worm) is a classic tricky factual question",
+          "verified": true
+        },
+        {
+          "text": "Kala-azar (visceral leishmaniasis) and sleeping sickness (African trypanosomiasis) are both protozoan diseases transmitted by insect vectors. What is the difference in their vectors?",
+          "options": [
+            "Both are transmitted by the tsetse fly; Kala-azar affects the skin and sleeping sickness affects the brain",
+            "Kala-azar: sandfly (Phlebotomus); Sleeping sickness: tsetse fly (Glossina) — both are protozoan diseases but caused by different organisms with different vectors",
+            "Kala-azar: female Anopheles mosquito; Sleeping sickness: female Culex mosquito",
+            "Kala-azar: Aedes mosquito; Sleeping sickness: sandfly"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both are protozoan diseases but caused by different organisms via different insects: Kala-azar (Visceral Leishmaniasis): caused by Leishmania donovani; vector = sandfly (Phlebotomus), which bites at dusk and night. Endemic in Bihar, Jharkhand, West Bengal, and UP in India. 'Kala-azar' means 'black fever' in Hindi/Urdu — named for the darkening of skin that occurs. Causes prolonged fever, massive spleen enlargement (splenomegaly), extreme wasting, and anaemia. Treated with Miltefosine (oral, first oral drug for leishmaniasis) or Amphotericin B. Sleeping Sickness (African Trypanosomiasis): caused by Trypanosoma brucei; vector = tsetse fly (Glossina). Endemic in Sub-Saharan Africa (not India — no tsetse fly here). Causes fever, lymphadenopathy, and CNS invasion → confusion, sleep disturbance, coma, death.",
+          "source": "SSC CGL — Kala-azar (sandfly) vs sleeping sickness (tsetse fly) vector confusion is a classic tricky question",
+          "verified": true
+        },
+        {
+          "text": "Why is a second dengue infection with a different serotype more dangerous than the first?",
+          "options": [
+            "The dengue virus mutates during the first infection, creating a more virulent strain for the second episode",
+            "Antibodies from the first dengue infection (different serotype) actually enhance uptake of the new serotype into immune cells — antibody-dependent enhancement (ADE) — leading to more severe disease",
+            "The immune system is weakened by the first dengue infection, making it unable to fight the second episode",
+            "Different dengue serotypes infect different organs — the second serotype specifically targets platelets, unlike the first"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dengue has 4 distinct serotypes (DENV-1, -2, -3, -4). After recovering from one serotype, the immune system produces serotype-specific antibodies. These antibodies provide long-term protection against the SAME serotype but only temporary (2–3 months) cross-protection against other serotypes. Here is the danger: when infected by a DIFFERENT serotype, the existing cross-reactive antibodies bind to the new virus but cannot neutralise it effectively. Instead, these antibody-virus complexes are more efficiently taken up by macrophages (Fc receptor-mediated uptake) → more viral replication → higher viral load. This is called Antibody-Dependent Enhancement (ADE). It leads to Dengue Haemorrhagic Fever (DHF) — plasma leakage, thrombocytopenia (low platelets), haemorrhage — or Dengue Shock Syndrome. This is why dengue vaccine development is particularly challenging.",
+          "source": "SSC CGL — dengue ADE (second infection worse) is a tricky mechanistic question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The DPT (DTP) vaccine is given to children worldwide. What does each letter stand for, and what type of vaccine component addresses each disease?",
+          "options": [
+            "D = Dengue (live attenuated), P = Plague (killed), T = Typhoid (toxoid)",
+            "D = Diphtheria toxoid, P = Pertussis (killed whole-cell or acellular), T = Tetanus toxoid — combined in one injection",
+            "D = Diphtheria antigen, P = Polio (live), T = TB (BCG) — three separate antigens",
+            "D = Dysentery killed bacteria, P = Pertussis toxoid, T = Typhoid killed bacteria"
+          ],
+          "answerIndex": 1,
+          "explanation": "DPT (also called DTP, Triple Antigen, or Pentavalent when combined with HBV and Hib) contains: D = Diphtheria toxoid (inactivated diphtheria exotoxin — stimulates antitoxin antibodies without causing disease); P = Pertussis (Bordetella pertussis — either killed whole-cell bacteria in wP, or purified acellular subunit antigens in aP; wP causes more side effects but stronger immunity; aP is used in developed countries); T = Tetanus toxoid (inactivated tetanus exotoxin — stimulates antitoxin antibodies; tetanus itself cannot be prevented by antibodies against the bacterium, only against its toxin). India's Universal Immunisation Programme uses Pentavalent vaccine (DPT + Hepatitis B + Hib) at 6, 10, and 14 weeks of age.",
+          "source": "SSC CGL — DPT components and vaccine types is underrated but examined",
+          "verified": true
+        },
+        {
+          "text": "Alexander Fleming's discovery of Penicillin in 1928 is often called accidental. What actually happened, and why was it significant?",
+          "options": [
+            "Fleming deliberately exposed bacterial cultures to mould spores to test antimicrobial effects — it was planned research",
+            "Fleming noticed that Penicillium notatum mould accidentally contaminated a Staphylococcus culture plate — a zone of bacterial clearing surrounded the mould, indicating an antibacterial substance; Penicillin (the first antibiotic) was later purified by Florey and Chain (Nobel Prize 1945)",
+            "Fleming synthesised Penicillin chemically by accident while working on dyes for staining bacteria",
+            "Fleming observed Penicillin's effects when patients accidentally ingested bread mould and recovered from bacterial infections"
+          ],
+          "answerIndex": 1,
+          "explanation": "In 1928, Alexander Fleming returned from holiday to find that a Penicillium notatum mould had accidentally contaminated an uncovered Petri dish of Staphylococcus aureus. Around the mould colony, there was a clear zone where no bacteria grew — the mould was producing something that killed the bacteria. Fleming identified this as 'penicillin' and published his findings. However, he could not purify it in sufficient quantities for clinical use. In 1940–1945, Howard Florey and Ernst Boris Chain at Oxford purified and mass-produced Penicillin, enabling its use in WWII (dramatically reducing deaths from infected wounds). All three shared the Nobel Prize in Physiology or Medicine 1945. Penicillin was the first antibiotic — it works by inhibiting bacterial cell wall synthesis, causing bacteria to burst osmotically.",
+          "source": "SSC CGL — Fleming and Penicillin discovery is underrated and occasionally examined",
+          "verified": true
+        },
+        {
+          "text": "Koch's postulates were a cornerstone of establishing germ theory. What are the four criteria Robert Koch defined for proving that a specific microorganism causes a specific disease?",
+          "options": [
+            "1. The organism must be found in every case of the disease. 2. It must be isolated and grown in pure culture. 3. The culture must cause disease when inoculated into a healthy host. 4. The organism must be re-isolated from the experimentally diseased host and shown to be the same",
+            "1. The organism must be a bacterium. 2. It must produce a toxin. 3. The toxin must kill cells in culture. 4. An antitoxin must reverse the disease.",
+            "1. The organism must be visible under a light microscope. 2. It must be killed by antibiotics. 3. Infected patients must show antibodies. 4. Vaccination must prevent the disease.",
+            "1. The organism must spread by airborne transmission. 2. It must be found in blood. 3. It must be cultured in a laboratory. 4. A vaccine must be developable."
+          ],
+          "answerIndex": 0,
+          "explanation": "Robert Koch's postulates (1884), used to establish the causal relationship between a specific microorganism and a disease: (1) The microorganism must be found in all cases of the disease and not in healthy individuals. (2) The microorganism must be isolated from a diseased individual and grown in pure culture (outside the body). (3) The cultured microorganism must cause disease when introduced into a healthy, susceptible host. (4) The microorganism must be re-isolated from the experimentally infected host and shown to be identical to the original organism. Koch used these to prove M. tuberculosis causes TB (1882) and V. cholerae causes cholera (1883). Modern exceptions exist: some organisms (like M. leprae) cannot be cultured in artificial media, and some diseases are caused by viruses (Koch's postulates were designed for bacteria).",
+          "source": "SSC CGL — Koch's postulates is an underrated but important foundational question",
+          "verified": true
+        },
+        {
+          "text": "Typhoid fever's causative organism Salmonella typhi causes a unique pattern of fever sometimes called 'stepladder fever.' How does cholera's diarrhoea differ fundamentally from that of dysentery?",
+          "options": [
+            "Cholera diarrhoea contains blood and mucus; dysentery diarrhoea is watery and profuse",
+            "Cholera: profuse, watery 'rice-water' stools (no blood/mucus, painless) — cholera toxin increases cAMP → massive fluid secretion into gut lumen; Dysentery (amoebic or bacillary): bloody, mucoid stool, abdominal cramps — gut wall invasion/inflammation",
+            "Both are identical types of diarrhoea; the difference is only in the causative organism",
+            "Cholera is constipation; dysentery is explosive diarrhoea — they are treated with the same antibiotic"
+          ],
+          "answerIndex": 1,
+          "explanation": "The difference is fundamental and diagnostically important: Cholera (Vibrio cholerae): Cholera toxin (CT) binds gut epithelial cells → permanently activates adenylate cyclase → massive rise in cAMP → cells pump Na⁺ and water OUT into gut lumen → huge volumes of watery, pale 'rice-water' stool (so named because it resembles water in which rice has been washed — clear with white mucous flecks). Painless, no blood, no pus. The danger is extreme dehydration — death can occur within hours. Treatment: ORS replaces fluid and electrolytes. Dysentery (from Shigella = bacillary dysentery; Entamoeba histolytica = amoebic dysentery): organisms INVADE the gut wall → inflammatory response → bloody, mucoid stool (blood + mucus + pus), abdominal cramps, tenesmus (painful urge to defecate). Volume is smaller but composition indicates gut inflammation.",
+          "source": "SSC CGL — cholera (rice-water stools) vs dysentery (bloody stools) is underrated but precise knowledge tested",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "The causative agent of Tuberculosis was discovered by which scientist, in which year?",
+          "options": [
+            "Louis Pasteur, 1865",
+            "Alexander Fleming, 1928",
+            "Robert Koch, 1882",
+            "Charles Laveran, 1880"
+          ],
+          "answerIndex": 2,
+          "explanation": "Robert Koch discovered Mycobacterium tuberculosis (the causative agent of tuberculosis) in 1882, announcing his findings on 24 March 1882 — now commemorated annually as World TB Day. Koch used special staining techniques (acid-fast staining — the bacillus resists decolorisation with acid alcohol, hence also called 'acid-fast bacillus' or AFB) to visualise the bacterium. He also formulated Koch's Postulates — the criteria for proving a specific organism causes a specific disease. For these contributions, Koch received the Nobel Prize in Physiology or Medicine in 1905. Koch also discovered the cholera bacillus (Vibrio cholerae) in 1883. Charles Laveran discovered Plasmodium in 1880; Fleming discovered Penicillin in 1928.",
+          "source": "SSC CGL / SSC CHSL — Robert Koch discovering TB bacillus in 1882 is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which disease is transmitted by the female Aedes aegypti mosquito and is characterised by 'breakbone fever' (severe joint and muscle pain)?",
+          "options": ["Malaria", "Filariasis", "Dengue", "Yellow fever"],
+          "answerIndex": 2,
+          "explanation": "Dengue fever (caused by Dengue virus, Flavivirus, serotypes 1-4) is transmitted by the female Aedes aegypti mosquito and is colloquially called 'breakbone fever' because of the excruciating joint and muscle pain (arthralgia and myalgia) it causes. Other symptoms: sudden high fever, severe headache, retro-orbital pain (pain behind the eyes), skin rash, and thrombocytopenia (falling platelet count). Aedes aegypti bites during the daytime (unlike malaria's night-biting Anopheles). It breeds in clean, stagnant water in small containers — flower pots, coolers, discarded tyres. Dengue haemorrhagic fever (DHF) and Dengue Shock Syndrome are life-threatening complications. Yellow fever is also transmitted by Aedes but is a different viral disease; filariasis is from Culex; malaria is from Anopheles.",
+          "source": "SSC CGL / SSC CHSL — Dengue: Aedes mosquito + breakbone fever is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "HIV/AIDS specifically destroys which type of blood cell, leading to immune system collapse?",
+          "options": [
+            "Red blood cells (RBCs) — HIV destroys haemoglobin-containing cells",
+            "Neutrophils — HIV disables the most numerous white blood cells",
+            "CD4⁺ T lymphocytes (Helper T cells) — their destruction leads to AIDS",
+            "B lymphocytes — HIV prevents antibody production"
+          ],
+          "answerIndex": 2,
+          "explanation": "HIV (Human Immunodeficiency Virus) specifically targets CD4⁺ T lymphocytes (also called Helper T cells or T4 cells). CD4⁺ T cells are the master coordinators of immune responses — they activate cytotoxic T cells (to kill infected/cancerous cells), help B cells produce antibodies, and orchestrate the entire adaptive immune response. HIV uses its gp120 surface protein to bind the CD4 receptor on these cells, enters, integrates its reverse-transcribed DNA into the host genome, and gradually destroys these cells. AIDS (Acquired Immunodeficiency Syndrome) is defined when the CD4⁺ T cell count falls below 200 cells/μL (normal: 500-1500/μL) OR when an AIDS-defining illness occurs. With CD4⁺ T cells depleted, the immune system cannot fight opportunistic infections — organisms that a healthy immune system would control easily but that cause severe disease in AIDS patients.",
+          "source": "SSC CGL / SSC CHSL — HIV destroys CD4+ T cells leading to AIDS is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Filariasis (elephantiasis) — the disease causing massive limb swelling — is caused by which organism and transmitted by which vector?",
+          "options": [
+            "Plasmodium vivax; female Anopheles mosquito",
+            "Leishmania donovani; sandfly",
+            "Wuchereria bancrofti (filarial worm); female Culex mosquito",
+            "Trypanosoma cruzi; triatomine (kissing) bug"
+          ],
+          "answerIndex": 2,
+          "explanation": "Filariasis (Lymphatic filariasis / elephantiasis) is caused by Wuchereria bancrofti — a filarial worm (nematode/roundworm), transmitted by the bite of a female Culex mosquito. The microscopic larvae (microfilariae) are ingested by the mosquito during a blood meal and transmitted to humans in subsequent bites. The adult worms live in lymphatic vessels and lymph nodes → cause chronic inflammation and blockage of lymph drainage → limb swelling (lymphoedema) → in severe, long-standing cases: elephantiasis — massive enlargement of limbs, scrotum (hydrocele), or breasts due to permanently blocked lymphatics. Not to be confused with malaria (Anopheles), dengue (Aedes), kala-azar (sandfly). India has the second-highest global burden of lymphatic filariasis; mass drug administration (DEC + Albendazole) is used for control.",
+          "source": "SSC CGL / SSC CHSL — Wuchereria bancrofti (filariasis) via Culex mosquito is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

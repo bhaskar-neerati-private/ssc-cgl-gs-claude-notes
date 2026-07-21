@@ -1,0 +1,233 @@
+{
+  "topic": "Ecology — Food Chains, Pyramids, Biomes & Environmental Issues",
+  "topicId": "bio-ecology-environment",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which ecological pyramid is ALWAYS upright and can NEVER be inverted?",
+          "options": [
+            "Pyramid of numbers — always has more producers than consumers",
+            "Pyramid of biomass — always has more plant biomass than animal biomass",
+            "Pyramid of energy — energy always decreases at each higher trophic level",
+            "Pyramid of productivity — always measures net primary productivity"
+          ],
+          "answerIndex": 2,
+          "explanation": "The pyramid of energy is the ONLY ecological pyramid that is ALWAYS upright and can never be inverted. This is because energy flows in one direction only (second law of thermodynamics) — at each trophic level, approximately 90% of energy is lost as heat (respiration), movement, and undigested material. Only ~10% is transferred to the next level (Lindeman's Law, 1942). Since energy at a higher trophic level can NEVER exceed energy at the level below, the energy pyramid is always upright. By contrast: pyramid of numbers CAN be inverted (e.g., one large tree supporting thousands of insects); pyramid of biomass CAN be inverted in aquatic ecosystems (small phytoplankton biomass at any moment supports larger zooplankton/fish biomass because phytoplankton reproduce extremely rapidly).",
+          "source": "SSC CGL / SSC CHSL previous years — pyramid of energy always upright is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Project Tiger was launched in India in which year, and what was its immediate trigger?",
+          "options": [
+            "1970 — after India signed the CITES convention on wildlife trade",
+            "1973 — following a tiger census showing alarming decline (from ~40,000 in 1900 to ~1,827 in 1972)",
+            "1980 — after the Wildlife Protection Act made tiger conservation mandatory",
+            "1992 — when India ratified the Convention on Biological Diversity"
+          ],
+          "answerIndex": 1,
+          "explanation": "Project Tiger was launched on 1 April 1973 by Prime Minister Indira Gandhi in response to a drastic decline in tiger populations. A 1972 tiger census revealed that India's tiger population had fallen from an estimated ~40,000 at the start of the 20th century to just 1,827 tigers. The project was initiated with 9 tiger reserves (first: Jim Corbett National Park, Uttarakhand). By 2023, India has 53+ tiger reserves covering ~75,000 sq km. India's most recent tiger census (2023) estimated 3,682 tigers — approximately 70-75% of the world's wild tiger population. The success of Project Tiger is considered one of conservation's greatest achievements.",
+          "source": "SSC CGL / SSC CHSL previous years — Project Tiger 1973 launch and Corbett NP is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Montreal Protocol (1987) was signed to address which environmental problem?",
+          "options": [
+            "Global warming and reduction of CO₂ emissions from fossil fuels",
+            "Protection of biodiversity and endangered species from habitat loss",
+            "Depletion of the stratospheric ozone layer by CFCs and other ozone-depleting substances",
+            "Prevention of acid rain from SO₂ and NOₓ emissions"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer (1987) was specifically designed to protect the stratospheric ozone layer by phasing out the production and use of ozone-depleting substances — primarily CFCs (chlorofluorocarbons, used in refrigerants and aerosols), halons (fire extinguishers), methyl bromide (fumigant), and HCFCs. CFCs release chlorine atoms in the stratosphere → catalytically destroy ozone molecules (one Cl atom can destroy 100,000 O₃ molecules). The protocol is considered the most successful international environmental treaty — signed by all 198 UN member states. As a result, the ozone layer is slowly recovering and is expected to return to pre-1980 levels by ~2040-2066. Kyoto Protocol (1997) addresses CO₂; CITES addresses wildlife trade; acid rain has no single global treaty.",
+          "source": "SSC CGL / SSC CHSL previous years — Montreal Protocol (1987) for ozone depletion is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "According to Lindeman's 10% law of energy transfer in ecological systems, if a grassland has 10,000 kcal of energy in plants (T1), how much energy would be available at the secondary consumer level (T3)?",
+          "options": ["5,000 kcal", "1,000 kcal", "100 kcal", "10 kcal"],
+          "answerIndex": 2,
+          "explanation": "Lindeman's 10% law (1942) states that approximately 10% of the energy at each trophic level is transferred to the next. Calculation: T1 (Producers/Plants) = 10,000 kcal → T2 (Primary consumers/Herbivores) = 10% of 10,000 = 1,000 kcal → T3 (Secondary consumers) = 10% of 1,000 = 100 kcal. So 100 kcal is available at the secondary consumer level. If there were a T4 (Tertiary consumer): 10% of 100 = 10 kcal. This explains why food chains rarely exceed 4-5 trophic levels (not enough energy left to support populations), and why being vegetarian is 10× more energy-efficient than eating meat (using plant energy directly instead of via an animal).",
+          "source": "SSC CGL / SSC CHSL previous years — Lindeman's 10% energy transfer law calculation is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Water vapour is the most abundant greenhouse gas, yet CO₂ is called the 'primary driver' of global warming. How are these two statements simultaneously true?",
+          "options": [
+            "They cannot both be true — if water vapour is more abundant, it must be the primary driver",
+            "Water vapour IS the most abundant GHG by volume and IS responsible for more total warming, but its concentration is driven by temperature — it is a feedback amplifier, not a forcing agent. CO₂ is a forcing agent — humans are directly increasing it, which raises temperature, which then increases water vapour (amplifying the warming)",
+            "CO₂ is actually more abundant than water vapour in the atmosphere; the term 'primary driver' refers to toxicity",
+            "Water vapour is counted separately from greenhouse gases in IPCC reports; CO₂ is the only gas officially classified as a greenhouse gas"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both statements are true and complementary. Water vapour: more abundant in the atmosphere; responsible for ~50% of the natural greenhouse effect (clouds account for another ~25%); is a FEEDBACK amplifier (warmer air holds more water vapour → more warming → more water vapour — a positive feedback loop) but humans cannot directly increase atmospheric water vapour. CO₂: less abundant (~0.04% of atmosphere) but humans ARE directly increasing it by burning fossil fuels, deforestation, and cement production. The mechanism: CO₂ (and CH₄, N₂O, CFCs) warm the planet → warmer atmosphere holds more water vapour → water vapour amplifies the original warming by 2-3× (water vapour feedback). So CO₂ is the PRIMARY FORCING AGENT (the trigger), while water vapour is the primary FEEDBACK (the amplifier). This is why controlling CO₂ is central to climate policy.",
+          "source": "SSC CGL — water vapour as most abundant GHG vs CO₂ as primary driver is a classic tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "An inverted pyramid of biomass is found in aquatic (marine) ecosystems. Why?",
+          "options": [
+            "Marine animals are larger than marine plants; their greater mass causes the inversion",
+            "Phytoplankton (T1) have very low standing biomass at any given moment because they reproduce extremely rapidly and are consumed quickly; zooplankton and fish accumulate more total biomass despite receiving only 10% of energy",
+            "Marine ecosystems have no decomposers, so biomass accumulates at higher trophic levels",
+            "Sunlight penetration is limited in oceans, so producers cannot build up large biomass"
+          ],
+          "answerIndex": 1,
+          "explanation": "In marine/aquatic ecosystems, the pyramid of biomass can be inverted — the mass of phytoplankton (T1, producers) at any given moment is LESS than the mass of zooplankton and small fish (T2) above them. The key is TURNOVER RATE: Phytoplankton reproduce extremely rapidly — doubling in hours to days. They are consumed almost as fast as they are produced, so the standing stock (biomass at any one time) is very small. But phytoplankton produce enormous amounts of biomass over time (net primary productivity is actually high). Zooplankton and fish reproduce more slowly, live longer, and accumulate biomass. The snapshot biomass at a given time shows more zooplankton biomass than phytoplankton biomass — hence the inversion. The pyramid of energy remains upright because energy flow over time still follows the 10% rule.",
+          "source": "SSC CGL — inverted biomass pyramid in aquatic ecosystems and the reason (turnover rate) is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "DDT was banned from agricultural use in most countries because of biomagnification. What specific harm did it cause to top predators like eagles and ospreys, and why?",
+          "options": [
+            "DDT directly poisoned eagles who ate treated crops, killing them outright",
+            "DDT accumulates in fat at high concentrations in top predators → interferes with calcium metabolism → thin, fragile eggshells → eggs break during incubation → reproductive failure → population collapse (not direct death but failure to reproduce)",
+            "DDT causes liver tumours in eagles, reducing their lifespan to under 2 years",
+            "DDT makes eagle prey (fish) radioactive, and the radiation damages eagle DNA"
+          ],
+          "answerIndex": 1,
+          "explanation": "DDT undergoes biomagnification through the food chain (water → plankton → small fish → larger fish → fish-eating raptors). In top predators like the bald eagle, peregrine falcon, osprey, and brown pelican, DDT concentrations reach levels thousands of times higher than in the original environment. The specific mechanism of harm: DDT is metabolised to DDE (dichlorodiphenyldichloroethylene) in bird bodies. DDE interferes with calcium transport in the shell gland → birds produce eggshells that are too thin to withstand the weight of incubating parents → eggs crack → embryos die → no successful reproduction → population collapses. This is why bald eagle and peregrine falcon populations crashed dramatically in the 1950s-70s. Rachel Carson documented this in 'Silent Spring' (1962). After DDT bans, these bird populations have largely recovered — a conservation success story.",
+          "source": "SSC CGL — DDT biomagnification causing thin eggshells in top predators is a tricky but important ecological question",
+          "verified": true
+        },
+        {
+          "text": "Eutrophication is often described as a paradox: an abundance of nutrients causing death. Trace the chain of events that makes excess nutrients deadly for aquatic life.",
+          "options": [
+            "Excess nutrients → plants consume all CO₂ → animals suffocate from CO₂ deficiency",
+            "Excess nutrients (NO₃, PO₄) → explosive algal bloom → algal mat blocks sunlight to underwater plants → algae die en masse → bacterial decomposition → bacteria consume dissolved oxygen (high BOD) → hypoxia (oxygen depletion) → fish and aquatic animals suffocate → dead zone",
+            "Excess nutrients → water becomes too salty → osmotic stress kills freshwater fish",
+            "Excess nutrients → toxic algal toxins directly poison fish through the water"
+          ],
+          "answerIndex": 1,
+          "explanation": "The eutrophication cascade: (1) Agricultural runoff (nitrogen from fertilisers, phosphorus from both fertilisers and sewage/detergents) enriches the water. (2) Excess nitrogen and phosphorus trigger explosive growth of algae and cyanobacteria → thick algal bloom forms on the surface. (3) The algal mat blocks sunlight → submerged aquatic plants and algae below cannot photosynthesize → die. (4) Dead algae and plants accumulate → heterotrophic bacteria decompose them → bacterial populations explode. (5) Bacterial aerobic respiration consumes dissolved oxygen rapidly → BOD (Biological Oxygen Demand) rises sharply → dissolved oxygen plummets (hypoxia or anoxia). (6) Fish, crustaceans, and other aerobic aquatic organisms suffocate → mass mortality → dead zone. This process has created massive dead zones in the Gulf of Mexico (Mississippi River runoff), Baltic Sea, and Lake Erie. Key measure: BOD (Biological Oxygen Demand) is used to assess water pollution levels.",
+          "source": "SSC CGL — eutrophication mechanism (nutrients → algal bloom → O₂ depletion → death) is a tricky step-by-step question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The Ramsar Convention (1971) is a key international environmental treaty. What specific type of ecosystem does it protect, and what is India's connection?",
+          "options": [
+            "Ramsar Convention protects tropical rainforests; India has 14 Ramsar forest sites",
+            "Ramsar Convention protects wetlands (swamps, marshes, peatlands, rivers, lakes, tidal flats, mangroves, coral reefs); India has 75+ Ramsar sites — among the highest in Asia",
+            "Ramsar Convention protects marine ecosystems; India's Sundarbans is the only Indian Ramsar site",
+            "Ramsar Convention protects mountain ecosystems; India's Western Ghats are all designated Ramsar sites"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Ramsar Convention on Wetlands (formally: the Convention on Wetlands of International Importance Especially as Waterfowl Habitat) was signed in Ramsar, Iran in 1971. It is the oldest multilateral environmental agreement still in force. It specifically protects WETLANDS — defined broadly to include marshes, swamps, peatlands, shallow lakes, rivers, estuaries, tidal flats, mangroves, coral reefs, and rice paddies. Wetlands are among the most biodiverse and productive ecosystems on Earth, providing: flood control, water purification, carbon storage, and habitat for migratory birds. India has among the highest numbers of Ramsar sites in Asia — 75+ sites (as of 2023), including Chilika Lake (first Indian Ramsar site, 1981), Keoladeo National Park (Ghana Bird Sanctuary), Deepor Beel, Kolleru Lake, and Wular Lake. Chilika Lake (Odisha) is India's largest coastal lagoon and Asia's largest brackish water lagoon.",
+          "source": "SSC CGL — Ramsar Convention for wetlands and India's Ramsar sites is underrated but frequently examined",
+          "verified": true
+        },
+        {
+          "text": "Why is the phosphorus cycle fundamentally different from the carbon and nitrogen cycles?",
+          "options": [
+            "Phosphorus is more soluble than carbon or nitrogen, so it cycles faster through water",
+            "The phosphorus cycle has NO gaseous phase — phosphorus does not exist as a gas under normal conditions, so it cycles only between rock/soil and living organisms through weathering, biological uptake, and decomposition",
+            "Phosphorus is toxic to organisms and must be detoxified at each trophic level before cycling",
+            "The phosphorus cycle is driven by light (photolysis), unlike the carbon and nitrogen cycles"
+          ],
+          "answerIndex": 1,
+          "explanation": "The critical difference: Carbon has a prominent gaseous phase (CO₂, CH₄ in the atmosphere); Nitrogen has a dominant gaseous phase (N₂ = 78% of atmosphere). Both can cycle rapidly between atmosphere and living things. Phosphorus has NO gaseous phase under normal Earth conditions — phosphorus compounds do not exist as stable gases. Instead, phosphorus cycles SLOWLY between: (1) rocks and minerals (phosphate rock, apatite) — primary reservoir; (2) soil phosphate (released by weathering); (3) living organisms (essential for DNA, RNA, ATP, phospholipids, and bone/teeth as calcium phosphate); (4) decomposition returns phosphate to soil; (5) runoff carries it to aquatic systems (where it often becomes limiting). The slow geological weathering of phosphate rock means phosphorus is often the LIMITING nutrient for plant growth. Agricultural use of phosphate fertilisers is depleting finite phosphate rock reserves — a long-term sustainability concern.",
+          "source": "SSC CGL — phosphorus cycle has no gaseous phase (unlike C and N cycles) is underrated but examined",
+          "verified": true
+        },
+        {
+          "text": "India's two most cited biodiversity hotspots are the Western Ghats and the Indo-Burma/Eastern Himalaya region. What makes a region qualify as a biodiversity hotspot?",
+          "options": [
+            "A region must have at least one national park designated by the Indian government and a river flowing through it",
+            "Defined by Norman Myers: a region must (1) contain at least 1,500 species of endemic vascular plants AND (2) have lost at least 70% of its original habitat — combining exceptional biodiversity with severe threat",
+            "A hotspot is any region where average temperature has increased by more than 1°C in the past century due to climate change",
+            "A hotspot is designated by IUCN based on the number of Critically Endangered species present"
+          ],
+          "answerIndex": 1,
+          "explanation": "The biodiversity hotspot concept was developed by Norman Myers (1988) and updated in 2000. Two strict criteria must both be met: (1) Endemism threshold: The region must contain at least 1,500 species of vascular plants that are ENDEMIC (found nowhere else on Earth) — representing exceptional biological richness and irreplaceability. (2) Threat threshold: The region must have already lost at least 70% of its original natural habitat — meaning it is under severe threat and conservation is urgent. Currently 36 hotspots are recognised globally. India's Western Ghats: exceptional amphibian, reptile, and plant endemism; severely threatened by agriculture and urbanisation. Eastern Himalaya/Indo-Burma: one of the richest in primates, reptiles, and freshwater fish; severely impacted by deforestation and infrastructure development. Together, all 36 hotspots cover only ~2.4% of Earth's land area but contain over 50% of the world's endemic plant species.",
+          "source": "SSC CGL — criteria for biodiversity hotspot (Myers' definition) is underrated but conceptually important",
+          "verified": true
+        },
+        {
+          "text": "The Convention on Biological Diversity (CBD, 1992) has three objectives. What are they, and which multilateral body oversees wildlife trade separately?",
+          "options": [
+            "CBD objectives: (1) prevent deforestation, (2) eliminate poaching, (3) restore extinct species. CITES oversees carbon markets",
+            "CBD objectives: (1) conservation of biodiversity, (2) sustainable use of its components, (3) fair and equitable sharing of benefits arising from genetic resources. CITES (1973) separately regulates international wildlife trade",
+            "CBD objectives: (1) protect all species from extinction, (2) create national parks in every country, (3) fund conservation in developing nations. IUCN oversees trade",
+            "CBD and CITES are the same treaty with the same objectives and the same secretariat"
+          ],
+          "answerIndex": 1,
+          "explanation": "Convention on Biological Diversity (CBD): Adopted at the Rio Earth Summit (Rio de Janeiro, 1992) — the largest gathering of world leaders in history at that time. Three objectives: (1) Conservation of biological diversity — protection of ecosystems, species, and genetic diversity. (2) Sustainable use of its components — using biodiversity in ways that do not lead to long-term decline. (3) Fair and equitable sharing of benefits arising out of the utilisation of genetic resources — ensuring that communities whose biodiversity is exploited receive a fair share of profits (the Nagoya Protocol under CBD operationalises this). CITES (Convention on International Trade in Endangered Species, 1973): A separate but complementary treaty that specifically controls international trade in wild animals and plants — not habitat protection, but trade regulation through permit systems. Species are listed in 3 appendices by level of threat. The CBD and CITES are complementary: CBD addresses habitat and overall biodiversity strategy; CITES addresses the specific threat of overexploitation through trade.",
+          "source": "SSC CGL — CBD three objectives vs CITES (wildlife trade) is underrated but important distinction",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is the largest terrestrial biome on Earth?",
+          "options": [
+            "Tropical Rainforest — because it has the highest biodiversity",
+            "Temperate Deciduous Forest — because it covers Europe, North America, and China",
+            "Desert — because hot and cold deserts together cover ~33% of land",
+            "Boreal Forest (Taiga) — vast coniferous forest stretching across Russia, Canada, and Scandinavia"
+          ],
+          "answerIndex": 3,
+          "explanation": "The Boreal Forest, also called Taiga (Russian word for coniferous forest), is the largest terrestrial biome on Earth — covering approximately 17 million km² (about 11% of Earth's land surface), stretching in a broad belt across Russia (Siberia is predominantly taiga), Canada, Alaska, and Scandinavia. The boreal forest is dominated by coniferous trees — pine, spruce, fir, and larch — adapted to cold temperatures and short growing seasons with needle-like leaves that resist water loss and remain on the tree year-round (except larch, which is deciduous). Tropical rainforests cover ~6-7% of land (less area) but have far higher biodiversity. Deserts do cover significant area (~25-33%) but much of it is combined hot + cold desert. The tropical rainforest is the most biodiverse; the boreal forest is the most extensive.",
+          "source": "SSC CGL / SSC CHSL — Taiga/Boreal forest as largest terrestrial biome is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Biomagnification is the increase in concentration of a pollutant at successively higher trophic levels. Which classic pollutant demonstrates this most famously, and what effect did it have on birds of prey?",
+          "options": [
+            "Carbon dioxide — biomagnifies at higher trophic levels, causing respiratory failure in top predators",
+            "DDT — biomagnified up food chains to reach high concentrations in eagles and hawks, causing thin eggshells → reproductive failure → population collapse",
+            "Nitrogen dioxide — biomagnified in fish, causing anaemia in fish-eating birds",
+            "Ozone — absorbed by large predators who spend more time in the stratosphere"
+          ],
+          "answerIndex": 1,
+          "explanation": "DDT (Dichlorodiphenyltrichloroethane) — a pesticide widely used from the 1940s onward — is the classic example of biomagnification. DDT is: persistent (resists biodegradation for years), fat-soluble (accumulates in fat tissue, not excreted), and biomagnifies. At each trophic level, organisms accumulate more DDT than they excrete: concentration escalates from parts per trillion in water to parts per million in fish-eating birds. In eagles, ospreys, and peregrine falcons: DDT metabolite (DDE) interferes with calcium metabolism → extremely thin, fragile eggshells → eggs crush under incubating adults → catastrophic reproductive failure → population collapse. Rachel Carson documented this in 'Silent Spring' (1962). DDT was banned in the USA in 1972 and subsequently in most countries. Since bans, bald eagle, peregrine falcon, and osprey populations have dramatically recovered. DDT is still permitted for malaria control (indoor residual spraying) in some countries including India.",
+          "source": "SSC CGL / SSC CHSL — DDT biomagnification and thin eggshells in birds of prey is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which international convention, signed in 1987, successfully addressed the depletion of the stratospheric ozone layer and what substances were targeted?",
+          "options": [
+            "Kyoto Protocol (1997) — targeted CO₂ and other greenhouse gases from industrial countries",
+            "CITES (1973) — targeted trade in ozone-depleting substances derived from wildlife",
+            "Montreal Protocol (1987) — targeted CFCs (chlorofluorocarbons), halons, HCFCs, and other ozone-depleting substances",
+            "Paris Agreement (2015) — targeted fluorocarbons and refrigerant gases under a global emissions reduction framework"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer (signed 1987, entered into force 1989) is considered the most successful international environmental treaty. It targeted: CFCs (chlorofluorocarbons — used in refrigerators, air conditioners, aerosol sprays, foam blowing); Halons (fire extinguishers); Carbon tetrachloride; Methyl chloroform; HCFCs (hydrochlorofluorocarbons — transitional replacements for CFCs); Methyl bromide (agricultural fumigant). The protocol is ratified by all 198 UN member states — universal participation. Production of most ozone-depleting substances has been phased out. The ozone layer is recovering: the Antarctic ozone hole has stopped growing and is slowly shrinking; full recovery is projected by ~2040-2066. The Kigali Amendment (2016) to the Montreal Protocol additionally phases down HFCs (hydrofluorocarbons) — potent greenhouse gases used as CFC replacements — addressing both ozone recovery AND climate change.",
+          "source": "SSC CGL / SSC CHSL — Montreal Protocol (1987) for ozone/CFCs is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which process describes the conversion of atmospheric nitrogen (N₂) into ammonia (NH₃) by microorganisms?",
+          "options": [
+            "Nitrification — conversion of ammonia to nitrate by Nitrobacter bacteria",
+            "Denitrification — conversion of nitrate to nitrogen gas by Pseudomonas bacteria",
+            "Ammonification — conversion of organic nitrogen from dead matter to ammonia",
+            "Nitrogen fixation — conversion of atmospheric N₂ to NH₃ by Rhizobium, Azotobacter, and Anabaena"
+          ],
+          "answerIndex": 3,
+          "explanation": "Nitrogen fixation is the conversion of atmospheric N₂ (dinitrogen) to NH₃ (ammonia) — making atmospheric nitrogen available to living organisms. This process requires the enzyme nitrogenase, which is oxygen-sensitive and requires large amounts of ATP. Key nitrogen-fixing organisms: Rhizobium (in root nodules of leguminous plants — symbiotic); Azotobacter and Azospirillum (free-living in soil — aerobic); Anabaena (cyanobacterium — free-living in soil and paddy fields); Clostridium (free-living — anaerobic). The other nitrogen cycle processes: Nitrification = NH₃ → NO₂⁻ (by Nitrosomonas) → NO₃⁻ (by Nitrobacter) — makes nitrogen available to plants. Ammonification = dead organic matter → NH₃ (by decomposers/bacteria). Denitrification = NO₃⁻ → N₂ (by Pseudomonas) — returns nitrogen to atmosphere, completing the cycle.",
+          "source": "SSC CGL / SSC CHSL — nitrogen fixation (N₂ to NH₃) and the organisms involved is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

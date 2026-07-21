@@ -1,0 +1,223 @@
+{
+  "topic": "Excretory, Skeletal & Muscular Systems — Kidneys, Bones & Muscles",
+  "topicId": "bio-human-excretory-skeletal",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "What is the functional unit of the kidney?",
+          "options": ["Neuron", "Nephron", "Alveolus", "Villus"],
+          "answerIndex": 1,
+          "explanation": "The nephron is the structural and functional unit of the kidney. Each human kidney contains approximately 1 million nephrons. A nephron consists of: Bowman's capsule (surrounds the glomerulus) → Proximal Convoluted Tubule (PCT) → Loop of Henle → Distal Convoluted Tubule (DCT) → Collecting duct. Together these structures filter blood (180 litres/day), reabsorb needed substances, and secrete additional waste products, producing about 1.5 litres of urine per day. Neuron is the functional unit of the nervous system; alveolus of the lungs; villus of the small intestine.",
+          "source": "SSC CGL / SSC CHSL previous years — nephron as functional unit of kidney is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "How many bones are present in the adult human body?",
+          "options": ["200", "206", "208", "212"],
+          "answerIndex": 1,
+          "explanation": "The adult human body has 206 bones. At birth, a human has approximately 270–300 bones (many of which are cartilaginous). Over the course of childhood and adolescence, many of these bones ossify and fuse together, resulting in the adult count of 206. The fusion is largely complete by age 25. The skeleton is divided into the axial skeleton (80 bones: skull, vertebral column, sternum, ribs) and the appendicular skeleton (126 bones: limbs and girdles).",
+          "source": "SSC CGL / SSC CHSL previous years — number of bones in adult human body is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The main nitrogenous waste excreted by the human body is:",
+          "options": ["Ammonia", "Uric acid", "Urea", "Creatinine"],
+          "answerIndex": 2,
+          "explanation": "Urea is the main nitrogenous waste product in humans (humans are called ureotelic). Urea is formed in the liver from ammonia (which is toxic) through the ornithine cycle (urea cycle). Urea is then transported in the blood to the kidneys, which filter it out and excrete it in urine. Different organisms excrete different forms: fish and aquatic animals excrete ammonia (ammonotelic — water is plentiful for dilution); birds, reptiles, and insects excrete uric acid (uricotelic — more water-efficient as uric acid is nearly insoluble and can be excreted as a paste).",
+          "source": "SSC CGL / SSC CHSL previous years — urea as main nitrogenous waste is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which type of joint connects the femur (thigh bone) to the hip bone, and what is its range of movement?",
+          "options": [
+            "Hinge joint — allows only flexion and extension",
+            "Pivot joint — allows only rotation",
+            "Ball-and-socket joint — allows movement in all directions (greatest range)",
+            "Gliding joint — allows limited sliding movement"
+          ],
+          "answerIndex": 2,
+          "explanation": "The hip joint (and shoulder joint) is a ball-and-socket joint — the rounded head (ball) of one bone fits into the cup-shaped socket of another. This arrangement allows movement in all planes: flexion, extension, abduction, adduction, rotation, and circumduction (circular motion). This gives it the greatest range of movement of any joint type. The knee and elbow are hinge joints (one plane only). The atlas-axis (top of spine) is a pivot joint (rotation only). Carpal joints are gliding joints (limited sliding).",
+          "source": "SSC CGL / SSC CHSL previous years — ball-and-socket joint for maximum range of motion is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Tetanus and botulism are both caused by Clostridium bacteria, yet they cause completely opposite effects on muscles. What is the difference?",
+          "options": [
+            "Tetanus causes muscle wasting; botulism causes muscle inflammation",
+            "Tetanus toxin blocks inhibitory signals → spastic/rigid paralysis (lockjaw); botulism toxin blocks acetylcholine release → flaccid/limp paralysis",
+            "Tetanus affects the peripheral nervous system only; botulism affects the CNS only",
+            "Both cause the same type of paralysis but affect different muscle groups"
+          ],
+          "answerIndex": 1,
+          "explanation": "Same genus (Clostridium), opposite mechanisms: Tetanus (C. tetani) produces tetanospasmin, which travels to the spinal cord and BLOCKS INHIBITORY neurotransmitters (glycine, GABA). Without inhibition, motor neurons fire continuously → muscles contract uncontrollably → spastic (rigid) paralysis. Classic symptom: trismus (lockjaw) where jaw muscles lock. Botulism (C. botulinum) produces botulinum toxin, which PREVENTS RELEASE of acetylcholine at the neuromuscular junction → motor neurons cannot signal muscles → muscles cannot contract → flaccid (limp) paralysis → respiratory failure. Botulinum toxin in tiny controlled doses is used medically as Botox.",
+          "source": "SSC CGL — tetanus (spastic) vs botulism (flaccid) is a classic tricky reversal question",
+          "verified": true
+        },
+        {
+          "text": "A person sprains their ankle after twisting it. Which structure is most likely injured, and how is it different from a strain?",
+          "options": [
+            "A tendon is injured (sprain); a muscle is injured in a strain",
+            "A ligament is injured (sprain — bone-to-bone connection); a muscle or tendon is injured in a strain",
+            "A cartilage is injured (sprain); a ligament is injured in a strain",
+            "Sprain and strain are identical injuries with different names for the same tissue"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sprain = injury to a LIGAMENT (the tissue connecting bone to bone across a joint). When you twist your ankle, the lateral ligaments (usually the anterior talofibular ligament) are overstretched or torn. Ligaments stabilise joints, so sprains cause joint instability, swelling, and pain. Strain = injury to a MUSCLE or TENDON (the tissue connecting muscle to bone). A hamstring strain occurs when the muscle fibres or their tendinous attachment are overstretched. Mnemonic: 'SPRAIN has an L (ligament); STRAIN has an M (muscle).' Tendons transmit contractile force from muscle to bone; ligaments prevent excessive joint movement.",
+          "source": "SSC CGL — sprain (ligament) vs strain (muscle/tendon) is a tricky question that confuses many",
+          "verified": true
+        },
+        {
+          "text": "Why does urine normally contain no glucose, even though glucose is present in the glomerular filtrate?",
+          "options": [
+            "Glucose molecules are too large to pass through the glomerular filter",
+            "All glucose is reabsorbed back into the blood at the Proximal Convoluted Tubule (PCT) — glucosuria only occurs when blood glucose exceeds the renal threshold (~180 mg/dL)",
+            "The Loop of Henle destroys glucose before it reaches the collecting duct",
+            "Glucose is converted to urea in the tubules and excreted as urea instead"
+          ],
+          "answerIndex": 1,
+          "explanation": "Glucose IS filtered at the glomerulus (it is small enough). However, the PCT reabsorbs 100% of filtered glucose using sodium-glucose cotransporters (SGLT) — so normally, no glucose reaches the urine. This reabsorption mechanism has a maximum capacity called the 'renal threshold' or tubular maximum (Tm) for glucose: ~180 mg/dL of blood glucose. When blood glucose exceeds this threshold (as in uncontrolled diabetes mellitus), the PCT cannot reabsorb all the glucose → glucose 'spills' into urine (glucosuria). This is why dipstick urine tests detect diabetes: glucose should NOT be in normal urine.",
+          "source": "SSC CGL — glucose reabsorption in PCT and why normal urine has no glucose is tricky but conceptually important",
+          "verified": true
+        },
+        {
+          "text": "Cardiac muscle is described as 'involuntary and striated.' Why is this combination unique?",
+          "options": [
+            "It is not unique — smooth muscle is also involuntary and striated",
+            "Skeletal muscle is voluntary and striated; smooth is involuntary and unstriated; cardiac is the only involuntary AND striated type",
+            "Cardiac muscle is actually voluntary in trained athletes who can control their heart rate consciously",
+            "Striated means the muscle has only one nucleus — cardiac muscle has one, skeletal has many"
+          ],
+          "answerIndex": 1,
+          "explanation": "Muscle types form a matrix: skeletal = voluntary + striated (multinucleate); smooth = involuntary + unstriated (uninucleate); cardiac = involuntary + striated (uninucleate). Cardiac muscle is uniquely involuntary yet striated. The striations (alternating dark/light bands of actin and myosin) reflect highly organised sarcomeres — the same contractile machinery as skeletal muscle — which gives cardiac muscle its power and precision. But unlike skeletal, cardiac does not require a voluntary nerve signal to contract: the SA node (pacemaker) generates spontaneous electrical impulses. Cardiac muscle cells are also connected by intercalated discs, allowing near-instantaneous electrical synchrony across the whole heart.",
+          "source": "SSC CGL — cardiac muscle as the unique involuntary+striated type is a tricky conceptual distinction",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The patella (kneecap) belongs to which category of bones, and what is its functional role?",
+          "options": [
+            "Flat bone; protects the knee joint from direct impact",
+            "Sesamoid bone; embedded in the quadriceps tendon to increase the mechanical advantage (leverage) of the muscle",
+            "Short bone; aids in the gliding movement of the knee",
+            "Irregular bone; provides attachment for multiple ligaments of the knee"
+          ],
+          "answerIndex": 1,
+          "explanation": "The patella is a sesamoid bone — a bone that develops within a tendon (the quadriceps tendon). Sesamoid bones function to reduce friction on the tendon and, crucially, to increase mechanical advantage: the patella shifts the angle of pull of the quadriceps muscle, increasing its leverage and making knee extension more efficient (force required is reduced by ~30%). Without the patella, straightening the knee (e.g., kicking a ball) would require much greater muscular effort. The patella is the largest sesamoid bone in the body. Other sesamoids include tiny bones in the tendons of the big toe.",
+          "source": "SSC CGL — patella as a sesamoid bone with mechanical advantage is underrated",
+          "verified": true
+        },
+        {
+          "text": "The liver is not usually listed as an excretory organ, yet it has a crucial excretory function. What does it excrete?",
+          "options": [
+            "CO₂ from aerobic respiration",
+            "Bile pigments (bilirubin and biliverdin) derived from haemoglobin breakdown in old red blood cells",
+            "Excess glucose converted to glycogen",
+            "Urea excreted directly from liver into urine"
+          ],
+          "answerIndex": 1,
+          "explanation": "When RBCs die (after ~120 days), haemoglobin is broken down. The haem group → biliverdin (green) → bilirubin (yellow-orange). These bile pigments are excreted by the liver into bile, which is stored in the gallbladder, released into the small intestine, and ultimately excreted in faeces (giving faeces its brown colour). Excess bilirubin in blood = jaundice (yellowing of skin/eyes). The liver also synthesises urea from ammonia (urea cycle) — the urea is then carried in blood to the kidneys for excretion. Skin excretes sweat; lungs excrete CO₂.",
+          "source": "SSC CGL — liver as an excretory organ (bile pigments from RBC breakdown) is underrated",
+          "verified": true
+        },
+        {
+          "text": "The RAAS (Renin-Angiotensin-Aldosterone System) is the body's mechanism for raising blood pressure when it drops. What triggers the release of renin?",
+          "options": [
+            "High blood glucose detected by the pancreas",
+            "Low blood pressure detected by juxtaglomerular cells in the kidney",
+            "High potassium levels detected by the adrenal gland directly",
+            "Low oxygen levels detected by the carotid body"
+          ],
+          "answerIndex": 1,
+          "explanation": "When blood pressure falls (hypovolaemia, blood loss, dehydration), specialised cells in the kidney — juxtaglomerular (JG) cells in the walls of afferent arterioles — detect the low pressure and release the enzyme Renin. Renin acts on angiotensinogen (a liver protein in blood) → Angiotensin I → converted by ACE (Angiotensin-Converting Enzyme, primarily in lungs) → Angiotensin II. Angiotensin II: (1) causes vasoconstriction (direct BP rise), (2) stimulates aldosterone from adrenal cortex (Na⁺/water retention → BP rise), (3) stimulates ADH from pituitary (water retention). ACE inhibitors (like enalapril) are a major class of antihypertensive drugs that work by blocking this cascade.",
+          "source": "SSC CGL — RAAS mechanism and trigger for renin release is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "Why do intervertebral discs (between vertebrae) have a different type of cartilage from the smooth cartilage that covers joint surfaces?",
+          "options": [
+            "Intervertebral discs have hyaline cartilage because they need to be smooth for flexibility",
+            "Intervertebral discs have fibrocartilage — tougher than hyaline — because they must absorb compressive forces (shock absorption) of the body's weight during walking, running, and lifting",
+            "Intervertebral discs have elastic cartilage for maximum flexibility of the spine",
+            "Intervertebral discs are made of bone, not cartilage"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fibrocartilage is a tougher, denser form of cartilage containing abundant collagen fibres. Intervertebral discs (each disc has a tough fibrocartilaginous outer ring — the annulus fibrosus — and a gel-like centre — the nucleus pulposus) must withstand enormous compressive forces from the weight of the body above plus muscular forces during movement. Fibrocartilage provides the necessary toughness and shock absorption. By contrast, hyaline cartilage (smooth, glass-like) covers articulating joint surfaces to reduce friction. Elastic cartilage (springy, flexible) is found in the external ear and epiglottis. A herniated ('slipped') disc occurs when the nucleus pulposus protrudes through a crack in the fibrocartilage ring.",
+          "source": "SSC CGL — types of cartilage (fibrocartilage for intervertebral discs) is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which gland secretes the hormone that is responsible for water reabsorption in the collecting duct of the kidney?",
+          "options": [
+            "Adrenal cortex — secretes aldosterone",
+            "Thyroid gland — secretes calcitonin",
+            "Posterior pituitary — secretes ADH (Antidiuretic hormone/Vasopressin)",
+            "Anterior pituitary — secretes GH (Growth hormone)"
+          ],
+          "answerIndex": 2,
+          "explanation": "ADH (Antidiuretic Hormone), also called Vasopressin, is produced by the hypothalamus and stored/released by the posterior pituitary gland. When blood osmolarity rises (dehydration) or blood pressure falls, ADH is released. It acts on the collecting duct (and DCT) of the nephron → increases water permeability → more water is reabsorbed back into the blood → urine becomes more concentrated and less in volume. Deficiency of ADH or resistance to it causes Diabetes Insipidus — characterised by production of very large volumes (5–20L/day) of dilute urine. Aldosterone (adrenal cortex) regulates Na⁺ reabsorption, not water directly.",
+          "source": "SSC CGL / SSC CHSL — ADH from posterior pituitary controlling water reabsorption in kidney is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What connects muscle to bone, and what connects bone to bone?",
+          "options": [
+            "Ligaments connect muscle to bone; Tendons connect bone to bone",
+            "Tendons connect muscle to bone; Ligaments connect bone to bone",
+            "Cartilage connects muscle to bone; Tendons connect bone to bone",
+            "Both are connected by the same tissue — connective tissue fibres"
+          ],
+          "answerIndex": 1,
+          "explanation": "Tendons connect muscle to bone — they are tough, inelastic (fibrous collagen) cords that transmit the contractile force of muscles to the skeleton, producing movement. Example: the Achilles tendon connects the gastrocnemius (calf muscle) to the calcaneus (heel bone). Ligaments connect bone to bone across joints — they are slightly more elastic than tendons and their role is to stabilise joints by limiting excessive or abnormal movement. Example: the ACL (anterior cruciate ligament) connects femur to tibia in the knee. Mnemonic: 'Tender Muscles, Love Bones' — Tendons → Muscle to Bone; Ligaments → Bone to Bone.",
+          "source": "SSC CGL / SSC CHSL — tendon vs ligament distinction is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which structure produces blood cells in the adult human body?",
+          "options": [
+            "Yellow bone marrow (in the shafts of long bones)",
+            "Spleen (filters blood and is the main site of haematopoiesis in adults)",
+            "Red bone marrow (in flat bones such as sternum, ribs, pelvis, and skull)",
+            "Lymph nodes (produce all blood cell types)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Haematopoiesis (blood cell production) in adults occurs primarily in the red bone marrow of flat bones — the sternum (breastbone), ribs, pelvis (iliac crest), vertebrae, and skull bones. Red bone marrow is a highly vascularised tissue containing haematopoietic stem cells that differentiate into all blood cell types: RBCs, WBCs, and platelets. In children, red marrow also occupies the ends (epiphyses) of long bones. In adults, the shaft (diaphysis) of long bones contains yellow bone marrow (mainly fat cells), which can revert to red marrow under conditions of severe anaemia or blood loss. The spleen recycles old RBCs but is not the primary site of blood cell production in adults.",
+          "source": "SSC CGL / SSC CHSL — red bone marrow in flat bones as site of haematopoiesis is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "How many pairs of ribs does the human body have, and how are they classified?",
+          "options": [
+            "10 pairs: 7 true + 3 false",
+            "12 pairs: 7 true + 3 false + 2 floating",
+            "14 pairs: 7 true + 5 false + 2 floating",
+            "12 pairs: all attached directly to the sternum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Humans have 12 pairs of ribs (24 total). Classification: True ribs (1–7, i.e., 7 pairs): attached directly to the sternum via their own costal cartilage. False ribs (8–10, i.e., 3 pairs): not directly attached to the sternum — they join via the costal cartilage of the 7th rib. Floating ribs (11–12, i.e., 2 pairs): their anterior ends are free; they do not attach to the sternum at all. All ribs attach posteriorly to the thoracic vertebrae. The rib cage protects the heart and lungs, and its movement during breathing changes thoracic volume. The 1st pair of ribs are the shortest and most curved.",
+          "source": "SSC CGL / SSC CHSL — classification of ribs (7 true + 3 false + 2 floating) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
