@@ -445,8 +445,79 @@
       "name": "Science — Chemistry",
       "tier": "B",
       "order": 6,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "chem-matter-atoms",
+          "title": "Matter, Atoms & Atomic Structure — States, Models & Electronic Configuration",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-periodic-table",
+          "title": "Periodic Table — Elements, Classification, Groups, Periods & Trends",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-bonding-reactions",
+          "title": "Chemical Bonding (Ionic, Covalent, Metallic) & Types of Chemical Reactions",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-acids-bases-salts",
+          "title": "Acids, Bases, Salts & pH — Properties, Indicators & Key Compounds",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-metals-metallurgy",
+          "title": "Metals, Non-metals, Metallurgy, Alloys, Reactivity Series & Corrosion",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-carbon-organic",
+          "title": "Carbon — Allotropes, Organic Chemistry, Hydrocarbons & Functional Groups",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-industrial-compounds",
+          "title": "Important Industrial & Everyday Compounds — H₂SO₄, NH₃, NaOH, Na₂CO₃, Bleaching Powder & Plaster of Paris",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-polymers-materials",
+          "title": "Polymers, Plastics, Rubber, Soaps, Detergents & Synthetic Fibres",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-gases-fuels",
+          "title": "Key Gases & Fuels — Hydrogen, Oxygen, Nitrogen, CO₂, Ozone, LPG & CNG",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-nuclear-chemistry",
+          "title": "Nuclear Chemistry — Radioactivity, Isotopes, Fission, Fusion & Nuclear Energy",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-electrochemistry",
+          "title": "Electrochemistry — Electrolysis, Electroplating, Galvanic Cells & Batteries",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-solutions-colloids",
+          "title": "Solutions, Colloids & Concentration — Tyndall Effect, Osmosis, Molarity & Suspension",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-fertilizers-pesticides",
+          "title": "Fertilizers, Pesticides & Agricultural Chemistry — Urea, DAP, NPK, DDT & Organophosphates",
+          "status": "not-started"
+        },
+        {
+          "id": "chem-food-drugs",
+          "title": "Food Chemistry, Drugs & Common Medicines — Antiseptics, Disinfectants, Anaesthetics & Food Additives",
+          "status": "not-started"
+        }
+      ]
     },
     {
       "id": "science-physics",
