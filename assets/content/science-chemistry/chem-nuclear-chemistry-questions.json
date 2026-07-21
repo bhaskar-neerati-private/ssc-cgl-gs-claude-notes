@@ -1,0 +1,238 @@
+{
+  "topic": "Nuclear Chemistry — Radioactivity, Isotopes, Fission, Fusion & Nuclear Energy",
+  "topicId": "chem-nuclear-chemistry",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who discovered radioactivity?",
+          "options": [
+            "Marie Curie",
+            "Henri Becquerel",
+            "Ernest Rutherford",
+            "Otto Hahn"
+          ],
+          "answerIndex": 1,
+          "explanation": "Henri Becquerel discovered radioactivity in 1896 when uranium ore spontaneously exposed photographic plates. Marie Curie coined the term 'radioactivity' and discovered polonium and radium, but Becquerel made the initial discovery.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which type of radiation is stopped by a sheet of paper?",
+          "options": [
+            "Beta radiation",
+            "Gamma radiation",
+            "Alpha radiation",
+            "X-rays"
+          ],
+          "answerIndex": 2,
+          "explanation": "Alpha particles (helium nuclei, charge +2) are the least penetrating radiation — stopped by a sheet of paper or skin. Remember P-A-L: Paper stops Alpha, Aluminium stops beta, Lead stops gamma.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The moderator used in India's nuclear reactors is:",
+          "options": [
+            "Graphite",
+            "Ordinary water",
+            "Heavy water (D₂O)",
+            "Liquid sodium"
+          ],
+          "answerIndex": 2,
+          "explanation": "India uses Pressurised Heavy Water Reactors (PHWRs) which use heavy water (deuterium oxide, D₂O) as both moderator and coolant. Chernobyl used graphite as moderator, which worsened that disaster.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The half-life of Carbon-14 used in radiocarbon dating is approximately:",
+          "options": [
+            "5,730 years",
+            "4,500 years",
+            "10,000 years",
+            "1,600 years"
+          ],
+          "answerIndex": 0,
+          "explanation": "Carbon-14 has a half-life of 5,730 years. This makes it useful for dating organic material up to about 50,000 years old. Radium-226 has a half-life of 1,600 years.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "In beta decay, which of the following occurs?",
+          "options": [
+            "Atomic number decreases by 1, mass number decreases by 1",
+            "Atomic number increases by 1, mass number remains unchanged",
+            "Atomic number decreases by 2, mass number decreases by 4",
+            "Both atomic number and mass number remain unchanged"
+          ],
+          "answerIndex": 1,
+          "explanation": "In beta decay, a neutron converts into a proton + electron (beta particle). Since neutron count decreases by 1 but proton count increases by 1, mass number (p+n) stays the same while atomic number increases by 1. The element changes to the next element in the periodic table.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Deuterium and ordinary hydrogen are:",
+          "options": [
+            "Isobars",
+            "Isotones",
+            "Isotopes",
+            "Allotropes"
+          ],
+          "answerIndex": 2,
+          "explanation": "Deuterium (²H, 1 proton + 1 neutron) and ordinary hydrogen/protium (¹H, 1 proton + 0 neutrons) have the same atomic number (1) but different mass numbers — making them isotopes. They are the only element whose isotopes have individual names.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Which statement about nuclear fusion is CORRECT?",
+          "options": [
+            "Fusion uses uranium-235 as fuel",
+            "Fusion produces more radioactive waste than fission",
+            "Fusion requires temperatures of ~100 million °C to initiate",
+            "Fusion is the process used in nuclear power plants today"
+          ],
+          "answerIndex": 2,
+          "explanation": "Fusion (combining light nuclei like deuterium + tritium) requires ~100 million °C to overcome electrostatic repulsion between positively charged nuclei. Today's power plants use fission. Fusion fuel is deuterium and tritium, not uranium. Fusion's main by-product is helium — not radioactive waste.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The control rods in a nuclear reactor are made of cadmium or boron because they:",
+          "options": [
+            "Slow down neutrons to thermal speeds",
+            "Absorb excess neutrons to control the reaction rate",
+            "Reflect escaping neutrons back into the core",
+            "Act as coolant to remove heat from the core"
+          ],
+          "answerIndex": 1,
+          "explanation": "Control rods (cadmium or boron) absorb neutrons, allowing operators to control the chain reaction rate — even shut it down. Moderators (heavy water, graphite) slow neutrons. Reflectors (beryllium) bounce neutrons back. Coolants (water, CO₂) transfer heat.",
+          "source": "SSC CGL 2017",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "What is the name of India's nuclear research centre located at Trombay, Mumbai?",
+          "options": [
+            "IGCAR",
+            "BARC",
+            "NPCIL",
+            "TIFR"
+          ],
+          "answerIndex": 1,
+          "explanation": "BARC (Bhabha Atomic Research Centre) is located at Trombay, Mumbai — India's premier nuclear research institution, named after Dr Homi J. Bhabha. IGCAR (Indira Gandhi Centre for Atomic Research) is at Kalpakkam, focused on Fast Breeder Reactor research.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Which radioisotope is most widely used in medical diagnostic imaging (bone scans, cardiac imaging)?",
+          "options": [
+            "Iodine-131",
+            "Cobalt-60",
+            "Technetium-99m",
+            "Carbon-14"
+          ],
+          "answerIndex": 2,
+          "explanation": "Technetium-99m is the most widely used diagnostic radioisotope in nuclear medicine. Its 6-hour half-life is ideal — short enough to minimise patient radiation dose, long enough to complete scanning. It emits gamma rays used in bone, brain, and cardiac imaging.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "India's Three-Stage Nuclear Programme is designed to ultimately exploit India's large reserves of:",
+          "options": [
+            "Uranium-235",
+            "Plutonium-239",
+            "Thorium-232",
+            "Deuterium"
+          ],
+          "answerIndex": 2,
+          "explanation": "India holds the world's largest thorium reserves (~25% of global total, mainly in Kerala's monazite beach sands). Thorium is not directly fissile, but Stage 2 fast breeder reactors convert it to fissile Uranium-233. Stage 3 will then use U-233 + Th-232 as fuel.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        },
+        {
+          "text": "The Chernobyl (1986) and Fukushima (2011) accidents are both rated at what level on the International Nuclear Event Scale (INES)?",
+          "options": [
+            "Level 5",
+            "Level 6",
+            "Level 7",
+            "Level 4"
+          ],
+          "answerIndex": 2,
+          "explanation": "Both Chernobyl (USSR/Ukraine, 1986) and Fukushima Daiichi (Japan, 2011) are rated Level 7 — the maximum level on INES (Major Accident). Three Mile Island (USA, 1979) was Level 5. Chernobyl used graphite-moderated RBMK reactors; Fukushima was damaged by a 2011 tsunami.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Marie Curie won Nobel Prizes in which two sciences?",
+          "options": [
+            "Physics and Chemistry",
+            "Chemistry and Medicine",
+            "Physics and Medicine",
+            "Chemistry and Peace"
+          ],
+          "answerIndex": 0,
+          "explanation": "Marie Curie won the Nobel Prize in Physics (1903, shared with Pierre Curie and Henri Becquerel) for research on radioactivity, and in Chemistry (1911) for discovering polonium and radium. She remains the only person to win Nobel Prizes in two different sciences.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "India's first nuclear power plant is located at:",
+          "options": [
+            "Kudankulam, Tamil Nadu",
+            "Rawatbhata, Rajasthan",
+            "Tarapur, Maharashtra",
+            "Kakrapar, Gujarat"
+          ],
+          "answerIndex": 2,
+          "explanation": "Tarapur Atomic Power Station (TAPS) in Maharashtra was India's first nuclear power plant, commissioned in 1969. Kudankulam (Tamil Nadu) is India's largest nuclear plant with 2×1,000 MW Russian VVER reactors.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Nuclear fusion is the energy source of:",
+          "options": [
+            "Nuclear power plants",
+            "Atom bombs",
+            "The Sun and stars",
+            "Fast Breeder Reactors"
+          ],
+          "answerIndex": 2,
+          "explanation": "Nuclear fusion (combining light nuclei into heavier ones) is what powers the Sun and all stars. The Sun fuses hydrogen nuclei into helium at ~15 million °C core temperature. Earth's nuclear power plants use fission. H-bombs use fusion triggered by fission.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "India's first nuclear test, code-named 'Smiling Buddha', was conducted in:",
+          "options": [
+            "1971",
+            "1974",
+            "1998",
+            "1968"
+          ],
+          "answerIndex": 1,
+          "explanation": "Pokhran-I, code-named 'Smiling Buddha', was conducted on May 18, 1974 under PM Indira Gandhi at Pokhran, Rajasthan. Pokhran-II ('Operation Shakti') was conducted in May 1998 under PM Atal Bihari Vajpayee.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

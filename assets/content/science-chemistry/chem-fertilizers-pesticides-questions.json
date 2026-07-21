@@ -1,0 +1,238 @@
+{
+  "topic": "Fertilizers, Pesticides & Agricultural Chemistry — Urea, DAP, NPK, DDT & Organophosphates",
+  "topicId": "chem-fertilizers-pesticides",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which fertilizer has the highest nitrogen content?",
+          "options": [
+            "Ammonium Sulphate",
+            "Ammonium Nitrate",
+            "Urea",
+            "Calcium Ammonium Nitrate"
+          ],
+          "answerIndex": 2,
+          "explanation": "Urea (CO(NH₂)₂) has the highest nitrogen content at 46% among common solid fertilizers. Ammonium sulphate = 21% N; Ammonium nitrate = 33% N; CAN = 26% N. Urea is also the most widely used nitrogenous fertilizer in India.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "DDT is an example of which class of pesticide?",
+          "options": [
+            "Organophosphate",
+            "Carbamate",
+            "Pyrethroid",
+            "Organochlorine"
+          ],
+          "answerIndex": 3,
+          "explanation": "DDT (Dichlorodiphenyltrichloroethane) is an organochlorine (chlorinated hydrocarbon) insecticide. It is highly persistent in the environment and undergoes biomagnification in food chains. It was banned globally under the Stockholm Convention (2001) due to these environmental hazards.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Rhizobium bacteria present in root nodules of leguminous plants help in:",
+          "options": [
+            "Phosphorus solubilisation",
+            "Nitrogen fixation",
+            "Potassium absorption",
+            "Decomposition of organic matter"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rhizobium bacteria live in root nodules of legumes (pea, soybean, groundnut, lentil) and fix atmospheric nitrogen (N₂) into ammonia/nitrates that plants can use. This biological nitrogen fixation is the basis of crop rotation with legumes to restore soil fertility.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The book 'Silent Spring' that sparked the modern environmental movement was written by:",
+          "options": [
+            "Rachel Carson",
+            "Vandana Shiva",
+            "Al Gore",
+            "Henry David Thoreau"
+          ],
+          "answerIndex": 0,
+          "explanation": "Rachel Carson's 'Silent Spring' (1962) documented how DDT and other pesticides were causing population crashes of birds (particularly bald eagles) by thinning eggshells, disrupting ecosystems. It launched the modern environmental movement and led to DDT being banned in the USA in 1972.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "Organophosphate pesticides are toxic to insects and humans because they:",
+          "options": [
+            "Destroy the insect's chitin exoskeleton",
+            "Inhibit the enzyme acetylcholinesterase, causing nerve signal accumulation",
+            "Block photosynthesis in plant-eating insects",
+            "Disrupt the insect's reproductive hormones"
+          ],
+          "answerIndex": 1,
+          "explanation": "Organophosphates (Malathion, Chlorpyrifos, Parathion) inhibit acetylcholinesterase — the enzyme that breaks down acetylcholine at nerve synapses. Without this enzyme, acetylcholine accumulates, causing continuous nerve firing, muscle paralysis, and convulsions. Military nerve agents (Sarin, VX) work by the same mechanism but are far more potent.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Why are fat-soluble chemicals like DDT dangerous specifically to apex predators?",
+          "options": [
+            "Apex predators have weaker immune systems that cannot metabolise DDT",
+            "DDT concentrations magnify at each trophic level (biomagnification), reaching highest concentrations in top predators",
+            "Apex predators drink contaminated water directly",
+            "Fat-soluble chemicals are more toxic in larger animals"
+          ],
+          "answerIndex": 1,
+          "explanation": "Biomagnification: fat-soluble persistent chemicals (DDT, PCBs, mercury) are stored in fat and not excreted. Each predator consumes many prey organisms, accumulating their chemical load. Concentrations multiply ~10× per trophic level. Apex predators (eagles, dolphins, humans) receive the highest doses — sometimes millions of times the ambient concentration.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Which of the following is a SELECTIVE herbicide that kills broadleaf weeds but is safe for cereal crops?",
+          "options": [
+            "Glyphosate",
+            "2,4-D",
+            "Paraquat",
+            "Atrazine (for all crops)"
+          ],
+          "answerIndex": 1,
+          "explanation": "2,4-D (2,4-Dichlorophenoxyacetic acid) is a selective herbicide — it kills broadleaf (dicot) weeds by mimicking auxin (plant growth hormone), causing uncontrolled growth. Cereal crops (monocots: wheat, rice, maize) are resistant to 2,4-D. Glyphosate and paraquat are non-selective (kill most plants).",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Blue baby syndrome (Methemoglobinaemia) in infants is caused by:",
+          "options": [
+            "Excess fluoride in drinking water",
+            "Excess nitrates in drinking water converting to nitrite",
+            "Lead contamination from old pipes",
+            "Chlorine added during water treatment"
+          ],
+          "answerIndex": 1,
+          "explanation": "When nitrate (NO₃⁻) levels exceed 50 ppm in drinking water (from fertilizer runoff), gut bacteria in infants convert it to nitrite (NO₂⁻). Nitrite reacts with haemoglobin to form methemoglobin, which cannot carry oxygen effectively — infants develop bluish skin (cyanosis). Adults can detoxify nitrites, infants cannot.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Neem-coated urea was made mandatory in India primarily to:",
+          "options": [
+            "Increase nitrogen content of urea above 46%",
+            "Prevent diversion to industrial use and slow nitrogen release for better efficiency",
+            "Make urea more water-soluble for easier application",
+            "Reduce the cost of urea production"
+          ],
+          "answerIndex": 1,
+          "explanation": "Neem-coated urea (mandatory since 2015) serves two purposes: (1) Neem oil slows nitrification, reducing nitrogen loss from volatilisation and leaching — improves efficiency. (2) Neem makes urea unpalatable for industrial use (e.g., adulteration, diversion to make explosives/industrial uses), protecting the subsidy system.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Eutrophication of water bodies is primarily caused by:",
+          "options": [
+            "Industrial heavy metals like lead and mercury",
+            "Excess nitrogen and phosphorus from agricultural runoff",
+            "Thermal pollution from power plants",
+            "Acidification from acid rain"
+          ],
+          "answerIndex": 1,
+          "explanation": "Eutrophication: excess N and P (from fertilizer runoff, sewage) cause explosive algal blooms. When algae die, their decomposition by bacteria consumes dissolved oxygen (BOD increases), creating dead zones where fish and aquatic life cannot survive. Major problem in rivers, lakes, and coastal 'dead zones' worldwide.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Endosulfan, an organochlorine pesticide, was banned in India in 2011 following the tragic health effects documented in:",
+          "options": [
+            "Bhopal, Madhya Pradesh",
+            "Kasargod, Kerala",
+            "Patancheru, Andhra Pradesh",
+            "Vapi, Gujarat"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Kasargod tragedy in Kerala saw decades of aerial endosulfan spraying on cashew plantations by the Kerala government. Nearby villages experienced high rates of birth defects, cerebral palsy, mental disorders, and cancers. Following years of campaigning, the Supreme Court ordered a ban in 2011.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "DAP (Di-Ammonium Phosphate) is preferred at sowing time because:",
+          "options": [
+            "It is the cheapest fertilizer available",
+            "It provides both nitrogen and high phosphorus to support early root development",
+            "It is the only fertilizer that contains potassium",
+            "DAP prevents weed growth near the sown seed"
+          ],
+          "answerIndex": 1,
+          "explanation": "DAP ((NH₄)₂HPO₄) provides 18% N and 46% P₂O₅ in a single application. Phosphorus is critical for root development, energy transfer (ATP), and early seedling establishment — it is most needed at sowing. DAP's combination of both nutrients in one granule makes it the most popular complex fertilizer in India.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "DDT was banned because of which environmental problem?",
+          "options": [
+            "It acidified the soil and reduced crop yield",
+            "It persisted in the environment and biomagnified in food chains, causing bird population collapse",
+            "It was too expensive to produce at scale",
+            "It caused rapid mutation in target insect populations"
+          ],
+          "answerIndex": 1,
+          "explanation": "DDT is fat-soluble and extremely persistent (does not break down). It biomagnifies through food chains — reaching concentrations in bird fat that interfere with calcium metabolism, causing thinning of eggshells. Eagle, falcon, and osprey populations crashed. Stockholm Convention (2001) banned DDT globally (except limited use for malaria control).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which biofertilizer is commonly used in paddy fields and fixes atmospheric nitrogen?",
+          "options": [
+            "Mycorrhiza",
+            "Rhizobium",
+            "Blue-Green Algae (Cyanobacteria)",
+            "Phosphate Solubilising Bacteria"
+          ],
+          "answerIndex": 2,
+          "explanation": "Blue-Green Algae (BGA) / Cyanobacteria (Anabaena, Nostoc) are used in paddy (rice) fields as biofertilizers. They are photosynthetic and also fix atmospheric nitrogen — providing N to the rice crop. Rhizobium works in legume root nodules (not paddy). Mycorrhiza helps with phosphorus uptake, not nitrogen fixation.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Stockholm Convention (2001) aims to eliminate or restrict:",
+          "options": [
+            "Greenhouse gases causing climate change",
+            "Persistent Organic Pollutants (POPs) including DDT",
+            "Heavy metals in industrial wastewater",
+            "Ozone-depleting substances (CFCs)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Stockholm Convention on Persistent Organic Pollutants (2001) — also called the 'POPs Treaty' — targets chemicals that are toxic, persistent, bioaccumulate, and travel long distances. The original 'Dirty Dozen' included DDT, dieldrin, aldrin, PCBs, dioxins. CFCs are regulated by the Montreal Protocol; greenhouse gases by UNFCCC/Kyoto/Paris Agreement.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Paul Müller won the Nobel Prize in Physiology or Medicine (1948) for discovering the insecticidal properties of:",
+          "options": [
+            "Malathion",
+            "BHC (Lindane)",
+            "DDT",
+            "Endosulfan"
+          ],
+          "answerIndex": 2,
+          "explanation": "Paul Hermann Müller (Swiss chemist) won the 1948 Nobel Prize in Physiology or Medicine for discovering DDT's contact insecticidal properties (1939). DDT was credited with controlling malaria and typhus in World War II. The Nobel was awarded before the environmental harms were fully understood.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

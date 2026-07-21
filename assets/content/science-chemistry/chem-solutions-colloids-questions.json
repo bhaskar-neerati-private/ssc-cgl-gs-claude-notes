@@ -1,0 +1,238 @@
+{
+  "topic": "Solutions, Colloids & Concentration — Tyndall Effect, Osmosis, Molarity & Suspension",
+  "topicId": "chem-solutions-colloids",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following is a colloid?",
+          "options": [
+            "Salt dissolved in water",
+            "Sugar dissolved in water",
+            "Milk",
+            "Chalk dissolved in water (settled)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Milk is a colloid (emulsion) — fat droplets (1–100 nm) are dispersed in water. Salt and sugar solutions are true solutions (particles < 1 nm). Chalk in water is a suspension (particles > 100 nm that settle). Milk passes the Tyndall Effect test.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Tyndall Effect is observed when a beam of light passes through a:",
+          "options": [
+            "True solution",
+            "Pure solvent",
+            "Colloid",
+            "Supersaturated solution"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Tyndall Effect — scattering of light to make the beam visible from the side — is a characteristic property of colloids. True solutions are transparent and do not scatter light (no Tyndall Effect). John Tyndall discovered this in 1869.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "In osmosis, water moves from a region of:",
+          "options": [
+            "High solute concentration to low solute concentration",
+            "Low solute concentration to high solute concentration",
+            "High pressure to low pressure regardless of concentration",
+            "High temperature to low temperature"
+          ],
+          "answerIndex": 1,
+          "explanation": "In osmosis, water moves through a semi-permeable membrane from the MORE DILUTE solution (lower solute concentration = higher water concentration) to the MORE CONCENTRATED solution. This is the natural direction driven by the concentration gradient for water.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "When alum is added to muddy water, the mud particles settle down. This process is called:",
+          "options": [
+            "Emulsification",
+            "Peptisation",
+            "Dialysis",
+            "Coagulation"
+          ],
+          "answerIndex": 3,
+          "explanation": "Coagulation (also called flocculation) is the aggregation of colloidal particles into larger clumps that settle. Alum (KAl(SO₄)₂·12H₂O) provides Al³⁺ ions which neutralise the negative charge on clay particles — they clump and settle. This is the basis of water purification.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "A red blood cell placed in distilled water will:",
+          "options": [
+            "Shrink (crenation) because distilled water is hypertonic",
+            "Remain unchanged because water is neutral",
+            "Swell and burst (haemolysis) because distilled water is hypotonic",
+            "Immediately dissolve in the water"
+          ],
+          "answerIndex": 2,
+          "explanation": "Distilled water is hypotonic (more dilute than the cell's interior). By osmosis, water rushes INTO the cell faster than it leaves — the cell swells and may burst (haemolysis). Hypertonic solutions cause shrinking (crenation). This is why IV drips must be isotonic (0.9% NaCl = normal saline).",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "The solubility of CO₂ in water DECREASES when:",
+          "options": [
+            "Pressure is increased",
+            "Temperature is decreased",
+            "Temperature is increased",
+            "The water is pure (distilled)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Unlike solids, the solubility of gases in liquid DECREASES as temperature increases (gases expand and escape). This is why: warm soda goes flat faster, cold lakes hold more dissolved oxygen (fish survive better in cold water), and carbonated drinks must be kept cold.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Which concentration unit is independent of temperature and is preferred for colligative property calculations?",
+          "options": [
+            "Molarity (M)",
+            "Normality (N)",
+            "Molality (m)",
+            "Mass percentage (w/w%)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Molality (m = moles of solute per kg of SOLVENT) is temperature-independent because it is based on mass, not volume. Molarity (moles per litre of SOLUTION) changes with temperature as volume expands/contracts. Colligative property formulae (ΔTb = Kb × m; ΔTf = Kf × m) use molality.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Why do large river deltas form where freshwater rivers meet the sea?",
+          "options": [
+            "The river slows down due to tidal currents, causing silt to settle by gravity",
+            "Seawater's electrolytes coagulate the colloidal clay particles suspended in river water",
+            "Salt water is denser and pushes sediments to the bottom",
+            "River water evaporates on contact with seawater, depositing minerals"
+          ],
+          "answerIndex": 1,
+          "explanation": "River water carries clay as a colloid (negatively charged clay particles ~1–100 nm, stable). When it meets seawater (which contains Na⁺, Mg²⁺, Ca²⁺ electrolytes), the ions neutralise the clay particles' surface charge — they coagulate (flocculate), aggregate, and settle, forming deltas. This is a direct application of colloidal coagulation.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "Reverse Osmosis (RO) water purifiers remove dissolved salts by:",
+          "options": [
+            "Boiling water to evaporate impurities",
+            "Using UV light to kill bacteria and ions",
+            "Applying pressure greater than osmotic pressure to push water through a membrane",
+            "Adding activated charcoal to absorb dissolved salts"
+          ],
+          "answerIndex": 2,
+          "explanation": "Reverse Osmosis applies external pressure exceeding osmotic pressure (~60 bar for seawater), forcing water to move from the salty/concentrated side to the pure side through a semi-permeable membrane — against its natural osmotic direction. This removes dissolved ions (Na⁺, Cl⁻, fluoride, arsenic, nitrates). UV kills bacteria but doesn't remove dissolved salts.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Smoke is classified as which type of colloid?",
+          "options": [
+            "Emulsion (liquid in liquid)",
+            "Sol (solid in liquid)",
+            "Aerosol (solid in gas)",
+            "Foam (gas in liquid)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Smoke = solid particles (carbon, ash) dispersed in gas (air) = aerosol (solid in gas). Fog and mist = liquid droplets in gas = aerosol (liquid in gas). Sol = solid in liquid (e.g., paint, blood). Foam = gas in liquid (e.g., soap suds).",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "The random zigzag motion of colloidal particles visible under a microscope is called:",
+          "options": [
+            "Tyndall Effect",
+            "Brownian Motion",
+            "Osmosis",
+            "Coagulation"
+          ],
+          "answerIndex": 1,
+          "explanation": "Brownian Motion is the random zigzag movement of colloidal particles caused by unequal bombardment by solvent/medium molecules from all sides. It was observed by Robert Brown in 1827 (pollen in water). Brownian motion keeps colloidal particles from settling — it's a key reason colloids are stable.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "The process of preserving food by treating with a concentrated salt or sugar solution works because:",
+          "options": [
+            "Salt and sugar kill bacteria directly by chemical reaction",
+            "Salt/sugar solutions are hypertonic and draw water out of bacterial cells by osmosis",
+            "Salt acts as a physical barrier preventing microbial entry",
+            "Sugar converts to alcohol which preserves food"
+          ],
+          "answerIndex": 1,
+          "explanation": "Concentrated salt/sugar creates a hypertonic environment around food. Bacterial cells placed in this environment lose water by osmosis (water flows out to the more concentrated solution) — the bacteria dehydrate and die or cannot multiply. This is the basis of pickling, curing, and jam-making.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which process is used to separate colloidal particles from dissolved crystalloid substances using a semi-permeable membrane?",
+          "options": [
+            "Distillation",
+            "Filtration",
+            "Dialysis",
+            "Osmosis"
+          ],
+          "answerIndex": 2,
+          "explanation": "Dialysis uses a semi-permeable membrane that allows small dissolved molecules (crystalloids) to pass through but retains larger colloidal particles. Used to purify colloidal sols in industry and is the basis of kidney dialysis (haemodialysis) machines that clean blood.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "What is 'normal saline' solution used in IV drips?",
+          "options": [
+            "0.9% NaCl solution (isotonic with blood)",
+            "5% glucose solution (hypertonic)",
+            "1% NaHCO₃ solution",
+            "Pure distilled water"
+          ],
+          "answerIndex": 0,
+          "explanation": "Normal saline is 0.9% NaCl (sodium chloride) solution — it is isotonic with blood, meaning its osmotic concentration equals that of blood plasma. Using hypotonic solutions (less concentrated) would cause RBCs to swell and burst; hypertonic solutions cause them to shrink.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The dispersed phase and dispersion medium in milk are respectively:",
+          "options": [
+            "Water and fat",
+            "Fat and water",
+            "Protein and water",
+            "Water and protein"
+          ],
+          "answerIndex": 1,
+          "explanation": "Milk is an emulsion: fat droplets (dispersed phase) are distributed in water (dispersion medium). The protein casein acts as the emulsifier that keeps fat droplets dispersed. Butter is the reverse: water is dispersed in fat.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which phenomenon explains why the sky appears blue?",
+          "options": [
+            "Tyndall Effect (scattering by air molecules)",
+            "Reflection of blue light by the ocean",
+            "Rayleigh scattering of sunlight by atmospheric gas molecules",
+            "Refraction of light at the atmosphere's boundary"
+          ],
+          "answerIndex": 2,
+          "explanation": "The blue sky is due to Rayleigh scattering — a related but distinct phenomenon from the Tyndall Effect. Gas molecules (~0.1–0.3 nm) are much smaller than colloidal particles and scatter shorter wavelengths (blue/violet) much more than longer wavelengths (red/yellow). Violet scatters most, but our eyes are less sensitive to violet — so we perceive blue.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

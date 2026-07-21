@@ -1,0 +1,238 @@
+{
+  "topic": "Electrochemistry — Electrolysis, Electroplating, Galvanic Cells & Batteries",
+  "topicId": "chem-electrochemistry",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "During electrolysis, oxidation takes place at the:",
+          "options": [
+            "Cathode",
+            "Anode",
+            "Salt bridge",
+            "Electrolyte"
+          ],
+          "answerIndex": 1,
+          "explanation": "Oxidation (loss of electrons) always occurs at the anode; reduction (gain of electrons) at the cathode. Remember: 'An Ox Red Cat' — Anode = Oxidation; Reduction = Cathode. This holds true for both electrolytic AND galvanic cells.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The electrolyte used in a lead-acid car battery is:",
+          "options": [
+            "Ammonium chloride",
+            "Potassium hydroxide",
+            "Dilute sulphuric acid",
+            "Sodium chloride solution"
+          ],
+          "answerIndex": 2,
+          "explanation": "Lead-acid batteries (used in cars and inverters) use dilute sulphuric acid (H₂SO₄) as the electrolyte. The anode is lead (Pb) and cathode is lead dioxide (PbO₂). Each cell produces 2 V; a 12-V car battery has 6 cells.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "In electroplating, the article to be plated is made the:",
+          "options": [
+            "Anode",
+            "Cathode",
+            "Electrolyte",
+            "Salt bridge"
+          ],
+          "answerIndex": 1,
+          "explanation": "The article to be plated is always the cathode (connected to the negative terminal). Reduction occurs at the cathode, depositing metal ions from the electrolyte solution onto the object's surface. The anode is the metal used for coating.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is a primary (non-rechargeable) battery?",
+          "options": [
+            "Lead-acid battery",
+            "Lithium-ion battery",
+            "Dry cell (Leclanché cell)",
+            "Nickel-cadmium battery"
+          ],
+          "answerIndex": 2,
+          "explanation": "The dry cell (Leclanché cell) is a primary battery — used once and discarded. Its anode is a zinc case, cathode is a carbon rod surrounded by MnO₂, and the electrolyte is NH₄Cl paste. Lead-acid, Li-ion, and Ni-Cd are all secondary (rechargeable) batteries.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "In a Daniell cell, which electrode dissolves during the cell reaction?",
+          "options": [
+            "Copper (cathode)",
+            "Zinc (anode)",
+            "Carbon (cathode)",
+            "Both electrodes dissolve equally"
+          ],
+          "answerIndex": 1,
+          "explanation": "In the Daniell cell (Zn-Cu), the zinc anode dissolves: Zn → Zn²⁺ + 2e⁻. At the copper cathode, Cu²⁺ ions from the CuSO₄ solution are reduced and deposited: Cu²⁺ + 2e⁻ → Cu. So the zinc rod shrinks and the copper rod grows during operation.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "If iron is coated with tin (tinning) and the coating is scratched, which metal corrodes first?",
+          "options": [
+            "Tin corrodes, protecting iron (sacrificial anode)",
+            "Iron corrodes because tin is less reactive than iron",
+            "Both corrode at the same rate",
+            "Neither corrodes — scratching has no effect"
+          ],
+          "answerIndex": 1,
+          "explanation": "Tin is LESS reactive than iron (lower in reactivity series). If tin coating is scratched, iron becomes the anode (more reactive) and corrodes. This is the opposite of galvanisation (zinc is MORE reactive than iron, so zinc acts as sacrificial anode even when scratched). Tin cans are fine as long as the coating is intact.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "The 'salt bridge' in a galvanic cell serves to:",
+          "options": [
+            "Increase the voltage of the cell",
+            "Prevent the electrodes from reacting with each other",
+            "Maintain electrical neutrality by allowing ion migration between half-cells",
+            "Supply additional electrolyte to the cell"
+          ],
+          "answerIndex": 2,
+          "explanation": "As current flows, one half-cell accumulates positive ions (anode compartment) and the other accumulates negative ions (cathode compartment). Without a salt bridge, this charge build-up would stop the reaction. The salt bridge (KCl or KNO₃ in agar gel) allows ions to migrate and maintain electrical neutrality.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "During the charging of a lead-acid battery, the cathode is:",
+          "options": [
+            "Lead (Pb) plate",
+            "Lead dioxide (PbO₂) plate",
+            "Carbon rod",
+            "Zinc plate"
+          ],
+          "answerIndex": 1,
+          "explanation": "During charging, an external power supply reverses the spontaneous discharge reaction. During charging, PbSO₄ at the 'cathode' is reduced back to PbO₂ (it becomes the cathode of the charging process). During discharge, PbO₂ is the positive electrode (cathode). The discharged state has both plates as PbSO₄.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "The Nobel Prize in Chemistry 2019 was awarded for the development of which type of battery?",
+          "options": [
+            "Lead-acid battery",
+            "Nickel-cadmium battery",
+            "Lithium-ion battery",
+            "Fuel cell"
+          ],
+          "answerIndex": 2,
+          "explanation": "The 2019 Nobel Prize in Chemistry went to John B. Goodenough, M. Stanley Whittingham, and Akira Yoshino for the development of lithium-ion batteries. Li-ion batteries power smartphones, laptops, and electric vehicles — a foundational technology of the modern world.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "The by-product of a hydrogen fuel cell is:",
+          "options": [
+            "Carbon dioxide",
+            "Nitrogen oxide",
+            "Water only",
+            "Hydrogen peroxide"
+          ],
+          "answerIndex": 2,
+          "explanation": "A hydrogen fuel cell combines hydrogen (fuel) and oxygen to produce electricity. The only by-product is water (H₂O). This makes fuel cells a clean energy technology. They are used in NASA space missions and hydrogen-powered vehicles (e.g., Toyota Mirai).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Faraday's First Law of Electrolysis states that the mass of substance deposited is proportional to:",
+          "options": [
+            "The temperature of the electrolyte",
+            "The concentration of the electrolyte",
+            "The quantity of electricity passed (charge = current × time)",
+            "The voltage applied across electrodes"
+          ],
+          "answerIndex": 2,
+          "explanation": "Faraday's First Law: m ∝ Q, where Q = I × t (charge = current in amperes × time in seconds). To deposit twice the mass, either double the current or double the time. Michael Faraday (1791–1867) also discovered electromagnetic induction.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "In the electrolysis of brine (NaCl solution), what product is formed at the cathode?",
+          "options": [
+            "Chlorine gas",
+            "Sodium metal",
+            "Hydrogen gas",
+            "Oxygen gas"
+          ],
+          "answerIndex": 2,
+          "explanation": "In the Chlor-Alkali process (electrolysis of brine): Cathode: 2H₂O + 2e⁻ → H₂↑ + 2OH⁻ (hydrogen gas). Anode: 2Cl⁻ → Cl₂↑ + 2e⁻ (chlorine gas). NaOH also forms in solution. These three — NaOH, Cl₂, H₂ — are all commercially valuable.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which metal is used for galvanisation to protect iron from rusting?",
+          "options": [
+            "Tin",
+            "Copper",
+            "Zinc",
+            "Nickel"
+          ],
+          "answerIndex": 2,
+          "explanation": "Galvanisation = coating iron/steel with zinc. Zinc is more reactive than iron (higher in reactivity series), so it acts as a sacrificial anode — even if the zinc coating is scratched, zinc corrodes preferentially, protecting the iron underneath. Tinning uses tin, which is less reactive (iron corrodes if scratched).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The voltage produced by a single cell of a lead-acid battery is:",
+          "options": [
+            "1.5 V",
+            "2 V",
+            "3.6 V",
+            "12 V"
+          ],
+          "answerIndex": 1,
+          "explanation": "Each cell of a lead-acid battery produces 2 V. A standard 12-V car battery contains 6 cells connected in series: 6 × 2 V = 12 V. Dry cells produce 1.5 V per cell; lithium-ion cells produce about 3.6 V per cell.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The rusting of iron requires the simultaneous presence of:",
+          "options": [
+            "Carbon dioxide and water",
+            "Oxygen and water",
+            "Nitrogen and water",
+            "Oxygen and carbon dioxide"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rusting of iron is an electrochemical process requiring BOTH oxygen (O₂) AND moisture (water, H₂O). Iron in dry air does NOT rust. Iron in de-aerated (oxygen-free) water does NOT rust. Salt (electrolyte) speeds up rusting but is not essential.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Alessandro Volta invented the first electric battery (Voltaic Pile) in:",
+          "options": [
+            "1780",
+            "1800",
+            "1836",
+            "1859"
+          ],
+          "answerIndex": 1,
+          "explanation": "Alessandro Volta constructed the Voltaic Pile in 1800 — stacked zinc and silver discs separated by brine-soaked cloth. It was the world's first electric battery. 1836: Daniell cell; 1859: Planté's lead-acid battery. The unit of electric potential (volt) is named after Volta.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "topic": "Food Chemistry, Drugs & Common Medicines — Antiseptics, Disinfectants, Anaesthetics & Food Additives",
+  "topicId": "chem-food-drugs",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "PYQ — Previous Year Questions",
+      "questions": [
+        {
+          "text": "Penicillin, the first antibiotic, was discovered by:",
+          "options": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Robert Koch",
+            "Selman Waksman"
+          ],
+          "answerIndex": 1,
+          "explanation": "Alexander Fleming discovered penicillin in 1928 when he noticed a mould (Penicillium notatum) killing bacteria in his Petri dish. He won the Nobel Prize in Physiology or Medicine 1945, shared with Howard Florey and Ernst Chain who developed it as a usable drug. Selman Waksman discovered streptomycin (first TB antibiotic).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Which vitamin deficiency causes Scurvy?",
+          "options": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vitamin C (Ascorbic Acid) deficiency causes Scurvy — bleeding gums, loose teeth, joint pain, slow wound healing. Vitamin C is essential for collagen synthesis. It is found in citrus fruits, guava, amla (Indian gooseberry). Vitamin D deficiency causes rickets (children) and osteomalacia (adults).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which substance is used as a common antiseptic in first-aid?",
+          "options": [
+            "Phenol (concentrated)",
+            "Chlorine gas",
+            "Hydrogen Peroxide (3%)",
+            "Formaldehyde"
+          ],
+          "answerIndex": 2,
+          "explanation": "Hydrogen peroxide (H₂O₂) at 3% concentration is commonly used as a wound antiseptic — it releases nascent oxygen [O] which kills anaerobic bacteria. Phenol is too corrosive for direct skin use. Chlorine gas and formaldehyde are disinfectants/sterilants, not skin-safe antiseptics.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Aspirin (Acetylsalicylic acid) works by:",
+          "options": [
+            "Destroying bacteria causing pain",
+            "Blocking neurotransmitters in the brain",
+            "Inhibiting COX enzymes to reduce prostaglandin synthesis",
+            "Increasing dopamine levels in the bloodstream"
+          ],
+          "answerIndex": 2,
+          "explanation": "Aspirin inhibits cyclooxygenase (COX-1 and COX-2) enzymes, which are needed to produce prostaglandins — chemicals that cause pain, fever, and inflammation. By reducing prostaglandin synthesis, aspirin relieves pain, reduces fever (antipyretic), reduces inflammation, and at low doses (75-100 mg) prevents blood clots (antiplatelet).",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky — Conceptually Challenging",
+      "questions": [
+        {
+          "text": "Why are antibiotics ineffective against common cold and influenza?",
+          "options": [
+            "Antibiotics are too weak to kill respiratory pathogens",
+            "Common cold viruses are protected by a thick cell wall that antibiotics cannot penetrate",
+            "Common cold and influenza are caused by viruses, and antibiotics only target bacteria",
+            "Antibiotics destroy immune cells needed to fight viral infections"
+          ],
+          "answerIndex": 2,
+          "explanation": "Antibiotics selectively target bacterial structures (cell walls, ribosomes, DNA replication) that humans and viruses don't have. Viruses use host cell machinery to replicate — they lack the bacterial targets that antibiotics attack. Common cold (rhinovirus) and flu (influenza virus) require antiviral drugs or immune response, not antibiotics.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Which fat provides the most calories per gram and should be limited in diet?",
+          "options": [
+            "Saturated fat — 4 kcal/g",
+            "Trans fat — 4 kcal/g",
+            "All fats — 9 kcal/g, with trans fats being most harmful metabolically",
+            "Unsaturated fat — 7 kcal/g"
+          ],
+          "answerIndex": 2,
+          "explanation": "ALL fats (saturated, unsaturated, trans) provide 9 kcal/g — the highest energy density among macronutrients. However, trans fats are most harmful metabolically because they RAISE LDL (bad cholesterol) AND LOWER HDL (good cholesterol) simultaneously, increasing cardiovascular disease risk. FSSAI limited trans fats to 2% in foods in 2022.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        },
+        {
+          "text": "Botulinum toxin (Botox) is medically used in dilute form to:",
+          "options": [
+            "Kill bacteria on wounds (it is an antibiotic)",
+            "Temporarily paralyse muscles (cosmetic and medical applications)",
+            "Stimulate nerve growth for paralysis recovery",
+            "Destroy cancer cells in targeted therapy"
+          ],
+          "answerIndex": 1,
+          "explanation": "Botulinum toxin (from Clostridium botulinum — the most toxic substance known) blocks release of acetylcholine at neuromuscular junctions, causing muscle paralysis. In tiny medical doses (Botox), this is used to temporarily paralyse facial muscles (wrinkle treatment), treat muscle spasms, hyperhidrosis, and migraines.",
+          "source": "SSC CGL 2023",
+          "verified": false
+        },
+        {
+          "text": "Vitamin B12 deficiency is particularly common in strict vegetarians (vegans) because:",
+          "options": [
+            "Plants destroy B12 with their digestive enzymes",
+            "Vitamin B12 is synthesised only in the presence of animal haemoglobin",
+            "Vitamin B12 is found exclusively in animal-derived foods and absent from all plant foods",
+            "Vegans generally eat less protein, and B12 is attached to dietary protein"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vitamin B12 (Cobalamin) is synthesised only by microorganisms (bacteria, archaea) and is found naturally ONLY in animal products (meat, fish, dairy, eggs) where it has accumulated from the animals' gut bacteria or diet. No plant food contains meaningful B12. Vegans must supplement or eat B12-fortified foods to avoid deficiency (pernicious anaemia, neurological damage).",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated — Often Overlooked",
+      "questions": [
+        {
+          "text": "The difference between an antiseptic and a disinfectant is that:",
+          "options": [
+            "Antiseptics kill viruses; disinfectants kill bacteria",
+            "Antiseptics are safe for use on living tissue; disinfectants are for non-living surfaces",
+            "Antiseptics are chemical; disinfectants are physical methods",
+            "Antiseptics work slowly; disinfectants work instantly"
+          ],
+          "answerIndex": 1,
+          "explanation": "Antiseptics (Dettol, iodine, H₂O₂) are gentle enough to use on living skin and wounds. Disinfectants (chlorine, formaldehyde, phenol concentrated, bleaching powder) are too harsh for living tissue and are used on surfaces, instruments, floors, and water. Joseph Lister (1867) introduced carbolic acid (phenol) as the first surgical antiseptic.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Aflatoxin, a potent carcinogen, is produced by:",
+          "options": [
+            "Salmonella bacteria in contaminated poultry",
+            "Aspergillus mould growing on groundnuts, maize, and stored grains",
+            "Clostridium bacteria in improperly canned food",
+            "E. coli bacteria in contaminated water"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aflatoxin is produced by Aspergillus flavus and A. parasiticus fungi that grow on improperly stored groundnuts (peanuts), maize, cottonseed, and other grains in warm, humid conditions. It is one of the most potent naturally occurring carcinogens, particularly causing liver cancer. FSSAI sets strict aflatoxin limits in food.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "Argemone oil added to mustard oil is detected by:",
+          "options": [
+            "Adding iodine solution (turns blue-black)",
+            "Adding nitric acid (develops orange/red colour)",
+            "Checking viscosity with a lactometer",
+            "Heating — argemone oil separates as a visible layer"
+          ],
+          "answerIndex": 1,
+          "explanation": "Argemone oil (from Argemone mexicana, a toxic weed) is a dangerous adulterant in mustard oil causing epidemic dropsy (oedema, paralysis, cardiac failure). The nitric acid test detects it: a few drops of HNO₃ added to the oil develops a characteristic orange or red colour in the presence of argemone oil.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "The antimalarial drug Artemisinin, which won the Nobel Prize in 2015, was discovered from:",
+          "options": [
+            "Cinchona bark (same source as quinine)",
+            "A traditional Chinese herb (Artemisia annua)",
+            "Marine coral reef organisms",
+            "Penicillium mould (same source as penicillin)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Tu Youyou (China) won the 2015 Nobel Prize in Physiology or Medicine for discovering artemisinin by screening traditional Chinese medicinal herbs. She found it in Artemisia annua (sweet wormwood), referenced in a 4th-century Chinese medical text. Artemisinin-based combination therapies (ACTs) are now the frontline treatment for malaria.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequent — High Repeat Rate",
+      "questions": [
+        {
+          "text": "Which vitamin is produced in the human body on exposure to sunlight?",
+          "options": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "answerIndex": 3,
+          "explanation": "Vitamin D (Calciferol) is synthesised in the skin when UV-B radiation from sunlight converts 7-dehydrocholesterol to cholecalciferol (Vitamin D3). It is essential for calcium absorption and bone health. Deficiency causes rickets in children and osteomalacia in adults. It is the only vitamin the body can synthesise from non-food source.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Chloroform (CHCl₃) was historically used as a:",
+          "options": [
+            "Antibiotic for bacterial infections",
+            "General anaesthetic during surgery",
+            "Antiseptic for wound cleaning",
+            "Preservative in food products"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chloroform (trichloromethane, CHCl₃) was widely used as a general anaesthetic from 1847 after James Young Simpson introduced it. It renders patients unconscious for surgery. However, it has a narrow margin between anaesthetic and toxic dose, and has been replaced by safer modern agents (halothane, isoflurane).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which antacid reacts with stomach acid (HCl) and produces carbon dioxide gas, causing burping?",
+          "options": [
+            "Aluminium hydroxide — Al(OH)₃",
+            "Magnesium hydroxide — Mg(OH)₂",
+            "Sodium bicarbonate — NaHCO₃",
+            "Calcium carbonate — CaCO₃"
+          ],
+          "answerIndex": 2,
+          "explanation": "Sodium bicarbonate (baking soda, NaHCO₃) reacts with HCl: NaHCO₃ + HCl → NaCl + H₂O + CO₂↑. The CO₂ gas causes belching/burping. It is fast-acting but produces sodium — unsuitable for hypertensive patients. Calcium carbonate (CaCO₃) also produces CO₂; Al(OH)₃ and Mg(OH)₂ do not.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Pellagra, characterised by the '4 Ds' (Dermatitis, Diarrhoea, Dementia, Death), is caused by deficiency of:",
+          "options": [
+            "Vitamin B1 (Thiamine)",
+            "Vitamin B2 (Riboflavin)",
+            "Vitamin B3 (Niacin)",
+            "Vitamin B6 (Pyridoxine)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Pellagra is caused by Vitamin B3 (Niacin/Nicotinic acid) deficiency. It is classically described by '4 Ds': Dermatitis (skin rash on sun-exposed areas), Diarrhoea, Dementia, and Death if untreated. Common in populations subsisting on maize without lime treatment. Vitamin B1 deficiency → Beriberi; B2 → Ariboflavinosis.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
