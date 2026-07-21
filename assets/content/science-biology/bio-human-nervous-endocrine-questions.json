@@ -1,0 +1,208 @@
+{
+  "topic": "Nervous System & Endocrine Glands — Brain, Spinal Cord & Hormones",
+  "topicId": "bio-human-nervous-endocrine",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which part of the brain is responsible for maintaining balance, posture, and coordination of voluntary movements?",
+          "options": ["Cerebrum", "Medulla oblongata", "Cerebellum", "Hypothalamus"],
+          "answerIndex": 2,
+          "explanation": "The cerebellum ('little brain'), located at the back and bottom of the brain, is responsible for coordination of voluntary movements, balance, posture, and fine motor skills. It receives input from the motor cortex, proprioceptors (muscle/joint sensors), and vestibular system (inner ear for balance), then fine-tunes movement in real time. Damage to the cerebellum causes ataxia — loss of coordination, unsteady gait, and inability to perform precise movements. The cerebrum handles cognition; medulla controls vital functions; hypothalamus regulates homeostasis.",
+          "source": "SSC CGL / SSC CHSL previous years — cerebellum for balance and coordination is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The pituitary gland is called the 'Master Gland' of the endocrine system. Which hormone from the pituitary regulates growth?",
+          "options": ["Prolactin", "TSH (Thyroid Stimulating Hormone)", "Growth Hormone (Somatotropin)", "ACTH"],
+          "answerIndex": 2,
+          "explanation": "Growth Hormone (GH), also called Somatotropin, is secreted by the anterior pituitary and stimulates bone and muscle growth, cell division, and protein synthesis. Excess GH in children (while growth plates are still open) causes Gigantism (abnormally tall stature). Excess GH in adults (after growth plates have fused) causes Acromegaly — enlargement of hands, feet, jaw, and facial features. Deficiency of GH in children causes Pituitary Dwarfism. TSH stimulates thyroid; Prolactin stimulates milk production; ACTH stimulates adrenal cortex.",
+          "source": "SSC CGL / SSC CHSL previous years — Growth Hormone and its disorders is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Deficiency of iodine in the diet leads to which condition?",
+          "options": ["Rickets", "Goitre", "Anaemia", "Pellagra"],
+          "answerIndex": 1,
+          "explanation": "Iodine deficiency leads to Goitre — enlargement of the thyroid gland. The thyroid needs iodine to synthesise T3 (triiodothyronine) and T4 (thyroxine). Without iodine, thyroid hormone production falls → the pituitary releases more TSH (thyroid stimulating hormone) → TSH stimulates the thyroid to enlarge (attempting to produce more hormone). The enlargement is visible as a swelling in the front of the neck. India's salt iodisation programme (iodised salt) was introduced to prevent iodine deficiency. Rickets = Vitamin D deficiency; Anaemia = iron/B12 deficiency; Pellagra = niacin (B3) deficiency.",
+          "source": "SSC CGL / SSC CHSL previous years — iodine deficiency → goitre is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Adrenaline (Epinephrine), the 'fight or flight' hormone, is secreted by which gland?",
+          "options": ["Thyroid gland", "Anterior pituitary", "Adrenal medulla", "Adrenal cortex"],
+          "answerIndex": 2,
+          "explanation": "Adrenaline (Epinephrine) is secreted by the adrenal medulla — the inner portion of the adrenal glands, which sit on top of each kidney. Adrenaline is a catecholamine that prepares the body for 'fight or flight': increases heart rate and blood pressure, dilates airways (bronchodilation), raises blood glucose (glycogenolysis), dilates pupils, redirects blood from digestive system to muscles. The adrenal cortex (outer layer) secretes different hormones: cortisol (glucocorticoid) and aldosterone (mineralocorticoid). The adrenal medulla is derived from neural tissue — it is essentially modified sympathetic nerve tissue.",
+          "source": "SSC CGL / SSC CHSL previous years — adrenaline from adrenal medulla is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Diabetes insipidus and diabetes mellitus share the symptom of excessive urination (polyuria). What is the key difference in their causes?",
+          "options": [
+            "Diabetes insipidus involves excess insulin; diabetes mellitus involves low insulin",
+            "Diabetes insipidus is caused by ADH deficiency (inability to concentrate urine); diabetes mellitus by insulin deficiency/resistance (high blood glucose)",
+            "Both are caused by the same pancreatic hormone deficiency but in different organs",
+            "Diabetes insipidus affects the kidneys only; diabetes mellitus affects the liver only"
+          ],
+          "answerIndex": 1,
+          "explanation": "Diabetes insipidus (DI) is caused by deficiency of ADH (Antidiuretic hormone/Vasopressin) from the posterior pituitary (or kidney resistance to ADH). ADH normally causes kidneys to reabsorb water — without it, enormous volumes of dilute urine are produced (5–20 litres/day). Blood glucose is NORMAL in DI. Diabetes mellitus (DM) is caused by insulin deficiency (Type 1) or insulin resistance (Type 2) → high blood glucose (hyperglycaemia) → glucose spills into urine (glucosuria) → osmotic diuresis → polyuria. The 'diabetes' in both means 'siphon' (excessive fluid loss) — they share a name but are completely different diseases.",
+          "source": "SSC CGL — diabetes insipidus (ADH) vs diabetes mellitus (insulin) is a classic tricky confusion",
+          "verified": true
+        },
+        {
+          "text": "Excess Growth Hormone causes Gigantism in children but Acromegaly in adults. Why are these different diseases caused by the same hormone?",
+          "options": [
+            "Children produce more GH receptors, causing faster growth than adults",
+            "In children, growth plates (epiphyseal plates) in bones are still open — excess GH causes bones to grow longer (gigantism). In adults, growth plates are fused — excess GH cannot make bones longer but thickens them (acromegaly)",
+            "Gigantism involves excess GH from birth; acromegaly is from a tumour appearing only in middle age",
+            "Children's kidneys process GH differently, causing height increase; adult kidneys cause tissue thickening"
+          ],
+          "answerIndex": 1,
+          "explanation": "The key is the status of epiphyseal growth plates (cartilage plates at the ends of long bones where growth occurs). In children and adolescents, these plates are open (unfused) — excess GH stimulates them to produce more bone, lengthening the bones dramatically, causing Gigantism (abnormal height, up to 2.7m+ in extreme cases). In adults, growth plates are fused (closed) after puberty — GH can no longer make bones longer. Instead, excess GH causes bone widening and soft tissue growth: enlarged hands, feet, jaw, nose, and brow ridges = Acromegaly. Both are usually caused by a pituitary adenoma (benign tumour).",
+          "source": "SSC CGL — Gigantism (open plates) vs Acromegaly (fused plates) same hormone is a tricky reasoning question",
+          "verified": true
+        },
+        {
+          "text": "Which neurotransmitter is deficient in Parkinson's disease, and which specific brain region degenerates?",
+          "options": [
+            "Serotonin; hippocampus degenerates",
+            "Acetylcholine; cerebral cortex degenerates",
+            "Dopamine; substantia nigra in the midbrain degenerates",
+            "GABA; cerebellum degenerates"
+          ],
+          "answerIndex": 2,
+          "explanation": "Parkinson's disease is caused by degeneration of dopamine-producing neurons in the substantia nigra — a small region in the midbrain. Dopamine is essential for coordinating smooth, controlled movements. Without sufficient dopamine, the basal ganglia (motor coordination circuits) malfunction. Symptoms: resting tremor (pill-rolling), rigidity, bradykinesia (slow movement), and postural instability. Treatment: Levodopa (L-DOPA — a dopamine precursor that crosses the blood-brain barrier). Note: Alzheimer's disease involves Acetylcholine and memory circuits — very different disease. Depression involves serotonin.",
+          "source": "SSC CGL — Parkinson's: dopamine deficiency and substantia nigra degeneration is a tricky specific question",
+          "verified": true
+        },
+        {
+          "text": "Addison's disease and Cushing's syndrome both involve the adrenal cortex. How do they differ?",
+          "options": [
+            "Addison's = adrenal cortex overactivity (excess cortisol); Cushing's = adrenal cortex failure",
+            "Addison's = adrenal cortex failure (low cortisol + aldosterone); Cushing's = excess cortisol",
+            "Both involve the adrenal medulla; Addison's is low adrenaline; Cushing's is excess adrenaline",
+            "Addison's affects females only; Cushing's affects males only"
+          ],
+          "answerIndex": 1,
+          "explanation": "Addison's disease is primary adrenal cortex FAILURE — the cortex cannot produce enough cortisol and aldosterone. Features: low BP, fatigue, weight loss, hypoglycaemia, hyperpigmentation of skin (excess ACTH is a by-product of the feedback loop — it stimulates melanocytes). Famous patient: John F. Kennedy. Cushing's syndrome is EXCESS cortisol — either from pituitary ACTH tumour (Cushing's disease) or adrenal tumour or prolonged steroid medication. Features: central obesity ('moon face', 'buffalo hump'), hypertension, diabetes, osteoporosis, skin thinning. Opposite conditions from the same gland.",
+          "source": "SSC CGL — Addison's (failure) vs Cushing's (excess) is a classic tricky question where the two are swapped",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "The pineal gland secretes melatonin. What regulates the secretion of melatonin, and what is its main function?",
+          "options": [
+            "Blood glucose levels regulate it; melatonin controls blood sugar at night",
+            "Darkness stimulates melatonin secretion; light suppresses it — regulating the circadian (sleep-wake) rhythm",
+            "Body temperature regulates it; melatonin cools the body during sleep",
+            "The pituitary gland directly controls melatonin; it regulates reproductive cycles"
+          ],
+          "answerIndex": 1,
+          "explanation": "Melatonin is secreted by the pineal gland and is directly regulated by light exposure via the retinohypothalamic tract. Light → signals to hypothalamus → signals to pineal gland → SUPPRESSES melatonin. Darkness → melatonin secretion rises (typically starting around 9 PM in humans). Melatonin levels peak around 2–4 AM and fall before dawn. This rhythm tells the body it is nighttime, promoting sleep onset and maintaining circadian (24-hour) rhythm. Jet lag, night shifts, and blue light from screens disrupt this cycle by suppressing melatonin. Melatonin supplements are used as sleep aids and for jet lag.",
+          "source": "SSC CGL — melatonin from pineal gland, secreted in darkness, regulates sleep-wake cycle is underrated",
+          "verified": true
+        },
+        {
+          "text": "The medulla oblongata controls vital reflexes. Why is a severe blow to the back of the head particularly dangerous?",
+          "options": [
+            "The cerebellum at the back controls voluntary movement — damage causes permanent paralysis",
+            "The occipital lobe at the back processes vision — damage causes permanent blindness",
+            "The medulla oblongata at the base of the brain controls breathing and heart rate — damage can cause immediate death",
+            "The temporal lobe at the back controls memory — damage causes severe amnesia"
+          ],
+          "answerIndex": 2,
+          "explanation": "The medulla oblongata is located at the base of the brain (where the brain meets the spinal cord) and controls the most vital involuntary functions: respiratory centre (breathing rhythm), cardiac centre (heart rate), vasomotor centre (blood pressure), and reflexes like vomiting, coughing, and swallowing. Damage to the medulla — whether from a blow, stroke, or herniation (brain swelling pushing down) — can immediately stop breathing and heart function, causing death within minutes. This is why herniation of the brainstem ('coning') is a neurosurgical emergency. The medulla is often called the 'vital knot' (noeud vital).",
+          "source": "SSC CGL — medulla oblongata controlling vital functions and why damage is fatal is underrated but conceptually important",
+          "verified": true
+        },
+        {
+          "text": "Oxytocin is sometimes called the 'love hormone'. What are its two main physiological actions?",
+          "options": [
+            "Stimulates growth of reproductive organs and regulates menstrual cycle",
+            "Uterine contractions during labour and milk let-down reflex during breastfeeding",
+            "Promotes egg maturation (FSH-like) and maintains pregnancy (progesterone-like)",
+            "Regulates circadian rhythm and suppresses appetite"
+          ],
+          "answerIndex": 1,
+          "explanation": "Oxytocin is produced by the hypothalamus and stored/released by the posterior pituitary. Its two key physiological actions: (1) Stimulates uterine smooth muscle contractions during labour (parturition) — a positive feedback loop: contractions → more oxytocin → stronger contractions → delivery. Synthetic oxytocin (Pitocin) is used medically to induce labour. (2) Milk let-down reflex — when a baby suckles, oxytocin causes myoepithelial cells around milk ducts to contract, ejecting milk. It is also released during bonding, hugging, and orgasm — hence 'love hormone.' It is distinct from prolactin (which stimulates milk production).",
+          "source": "SSC CGL — oxytocin's two main actions (labour + milk ejection) is underrated",
+          "verified": true
+        },
+        {
+          "text": "Aldosterone is a mineralocorticoid hormone from the adrenal cortex. What is its primary action and what happens when it is deficient?",
+          "options": [
+            "It raises blood glucose — deficiency causes hypoglycaemia",
+            "It promotes Na⁺ and water retention in kidneys to raise blood pressure — deficiency causes low BP and dehydration (Addison's disease feature)",
+            "It promotes Ca²⁺ reabsorption in kidneys — deficiency causes tetany",
+            "It suppresses immune responses — deficiency causes autoimmune disease"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aldosterone acts on the distal tubule and collecting duct of the kidney to increase reabsorption of Na⁺ (sodium) and water (water follows sodium osmotically), and to increase excretion of K⁺ and H⁺. Net effect: increased blood volume and blood pressure. It is regulated by the renin-angiotensin-aldosterone system (RAAS) — activated by low BP/low blood volume. Deficiency (as in Addison's disease): Na⁺ and water lost → low BP, dehydration, elevated K⁺ (hyperkalaemia) → cardiac arrhythmia risk. Note: Cortisol (glucocorticoid) raises blood glucose — this is a different adrenal hormone.",
+          "source": "SSC CGL — aldosterone's Na⁺ retention action and link to Addison's is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "The 'fight or flight' response is controlled by which division of the autonomic nervous system?",
+          "options": [
+            "Parasympathetic nervous system",
+            "Somatic nervous system",
+            "Sympathetic nervous system",
+            "Central nervous system directly"
+          ],
+          "answerIndex": 2,
+          "explanation": "The sympathetic nervous system triggers the 'fight or flight' response — preparing the body to face or flee a threat: increased heart rate and blood pressure, dilated pupils, bronchodilation (wider airways for more O₂), blood redirected from digestive system to muscles, increased blood glucose (glycogenolysis in liver), and adrenaline release from adrenal medulla. The parasympathetic nervous system does the opposite — 'rest and digest' — slows heart, promotes digestion, constricts pupils, reduces blood pressure. Both are parts of the autonomic (involuntary) nervous system.",
+          "source": "SSC CGL / SSC CHSL — fight or flight = sympathetic nervous system is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which part of the brain controls vital involuntary functions such as heart rate, breathing, and blood pressure?",
+          "options": ["Cerebrum", "Cerebellum", "Hypothalamus", "Medulla oblongata"],
+          "answerIndex": 3,
+          "explanation": "The medulla oblongata (also just called 'medulla'), the lowest part of the brainstem, controls vital involuntary (autonomic) functions: the cardiac centre (heart rate), respiratory centre (breathing rhythm), vasomotor centre (blood pressure), and reflexes including vomiting, swallowing, coughing, and sneezing. It merges with the spinal cord at its lower end. Damage to the medulla is immediately life-threatening. The hypothalamus controls homeostasis (temperature, hunger, thirst) and the pituitary. The cerebellum controls coordination. The cerebrum handles consciousness and voluntary actions.",
+          "source": "SSC CGL / SSC CHSL — medulla oblongata controlling vital functions is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Thymosin is a hormone secreted by which gland?",
+          "options": ["Thyroid gland", "Thymus gland", "Pituitary gland", "Hypothalamus"],
+          "answerIndex": 1,
+          "explanation": "Thymosin is secreted by the thymus gland — a bilobed lymphoid organ located in the upper chest (mediastinum), behind the sternum. Thymosin promotes the maturation of T-lymphocytes (T cells) — the white blood cells essential for cell-mediated immunity. The thymus is most active during childhood and adolescence; it gradually involutes (shrinks) with age, being largely replaced by fat in adults. Note the common confusion: thymus ≠ thyroid. Thyroid (in the neck) secretes T3/T4/Calcitonin. Thymus (in chest) secretes Thymosin for immune maturation.",
+          "source": "SSC CGL / SSC CHSL — thymosin from thymus is very frequently asked (and confused with thyroid)",
+          "verified": true
+        },
+        {
+          "text": "A reflex action is a rapid, involuntary response to a stimulus. What is the correct pathway of a reflex arc?",
+          "options": [
+            "Effector → Afferent neuron → Brain → Efferent neuron → Receptor",
+            "Receptor → Afferent neuron → Spinal cord/CNS → Efferent neuron → Effector",
+            "Receptor → Efferent neuron → Brain → Afferent neuron → Effector",
+            "Brain → Receptor → Afferent neuron → Spinal cord → Effector"
+          ],
+          "answerIndex": 1,
+          "explanation": "The reflex arc follows: Receptor (detects stimulus) → Afferent (sensory) neuron → Spinal cord or lower CNS (integration; for spinal reflexes, the brain is NOT involved in generating the response) → Efferent (motor) neuron → Effector (muscle or gland that responds). The brain becomes aware of the stimulus AFTER the reflex has already occurred. Example: touching a hot surface → hand withdraws (reflex) → then you feel pain (conscious). Afferent = towards CNS (sensory); Efferent = away from CNS (motor). Mnemonic: 'SAME' — Sensory = Afferent, Motor = Efferent.",
+          "source": "SSC CGL / SSC CHSL — reflex arc pathway is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
