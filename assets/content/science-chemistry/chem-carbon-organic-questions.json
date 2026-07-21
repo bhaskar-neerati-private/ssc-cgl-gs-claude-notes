@@ -1,0 +1,218 @@
+{
+  "topic": "Carbon — Allotropes, Organic Chemistry, Hydrocarbons & Functional Groups",
+  "topicId": "chem-carbon-organic",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which allotrope of carbon is the hardest substance known in nature?",
+          "options": ["Graphite", "Fullerene (C₆₀)", "Diamond", "Carbon nanotube"],
+          "answerIndex": 2,
+          "explanation": "Diamond is the hardest naturally occurring substance, rating 10 on the Mohs hardness scale (the maximum). Why diamond is so hard: Each carbon atom in diamond is covalently bonded to FOUR other carbon atoms in a rigid, three-dimensional tetrahedral lattice (sp³ hybridisation). This creates an enormously strong network of covalent bonds in all three dimensions with no weak points, planes of cleavage, or free electrons to slip. There are no 'layers' that can slide — the entire crystal is one giant interconnected molecule. The only thing that can scratch diamond is another diamond. Properties of diamond because of this structure: Hardest natural substance (10 Mohs); Very high melting point (~3550°C); Excellent electrical insulator (no free electrons); Highest thermal conductivity of any natural material (~2000 W/m·K, conducts heat 5× better than copper). Uses: Cutting tools (diamond-tipped drill bits, saws, glass cutters), industrial abrasives (cutting, grinding, polishing), scientific instruments (diamond anvil cells for high-pressure experiments), heat sinks in electronics.",
+          "source": "SSC CGL / SSC CHSL previous years — diamond as hardest natural substance is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is NOT a property of graphite?",
+          "options": [
+            "Graphite is an electrical conductor",
+            "Graphite is used as a lubricant",
+            "Graphite is the hardest allotrope of carbon",
+            "Graphite is used in pencils"
+          ],
+          "answerIndex": 2,
+          "explanation": "Graphite is NOT hard — it is the softest allotrope of carbon (1–2 on Mohs scale), while DIAMOND is the hardest allotrope (and hardest natural substance, 10 Mohs). Graphite's correct properties: SOFT lubricant: Carbon atoms in graphite are bonded in flat hexagonal layers (sp² hybridisation). Within each layer, C-C bonds are strong. But between adjacent layers, only weak van der Waals forces hold them together → layers slide easily over each other → graphite is an excellent lubricant. Electrical conductor: Each carbon in graphite forms 3 covalent bonds, leaving one electron per atom delocalised as a π electron that can move freely through the layer → conducts electricity along layers. ONLY non-metal to conduct electricity. Pencils: Graphite (mixed with clay) is the 'lead' in pencils; graphite layers are deposited on paper as the pencil is drawn across → produces marks. Nuclear moderator: Graphite slows down (moderates) fast neutrons in nuclear reactors to thermal neutrons needed for sustained fission. All the given properties A, B, and D are TRUE about graphite — only C (hardest allotrope) is FALSE.",
+          "source": "SSC CGL / SSC CHSL previous years — graphite properties (soft, conductor, lubricant) vs diamond is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which gas is released when ethene (ethylene) reacts with bromine water?",
+          "options": [
+            "No gas is released; the bromine water is decolorised as Br₂ undergoes addition across the double bond",
+            "Hydrogen bromide (HBr) gas is released",
+            "Bromine gas (Br₂) is released as a red-brown vapour",
+            "Oxygen gas is released because water decomposes"
+          ],
+          "answerIndex": 0,
+          "explanation": "The reaction between ethene (C₂H₄) and bromine water is an addition reaction: C₂H₄ + Br₂ → C₂H₄Br₂ (1,2-dibromoethane). No gas is released. The key observation is: The orange/brown colour of bromine water (Br₂ in water) DISAPPEARS (is decolorised) because all the Br₂ is consumed in the addition reaction, forming colourless 1,2-dibromoethane (BrCH₂-CH₂Br). This decolourisation of bromine water is the standard laboratory test to detect the presence of a C=C double bond (alkene) or C≡C triple bond (alkyne): Alkenes: immediate decolourisation of bromine water or Br₂/CCl₄ solution (brown → colourless). Alkanes: NO decolourisation at room temperature (alkanes are saturated — don't react with Br₂ in the dark; they can react in UV light via radical substitution, producing HBr gas). Alkynes: decolourise bromine water twice (one Br₂ per unsaturation, but triple bond reacts with TWO Br₂ molecules: HC≡CH + 2Br₂ → CHBr₂-CHBr₂). This test is fundamental in organic qualitative analysis.",
+          "source": "SSC CGL / SSC CHSL previous years — bromine water decolorisation test for alkenes (addition reaction) is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "LPG (Liquefied Petroleum Gas) used for cooking is mainly composed of which gases?",
+          "options": [
+            "Methane and Ethane",
+            "Hydrogen and Carbon monoxide (water gas)",
+            "Propane and Butane",
+            "Nitrogen and Oxygen (like compressed air)"
+          ],
+          "answerIndex": 2,
+          "explanation": "LPG (Liquefied Petroleum Gas) = primarily PROPANE (C₃H₈) + BUTANE (C₄H₁₀) mixture. In India, domestic LPG (cooking gas in red/blue cylinders) contains predominantly butane (C₄H₁₀) with some propane (C₃H₈). In colder climates (like northern India in winter or high altitudes), the propane fraction is increased because butane has a higher boiling point (-1°C) and can remain liquid at cold temperatures, preventing vaporisation → cylinder pressure drops → burner doesn't work; propane has a much lower boiling point (-42°C) and vaporises readily even in cold weather. Why LPG is 'liquefied': Under moderate pressure (6–7 bar), propane and butane liquefy at room temperature; stored as liquid in cylinders → much higher energy density than storing as gas; when valve opened, pressure drops → liquid boils → gas exits → used for cooking. LPG vs Natural Gas (CNG/PNG): Natural gas/CNG = mostly METHANE (CH₄, ~85%); piped natural gas (PNG) in city kitchens; CNG in vehicles. A distinctive smell is added to odourless LPG (ethyl mercaptan, C₂H₅SH) so leaks can be detected — LPG itself is odourless and colourless.",
+          "source": "SSC CGL / SSC CHSL previous years — LPG = propane + butane is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "If diamond and graphite are both pure carbon, why are their properties so completely different?",
+          "options": [
+            "Diamond contains more neutrons in its carbon atoms (different isotope of carbon); graphite has fewer neutrons, making it lighter and softer",
+            "The difference is entirely due to crystal structure and bonding: in diamond, each C bonds to 4 others in a 3D tetrahedral lattice (sp³); in graphite, each C bonds to 3 others in 2D hexagonal sheets (sp²), with one delocalised electron per C. 3D covalent lattice = hard insulator; 2D layered sheets = soft conductor.",
+            "Diamond forms at very high temperatures in the laboratory; graphite forms only in volcanoes — the different formation temperature determines their structure",
+            "Diamond has a face-centred cubic metal lattice; graphite has a simple cubic lattice — both are metallic forms of carbon but different crystal systems"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both diamond and graphite are 100% pure carbon — same chemical composition (C), completely different physical properties due to different CRYSTAL STRUCTURES and BONDING: DIAMOND (sp³ hybridisation): Each C bonds to 4 others via 4 σ (sigma) covalent bonds; Tetrahedral arrangement; 3D covalent network; NO free electrons; Results in: Maximum hardness (10 Mohs), insulator, high melting point, transparent. GRAPHITE (sp² hybridisation): Each C bonds to 3 others via 3 σ bonds in a plane; One unhybridised p orbital per C → delocalised π electrons; 2D hexagonal sheets; Weak van der Waals between sheets; Results in: Very soft (layers slide), electrical conductor, lustrous, opaque. This example beautifully illustrates that 'what a substance is' (elemental composition) is less important than 'how its atoms are connected' (bonding and structure). Temperature + Pressure transforms graphite → diamond (high T + P) or diamond → graphite (high T alone → graphite is the thermodynamically stable form at normal conditions; diamond is kinetically stable — the conversion is so slow it doesn't happen at room temperature).",
+          "source": "SSC CGL — why diamond and graphite (both pure C) have completely different properties is a tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Why is methanol (wood alcohol) toxic while ethanol (grain alcohol) can be consumed safely in moderation?",
+          "options": [
+            "Methanol causes immediate blindness because it contains methane which attacks the optic nerve directly; ethanol contains ethane which is safe",
+            "In the body, methanol (CH₃OH) is oxidised to FORMALDEHYDE (HCHO) and then formic acid (HCOOH) — both are highly toxic; formaldehyde destroys the retina, causing blindness; formic acid causes metabolic acidosis. Ethanol (C₂H₅OH) is oxidised to acetaldehyde then acetic acid — less toxic, and the body processes it more readily.",
+            "Methanol is toxic only in large quantities (>1 litre); small amounts are safe; ethanol is always safe because fermentation produces no toxic by-products",
+            "Methanol toxicity comes from the water mixed with it in industrial production; pure methanol is as safe as ethanol"
+          ],
+          "answerIndex": 1,
+          "explanation": "Methanol vs Ethanol metabolism — a critical toxicology difference: Ethanol metabolism: C₂H₅OH → (alcohol dehydrogenase) → CH₃CHO (acetaldehyde, mildly toxic — causes hangover) → (aldehyde dehydrogenase) → CH₃COOH (acetic acid, non-toxic) → CO₂ + H₂O. Methanol metabolism: CH₃OH → (alcohol dehydrogenase) → HCHO (FORMALDEHYDE, extremely toxic) → (aldehyde dehydrogenase) → HCOOH (formic acid, very toxic). Formaldehyde: Destroys retinal cells and the optic nerve → BLINDNESS; Causes severe cell damage throughout the body. Formic acid: Inhibits cytochrome c oxidase (shuts down cellular respiration); Causes severe metabolic acidosis (drops blood pH dangerously). Lethal doses: As little as 1 mL methanol can cause blindness; 10 mL can cause death. Treatment: Ethanol itself! Since both alcohols compete for the same enzyme (alcohol dehydrogenase), giving a methanol-poisoned patient ethanol (or fomepizole, an enzyme inhibitor) 'outcompetes' methanol for the enzyme → methanol excreted unchanged before being converted to toxic metabolites. This is why methanol poisoning is treated with controlled ethanol infusion.",
+          "source": "SSC CGL — methanol toxic (→ formaldehyde + formic acid) vs ethanol safe metabolism is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "What is the significance of Wöhler's synthesis of urea in 1828?",
+          "options": [
+            "Wöhler's synthesis showed that urea could be used as a fertiliser by converting ammonium cyanate into a water-soluble nitrogen source",
+            "Wöhler synthesised urea (CO(NH₂)₂) from ammonium cyanate (NH₄OCN), an inorganic compound — this was the first time an organic compound had been made from an inorganic source in a laboratory, disproving 'vital force' theory which claimed only living organisms could make organic compounds",
+            "Wöhler discovered urea in urine for the first time; his 1828 paper established that urine contains nitrogen in the form of urea",
+            "Wöhler's synthesis of urea was the first industrial chemical process, making urea available as a cheap fertiliser for the first time"
+          ],
+          "answerIndex": 1,
+          "explanation": "Friedrich Wöhler's 1828 synthesis was a revolutionary moment in chemistry: Before 1828 — 'Vitalism' or 'vital force theory': Dominated chemistry; claimed that organic compounds (found in living organisms) could ONLY be made by living organisms through a mystical 'vital force'; Inorganic compounds (minerals, gases) could be made in laboratories, but organic compounds could not. Wöhler's experiment: He was trying to make ammonium cyanate (inorganic): NH₄⁺ + OCN⁻ → NH₄OCN (ammonium cyanate). When he heated ammonium cyanate, it rearranged: NH₄OCN → CO(NH₂)₂ (UREA). He realised he had made UREA — a well-known organic compound found in mammalian urine — from completely inorganic starting materials, without any living organism. His famous letter to Berzelius: 'I must tell you that I can make urea without the need of a kidney, or even of an animal.' This demolished vitalism and opened organic chemistry to laboratory synthesis. Why this matters: It meant organic chemistry is simply carbon chemistry obeying the same physical laws as inorganic chemistry; no special 'vital force' required; eventually led to the synthetic dye industry, pharmaceuticals, plastics — all of modern organic chemistry.",
+          "source": "SSC CGL — Wöhler's urea synthesis (1828) ended vitalism, first organic from inorganic is a tricky historical question",
+          "verified": true
+        },
+        {
+          "text": "What is the structural formula of benzene (C₆H₆) and why does it not behave like a typical alkene despite having alternating double bonds?",
+          "options": [
+            "Benzene is a linear chain of 6 carbon atoms with alternating single and double bonds; it reacts like alkenes because the double bonds are reactive",
+            "Benzene is a PLANAR HEXAGONAL ring of 6 carbons with RESONANCE (delocalised π electrons) — the 6 π electrons are spread equally over all 6 carbons, making all C-C bonds equal length (intermediate between single and double bond); this delocalisation makes benzene much more stable than a triene would be, and it undergoes SUBSTITUTION (not addition) to preserve its aromatic stability",
+            "Benzene has a cubical structure with 6 carbons at alternating vertices; its triple bonds are what make it unreactive",
+            "Benzene has 3 actual C=C double bonds and 3 C-C single bonds that rapidly alternate; it reacts exactly like propene and undergoes addition reactions"
+          ],
+          "answerIndex": 1,
+          "explanation": "Benzene (C₆H₆, discovered by Michael Faraday, 1825; ring structure proposed by Kekulé, 1865) is the prototypical aromatic compound: Structure: Planar regular hexagon; 6 C atoms in a ring; Each C bonded to one H and two other C atoms via sp² hybridisation; 3 'double bonds' appear to alternate with 3 single bonds in Kekulé's structure. But actual structure: All 6 C-C bond lengths are EQUAL (140 pm, intermediate between C-C single bond 154 pm and C=C double bond 134 pm) — no actual alternating double bonds. The 6 π electrons (one from each C atom) are completely DELOCALISED over the entire ring → represented by a circle inside the hexagon. Consequences: Delocalisation gives benzene extra stability ('aromatic stabilisation' or 'resonance energy' = 150 kJ/mol). Benzene is ~150 kJ/mol MORE stable than a hypothetical cyclohexa-1,3,5-triene would be. Therefore, benzene RESISTS addition reactions (would destroy the aromatic ring and its stability) and instead undergoes electrophilic SUBSTITUTION reactions (replace H with -NO₂, -SO₃H, -Cl, -alkyl, keeping the ring intact). Example: Benzene + HNO₃ (H₂SO₄ cat.) → nitrobenzene + H₂O (substitution, ring preserved).",
+          "source": "SSC CGL — benzene ring structure (resonance/delocalisation), aromatic stability, substitution not addition is tricky",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is the difference between an addition polymer and a condensation polymer?",
+          "options": [
+            "Addition polymers are made from alkene monomers only; condensation polymers are made from alkane monomers only",
+            "In addition polymerisation, monomers add across a double bond to form a polymer with NO by-product (no atoms lost); in condensation polymerisation, monomers react and LOSE small molecules (usually water, H₂O) as a by-product with each linkage formed",
+            "Addition polymers are natural (found in plants); condensation polymers are all synthetic (man-made in factories)",
+            "Addition polymers are thermoplastics; condensation polymers are thermosets — the categorisation is about melting behaviour, not the polymerisation mechanism"
+          ],
+          "answerIndex": 1,
+          "explanation": "Two fundamental types of polymerisation: ADDITION POLYMERISATION: Monomer = alkene or vinyl compound (contains C=C double bond); The C=C double bond opens and monomers link to each other; No atoms are lost — polymer has same atoms as all the monomers combined; Examples: Polyethylene (PE): nCH₂=CH₂ → (-CH₂-CH₂-)ₙ; Polypropylene (PP): nCH₂=CHCH₃ → polymer; PVC (polyvinyl chloride): nCH₂=CHCl → polymer; Teflon (PTFE): nCF₂=CF₂ → (-CF₂-CF₂-)ₙ; Polystyrene: nCH₂=CHC₆H₅ → polymer. CONDENSATION POLYMERISATION: Two different monomers (each with two functional groups) react; A small molecule (usually H₂O, sometimes HCl or methanol) is released at each junction; The polymer backbone has alternating units of the two monomers; Examples: Nylon-6,6: hexanedioic acid + hexamethylenediamine → nylon + H₂O (amide linkage, -CONH-); Polyester (Dacron/Terylene): ethylene glycol + terephthalic acid → polyester + H₂O (ester linkage, -COO-); Bakelite: phenol + formaldehyde → Bakelite + H₂O; Proteins: amino acids linked by peptide bonds (-CONH-) + H₂O; DNA: nucleotides linked by phosphodiester bonds + H₂O.",
+          "source": "SSC CGL — addition vs condensation polymerisation (with/without by-product) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What is 'isomerism' and how does the number of structural isomers increase with the number of carbon atoms in alkanes?",
+          "options": [
+            "Isomerism is when the same compound has two different names in IUPAC and common naming; it doesn't involve structural differences",
+            "Isomers are compounds with the same molecular formula but different structural arrangements. C₄H₁₀ (butane) has 2 structural isomers; C₅H₁₂ has 3; C₁₀H₂₂ has 75. Branched-chain isomers have lower boiling points than straight-chain isomers because they have smaller surface areas for intermolecular attraction.",
+            "Isomers are identical compounds that rotate differently under polarised light; only carbon compounds with 5 or more carbons can be isomers",
+            "Isomerism exists only between alkenes and alkynes; alkanes with different chain lengths cannot be isomers"
+          ],
+          "answerIndex": 1,
+          "explanation": "Structural isomerism (also called constitutional isomerism): Compounds with identical molecular formula but different atom connectivity. They are different compounds with different physical and chemical properties. Butane (C₄H₁₀) — 2 isomers: n-Butane: CH₃-CH₂-CH₂-CH₃ (straight chain, bp -1°C); iso-Butane (2-methylpropane): (CH₃)₂CHCH₃ (branched, bp -12°C). Pentane (C₅H₁₂) — 3 isomers: n-pentane (bp 36°C), isopentane (2-methylbutane, bp 28°C), neopentane (2,2-dimethylpropane, bp 10°C). Hexane (C₆H₁₄) — 5 isomers; C₁₀H₂₂ — 75 isomers; number increases very rapidly. Key property: Branched isomers have LOWER boiling points than straight-chain isomers (same molecular formula) because: Branched molecules are more spherical → smaller surface area exposed to neighbours → weaker van der Waals (London dispersion) forces → easier to separate → lower boiling point. This is why isooctane (highly branched C₈H₁₈) burns more smoothly than n-octane in engines — relevant to octane rating of petrol. Types of isomerism: Chain isomerism, position isomerism, functional group isomerism, metamerism, tautomerism, and stereoisomerism (geometric, optical).",
+          "source": "SSC CGL — structural isomers in alkanes (C4=2, C5=3, C10=75) and boiling point trend is underrated",
+          "verified": true
+        },
+        {
+          "text": "What is the oxy-acetylene flame and why can it cut through steel?",
+          "options": [
+            "Oxy-acetylene flame burns at about 500°C — hot enough to bend steel for shaping, but not cutting; cutting steel requires plasma at 10,000°C",
+            "Oxy-acetylene (ethyne + oxygen) burns at about 3500°C — hotter than the melting point of steel (~1500°C). The intense heat melts and oxidises the steel at the cut point, while a stream of pure oxygen blows away the molten metal. It can cut steel up to several centimetres thick.",
+            "The oxy-acetylene flame cuts steel through a chemical reaction: acetylene reacts with iron to form iron acetylide, which dissolves and weakens the steel until it fractures at the cut line",
+            "Oxy-acetylene flames operate at 1200°C — just below steel's melting point; the vibration of the flame causes the steel to crack along crystalline boundaries"
+          ],
+          "answerIndex": 1,
+          "explanation": "Oxy-acetylene (oxy-fuel) cutting and welding: Fuel: Acetylene (ethyne, C₂H₂); Oxidiser: Pure oxygen (O₂) from a separate cylinder (not air — air is 78% N₂ which would reduce temperature). Combustion: C₂H₂ + O₂ → 2CO + H₂ (first, inner cone, partial combustion, reducing flame ~3150°C); 2CO + H₂ + 1.5O₂ → 2CO₂ + H₂O (second, outer cone, full combustion). Maximum flame temperature: ~3150–3480°C (one of the highest achieved by any combustion process). Steel melts at ~1350–1500°C → oxy-acetylene flame is far hotter; Steel cutting: (1) Heat the steel red hot at cut point; (2) Direct pure O₂ jet → iron oxidises rapidly: 3Fe + 2O₂ → Fe₃O₄ (iron oxide slag); (3) The molten iron oxide and slag are blown away by the O₂ stream → clean cut. Acetylene cylinder precaution: Acetylene is dissolved in acetone (not stored as pure compressed gas) in cylinders filled with porous material; pure acetylene at >200 kPa can decompose explosively (acetylene is thermodynamically unstable above that pressure). Cylinders must NEVER be laid horizontal or heated.",
+          "source": "SSC CGL — oxy-acetylene welding (3500°C, acetylene + O₂), cuts steel, is underrated but frequently applicable",
+          "verified": true
+        },
+        {
+          "text": "Why was DDT banned globally despite being effective at killing malaria-carrying mosquitoes?",
+          "options": [
+            "DDT was banned because it became ineffective after mosquitoes developed immunity to it within 5 years of use",
+            "DDT is extremely persistent in the environment (does not break down for years) and undergoes biomagnification up the food chain — small amounts in insects become concentrated in fish, then in birds of prey (causing reproductive failure — thin eggshells), then in mammals. It also accumulates in human fatty tissue and has carcinogenic properties.",
+            "DDT was banned because it caused immediate human poisoning with symptoms appearing within hours of exposure; agricultural workers were dying rapidly",
+            "DDT was banned because it selectively killed only female mosquitoes, leaving males to continue breeding, making it ultimately ineffective at reducing mosquito populations"
+          ],
+          "answerIndex": 1,
+          "explanation": "DDT (Dichlorodiphenyltrichloroethane, C₁₄H₉Cl₅) — the story of a miracle that became a catastrophe: Discovery: Paul Müller (1939) found DDT killed insects very effectively; received Nobel Prize in Physiology or Medicine (1948); used massively from 1945 to control typhus (lice), malaria (mosquitoes), crop pests. The problems: Persistence: DDT is a chlorinated organic compound — extremely stable; breaks down very slowly; remains in soil and water for 10–15 years. Bioaccumulation: DDT is highly fat-soluble but water-insoluble; organisms cannot excrete it → accumulates in fatty tissue. Biomagnification: 1 part per billion DDT in water → 1,000 ppb in plankton → 10,000 ppb in small fish → 100,000 ppb in large fish → 1,000,000 ppb in eagles (million-fold concentration). Rachel Carson's 1962 book 'Silent Spring' documented how DDT was thinning the eggshells of birds of prey (bald eagles, peregrine falcons) → crushed before hatching → populations crashing. DDT metabolite DDE inhibits calcium deposition in eggshells. Human health: Carcinogen (probable); disrupts hormones (endocrine disruptor); accumulates in breast milk. Banned: USA 1972; globally under Stockholm Convention on Persistent Organic Pollutants (2001). Still permitted in small quantities for malaria vector control in endemic countries.",
+          "source": "SSC CGL — DDT banned due to persistence, biomagnification, and effects on birds (thin eggshells) is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is the general formula for alkanes?",
+          "options": ["CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙH₂ₙ₊₂", "CₙHₙ"],
+          "answerIndex": 2,
+          "explanation": "Alkanes (saturated hydrocarbons, all C-C single bonds) follow the general formula CₙH₂ₙ₊₂. Verification: Methane (n=1): CH₄ = C₁H₄ = C₁H₂(1)+2 ✓; Ethane (n=2): C₂H₆ = C₂H₂(2)+2 ✓; Propane (n=3): C₃H₈ = C₃H₂(3)+2 ✓; Butane (n=4): C₄H₁₀ ✓. All three series compared: Alkanes (saturated): CₙH₂ₙ₊₂ (formula for the MOST hydrogen — fully saturated); Alkenes (one double bond): CₙH₂ₙ (2 fewer H than alkane — one degree of unsaturation); Alkynes (one triple bond): CₙH₂ₙ₋₂ (4 fewer H than alkane — two degrees of unsaturation). Each degree of unsaturation (double bond, triple bond, or ring) reduces the hydrogen count by 2 compared to the saturated alkane. Memory: Plus 2 = alkAnes ('A' for +); Zero = alkEnes; Minus 2 = alkYnes ('Y' for why less?). Names of first four alkanes: Methane (1C), Ethane (2C), Propane (3C), Butane (4C) — then Pent- (5), Hex- (6), Hept- (7), Oct- (8), Non- (9), Dec- (10). The 'ane' suffix indicates all single bonds (saturated); 'ene' = double bond; 'yne' = triple bond.",
+          "source": "SSC CGL / SSC CHSL — alkane general formula CₙH₂ₙ₊₂ is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which compound is present in 'formalin', and what is it used for?",
+          "options": [
+            "Formaldehyde (HCHO) dissolved in water at 40% concentration; formalin is used to preserve biological specimens",
+            "Ethanol (C₂H₅OH) dissolved in water at 40%; formalin is used as an antiseptic in hospitals",
+            "Formic acid (HCOOH) dissolved in water; formalin is used to treat ant stings",
+            "Acetaldehyde (CH₃CHO) dissolved in water; formalin is used in the food industry as a preservative"
+          ],
+          "answerIndex": 0,
+          "explanation": "Formalin = 40% aqueous solution of FORMALDEHYDE (HCHO, methanal). Formaldehyde is: A colourless gas with a pungent, suffocating odour; The simplest aldehyde (functional group: -CHO); Molecular formula HCHO (one carbon, one oxygen, two hydrogens). Formalin (40% HCHO in water) uses: Biological specimen preservation: kills and hardens tissue by cross-linking proteins; used in anatomy labs, museums (preserved organs, dissection specimens); Embalming: mortuary preservation of human bodies. Disinfectant: kills bacteria, fungi, and viruses by denaturing their proteins. Formaldehyde is also used industrially: in making thermosetting plastics (Bakelite, urea-formaldehyde resins, melamine); in textile finishing; in paper manufacturing. Health concerns: Formaldehyde is a carcinogen (classified Group 1 by IARC); prolonged exposure → nasal/throat cancer; causes contact dermatitis; use of formalin in food (as preservative, which is ILLEGAL) has been a public health issue. Important distinction: Formaldehyde (HCHO) ≠ Formic acid (HCOOH); Formaldehyde is an aldehyde; Formic acid is a carboxylic acid — entirely different compounds despite similar names.",
+          "source": "SSC CGL / SSC CHSL — formalin = 40% formaldehyde (HCHO) solution, used to preserve specimens is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which allotrope of carbon is used as electrode material in electrolytic cells and batteries?",
+          "options": ["Diamond", "Fullerene (C₆₀)", "Graphite", "Coal"],
+          "answerIndex": 2,
+          "explanation": "Graphite is used as electrode material in electrolysis and batteries because it is the ONLY non-metal that conducts electricity (due to delocalised π electrons in its layered structure). Applications of graphite as an electrode: Electrolysis: Inert graphite electrodes are used in the electrolysis of water, brine (NaCl solution to make NaOH + Cl₂ + H₂ — chlor-alkali process), and electrolytic refining of metals (graphite anodes in copper/aluminium refining). Batteries: Carbon-zinc dry cells: the central graphite rod is the positive terminal (cathode); surrounded by MnO₂ and ammonium chloride paste; zinc outer case is the negative terminal. Lithium-ion batteries: graphite is used as the anode material (intercalates lithium ions during charging). Fuel cells: graphite bipolar plates carry electrons and gas to/from the electrode surfaces. Why not diamond: Diamond is a perfect electrical INSULATOR — no free electrons — making it useless as an electrode material (its electrons are all locked in covalent C-C bonds). Why graphite works: The delocalised π electrons (one per carbon atom) can move freely through the graphene layers under an electric field, carrying current.",
+          "source": "SSC CGL / SSC CHSL — graphite used as electrode material (only conducting non-metal) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What functional group is present in ethanol (C₂H₅OH)?",
+          "options": ["Carboxyl group (-COOH)", "Aldehyde group (-CHO)", "Hydroxyl group (-OH)", "Ketone group (C=O)"],
+          "answerIndex": 2,
+          "explanation": "Ethanol (C₂H₅OH, also written CH₃CH₂OH) contains the HYDROXYL group (-OH) attached to a carbon chain. The -OH functional group is the defining characteristic of ALCOHOLS. All alcohols contain -OH attached to a saturated carbon atom (sp³). General formula of primary alcohols: CₙH₂ₙ₊₁OH. Common alcohols: Methanol (CH₃OH, wood alcohol): toxic, industrial solvent, fuel. Ethanol (C₂H₅OH, grain alcohol): drinkable (in beverages); antiseptic (70% solution); solvent; hand sanitiser. Glycerol/Glycerine (C₃H₈O₃ = HO-CH₂-CHOH-CH₂-OH): three -OH groups; used in cosmetics, soaps, pharmaceuticals. Distinguishing similar functional groups: -OH (hydroxyl) = alcohol (e.g., CH₃OH, C₂H₅OH); -COOH (carboxyl) = carboxylic acid = acidic, sour taste (CH₃COOH = acetic acid in vinegar); -CHO (aldehyde) at end of chain (HCHO = formaldehyde, CH₃CHO = acetaldehyde); C=O in middle of chain = ketone (CH₃COCH₃ = acetone, nail polish remover). Physical properties of ethanol: Clear colourless liquid; bp 78.4°C; miscible with water in all proportions; characteristic odour; flammable.",
+          "source": "SSC CGL / SSC CHSL — hydroxyl group (-OH) in alcohols; ethanol's functional group is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

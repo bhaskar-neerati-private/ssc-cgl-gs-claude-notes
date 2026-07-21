@@ -1,0 +1,238 @@
+{
+  "topic": "Polymers, Plastics, Rubber, Soaps, Detergents & Synthetic Fibres",
+  "topicId": "chem-polymers-materials",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Bakelite is the world's first fully synthetic plastic. It is made from which two monomers?",
+          "options": [
+            "Ethylene and chlorine",
+            "Phenol and formaldehyde",
+            "Hexamethylenediamine and adipic acid",
+            "Vinyl chloride and styrene"
+          ],
+          "answerIndex": 1,
+          "explanation": "Bakelite (polyoxybenzylmethylenglycolanhydride) was invented by Leo Baekeland in New York in 1907 — the world's first fully synthetic plastic (unlike celluloid which was semi-synthetic). Monomers: PHENOL (C₆H₅OH) + FORMALDEHYDE (HCHO). Type: Thermosetting condensation polymer (water is released at each step; 3D cross-linked network forms). It cannot be softened or remoulded once set — it chars if heated. Key properties: Hard, brittle, excellent electrical insulator, very heat-resistant, chemically resistant. Colour: Usually dark brown or black (the phenol-formaldehyde colour). Uses: Electrical switchboards and sockets, old telephone handsets and radio cabinets, laboratory equipment handles, billiard balls, circuit boards (older type), chess pieces, ashtrays. Historical significance: 'The material of a thousand uses' — transformed manufacturing; led to the 'age of plastics.' Other options: Hexamethylenediamine + adipic acid = Nylon-6,6; Vinyl chloride = PVC; Ethylene = polyethylene.",
+          "source": "SSC CGL / SSC CHSL previous years — Bakelite (phenol + formaldehyde), first synthetic plastic is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is vulcanisation of rubber, and what chemical is used in the process?",
+          "options": [
+            "Vulcanisation is the process of dissolving natural rubber in petroleum to make synthetic rubber; petroleum is the key chemical used",
+            "Vulcanisation is the heating of rubber with sulphur (at ~140°C) — sulphur forms cross-links between polyisoprene chains, making the rubber stronger, more elastic, and temperature-stable. Discovered by Charles Goodyear (1839).",
+            "Vulcanisation is the coating of rubber surfaces with zinc to prevent oxidation; zinc acts as a sacrificial layer like in galvanisation of iron",
+            "Vulcanisation is the process of making synthetic rubber from isoprene monomer in the presence of a catalyst at high pressure"
+          ],
+          "answerIndex": 1,
+          "explanation": "Vulcanisation: Invented by Charles Goodyear (USA, 1839) — accidentally discovered when he dropped a mixture of rubber and sulphur on a hot stove and found the resulting material was far superior. Process: Natural rubber + 3–5% sulphur → heated at ~140°C → vulcanised rubber. Chemistry: Sulphur atoms form covalent cross-links (S-S or C-S-C bridges) between adjacent polyisoprene polymer chains, converting the tangled, independent chains into a 3D network. Effect of cross-linking: Greatly increased tensile strength and elasticity; Stable over wide temperature range (no more melting in heat, no more brittleness in cold); Much improved resistance to chemicals and abrasion; Better weather resistance. Hard rubber (Ebonite): 30–50% sulphur → densely cross-linked → very hard, rigid material used for battery cases. Named 'vulcanisation' after Vulcan, the Roman god of fire — because heat and sulphur were key ingredients. Without vulcanisation: Natural rubber tyres would melt on hot roads and shatter in winter. Goodyear Tire company is named after Charles Goodyear.",
+          "source": "SSC CGL / SSC CHSL previous years — vulcanisation (rubber + sulphur, Goodyear 1839) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Nylon is a synthetic fibre. What type of chemical bond links the monomer units in nylon?",
+          "options": [
+            "Ester bond (-COO-)",
+            "Amide bond (-CONH-)",
+            "Ether bond (-O-)",
+            "Carbon-carbon double bond (-C=C-)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nylon is a polyamide — its monomer units are linked by AMIDE bonds (-CO-NH- or -CONH-). Formation of amide bond (condensation): -COOH (carboxyl group) + H₂N- (amino group) → -CO-NH- (amide bond) + H₂O. Types of nylon: Nylon-6,6: hexanedioic acid (adipic acid) + hexamethylenediamine → nylon-6,6 polymer; the '6,6' means 6 carbons in each monomer; Nylon-6 (Perlon): caprolactam (a cyclic compound with one nitrogen and 6 carbons) → ring opens → nylon-6 polymer. Nylon properties: Very strong (used in ropes stronger than steel of same cross-section); Tough and abrasion-resistant; Elastic; Low moisture absorption; Smooth, lustrous. Uses: Hosiery (stockings — first commercial product, 1939); Toothbrush bristles; Surgical sutures; Parachute fabric; Tyre cord; Gear wheels and bearings (engineering nylon). The amide bond (-CONH-) is identical to the peptide bond that links amino acids in proteins — nylon was designed to mimic silk (which is a protein). This is why nylon fibre resembles silk in feel and properties.",
+          "source": "SSC CGL / SSC CHSL previous years — nylon has amide (-CONH-) bonds; it's a polyamide is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Why do soaps not work well in hard water?",
+          "options": [
+            "Hard water is too acidic; soap only functions in alkaline water",
+            "Hard water contains dissolved calcium (Ca²⁺) and magnesium (Mg²⁺) ions that react with soap to form INSOLUBLE calcium/magnesium stearate ('scum') — consuming the soap before it can form micelles and clean",
+            "Hard water is too hot; soap decomposes above 40°C and cannot form micelles",
+            "Hard water has higher surface tension than soft water, physically preventing soap micelles from forming"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hard water contains dissolved Ca²⁺ and Mg²⁺ salts (from CaSO₄, CaCl₂, Ca(HCO₃)₂, MgSO₄, etc.). When soap (sodium stearate, C₁₇H₃₅COONa) meets hard water: 2C₁₇H₃₅COONa (soap) + Ca²⁺ → (C₁₇H₃₅COO)₂Ca↓ (calcium stearate, insoluble scum) + 2Na⁺. The soap is converted to an insoluble, greasy precipitate (scum/curd) that: Sticks to clothes and bath surfaces; Destroys soap before micelles can form; Wastes soap (more soap needed to get lather); Leaves grey ring around bathtub. Synthetic detergents solve this: Detergents use sulphonate group (-SO₃Na) instead of carboxylate (-COONa); Calcium sulphonate (Ca(SO₃R)₂) IS soluble in water; So detergents form micelles and clean effectively even in hard water; This is why modern laundry powders use synthetic surfactants (detergents), not soap. Soft water: Does not contain Ca²⁺/Mg²⁺ → soap forms lather easily → efficient cleaning with small amounts of soap.",
+          "source": "SSC CGL / SSC CHSL previous years — soaps don't work in hard water (Ca/Mg scum forms) is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the difference between thermoplastics and thermosetting plastics? Give examples of each.",
+          "options": [
+            "Thermoplastics are used in high-temperature applications; thermosetting plastics are used in low-temperature environments",
+            "Thermoplastics (polyethylene, PVC, nylon, PET) have linear/branched chains that soften and melt on heating — they can be remoulded and recycled. Thermosets (Bakelite, epoxy resin, vulcanised rubber) form irreversible 3D cross-linked networks on curing — they cannot be melted or remoulded; they char if overheated.",
+            "Thermoplastics are made by addition polymerisation; thermosetting plastics are made only by condensation polymerisation",
+            "The only difference is colour — thermoplastics are always transparent; thermosets are always opaque"
+          ],
+          "answerIndex": 1,
+          "explanation": "Thermoplastics vs Thermosets — a fundamental classification: THERMOPLASTICS — melt and flow on heating: Structure: Linear or branched polymer chains held together by weak van der Waals forces and hydrogen bonds (no covalent cross-links between chains). On heating: Intermolecular forces weaken → chains slip past each other → material softens and flows. On cooling: Chains re-entangle → solid again. Recyclable: Can be melted, reshaped, and re-solidified multiple times. Examples: LDPE, HDPE, PP, PVC, PS, PET (polyester), nylon, Teflon, acrylic (PMMA), ABS. THERMOSETS — char/burn on heating; never melt: Structure: 3D covalent cross-linked network (one giant molecule — the entire object IS one polymer molecule). On heating: Covalent cross-links do not break at normal temperatures; material remains rigid until the carbon-carbon bonds burn. NOT recyclable: Cross-links are permanent; shape fixed after curing. Examples: Bakelite (phenol-formaldehyde), epoxy resin (araldite), urea-formaldehyde (melamine), vulcanised rubber (S cross-links between polyisoprene chains), unsaturated polyester resin. Memory tip: 'Thermo-PLASTIC' = plastic (soft) when hot, can be remoulded; 'Thermo-SETTING' = sets permanently when heated (like baking a cake — can't unbake it).",
+          "source": "SSC CGL — thermoplastics (remoldable, recyclable) vs thermosets (permanent, can't melt) with examples is tricky",
+          "verified": true
+        },
+        {
+          "text": "How does soap form a micelle, and why does it clean effectively only when you rub or agitate?",
+          "options": [
+            "Soap micelles form only when soap is heated above 60°C; rubbing generates the heat needed to form micelles",
+            "Soap molecules are amphiphilic — each has a hydrophilic head (-COO⁻Na⁺) and a hydrophobic tail (long carbon chain). In water, the hydrophobic tails of multiple soap molecules cluster together into the oil/grease droplet, while the hydrophilic heads face outward into water — forming a spherical micelle. The oil droplet, now surrounded by micelle, becomes water-soluble. Rubbing/agitation helps break large grease deposits into smaller droplets that micelles can surround.",
+            "Soap works entirely through chemical reactions with fats: soap hydrolyses the fat into water-soluble fatty acids and glycerol. No mechanical action is needed — just contact time.",
+            "Soap forms micelles only in perfectly distilled water; tap water minerals interfere with micelle formation, making rubbing essential to overcome this interference"
+          ],
+          "answerIndex": 1,
+          "explanation": "Soap cleaning mechanism in detail: Amphiphilic structure: Every soap molecule has: Hydrophilic (water-loving) HEAD: -COO⁻Na⁺ (ionic carboxylate + sodium ion, dissolves readily in water); Hydrophobic (water-fearing/oil-loving) TAIL: Long C₁₂–C₁₈ hydrocarbon chain (like a miniature oil molecule). Micelle formation: When soap concentration exceeds the 'critical micelle concentration' (CMC), molecules self-assemble; tails cluster together (away from water) into the centre of the micelle, surrounding an oil/grease droplet; heads point outward into water (stabilised by water's polarity); the entire oil-in-micelle assembly is now water-soluble → can be rinsed away. Why agitation helps: Large grease deposits on surfaces: fabric, skin, utensils — too big for micelles to penetrate spontaneously; Rubbing/scrubbing breaks grease into smaller droplets → more surface area → micelles surround smaller droplets → more complete emulsification; Warm water helps because it lowers the surface tension of water and increases molecular mobility — makes soap more effective. Temperature effect: CMC decreases at higher temperatures → micelles form more readily → better cleaning. Cold water cleaning with soap is less effective.",
+          "source": "SSC CGL — micelle formation mechanism (amphiphilic soap, hydrophilic head + hydrophobic tail) is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "Rayon is sometimes called 'artificial silk.' Is rayon a natural fibre, a synthetic fibre, or something in between?",
+          "options": [
+            "Rayon is a fully synthetic fibre made from petroleum chemicals; calling it 'artificial silk' simply means it looks like silk",
+            "Rayon is a semi-synthetic (regenerated) fibre — it is made from natural cellulose (wood pulp) that is chemically dissolved and re-spun into fibres. The chemical composition is still cellulose (like cotton), but the physical form and lustre resemble silk. It is NOT natural (heavily processed) and NOT fully synthetic (not from petroleum).",
+            "Rayon is a natural fibre harvested directly from bamboo plants; bamboo is pressed and drawn into fibres without any chemical modification",
+            "Rayon is the same as polyester — both are petroleum-based fibres with a silk-like sheen; 'rayon' is simply an older trade name for polyester"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rayon (also called Viscose Rayon or Artificial Silk) — classification: Origin: Natural cellulose from wood pulp (spruce trees) or cotton linters (short cotton fibres); Process (viscose process): Cellulose + NaOH (alkali) → alkali cellulose; Alkali cellulose + CS₂ (carbon disulphide) → cellulose xanthate (orange, viscous); Cellulose xanthate dissolved in dilute NaOH → 'viscose' (orange-yellow viscous solution); Viscose pushed through a spinneret (fine holes) into an acid bath (H₂SO₄) → cellulose regenerates as continuous filaments; Filaments drawn, stretched, and wound as rayon yarn. Chemical composition: Regenerated cellulose (same formula as cotton, C₆H₁₀O₅)ₙ — but with different physical structure due to the dissolution and re-spinning. Properties resembling silk: Lustrous, smooth, drapes well, absorbs moisture (more than synthetic fibres); Dyes easily with brilliant colours. Properties unlike silk: Much cheaper; Less strong when wet (a weakness of viscose rayon); Petroleum-free (unlike nylon, polyester). Modern variants: Modal rayon (stronger, softer); Lyocell (Tencel) — environmentally friendlier solvent process. Classification: Semi-synthetic / regenerated fibre — the 'in between' category.",
+          "source": "SSC CGL — rayon is semi-synthetic (regenerated cellulose, not petroleum-based) vs natural vs synthetic is a tricky classification question",
+          "verified": true
+        },
+        {
+          "text": "Teflon (PTFE) is used in non-stick cookware. Why is it so non-stick, and is it safe for cooking?",
+          "options": [
+            "Teflon is non-stick because it is coated with vegetable oil; the oil layer prevents food from sticking; it is completely safe",
+            "PTFE (polytetrafluoroethylene) is the most non-stick solid material because C-F bonds are extremely strong and the fluorine atoms create a smooth electron cloud that repels food molecules. It is safe for normal cooking (up to ~260°C) but should not be overheated as it may release toxic fluorocarbon gases above 300°C.",
+            "Teflon is non-stick because it is a metal alloy (fluorine + carbon) with a very hard surface; food cannot penetrate the metallic structure",
+            "PTFE is non-stick because it is acidic; it reacts with and dissolves any food that contacts it before food can stick to the pan"
+          ],
+          "answerIndex": 1,
+          "explanation": "PTFE (Polytetrafluoroethylene, brand name Teflon) — non-stick science: Structure: (-CF₂-CF₂-)ₙ — a long chain of carbon atoms completely surrounded by fluorine atoms. Why PTFE is non-stick — the C-F bond is the key: C-F bond (bond energy 544 kJ/mol) is one of the STRONGEST single bonds in chemistry; The electronegative F atoms create a uniform negative charge cloud around the entire polymer chain; No other molecule (food, water, oil, grease) can form any significant attractive interaction with this fluorine 'shield'; The surface energy of PTFE is extremely low (18–20 mN/m) — lower than almost any liquid; liquids bead up and roll off instead of spreading and sticking. Safety at normal cooking temperatures (up to 260°C): PTFE is chemically completely inert; releases NO substances; perfectly safe. Safety concerns above 300°C (overheating): PTFE begins to degrade; releases PFIB (perfluoroisobutylene) and other fluorocarbon gases — toxic to birds (kills them rapidly; even budgies in kitchen have died from overheated non-stick pans); cause polymer fume fever in humans (flu-like symptoms). Solution: Use PTFE pans only at appropriate temperatures; never heat empty non-stick pan on high flame. PFOA (perfluorooctanoic acid) concern: A processing chemical historically used in making PTFE (not PTFE itself); linked to cancer; major manufacturers phased it out by 2015. Modern non-stick pans are PFOA-free.",
+          "source": "SSC CGL — Teflon/PTFE non-stick (C-F bonds, lowest surface energy) and safety concerns is a tricky question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is PET (polyethylene terephthalate) and why are PET plastic bottles safer than PVC bottles for food and beverages?",
+          "options": [
+            "PET is stronger than PVC so it doesn't break and create sharp edges that could cut someone opening a bottle",
+            "PET (from ethylene glycol + terephthalic acid) has an ester linkage and no chlorine; it is chemically stable, transparent, and does not leach harmful compounds into food. PVC contains chlorine and may leach plasticisers (phthalates) or vinyl chloride monomer — both are endocrine disruptors — making PVC unsuitable for food contact.",
+            "PET bottles are safer simply because they are lighter — less material means less chemical exposure to the liquid inside",
+            "Both PET and PVC are equally safe; the distinction is purely commercial and is promoted by PET manufacturers"
+          ],
+          "answerIndex": 1,
+          "explanation": "PET (Polyethylene Terephthalate) vs PVC for food contact: PET structure: Made from ethylene glycol + terephthalic acid (condensation polymerisation); ester linkage (-COO-); contains only C, H, and O; does NOT contain chlorine or any inherently toxic atoms. Food safety of PET: Very low migration of chemicals from polymer to food/beverage; transparent, gives good barrier to CO₂ and O₂; recyclable (code '1'); FDA (USA) and FSSAI (India) approved for food contact. PVC (Polyvinyl Chloride) concerns: Contains chlorine (35% by weight); Raw PVC is rigid and brittle; Plasticisers (phthalates — DEHP, DBP) are added to make flexible PVC; These plasticisers can leach out of the polymer into food/beverages, especially fatty foods or at elevated temperatures; Phthalates are endocrine disruptors (mimic hormones, affect reproductive system); Residual vinyl chloride monomer (VCM) in PVC is a known human carcinogen. PVC is safe for non-food uses: pipes, cables, flooring, window frames. For food: PET, HDPE, PP are preferred; PVC is generally avoided. Recycling codes: 1=PET; 2=HDPE; 3=PVC; 4=LDPE; 5=PP; 6=PS; 7=Other.",
+          "source": "SSC CGL — PET vs PVC for food contact (PVC phthalate leaching, PET is safer) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What are 'biodegradable' plastics, and why have most common plastics become an environmental crisis?",
+          "options": [
+            "Biodegradable plastics dissolve in seawater within 24 hours; common plastics are safe and do not cause environmental problems",
+            "Biodegradable plastics are broken down by microorganisms into CO₂, water, and biomass within months to years. Common plastics (PE, PVC, PP, PS) persist for 100–1000 years in the environment because their long C-C backbone cannot be broken by most bacterial enzymes — leading to microplastic pollution that enters food chains.",
+            "All modern plastics are biodegradable within 5 years; the environmental crisis is caused only by improper disposal (littering), not by the chemistry of the plastics themselves",
+            "Biodegradable plastics are made from recycled petroleum; common plastics from fresh petroleum are less biodegradable because they haven't been exposed to natural weathering processes"
+          ],
+          "answerIndex": 1,
+          "explanation": "The plastic pollution crisis — chemistry perspective: Why most plastics persist: C-C backbone: The carbon-carbon bonds in polyethylene, polypropylene, PVC, polystyrene are extremely stable; Most natural bacteria evolved enzymes (lipases, proteases, cellulases) to break down natural polymers (cellulose, proteins, fats) but NOT synthetic C-C backbone polymers; UV light slowly fragments plastics into smaller pieces (microplastics, nanoplastics) but does NOT mineralise them; Estimated environmental persistence: LDPE bag: 400–1000 years; PET bottle: 450 years; PS foam cup: 50+ years; Fishing line (nylon): 600 years. Microplastic problem: Plastics fragment into particles <5mm (microplastics) and <1 μm (nanoplastics); Found in deepest ocean (Mariana Trench), Arctic ice, Antarctic snow, human blood, placenta, and breast milk; Microplastics absorb and concentrate toxic organic pollutants (PCBs, DDT); Enter food chains through zooplankton, fish, shellfish → humans. Biodegradable alternatives: PLA (polylactic acid) from corn starch — compostable at industrial temperatures; PHB (polyhydroxybutyrate) from bacteria; PHA (polyhydroxyalkanoates); Starch-based plastics. Challenge: Most 'biodegradable' plastics require specific industrial composting conditions (temperature >55°C); they do NOT biodegrade in the ocean or landfill like a banana peel.",
+          "source": "SSC CGL — biodegradable vs persistent plastics, microplastics, and environmental crisis is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between soap and synthetic detergent in terms of their molecular structure?",
+          "options": [
+            "Soap molecules are shorter than detergent molecules; the length of the chain is the only structural difference",
+            "Soaps are sodium/potassium salts of FATTY ACIDS (R-COO⁻Na⁺ — carboxylate head); synthetic detergents are sodium salts of SULPHONIC ACIDS (R-SO₃⁻Na⁺ — sulphonate head). The sulphonate head gives detergents their ability to work in hard water and acidic conditions.",
+            "Soaps contain no hydrocarbon tail; their cleaning ability comes from the ionic sodium end only; detergents have a tail to provide oil solubility",
+            "The only difference is the length of the hydrocarbon chain: soap chains are C₁₂–C₁₈; detergent chains are C₆–C₁₀"
+          ],
+          "answerIndex": 1,
+          "explanation": "Structural difference between soaps and synthetic detergents: SOAPS: Sodium (or potassium) salts of long-chain carboxylic acids (fatty acids): R-COOH + NaOH → R-COO⁻Na⁺ + H₂O. Head group: Carboxylate (-COO⁻); Tail: Saturated or unsaturated C₁₂–C₁₈ hydrocarbon chain. Problem: Ca²⁺ + 2R-COO⁻ → (R-COO)₂Ca↓ (insoluble scum in hard water); also decomposes in acid (R-COO⁻ + H⁺ → R-COOH, insoluble fatty acid precipitates). SYNTHETIC DETERGENTS (Syndets): Sodium salts of long-chain sulphonic acids: R-SO₃⁻Na⁺ (alkyl benzene sulphonate, ABS or LAS); or Sodium alkyl sulphates: R-OSO₃⁻Na⁺ (SDS = sodium dodecyl sulphate). Head group: Sulphonate (-SO₃⁻); Tail: C₁₀–C₁₄ hydrocarbon chain. Advantages: Ca²⁺ + 2R-SO₃⁻ → (R-SO₃)₂Ca (SOLUBLE — no scum in hard water); Stable in acid (sulphonate stays ionised at low pH). Biodegradability: Linear alkyl chains (LAS, Linear Alkyl benzene Sulphonate) → biodegradable; Branched chains (old ABS detergents) → NOT biodegradable (caused foam on rivers in 1950s–60s); Modern detergents use LAS which are biodegradable.",
+          "source": "SSC CGL — soap (carboxylate head, R-COO⁻Na⁺) vs detergent (sulphonate head, R-SO₃⁻Na⁺) structural difference is underrated",
+          "verified": true
+        },
+        {
+          "text": "Which synthetic rubber is most commonly used in car tyres, and why is it preferred over natural rubber?",
+          "options": [
+            "Neoprene rubber — because it is oil-resistant and car tyres frequently contact engine oil",
+            "SBR (Styrene-Butadiene Rubber / Buna-S) — cheaper than natural rubber, better abrasion resistance for road use, and can be produced in huge uniform quantities; unlike natural rubber which depends on plantation harvests and price fluctuations",
+            "Silicone rubber — because its extreme temperature range (-60°C to +250°C) is essential for tyres that heat up during driving",
+            "Natural rubber is still preferred over all synthetic rubbers for car tyres because synthetic alternatives lack sufficient elasticity for road use"
+          ],
+          "answerIndex": 1,
+          "explanation": "SBR (Styrene-Butadiene Rubber, also called Buna-S) is the dominant synthetic rubber for car tyres: Composition: 25% styrene (C₆H₅CH=CH₂) + 75% butadiene (CH₂=CH-CH=CH₂) copolymer. Properties vs natural rubber: Better abrasion resistance (roads are very abrasive); Good grip on road surfaces; Less sensitive to heat build-up during driving; Can be made uniformly in huge quantities (unlike natural rubber from plantations); Cheaper (petroleum-based); More predictable quality control. Uses: About 65% of all SBR production goes into car tyres. Limitations vs natural rubber: Lower tensile strength at high stresses; Not as good in very cold temperatures; Less elasticity — which is why some performance car tyres, truck tyres, and aircraft tyres still use natural rubber or blends. Tyre composition (typical): Tread: SBR or NR blend; Belt/ply: steel cord or textile cord (polyester, nylon) + NR rubber; Inner liner: butyl rubber (IIR — isobutylene-isoprene rubber — very low air permeability, keeps tyre inflated). Neoprene (CR) = oil-resistant (not used for tyres which don't need oil resistance); Nitrile (NBR) = fuel-resistant (O-rings in fuel systems); Silicone = extreme temperature (specialty seals).",
+          "source": "SSC CGL — SBR (styrene-butadiene rubber) is the main car tyre rubber; preferred over natural rubber for abrasion resistance is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which polymer is used to make non-stick cookware (Teflon-coated pans)?",
+          "options": [
+            "Polythene (Polyethylene)",
+            "Nylon",
+            "Polytetrafluoroethylene (PTFE / Teflon)",
+            "Bakelite"
+          ],
+          "answerIndex": 2,
+          "explanation": "PTFE (Polytetrafluoroethylene), commercially known as Teflon (DuPont brand name), is used to coat non-stick cookware. Monomer: Tetrafluoroethylene (TFE, CF₂=CF₂). Polymer: (-CF₂-CF₂-)ₙ. Key properties making it non-stick: Lowest coefficient of friction of any solid (0.04 — almost frictionless); Lowest surface energy of any solid material (18–20 mN/m); Nothing adheres to it because the fluorine electron cloud repels all other molecules; Completely chemically inert — resists all acids, bases, organic solvents. Discovery: Roy Plunkett (DuPont) in 1938 — accidentally; a cylinder of TFE gas 'ran out' but still had original weight — opening it found white, waxy solid polymer. First non-stick pan: Made by Marc Gregoire in 1954 in France ('Tefal' brand). Temperature range: Stable from -200°C to +260°C (for normal cooking up to 260°C is fine; overheating above 300°C → toxic fume release). Applications beyond cookware: Plumber's sealing tape (PTFE tape); Heart valve replacements and vascular grafts (body-compatible); Electrical wire insulation (temperature resistant, flexible); Low-friction bearings and sliding surfaces; Waterproofing membranes (Gore-Tex = expanded PTFE).",
+          "source": "SSC CGL / SSC CHSL — PTFE (Teflon) used in non-stick cookware is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the monomer of natural rubber?",
+          "options": [
+            "Butadiene (CH₂=CH-CH=CH₂)",
+            "Styrene (CH₂=CHC₆H₅)",
+            "Isoprene (2-methyl-1,3-butadiene, CH₂=C(CH₃)-CH=CH₂)",
+            "Acrylonitrile (CH₂=CH-CN)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Natural rubber is a polymer of ISOPRENE (2-methyl-1,3-butadiene): Chemical formula of isoprene: C₅H₈ = CH₂=C(CH₃)-CH=CH₂. Natural rubber polymer: (-CH₂-C(CH₃)=CH-CH₂-)ₙ; This is cis-polyisoprene (the methyl group and the chain continuation are on the SAME side of the double bond). Stereospecific configuration is crucial: Natural rubber (cis-1,4-polyisoprene) = elastic; Gutta-percha (trans-1,4-polyisoprene) = hard, non-elastic (used historically in submarine telegraph cables and golf ball covers). Source: Latex from the rubber tree, *Hevea brasiliensis* (native to Amazon basin; now grown mainly in SE Asia — Thailand, Indonesia, Malaysia). Latex: White milky emulsion; ~35% rubber; collected by tapping the tree bark daily. Processing: Latex + acetic acid → rubber coagulates; pressed, dried → raw natural rubber (ribbed smoked sheets, technically). Other options: Butadiene = monomer of Buna rubber; Butadiene + Styrene = SBR; Acrylonitrile = monomer of acrylic (Orlon) and also in nitrile rubber (with butadiene). Isoprene is also used in synthetic polyisoprene rubber (same monomer, synthetic polymer).",
+          "source": "SSC CGL / SSC CHSL — isoprene as the monomer of natural rubber is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Nylon is stronger than steel of the same cross-sectional area. What are its main uses?",
+          "options": [
+            "Nylon is used mainly as thermal insulation in buildings and as a rubber substitute in tyres",
+            "Nylon is used in stockings and hosiery, parachutes, ropes (stronger than steel by weight), toothbrush bristles, surgical sutures, tyre cord, gear wheels, and sports equipment such as tennis strings",
+            "Nylon is used exclusively in the textile industry for making blended fabrics with cotton and wool; it has no engineering applications",
+            "Nylon is primarily used in water purification membranes and as the coating for drinking water pipes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nylon — applications span textiles AND engineering, making it one of the most versatile synthetic polymers: TEXTILE applications: Stockings and hosiery: first commercial product (1939, DuPont); replaced silk stockings which were expensive; Lingerie and sportswear (lightweight, elastic, quick-drying); Carpets and upholstery (abrasion-resistant); Socks (blended with wool or cotton). ENGINEERING / TECHNICAL applications: Ropes: Nylon ropes have higher tensile strength per unit weight than steel ropes — critical for climbing, marine, and rescue applications; Parachutes: lightweight, strong, tears resistant; Tyre cord: reinforces the rubber carcass of car and truck tyres (nylon-6 and polyester); Toothbrush bristles: first non-natural bristle for toothbrushes; Surgical sutures (monofilament nylon — strong, inert, ties well); Gear wheels and bearings: 'Engineering nylon' (nylon-6/6 or nylon-6,12) — no lubrication needed (self-lubricating); Fishing lines; Zip fasteners; Tennis racket strings; Instrument strings. Specific strengths: Nylon-6,6 tensile strength: ~75–85 MPa; Mild steel: ~400 MPa (higher); But nylon density = 1.14 g/cm³ vs steel = 7.8 g/cm³ → nylon has better SPECIFIC STRENGTH (strength per unit weight) than most steels.",
+          "source": "SSC CGL / SSC CHSL — nylon uses (stockings, ropes, parachutes, toothbrush bristles) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is a thermosetting plastic?",
+          "options": [
+            "Polythene (Polyethylene)",
+            "PVC (Polyvinyl Chloride)",
+            "Nylon",
+            "Bakelite (Phenol-formaldehyde resin)"
+          ],
+          "answerIndex": 3,
+          "explanation": "Bakelite (phenol-formaldehyde resin) is a thermosetting plastic — it forms a permanent 3D cross-linked network and cannot be softened or remoulded once cured. Why it is a thermoset: During manufacture, phenol and formaldehyde react with each other and with the growing chain at multiple points → each phenol monomer can form bonds in 3 directions → 3D network forms; Once the network forms (during moulding under heat and pressure), all polymer chains are covalently linked throughout; The structure is ONE GIANT MOLECULE that extends through the entire object; Heating again causes the C-C and C-O bonds to burn/char but NOT to melt (there are no separate chains to flow). The other options: Polythene (LDPE, HDPE) = thermoplastic — linear/branched chains, melts on heating; PVC = thermoplastic — linear chains, melts on heating (actually decomposes somewhat if overheated, releasing HCl); Nylon = thermoplastic — melts cleanly and can be spun into fibres repeatedly. Other thermosets (for SSC): Epoxy resin (araldite adhesive), urea-formaldehyde resin (UF resin — melamine plates, foam insulation), unsaturated polyester + glass fibre = fibreglass (GRP), vulcanised rubber.",
+          "source": "SSC CGL / SSC CHSL — Bakelite as a thermosetting plastic is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

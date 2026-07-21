@@ -1,0 +1,233 @@
+{
+  "topic": "Matter, Atoms & Atomic Structure — States, Models & Electronic Configuration",
+  "topicId": "chem-matter-atoms",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who discovered the electron, and what experiment led to its discovery?",
+          "options": [
+            "Ernest Rutherford — through the gold foil experiment (1911)",
+            "James Chadwick — by bombarding beryllium with alpha particles (1932)",
+            "J.J. Thomson — through the cathode ray tube experiment (1897)",
+            "John Dalton — through his atomic theory experiments (1808)"
+          ],
+          "answerIndex": 2,
+          "explanation": "J.J. Thomson discovered the electron in 1897 through the cathode ray tube experiment. He passed an electric discharge through a low-pressure gas tube and observed that the resulting rays (cathode rays) were deflected by both electric and magnetic fields — proving they consisted of negatively charged particles. Thomson measured the charge-to-mass ratio (e/m) of these particles and found them to be the same regardless of the gas used or the cathode material — proving they were a universal constituent of all matter. He called them 'corpuscles' (later renamed electrons). Thomson also proposed the 'Plum Pudding' model of the atom (1904) — positive charge spread through a sphere with electrons embedded like plums in a pudding — which was later disproved by Rutherford.",
+          "source": "SSC CGL / SSC CHSL previous years — Thomson discovering electron via cathode ray tube is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Rutherford's gold foil experiment led to which major conclusion about atomic structure?",
+          "options": [
+            "Atoms are indivisible and electrons orbit the nucleus in random paths",
+            "The atom has a small, dense, positively charged nucleus at the centre, with electrons orbiting far away in mostly empty space",
+            "Electrons are embedded in a diffuse positive sphere (plum pudding model)",
+            "All the mass of the atom is evenly distributed throughout its volume"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rutherford's gold foil experiment (1909-1911, performed by Geiger and Marsden under Rutherford's direction): A thin gold foil was bombarded with alpha particles (helium nuclei, positively charged). Observations: (1) Most alpha particles passed straight through → the atom is mostly empty space. (2) Some were deflected at small angles. (3) Very few (~1 in 20,000) bounced back at large angles → there is a small, extremely dense, positively charged region at the centre. Rutherford concluded that the atom has a tiny nucleus (containing all positive charge and most mass) surrounded by electrons at large distances — most of the atom being empty space. This nuclear model replaced Thomson's plum pudding model.",
+          "source": "SSC CGL / SSC CHSL previous years — Rutherford's gold foil experiment conclusion is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between isotopes and isobars?",
+          "options": [
+            "Isotopes have the same mass number but different atomic number; isobars have the same atomic number but different mass number",
+            "Isotopes have the same atomic number (Z) but different mass numbers (A); isobars have the same mass number (A) but different atomic numbers (Z)",
+            "Isotopes are atoms of different elements; isobars are atoms of the same element with different masses",
+            "Isotopes and isobars are the same — both refer to atoms with different numbers of neutrons"
+          ],
+          "answerIndex": 1,
+          "explanation": "Isotopes: atoms of the SAME element (same Z = same atomic number = same number of protons) but with DIFFERENT mass numbers (A = different numbers of neutrons). Example: ¹H (Protium), ²H (Deuterium), and ³H (Tritium) are all hydrogen isotopes (Z=1) but have 0, 1, and 2 neutrons respectively. Another example: ¹²C, ¹³C, ¹⁴C — all carbon (Z=6). Isobars: atoms of DIFFERENT elements (different Z) but with the SAME mass number (A). Example: ⁴⁰Ar (Z=18, N=22), ⁴⁰K (Z=19, N=21), and ⁴⁰Ca (Z=20, N=20) — all have A=40 but are different elements. Isotones (for completeness): same number of NEUTRONS but different Z and A.",
+          "source": "SSC CGL / SSC CHSL previous years — isotopes vs isobars definition and examples is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which substances undergo sublimation (direct solid to gas conversion)?",
+          "options": [
+            "Ice, salt, sugar, limestone",
+            "Iodine, camphor, dry ice (CO₂), naphthalene (mothballs)",
+            "Mercury, bromine, ethanol, acetone",
+            "Iron, copper, gold, aluminium"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sublimation is the phase transition from solid directly to gas without passing through the liquid state. Substances that sublime include: Iodine (I₂) — purple-grey solid that produces violet vapour on mild heating; Dry ice (solid CO₂) — sublimates at -78.5°C at atmospheric pressure (used as cooling agent); Camphor — white crystalline solid used in religious ceremonies; Naphthalene (mothballs) — white balls that slowly disappear in wardrobes; Ammonium chloride (NH₄Cl) — used in chemistry labs. Sublimation is used to purify these substances. The reverse process (gas to solid directly) is called deposition. Ice does NOT sublime at normal conditions (it melts to water first); it can sublime in very dry, cold conditions (freeze-drying).",
+          "source": "SSC CGL / SSC CHSL previous years — substances that sublime (iodine, camphor, dry ice, naphthalene) is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Chlorine has two main isotopes: ³⁵Cl (75% abundance) and ³⁷Cl (25% abundance). Why is the atomic mass of chlorine given as 35.5 rather than a whole number?",
+          "options": [
+            "Chlorine atoms continually switch between the two isotopes, so the mass is an average",
+            "The atomic mass is the weighted average of all isotopes' masses according to their natural abundance: (35×0.75) + (37×0.25) = 35.5",
+            "The 0.5 accounts for the mass of electrons, which are not counted in neutrons and protons",
+            "35.5 is an approximation; the true mass is exactly 36"
+          ],
+          "answerIndex": 1,
+          "explanation": "The standard atomic mass (relative atomic mass) of any element is the weighted average of all its naturally occurring isotopes' masses, weighted by their relative abundance in nature. For chlorine: Mass = (mass of ³⁵Cl × fractional abundance) + (mass of ³⁷Cl × fractional abundance) = (35 × 0.75) + (37 × 0.25) = 26.25 + 9.25 = 35.5 amu. This is why chlorine's atomic mass is 35.5 — not a whole number. Individual chlorine atoms are either 35 or 37 amu; no atom actually has mass 35.5. Similarly: copper (63.5 from ⁶³Cu and ⁶⁵Cu), bromine (80 from ⁷⁹Br and ⁸¹Br equal abundance). Elements with only one stable isotope (like sodium-23, fluorine-19, iodine-127) have whole-number atomic masses.",
+          "source": "SSC CGL — why chlorine's atomic mass is 35.5 (weighted average of isotopes) is a tricky calculation question",
+          "verified": true
+        },
+        {
+          "text": "Why did Rutherford's nuclear model fail to explain atomic stability, and how did Bohr resolve this?",
+          "options": [
+            "Rutherford's model had electrons too far from the nucleus — Bohr brought them closer, making orbits stable",
+            "Rutherford's model predicted electrons in circular orbits would constantly radiate energy and spiral into the nucleus (classical electromagnetism predicts this) — Bohr postulated that electrons in fixed energy orbits do NOT radiate energy, resolving the stability paradox",
+            "Rutherford's model had too many electrons in each orbit — Bohr limited each orbit to two electrons",
+            "Rutherford assumed the nucleus was negative — Bohr corrected this by showing it is positive"
+          ],
+          "answerIndex": 1,
+          "explanation": "The fatal flaw in Rutherford's model: According to classical electromagnetism, a charged particle (like an electron) undergoing circular motion (acceleration) must continuously emit electromagnetic radiation and lose energy. If electrons radiated energy continuously, they would spiral inward toward the nucleus and the atom would collapse within ~10⁻¹¹ seconds. Clearly atoms are stable — so something was wrong with applying classical physics to atoms. Bohr (1913) resolved this by introducing quantum postulates: electrons can only occupy certain discrete orbits (stationary states) with specific fixed energies. While in these orbits, electrons do NOT radiate energy — they emit or absorb energy only when jumping between orbits. This explained why atoms are stable AND explained the line spectrum of hydrogen (each spectral line corresponds to electrons jumping between specific energy levels). This was revolutionary — the first application of quantum ideas to atomic structure.",
+          "source": "SSC CGL — why Rutherford's model fails (spiral) and how Bohr resolved it is a tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Why is heavy water (D₂O) used as a moderator in nuclear reactors rather than ordinary water (H₂O)?",
+          "options": [
+            "D₂O is heavier and denser than H₂O — the greater density slows neutrons more effectively",
+            "D₂O moderates neutrons (slows them down for sustained fission) without significantly absorbing them, while H₂O both moderates AND absorbs too many neutrons — reducing reactor efficiency. D₂O-moderated reactors can use natural (unenriched) uranium",
+            "D₂O has a higher boiling point than H₂O — it remains liquid at higher reactor temperatures for better cooling",
+            "D₂O is chemically inert and doesn't corrode reactor components, unlike H₂O"
+          ],
+          "answerIndex": 1,
+          "explanation": "Heavy water (D₂O, deuterium oxide) is used as a neutron moderator in CANDU (CANadian Deuterium Uranium) reactors and some Indian PHWRs (Pressurised Heavy Water Reactors). A moderator's job is to slow down fast neutrons (produced in fission) to thermal (slow) neutrons, which are much more effective at causing further fission — sustaining the chain reaction. Ordinary water (H₂O) also moderates neutrons, but its hydrogen atoms (¹H) have a relatively high cross-section for neutron absorption (capturing neutrons and becoming deuterium) — removing too many neutrons from the chain reaction. Deuterium (²H) in D₂O has a much lower neutron absorption cross-section — it slows neutrons very effectively without absorbing them. This means D₂O-moderated reactors can operate with unenriched natural uranium (0.7% ²³⁵U), while H₂O-moderated reactors (like the US PWR/BWR designs) require enriched uranium (~3-5% ²³⁵U).",
+          "source": "SSC CGL — heavy water (D₂O) as moderator in nuclear reactors is a tricky applied question",
+          "verified": true
+        },
+        {
+          "text": "Avogadro's law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules. What is the practical significance of Avogadro's number (6.022 × 10²³)?",
+          "options": [
+            "It tells us the number of atoms in 1 gram of any element",
+            "It defines the mole: 6.022 × 10²³ particles of any substance = 1 mole; 1 mole of any substance has a mass in grams numerically equal to its molecular/atomic mass",
+            "It gives the number of electrons in 1 kg of any solid",
+            "It represents the number of chemical bonds that can form between any two atoms"
+          ],
+          "answerIndex": 1,
+          "explanation": "Avogadro's number (Nₐ = 6.022 × 10²³) is the number of elementary entities (atoms, molecules, ions, etc.) in ONE MOLE of any substance. The mole is the SI unit of amount of substance. Key relationships: 1 mole of carbon-12 (¹²C) atoms = exactly 12 g and contains 6.022 × 10²³ atoms. 1 mole of water (H₂O) = 18 g (molecular mass = 2+16 = 18) and contains 6.022 × 10²³ water molecules. This makes weighing atoms practical: instead of counting 6.022 × 10²³ individual atoms (impossible), you simply weigh 12 g of carbon. The mole concept bridges the microscopic world of atoms/molecules and the macroscopic world of grams and litres. At STP, 1 mole of any ideal gas occupies 22.4 litres (molar volume).",
+          "source": "SSC CGL — Avogadro's number and the mole concept significance is a tricky but fundamental question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is the 4th state of matter, and where is it found in nature and technology?",
+          "options": [
+            "Bose-Einstein Condensate — found at near absolute zero in laboratory conditions",
+            "Plasma — ionised gas where electrons are stripped from atoms; found in the Sun and all stars, lightning, aurora borealis, neon signs, fluorescent lights, and fusion reactors",
+            "Supercritical fluid — found at very high temperatures and pressures in industrial processes",
+            "Fermionic condensate — found inside neutron stars and black holes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Plasma is the 4th state of matter — a high-energy state where atoms are so energetically excited that electrons are stripped away, creating a mixture of free positive ions and free electrons (ionised gas). Plasma is the most abundant state of matter in the universe — stars (including our Sun), nebulae, and the interstellar medium are mostly plasma. On Earth: lightning (a plasma channel), aurora borealis/australis (interaction of solar plasma with atmospheric gases), neon and fluorescent lights (electrical discharge ionises gas → plasma → emits light), plasma TVs, welding arcs, and experimental nuclear fusion reactors (like ITER — the international tokamak). Plasma does not have a fixed shape or volume, responds strongly to electromagnetic fields (unlike ordinary gases), and conducts electricity. The Sun's corona (outer atmosphere) is plasma at millions of degrees.",
+          "source": "SSC CGL — plasma as 4th state of matter and its natural/technological occurrence is underrated",
+          "verified": true
+        },
+        {
+          "text": "The Law of Conservation of Mass was proposed by Lavoisier in 1789. What specific experiment did he use to establish it, and why was it revolutionary?",
+          "options": [
+            "He burned various metals in closed containers and showed that the total mass before and after burning was identical — the metal gained mass from oxygen while the container as a whole lost nothing",
+            "He heated mercury oxide in a sealed vessel, collected the oxygen produced, and showed that the total mass (mercury + oxygen) equalled the original mercury oxide mass — disproving the phlogiston theory",
+            "He dissolved metals in acid in a sealed flask and showed that the gas produced (hydrogen) exactly compensated for the mass of metal dissolved",
+            "He measured the mass of water before and after electrolysis and showed that the mass of hydrogen plus oxygen produced equalled the original water mass"
+          ],
+          "answerIndex": 1,
+          "explanation": "Lavoisier (1789) used precise quantitative measurements — he was the first to truly apply careful weighing to chemistry. In his famous experiment: he heated mercury (Hg) in a closed flask with measured air → red mercury oxide (HgO) formed → the mercury gained mass and the air (oxygen) lost mass by exactly the same amount. When he heated the mercury oxide, it decomposed back to mercury + oxygen, and the total mass was conserved. This directly disproved the 'phlogiston theory' (the prevailing idea that burning materials released a substance called 'phlogiston' — which had no mass or even negative mass, an absurdity). Lavoisier's work established that: matter is neither created nor destroyed; oxygen (not phlogiston) is consumed in combustion; and chemistry is quantitative. He is called the 'Father of Modern Chemistry.' He was later guillotined during the French Revolution.",
+          "source": "SSC CGL — Lavoisier's Law of Conservation of Mass experiment and significance is underrated",
+          "verified": true
+        },
+        {
+          "text": "Valency can be variable for some elements like iron (Fe). What is the difference between ferrous (Fe²⁺) and ferric (Fe³⁺) compounds, and how does this affect compound names?",
+          "options": [
+            "Ferrous = iron in its metallic (elemental) form; ferric = iron combined with another metal",
+            "Ferrous compounds contain Fe²⁺ (iron with valency 2, loses 2 electrons); ferric compounds contain Fe³⁺ (iron with valency 3, loses 3 electrons) — named with Roman numerals: iron(II) and iron(III)",
+            "Ferrous = small iron particles; ferric = large iron particles — distinguished by particle size",
+            "Ferrous compounds are magnetic; ferric compounds are non-magnetic"
+          ],
+          "answerIndex": 1,
+          "explanation": "Iron (Fe) exhibits variable valency — it can form compounds as Fe²⁺ (ferrous, iron(II), valency 2) or Fe³⁺ (ferric, iron(III), valency 3). Ferrous compounds: Fe²⁺ loses 2 electrons. Examples: FeCl₂ (ferrous chloride/iron(II) chloride), FeSO₄ (ferrous sulphate — the green vitriol, used as iron supplement), FeO (ferrous oxide). Ferric compounds: Fe³⁺ loses 3 electrons. Examples: FeCl₃ (ferric chloride/iron(III) chloride), Fe₂(SO₄)₃ (ferric sulphate), Fe₂O₃ (ferric oxide — rust/haematite ore). Common naming convention: -ous suffix = lower valency (ferrous = 2); -ic suffix = higher valency (ferric = 3). Also used: cuprous (Cu⁺) vs cupric (Cu²⁺); stannous (Sn²⁺) vs stannic (Sn⁴⁺); mercurous (Hg₂²⁺) vs mercuric (Hg²⁺). Modern IUPAC names use Roman numerals: iron(II), iron(III), etc.",
+          "source": "SSC CGL — ferrous (Fe²⁺) vs ferric (Fe³⁺) and variable valency is underrated but tested",
+          "verified": true
+        },
+        {
+          "text": "What is the significance of the outermost (valence) shell electrons in determining an atom's chemical behaviour?",
+          "options": [
+            "The outermost electrons determine the atom's colour and physical appearance only",
+            "Valence electrons determine how an atom bonds with other atoms — atoms with full outer shells (noble gases, 8 electrons) are unreactive; others gain, lose, or share electrons to achieve this stable configuration",
+            "The outermost electrons are irrelevant; it is the nucleus (protons and neutrons) that controls chemical reactions",
+            "Valence electrons only matter for metals; non-metals react based on their inner electron shells"
+          ],
+          "answerIndex": 1,
+          "explanation": "Valence electrons (electrons in the outermost shell) are the key to all chemical bonding and reactivity: Noble gases (He:2, Ne:8, Ar:8, Kr:8) have full outer shells → extremely stable → almost completely unreactive (inert). Elements with 1-2 valence electrons (alkali/alkaline earth metals) tend to lose these electrons easily → form positive ions → ionic bonds with non-metals. Elements with 6-7 valence electrons (halogens, oxygen) tend to gain electrons → form negative ions → ionic bonds. Elements in the middle (like carbon with 4) tend to share electrons → covalent bonds. The octet rule (tendency toward 8 valence electrons) drives most chemistry. This is why: sodium (1 valence electron) reacts violently with chlorine (7 valence electrons) to form NaCl — sodium loses 1e⁻ to achieve a neon-like configuration; chlorine gains 1e⁻ to achieve an argon-like configuration.",
+          "source": "SSC CGL — valence electrons controlling chemical bonding and reactivity is underrated but conceptually fundamental",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is Avogadro's number, and what does it represent?",
+          "options": [
+            "3.14 × 10²³ — number of atoms in 1 gram of hydrogen",
+            "6.022 × 10²³ — number of particles (atoms, molecules, or ions) in one mole of any substance",
+            "6.022 × 10²⁰ — number of molecules in 1 litre of any gas at STP",
+            "1.602 × 10⁻¹⁹ — charge of one electron in coulombs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Avogadro's number (Nₐ) = 6.022 × 10²³ mol⁻¹ — the number of elementary entities (atoms, molecules, ions, electrons, or any particles) in exactly one mole of a substance. Named after Italian scientist Amedeo Avogadro. The mole is the SI base unit for amount of substance. Practical meaning: 1 mole of carbon = 12 g = 6.022 × 10²³ carbon atoms; 1 mole of water = 18 g = 6.022 × 10²³ water molecules; 1 mole of NaCl = 58.5 g = 6.022 × 10²³ formula units of NaCl = 6.022 × 10²³ Na⁺ ions + 6.022 × 10²³ Cl⁻ ions. SSC frequently asks the value of Avogadro's number — always 6.022 × 10²³ (sometimes written 6.023 × 10²³).",
+          "source": "SSC CGL / SSC CHSL — Avogadro's number 6.022 × 10²³ is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which particle was discovered LAST among the three fundamental subatomic particles, and in which year?",
+          "options": [
+            "Proton — discovered last by Rutherford in 1919",
+            "Electron — discovered last by Thomson in 1897",
+            "Neutron — discovered last by Chadwick in 1932",
+            "Positron — discovered last by Anderson in 1932"
+          ],
+          "answerIndex": 2,
+          "explanation": "The three fundamental subatomic particles were discovered in this order: Electron (J.J. Thomson, 1897); Proton (Goldstein's canal rays in 1886; confirmed and named by Rutherford in 1919); Neutron (James Chadwick, 1932). The neutron was the last to be discovered — and the hardest to find, precisely because it carries no electric charge. Chadwick bombarded beryllium (⁹Be) with alpha particles → ⁴He + ⁹Be → ¹²C + ¹n. The neutral radiation produced could penetrate lead and eject protons from paraffin wax — only a particle of mass ~1 amu and zero charge could account for this. Chadwick won the Nobel Prize in Physics in 1935 for discovering the neutron.",
+          "source": "SSC CGL / SSC CHSL — Chadwick discovering neutron in 1932 (last of the three particles) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the maximum number of electrons that can be accommodated in the third shell (M shell) of an atom?",
+          "options": ["8", "12", "18", "32"],
+          "answerIndex": 2,
+          "explanation": "The maximum number of electrons in any shell is given by the formula 2n², where n is the shell number. Shell 1 (K): 2×1² = 2; Shell 2 (L): 2×2² = 8; Shell 3 (M): 2×3² = 18; Shell 4 (N): 2×4² = 32. So the third shell (M shell) can hold a maximum of 18 electrons. However, in practice, the outermost shell of any atom can hold a maximum of 8 electrons (octet rule) before electrons start filling the next shell — but inner shells filled from the inside can reach their maximum. Elements with fully filled M shell: Argon (Z=18, configuration 2,8,8 — not quite 18 in M shell, as 8 is the maximum for the outermost when there are further shells) vs. the capacity of 18 when not outermost.",
+          "source": "SSC CGL / SSC CHSL — maximum electrons in third shell (M shell = 18) using 2n² formula is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is a chemical change, as distinct from a physical change?",
+          "options": [
+            "Melting of ice into water",
+            "Dissolving sugar in water",
+            "Cutting a piece of paper",
+            "Burning of wood"
+          ],
+          "answerIndex": 3,
+          "explanation": "Burning of wood is a chemical change — a new substance (CO₂, water vapour, ash, smoke) is formed that is chemically different from the original wood; the process is largely irreversible; chemical properties change. The other options are physical changes: Melting of ice → water: only state changes (H₂O remains H₂O); reversible by freezing; no new substance formed. Dissolving sugar in water: sugar molecules disperse in water but remain as sucrose (C₁₂H₂₂O₁₁); evaporating water would recover the sugar; no chemical change. Cutting paper: only physical size changes; cellulose remains cellulose. Key distinction: A chemical change involves breaking and forming chemical bonds → new substances with new chemical properties. Indicators of chemical change: colour change, gas production, precipitate formation, light/heat production, irreversibility.",
+          "source": "SSC CGL / SSC CHSL — distinguishing physical vs chemical change (burning = chemical) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

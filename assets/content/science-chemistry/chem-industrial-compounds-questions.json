@@ -1,0 +1,238 @@
+{
+  "topic": "Important Industrial & Everyday Compounds — H₂SO₄, NH₃, NaOH, Na₂CO₃, Bleaching Powder & Plaster of Paris",
+  "topicId": "chem-industrial-compounds",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which catalyst is used in the Contact Process for manufacturing sulphuric acid (H₂SO₄)?",
+          "options": [
+            "Iron (Fe) with alumina promoters",
+            "Platinum (Pt) gauze",
+            "Vanadium pentoxide (V₂O₅)",
+            "Nickel (Ni) on alumina support"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vanadium pentoxide (V₂O₅) is the catalyst used in the Contact Process (also called the Contact Method) for manufacturing H₂SO₄. The key step is: 2SO₂ + O₂ ⇌ 2SO₃ (V₂O₅ catalyst, ~450°C). V₂O₅ works by a redox cycle: V₂O₅ oxidises SO₂ to SO₃ while being reduced to V₂O₄; then O₂ re-oxidises V₂O₄ back to V₂O₅ (catalyst is regenerated). Temperature choice (450°C): Lower T → equilibrium favours SO₃ (more yield) but reaction very slow; Higher T → faster reaction but equilibrium shifts left (less SO₃ yield); 450°C is the optimal compromise between rate and yield. Common exam trap: Iron (Fe) catalyst is used in the HABER process for NH₃; Platinum (Pt) gauze catalyst is used in the OSTWALD process for HNO₃. The three most tested industrial catalysts: Haber process (NH₃) → Fe; Contact process (H₂SO₄) → V₂O₅; Ostwald process (HNO₃) → Pt-Rh. Mixing these three is the most common exam error.",
+          "source": "SSC CGL / SSC CHSL previous years — V₂O₅ catalyst in Contact Process for H₂SO₄ is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Haber Process is used to manufacture which chemical? What are the conditions used?",
+          "options": [
+            "Sulphuric acid (H₂SO₄) — temperature 200°C, iron catalyst, high pressure",
+            "Ammonia (NH₃) — N₂ + 3H₂ ⇌ 2NH₃; iron catalyst, 400–500°C, 150–300 atm high pressure",
+            "Nitric acid (HNO₃) — ammonia oxidation, platinum catalyst, moderate pressure",
+            "Sodium carbonate (Na₂CO₃) — electrolysis of brine, vanadium catalyst"
+          ],
+          "answerIndex": 1,
+          "explanation": "Haber Process (also Haber-Bosch Process) manufactures AMMONIA (NH₃): N₂ + 3H₂ ⇌ 2NH₃ (ΔH = −92 kJ/mol; exothermic). Conditions: Temperature: 400–500°C (compromise — lower T gives better yield but too slow; higher T shifts equilibrium back); Pressure: 150–300 atm (high pressure favours products because 4 moles gas → 2 moles gas; Le Chatelier's principle); Catalyst: Iron (Fe) with promoters K₂O and Al₂O₃ (K₂O increases catalyst activity; Al₂O₃ prevents sintering/agglomeration); Yield: ~15% per pass (unreacted N₂ and H₂ are recycled). Named after: Fritz Haber (invented the process, Nobel Prize Chemistry 1918); Carl Bosch (scaled it up industrially, Nobel Prize 1931). Significance: NH₃ is used to make urea, ammonium nitrate, DAP fertilisers → feeds ~50% of the world's 8 billion people. Without the Haber-Bosch process, Earth's soil could not support adequate nitrogen-intensive agriculture to feed the current population; world population would be approximately half of what it is.",
+          "source": "SSC CGL / SSC CHSL previous years — Haber Process conditions (Fe catalyst, 400-500°C, 150-300 atm) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "How is bleaching powder made, and what gives it its bleaching property?",
+          "options": [
+            "Bleaching powder is made by reacting sodium hydroxide with chlorine gas; it bleaches by releasing hydrogen peroxide (H₂O₂)",
+            "Bleaching powder (CaOCl₂) is made by passing chlorine gas over slaked lime [Ca(OH)₂]; its bleaching action comes from nascent oxygen [O] released when it reacts with CO₂ or water — this nascent oxygen oxidises (bleaches) coloured substances",
+            "Bleaching powder is made by heating gypsum (CaSO₄·2H₂O) with chlorine; the CaSO₄ provides the bleaching action",
+            "Bleaching powder is made by electrolysis of calcium chloride solution; the calcium hypochlorite produced is the active bleaching agent that works by reducing coloured dyes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Bleaching powder (CaOCl₂) = calcium hypochlorite mixed with calcium chloride. Manufacture: Ca(OH)₂ (slaked lime) + Cl₂ (chlorine gas) → CaOCl₂ + H₂O. Chlorine gas comes from the chlor-alkali process (electrolysis of brine). How it bleaches — mechanism: CaOCl₂ + CO₂ (in air) → CaCO₃ + Cl₂↑; Cl₂ + H₂O → HCl + HOCl (hypochlorous acid); HOCl → HCl + [O] (nascent oxygen = highly reactive atomic oxygen); [O] oxidises chromophore groups in coloured organic dyes → colourless (bleached). The actual bleaching agent is nascent (atomic) oxygen [O], not Cl₂ directly. With dilute HCl: CaOCl₂ + 2HCl → CaCl₂ + H₂O + Cl₂↑ (stronger bleaching). Available chlorine: ~30–35% in fresh bleaching powder. Can NOT bleach: Silk, wool (protein fibres) — oxidative bleach damages peptide bonds. CAN bleach: Cotton, linen (cellulose fibres); coloured organic matter in water.",
+          "source": "SSC CGL / SSC CHSL previous years — bleaching powder manufacture (Ca(OH)₂ + Cl₂) and bleaching mechanism is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What happens to gypsum (CaSO₄·2H₂O) when it is heated to about 120°C?",
+          "options": [
+            "Gypsum decomposes into calcium oxide (CaO) and sulphur trioxide (SO₃)",
+            "Gypsum melts completely into a liquid that can be cast into any shape",
+            "Gypsum loses most of its water of crystallisation and becomes Plaster of Paris [(CaSO₄)₂·H₂O] — a hemihydrate with only ½ water molecule per CaSO₄ unit",
+            "Gypsum does not change at 120°C; it requires temperatures above 500°C to undergo any chemical change"
+          ],
+          "answerIndex": 2,
+          "explanation": "CaSO₄·2H₂O (gypsum) → (heated at 120°C) → (CaSO₄)₂·H₂O (Plaster of Paris) + 3H₂O. Plaster of Paris (POP) is a hemihydrate — each formula unit (CaSO₄) has only ½ water molecule attached. Written as: CaSO₄·½H₂O or more precisely as (CaSO₄)₂·H₂O (two CaSO₄ units share one H₂O). Setting reaction (POP + water → gypsum): (CaSO₄)₂·H₂O + 3H₂O → 2(CaSO₄·2H₂O). This rehydration is exothermic and is why a setting plaster cast feels warm. Key property: POP EXPANDS slightly (~1%) on setting — ensures sharp detail impressions in moulds (unlike most materials that shrink on solidifying). What if gypsum is heated above 200°C? CaSO₄ (anhydrous, 'dead burnt plaster' or 'anhydrite') — completely dry; cannot reabsorb water to set. This is why POP should not be heated above 120°C. Applications: Orthopaedic casts (broken bones), dental moulds, art sculpture moulds, plasterboard/drywall for construction, fire-resistant panels.",
+          "source": "SSC CGL / SSC CHSL previous years — gypsum → Plaster of Paris at 120°C (hemihydrate) is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Why is SO₃ absorbed in concentrated H₂SO₄ (to form oleum) in the Contact Process, rather than being dissolved directly in water?",
+          "options": [
+            "SO₃ is insoluble in water; it only dissolves in concentrated H₂SO₄",
+            "Direct absorption in water: SO₃ + H₂O → H₂SO₄ produces a fine acid mist (aerosol) rather than liquid H₂SO₄, which is difficult to capture and causes air pollution. Absorbing SO₃ in concentrated H₂SO₄ produces oleum (H₂S₂O₇) which can then be safely diluted with water to give concentrated H₂SO₄.",
+            "Water would react explosively with SO₃ at industrial concentrations; using concentrated H₂SO₄ prevents the explosion by moderating the reaction rate",
+            "SO₃ absorbed in water produces SO₂ (not H₂SO₄); concentrated H₂SO₄ is the only medium that correctly converts SO₃ to H₂SO₄"
+          ],
+          "answerIndex": 1,
+          "explanation": "The mist problem in the Contact Process: When SO₃ gas is bubbled into water: SO₃ + H₂O → H₂SO₄. The reaction is so rapid and exothermic that H₂SO₄ forms as a fine aerosol mist (tiny droplets) suspended in the gas phase. This mist: Cannot be easily condensed (too fine → doesn't settle); Escapes from the absorber as acid fume → air pollution; Corrosive to equipment and dangerous to workers; Cannot be collected efficiently (reduces yield). Solution — absorption in concentrated H₂SO₄ (oleum formation): SO₃ + H₂SO₄ (conc.) → H₂S₂O₇ (oleum/pyrosulphuric acid). Oleum is a dense, oily liquid that contains dissolved SO₃; no mist formation; safe to handle. Then dilution with controlled amounts of water: H₂S₂O₇ + H₂O → 2H₂SO₄ (this is done slowly and carefully — dilution is still exothermic). This two-stage process: (1) SO₃ → oleum, (2) oleum → H₂SO₄, is the standard industrial method used in all modern sulphuric acid plants worldwide.",
+          "source": "SSC CGL — why SO₃ is absorbed in H₂SO₄ (not water) in Contact Process — acid mist problem — is tricky",
+          "verified": true
+        },
+        {
+          "text": "What is the Solvay Process, and why is its by-product (CaCl₂) considered a commercial disadvantage?",
+          "options": [
+            "The Solvay Process makes NaOH by electrolysis of NaCl; CaCl₂ is the by-product which accumulates and must be discarded",
+            "The Solvay (ammonia-soda) Process makes Na₂CO₃ using NaCl + CaCO₃ (CO₂) + NH₃. The by-product CaCl₂ is produced in large quantities (1 tonne CaCl₂ per tonne Na₂CO₃) but has limited commercial value — it cannot be sold fast enough to match production rate, so vast quantities must be stored or disposed of, increasing costs.",
+            "The Solvay Process makes NH₃ from N₂ and H₂; CaCl₂ is the by-product that forms when limestone is used as a source of hydrogen",
+            "The Solvay Process is used to make HCl; CaCl₂ is a useful by-product that is sold as a desiccant"
+          ],
+          "answerIndex": 1,
+          "explanation": "Solvay Process (Ammonia-Soda Process, invented by Ernest Solvay, 1863) for Na₂CO₃: Key steps: Brine (NaCl + H₂O) saturated with NH₃; CO₂ bubbled through → NH₄HCO₃ forms; NH₄HCO₃ + NaCl → NaHCO₃↓ (precipitates; NaHCO₃ is less soluble than NH₄Cl) + NH₄Cl; 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑ (heating); NH₃ recovery: NH₄Cl + Ca(OH)₂ → 2NH₃↑ + CaCl₂ + H₂O; NH₃ is recycled; CaCl₂ is the by-product. The CaCl₂ problem: For every 106 g Na₂CO₃ produced, ~111 g CaCl₂ is generated. CaCl₂ uses are limited: Road de-icing, dust suppression, refrigeration brine, desiccant (calcium chloride bags in packaging) — but demand is far lower than Solvay production rate. So: Solvay plants accumulate huge stockpiles of CaCl₂; storage and disposal increase costs; CaCl₂ is sometimes dumped in water bodies (causes environmental problems). The Solvay Process nevertheless dominates Na₂CO₃ production because Na₂CO₃ is more valuable than H₂SO₄ production volumes and NaCl + limestone are cheap and abundant raw materials.",
+          "source": "SSC CGL — Solvay Process for Na₂CO₃ and CaCl₂ by-product problem is a tricky industrial chemistry question",
+          "verified": true
+        },
+        {
+          "text": "The Chlor-Alkali Process produces NaOH, Cl₂, and H₂ simultaneously. Why is it critical that Cl₂ and NaOH are kept separated during the process?",
+          "options": [
+            "They must be separated because they would form CaCl₂ and water if they met, which is an undesirable product",
+            "If Cl₂ (produced at anode) and NaOH (produced at cathode) mix in solution, they react: Cl₂ + 2NaOH → NaCl + NaOCl + H₂O — forming sodium hypochlorite (bleach) instead of the desired NaOH. The cell design must keep anode and cathode compartments separate.",
+            "They must be separated because NaOH dissolves in Cl₂ gas to form a hazardous explosive compound",
+            "Separation is needed only for safety — Cl₂ is toxic; if they mix there is no chemical reaction, but workers could be harmed by Cl₂ gas escaping from the NaOH solution"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chlor-Alkali Process chemistry: At anode (+): 2Cl⁻ → Cl₂↑ + 2e⁻ (chlorine gas evolved). At cathode (−): 2H₂O + 2e⁻ → H₂↑ + 2OH⁻ (or 2H⁺ + 2e⁻ → H₂↑). The Na⁺ ions migrate toward cathode region, combining with OH⁻ → NaOH solution. The critical separation problem: Cl₂ (at anode) + NaOH (from cathode region) → they react: Cl₂ + 2NaOH → NaCl + NaOCl + H₂O. This produces sodium hypochlorite (NaOCl, household bleach) — NOT the desired NaOH! To prevent this, industrial cells use: Diaphragm cells: asbestos or polymer diaphragm separates anode and cathode compartments; brine flows from anode to cathode but Cl₂ and NaOH don't mix. Membrane cells (modern, preferred): ion exchange membrane (Nafion) allows Na⁺ to pass but blocks Cl⁻ and OH⁻ from crossing; produces purer NaOH; Cl₂ and NaOH are completely separated. Mercury cells (older, being phased out): mercury flowing cathode — Na-Hg amalgam formed; amalgam pumped to separate 'denuder' where NaOH is extracted; very high-purity NaOH but serious mercury pollution concerns.",
+          "source": "SSC CGL — why Cl₂ and NaOH must be separated in Chlor-Alkali Process (else bleach forms) is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "Why is always adding acid to water (not water to acid) an important safety rule?",
+          "options": [
+            "Adding water to acid causes a chemical reaction that produces dangerous gases; no gas is produced when acid is added to water",
+            "Concentrated acid + water mixing is VERY exothermic. Adding a small amount of water to a large volume of concentrated acid (especially H₂SO₄): the intense, localised heat causes violent boiling, splattering hot, concentrated acid everywhere. Adding acid to water: the large volume of water absorbs the heat safely — the heat is distributed through a large mass of water with minimal temperature rise.",
+            "This rule only applies to hydrofluoric acid (HF); for H₂SO₄ it doesn't matter which order you mix",
+            "Adding water to acid reverses the ionisation — the acid becomes more concentrated and therefore more dangerous; adding acid to water is the only way to maintain controlled dilution"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'always add acid to water' rule — the thermodynamic reason: H₂SO₄ dissolving in water is EXTREMELY exothermic: H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻; ΔH ≈ −96 kJ/mol (for diluting from pure acid to 1M). For concentrated H₂SO₄ (density 1.84 g/mL, near 100% pure): If you add water to concentrated H₂SO₄: You add a small volume of water to a large volume of concentrated acid; The intense heat is released into a small amount of liquid; Water near the surface boils instantly (bp ~100°C); The superheated steam creates violent spattering of hot, concentrated acid; H₂SO₄ at 337°C boiling point and 98% concentration is catastrophically corrosive — causes third-degree chemical burns instantly. If you add acid to water: Acid is added drop by drop (or slowly) to a large volume of cool water; Each drop of acid is immediately diluted by a huge excess of water; The heat per drop is absorbed by the large mass of water; Overall temperature rise is manageable and safe. Mnemonic: 'AAA — Always Add Acid (to water)' or 'Like dissolving with a lion — let the water tame the acid.' This rule extends to all strong acids: HCl, HNO₃, H₂SO₄, HF (hydrofluoric acid is especially dangerous).",
+          "source": "SSC CGL — 'add acid to water not water to acid' rule (exothermic reaction, violent boiling) is a tricky safety question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is the Ostwald Process and why is it important?",
+          "options": [
+            "Ostwald Process makes Na₂CO₃ from NaCl using ammonia as an intermediate; important for glass manufacturing",
+            "Ostwald Process converts ammonia (NH₃) to nitric acid (HNO₃) via catalytic oxidation over a platinum-rhodium (Pt-Rh) gauze at 850–900°C: NH₃ → NO → NO₂ → HNO₃. Important because HNO₃ is used to make fertilisers (ammonium nitrate) and explosives (TNT, nitroglycerin, RDX).",
+            "Ostwald Process is the industrial synthesis of NaOH by electrolysis of brine; the Pt-Rh catalyst speeds up the electrolysis",
+            "Ostwald Process purifies crude ammonia (from Haber Process) to pharmaceutical grade by passing it over platinum at high temperature"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ostwald Process (Wilhelm Ostwald, Nobel Prize 1909): Industrial synthesis of nitric acid (HNO₃) from ammonia. Steps: Catalytic oxidation of NH₃: 4NH₃ + 5O₂ → 4NO + 6H₂O (Pt-Rh gauze, 850–900°C, 1–10 atm); Oxidation of NO to NO₂: 2NO + O₂ → 2NO₂ (cooled, no catalyst needed); Absorption in water: 3NO₂ + H₂O → 2HNO₃ + NO (NO is recycled back). Catalyst detail: Platinum-rhodium (Pt-Rh) gauze: Pt catalyst; Rh (rhodium) reduces Pt loss (Pt is slowly blown away from the gauze; Rh acts as a 'getter' to recapture Pt; also increases mechanical strength). Extremely selective catalyst — produces NO, not N₂ or N₂O. Temperature (850°C): Very high — needed to break the very stable N-H bonds in NH₃; lower T → N₂ formed instead of NO. Uses of HNO₃: Fertilisers (NH₄NO₃ = ammonium nitrate, 34% N); Explosives (TNT [trinitrotoluene], nitroglycerin, RDX, PETN — all made by nitration with HNO₃); Aqua regia (HNO₃ + HCl); Dyes, pharmaceuticals, and photography. HNO₃ is a top-5 industrial chemical globally.",
+          "source": "SSC CGL — Ostwald Process (NH₃ → HNO₃, Pt-Rh catalyst) is underrated but important for industrial chemistry",
+          "verified": true
+        },
+        {
+          "text": "Why is NaOH (caustic soda) used in the paper and pulp industry?",
+          "options": [
+            "NaOH bleaches the wood pulp white by oxidising the natural brown colour of cellulose fibres",
+            "In the Kraft (sulphate) process, NaOH (with Na₂S) dissolves LIGNIN — the tough glue-like polymer that binds cellulose fibres in wood — while leaving cellulose fibres intact. The liberated cellulose fibres are then washed, bleached, and processed into paper.",
+            "NaOH is used to dissolve the wood entirely; the solution is then reconstituted as thin sheets to make paper",
+            "NaOH is used as a fire retardant coating on paper during manufacture; it prevents the finished paper from catching fire easily"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Kraft Process (sulphate process) — dominant paper manufacturing method: Wood (90% of paper comes from wood pulp) = cellulose fibres (~40%) + lignin (~30%) + hemicellulose + water. Problem: Lignin is a complex aromatic polymer that acts as the 'glue' binding cellulose fibres together in wood. To make paper, lignin must be dissolved away while preserving the cellulose fibres. Solution — white liquor: Hot alkaline mixture of NaOH + Na₂S ('white liquor') at ~170°C dissolves lignin by breaking ether and ester linkages in lignin's aromatic structure. The cellulose fibres (which are resistant to alkali under these conditions) remain intact. After cooking (digesting), the pulp is: Washed to remove dissolved lignin (becomes 'black liquor' — burned for energy recovery); Bleached (using Cl₂, ClO₂, or H₂O₂) to make white paper; Beaten/refined to control fibre length; Dried and pressed into sheets. Recovery: The black liquor is burned in a recovery boiler → recovers Na₂SO₄ → converted back to Na₂S (recyclable). Kraft paper (unbleached): Strong brown paper used for bags, boxes, cardboard (named 'kraft' from German for 'strength').",
+          "source": "SSC CGL — NaOH used in Kraft paper process (dissolves lignin, frees cellulose) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What is 'oleum' and how does it differ from concentrated sulphuric acid?",
+          "options": [
+            "Oleum is a very old name for concentrated H₂SO₄ (>98% pure); there is no chemical difference from fuming sulphuric acid",
+            "Oleum (fuming sulphuric acid) is H₂S₂O₇ — concentrated H₂SO₄ with dissolved SO₃. The dissolved SO₃ makes it more reactive (a better sulphonating agent) than ordinary H₂SO₄, and it 'fumes' in moist air as SO₃ reacts with water vapour to form acid mist. Formula: H₂SO₄·SO₃ = H₂S₂O₇.",
+            "Oleum is a mixture of equal parts of H₂SO₄ and HNO₃, used in nitration reactions to make explosives",
+            "Oleum is dilute sulphuric acid (10–20% concentration) used in car batteries; concentrated sulphuric acid (98%) is used in industrial processes"
+          ],
+          "answerIndex": 1,
+          "explanation": "Oleum = pyrosulphuric acid = fuming sulphuric acid = H₂S₂O₇ (or H₂SO₄ with dissolved SO₃). Chemical identity: H₂S₂O₇ can be viewed as H₂SO₄·SO₃ (sulphuric acid with one mole of dissolved sulphur trioxide). It is formed in the Contact Process: SO₃ + H₂SO₄ (conc.) → H₂S₂O₇ (oleum). Properties of oleum: Extremely viscous, oily liquid; Much more reactive (stronger sulphonating agent) than regular H₂SO₄; Fumes heavily in moist air (dissolved SO₃ reacts with water vapour → H₂SO₄ mist → dense white fumes); Very corrosive and dangerous to handle; Melting point varies with SO₃ content (typically solid or viscous liquid near room temperature). Industrial uses: Sulphonation reactions: making sulphonic acids → used in dyes, detergents, and pharmaceuticals; Nitration: when mixed with HNO₃, for making explosives; Starting material for speciality chemicals. Dilution to make H₂SO₄: H₂S₂O₇ + H₂O → 2H₂SO₄ (safer and controlled heat release). Grades of oleum: 20% oleum = 20 g SO₃ per 100 g oleum; 65% oleum = very high SO₃ content, solid at room temperature.",
+          "source": "SSC CGL — oleum (H₂S₂O₇, fuming sulphuric acid) vs concentrated H₂SO₄ is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What are the 'three products of the Chlor-Alkali Process' and why are all three commercially important?",
+          "options": [
+            "The three products are: NaCl (table salt), H₂O (water), and NaClO₃ (sodium chlorate). Table salt and water are the main commercial products.",
+            "The three products are: NaOH (caustic soda — soaps, paper, aluminium extraction), Cl₂ (chlorine — bleaching, PVC, disinfection, HCl manufacture), and H₂ (hydrogen — Haber process, hydrogenation, fuel). All three are top-10 industrial chemicals globally.",
+            "The three products are: HCl (hydrochloric acid), Na₂CO₃ (soda ash), and NaOCl (bleach); NaOCl is the most valuable of the three",
+            "The Chlor-Alkali Process produces only two products: NaOH and Cl₂. Hydrogen is a waste gas vented from the cathode"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chlor-Alkali Process (electrolysis of brine, 2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂): Three co-products, all commercially crucial: 1. NaOH (Sodium Hydroxide, caustic soda): Major chemical — top 5 industrial chemicals by volume; Uses: Soap/detergent making (saponification), paper/pulp (Kraft process), aluminium extraction (Bayer process), textiles (mercerisation), chemical synthesis, drain cleaners; Annual global production: ~80 million tonnes. 2. Cl₂ (Chlorine gas): Second most produced industrial chemical (after H₂SO₄ and NH₃); Uses: PVC (polyvinyl chloride) plastic production (40% of all Cl₂); Bleaching powder and NaOCl (domestic bleach); Water/wastewater disinfection; HCl production; Pharmaceuticals (chlorinated compounds); Pesticide synthesis. 3. H₂ (Hydrogen gas): Increasing importance as 'clean fuel'; Uses: Haber Process (NH₃ synthesis — consumes huge quantities of H₂); Hydrogenation of vegetable oils (making vanaspati/margarine); Petroleum refining (hydrocracking, desulphurisation); Fuel cells (H₂ + O₂ → H₂O + electricity); Metallurgical uses (reduction of metal oxides). The co-product economics: Cl₂ and NaOH are always produced in equimolar ratio (1:1 by electrolysis) — their prices tend to balance each other out (when Cl₂ demand rises, NaOH is overproduced and vice versa).",
+          "source": "SSC CGL — three products of Chlor-Alkali Process (NaOH + Cl₂ + H₂) and their importance is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "The Contact Process is used to manufacture which acid?",
+          "options": [
+            "Hydrochloric acid (HCl)",
+            "Nitric acid (HNO₃)",
+            "Sulphuric acid (H₂SO₄)",
+            "Phosphoric acid (H₃PO₄)"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Contact Process (also called the Contact Method or Contact Process for H₂SO₄) manufactures SULPHURIC ACID (H₂SO₄). Key steps: S + O₂ → SO₂ (sulphur burned in air); 2SO₂ + O₂ → 2SO₃ (V₂O₅ catalyst, 450°C — the key 'contact' step where SO₂ 'contacts' the V₂O₅ surface); SO₃ + H₂SO₄ → H₂S₂O₇ (oleum, absorbed in conc. H₂SO₄); H₂S₂O₇ + H₂O → 2H₂SO₄ (oleum diluted to give product). Name origin: 'Contact' process — named because SO₂ and O₂ react while in contact with the V₂O₅ catalyst surface (heterogeneous catalysis). This distinguishes it from the old 'Lead Chamber Process' (which was slower and less efficient). The three industrial acid processes for SSC: H₂SO₄: Contact Process (V₂O₅ catalyst); HNO₃: Ostwald Process (Pt-Rh catalyst); HCl: Synthesis process (H₂ + Cl₂ → HCl directly, or as by-product of various organic chlorinations). H₂SO₄ is the most produced industrial chemical in the world by mass — annual production exceeds 250 million tonnes. It's used in making nearly everything: fertilisers, batteries, dyes, drugs, metals, paper.",
+          "source": "SSC CGL / SSC CHSL — Contact Process manufactures H₂SO₄ is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Plaster of Paris, when mixed with water, hardens into a solid. This process is called:",
+          "options": [
+            "Calcination — the POP is heated again to form a harder solid",
+            "Setting — a chemical reaction where POP absorbs water to reform gypsum (CaSO₄·2H₂O); POP expands slightly during setting",
+            "Polymerisation — POP molecules join in chains to form a polymer network",
+            "Hydrolysis — water breaks the POP into calcium and sulphate ions, which precipitate as a solid"
+          ],
+          "answerIndex": 1,
+          "explanation": "Plaster of Paris (POP) setting is a hydration reaction (rehydration): (CaSO₄)₂·H₂O + 3H₂O → 2(CaSO₄·2H₂O) (Gypsum). Process details: When water is added to POP, gypsum crystals begin to nucleate and grow; The interlocking needle-like gypsum crystals form a rigid 3D matrix; This process is exothermic (releases heat — can feel warm when setting); Takes 5–15 minutes to 'initial set'; Full hardening: several hours. Key property — EXPANSION on setting: Unlike most materials that shrink on solidifying (water contracts on freezing — except for water's unique anomaly of ice; concrete shrinks slightly), POP expands about 0.5–1% in volume during setting. Significance of expansion: POP fills the mould completely and pushes against mould walls → sharp impressions, no air gaps; Essential for: medical casts (firm contact with injured limb), dental moulds (accurate tooth impressions), sculpture moulds (fine detail). If POP is overheated (>200°C): CaSO₄ (anhydrous, 'dead burnt plaster') — cannot hydrate → cannot set. If underheated (<120°C): Not fully converted from gypsum → sets too slowly and is weak.",
+          "source": "SSC CGL / SSC CHSL — POP sets by absorbing water (re-forming gypsum) and expands slightly is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which raw material is NOT required in the Haber Process for making ammonia?",
+          "options": [
+            "Nitrogen (N₂) from the air",
+            "Hydrogen (H₂) from steam reforming of methane",
+            "Iron (Fe) catalyst",
+            "Chlorine (Cl₂) from electrolysis of brine"
+          ],
+          "answerIndex": 3,
+          "explanation": "Chlorine (Cl₂) is NOT used in the Haber Process. The Haber Process (N₂ + 3H₂ ⇌ 2NH₃) requires only: NITROGEN (N₂): Obtained by fractional distillation of liquid air (air is ~78% N₂); Relatively easy to obtain in pure form at low cost. HYDROGEN (H₂): Primarily from steam reforming of methane (natural gas): CH₄ + H₂O → CO + 3H₂ (at 700–1000°C, Ni catalyst); Also from electrolysis of water; Also as by-product of chlor-alkali process. IRON CATALYST (Fe) with promoters (K₂O + Al₂O₃): Lowers activation energy; Increases rate of N₂ + 3H₂ → 2NH₃; Does not change equilibrium position, only reaches it faster. Chlorine is used in completely different industrial processes: Chlor-alkali process (as product); PVC manufacture (vinyl chloride monomer: CH₂=CHCl); Bleaching powder (Ca(OH)₂ + Cl₂); Water treatment (direct addition of Cl₂ or ClO₂). There is no connection between Cl₂ and NH₃ production — they are separate industrial chemicals from separate raw materials.",
+          "source": "SSC CGL / SSC CHSL — identifying what is NOT required in the Haber Process (Cl₂ is not needed) is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the chemical formula of washing soda, and what is it used for?",
+          "options": [
+            "NaHCO₃ (sodium bicarbonate) — used in baking to produce CO₂",
+            "Na₂SO₄·10H₂O (sodium sulphate decahydrate) — used in detergents",
+            "Na₂CO₃·10H₂O (sodium carbonate decahydrate) — used for water softening, laundry, and glass making",
+            "NaCl (sodium chloride) — used for water softening by providing sodium ions to replace calcium"
+          ],
+          "answerIndex": 2,
+          "explanation": "Washing soda = Sodium carbonate decahydrate = Na₂CO₃·10H₂O. Properties: Colourless/white crystals; Strongly alkaline solution (pH ~11); Efflorescent — loses water of crystallisation in dry air → becomes white Na₂CO₃ powder ('soda ash'). Uses: Water softening: Na₂CO₃ + CaCl₂ → CaCO₃↓ + 2NaCl (Ca²⁺ precipitated as insoluble CaCO₃); Na₂CO₃ + MgSO₄ → MgCO₃↓ + Na₂SO₄ (Mg²⁺ precipitated); Softened water now lathers easily with soap. Laundry: Increases alkalinity of wash water; Removes grease and oil stains (hydrolysis of fats under alkaline conditions). Glass making: SiO₂ + Na₂CO₃ → Na₂SiO₃ + CO₂ (soda glass = sodium silicate glass). Paper manufacturing: Pulping and bleaching. Chemical synthesis: Source of Na⁺ and CO₃²⁻ ions for various reactions. Distinguish from: Baking soda = NaHCO₃ (sodium bicarbonate, mild base, pH 8.3, used in cooking/antacids); Caustic soda = NaOH (very strong base, pH 14, corrosive); Soda ash = Na₂CO₃ (anhydrous washing soda, no water of crystallisation).",
+          "source": "SSC CGL / SSC CHSL — washing soda = Na₂CO₃·10H₂O, used for water softening and glass making is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

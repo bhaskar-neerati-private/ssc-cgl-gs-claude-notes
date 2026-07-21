@@ -1,0 +1,218 @@
+{
+  "topic": "Periodic Table — Elements, Classification, Groups, Periods & Trends",
+  "topicId": "chem-periodic-table",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The modern periodic law was proposed by Moseley. What is the basis of the modern periodic law?",
+          "options": [
+            "Properties of elements are a periodic function of their atomic mass",
+            "Properties of elements are a periodic function of their atomic number",
+            "Properties of elements depend on the number of neutrons in the nucleus",
+            "Elements are arranged in order of increasing electron affinity"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Modern Periodic Law, based on Henry Moseley's work (1913), states: 'The properties of elements are a periodic function of their atomic number (Z).' Moseley discovered that when elements were bombarded with electrons and the X-rays emitted were analysed, the frequency of characteristic X-rays was directly related to the atomic number (not atomic mass). This corrected Mendeleev's original periodic law (1869) which used atomic mass — a law that had anomalies (e.g., Argon has higher atomic mass than Potassium but should come before it). Arranging by atomic number resolved all such anomalies. Atomic number = number of protons in the nucleus = fundamental identity of an element.",
+          "source": "SSC CGL / SSC CHSL previous years — modern periodic law based on atomic number (Moseley) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which element is the most electronegative in the periodic table?",
+          "options": ["Oxygen (O)", "Chlorine (Cl)", "Fluorine (F)", "Nitrogen (N)"],
+          "answerIndex": 2,
+          "explanation": "Fluorine (F) is the most electronegative element in the periodic table, with an electronegativity value of 3.98 on the Pauling scale. Electronegativity is the tendency of an atom to attract shared electrons in a covalent bond toward itself. Fluorine is most electronegative because it has: (1) the smallest atomic radius among elements with high nuclear charge, (2) high nuclear charge (Z=9), and (3) its valence electrons are in the 2nd shell close to the nucleus. Order: F (3.98) > O (3.44) > Cl (3.16) > N (3.04). SSC frequently tries to trick candidates into choosing oxygen (second most electronegative) — always choose fluorine. Electronegativity increases across a period (left to right) and decreases down a group (top to bottom).",
+          "source": "SSC CGL / SSC CHSL previous years — fluorine as most electronegative element is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which is the most abundant metal in the Earth's crust?",
+          "options": ["Iron (Fe)", "Copper (Cu)", "Silicon (Si)", "Aluminium (Al)"],
+          "answerIndex": 3,
+          "explanation": "Aluminium (Al) is the most abundant metal in the Earth's crust, constituting approximately 8% by mass (making it the 3rd most abundant element overall). The order of abundance in Earth's crust: Oxygen (~46%) > Silicon (~28%) > Aluminium (~8%) > Iron (~5%) > Calcium, Sodium, Potassium, Magnesium, etc. Silicon is the most abundant metalloid. Note the distinction: Oxygen is the most abundant element overall; Silicon is the most abundant metalloid; Aluminium is the most abundant metal. Despite being so abundant, aluminium was once more valuable than gold because it was very difficult to extract from its ore (bauxite, Al₂O₃). The Hall-Héroult electrolytic process (1886) made aluminium production cheap.",
+          "source": "SSC CGL / SSC CHSL previous years — aluminium as most abundant metal in Earth's crust is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Group 17 elements are called halogens. What does the term 'halogen' mean, and which halogen is the most reactive?",
+          "options": [
+            "Halogen means 'light-maker'; neon is the most reactive",
+            "Halogen means 'salt-former' (from Greek 'halos' = salt, 'gen' = maker); fluorine (F) is the most reactive halogen",
+            "Halogen means 'acid-former'; chlorine is the most reactive due to its use in water treatment",
+            "Halogen means 'colour-bearer'; iodine is the most reactive due to its deep violet colour"
+          ],
+          "answerIndex": 1,
+          "explanation": "Halogens (Group 17: F, Cl, Br, I, At) get their name from the Greek 'halos' (salt) + 'gennao' (to produce/make) = 'salt-formers' — because they readily combine with metals to form salts (NaCl, KBr, CaF₂, MgI₂, etc.). Fluorine (F) is the most reactive halogen — in fact, the most reactive of all non-metals. Reactivity of halogens decreases down the group: F > Cl > Br > I > At. Fluorine is so reactive that it attacks glass, forms compounds with even noble gases (XeF₂, XeF₄), and corrodes most materials. It cannot be stored in ordinary glass. Chlorine is second most reactive and is more commonly encountered (water purification, bleaching powder). Iodine is the least reactive common halogen.",
+          "source": "SSC CGL / SSC CHSL previous years — halogen meaning 'salt-former' and fluorine as most reactive is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Mendeleev left gaps in his periodic table and predicted the properties of undiscovered elements. Which element's discovery most dramatically confirmed Mendeleev's predictions?",
+          "options": [
+            "Helium — Mendeleev predicted a noble gas would be discovered before hydrogen",
+            "Gallium (Ga) — Mendeleev called it 'eka-aluminium' and predicted its density (5.9 g/cm³) and oxide formula; discovered in 1875, its properties matched almost exactly",
+            "Uranium — Mendeleev predicted a very heavy element would complete Period 7",
+            "Oxygen — Mendeleev predicted a diatomic gas above nitrogen in his table"
+          ],
+          "answerIndex": 1,
+          "explanation": "Mendeleev left gaps in his 1869 table and named the missing elements 'eka-' (Sanskrit for 'one beyond') the element above them. 'Eka-aluminium' (later Gallium, discovered by Lecoq de Boisbaudran in France, 1875): Mendeleev predicted atomic mass ~68 → actual = 69.7; density ~5.9 g/cm³ → actual = 5.91 g/cm³; low melting point → actual 29.8°C (melts in your hand); formula of oxide: E₂O₃ → actual Ga₂O₃. This spectacular confirmation of predictions made chemistry accept the periodic table universally. Similarly, 'eka-boron' → Scandium (1879); 'eka-silicon' → Germanium (1886). Mendeleev is one of the very few scientists who predicted undiscovered elements with such precision.",
+          "source": "SSC CGL — Mendeleev's prediction of Gallium (eka-aluminium) as vindication of periodic table is a tricky historical question",
+          "verified": true
+        },
+        {
+          "text": "Why does ionisation energy generally increase across a period but decrease down a group?",
+          "options": [
+            "Ionisation energy depends only on the number of electrons; more electrons = higher ionisation energy",
+            "Across a period: increasing nuclear charge with constant shielding makes electrons harder to remove (smaller atom = electrons held tighter); down a group: increasing electron shells increase distance and shielding, making outermost electrons easier to remove",
+            "Ionisation energy is determined by the element's state at room temperature; gases have higher ionisation energy than solids",
+            "Across a period: decreasing mass makes atoms lighter, reducing energy needed to remove electrons; down a group: heavier atoms require more energy"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ionisation energy (IE) = energy required to remove the outermost electron from a gaseous neutral atom. Across a period (L→R): atomic number increases → more protons → stronger nuclear pull on electrons → smaller atomic radius → outer electrons held more tightly → higher IE needed to remove them. Down a group (↓): each successive element has one more electron shell → outer electrons are: (a) farther from nucleus (weaker attraction by inverse square law), and (b) shielded from nucleus by inner electron shells (inner electrons 'screen' the nuclear charge). Both effects make outer electrons easier to remove → lower IE. Result: Ionisation energy is highest at top-right (noble gases, especially He) and lowest at bottom-left (Fr, Cs). Note: Some anomalies exist at Group 13 (Al has lower IE than Mg) and Group 16 (S has lower IE than P) due to subshell effects.",
+          "source": "SSC CGL — ionisation energy trends across period and down group is a tricky periodic trend question",
+          "verified": true
+        },
+        {
+          "text": "Where is hydrogen placed in the periodic table, and why is its position considered controversial?",
+          "options": [
+            "Hydrogen is placed in Group 18 (noble gases) because it is a colourless, odourless gas",
+            "Hydrogen is typically placed in Group 1 (alkali metals) because it has 1 valence electron, but it shares properties with both Group 1 AND Group 17 (halogens), making its placement debated among chemists",
+            "Hydrogen is placed in Period 1 as the only element — it belongs to no group as it is uniquely different from all other elements",
+            "Hydrogen is placed in Group 14 (carbon family) because it can form 4 bonds and is covalent"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hydrogen's placement in the periodic table is genuinely debated. It is typically placed in Group 1 because: it has 1 valence electron (like alkali metals), it forms +1 ion (H⁺ = proton), it forms diatomic gas (H₂). BUT unlike alkali metals: it is a non-metal, not lustrous or malleable, does not react the same way with water. Hydrogen also resembles Group 17 (halogens) because: it needs 1 electron to fill its outer shell (like halogens) → forms H⁻ (hydride ion, like Cl⁻ chloride); it exists as a diatomic molecule (H₂, like F₂, Cl₂, Br₂, I₂). Some periodic tables place H in both Group 1 AND Group 17, or in a separate position above the table. IUPAC has not definitively settled this. For SSC purposes: H is in Period 1, Group 1 — but acknowledge its anomalous nature.",
+          "source": "SSC CGL — hydrogen's anomalous position in periodic table (Group 1 vs Group 17) is a tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "The diagonal relationship in the periodic table means certain elements in different groups have similar properties. Which pair shows the most famous diagonal relationship?",
+          "options": [
+            "Carbon (C) and Nitrogen (N) — adjacent in Period 2, share similar organic chemistry",
+            "Lithium (Li) in Group 1 and Magnesium (Mg) in Group 2 — diagonally related; Li resembles Mg more than it resembles other alkali metals",
+            "Iron (Fe) and Cobalt (Co) — adjacent transition metals with similar magnetic properties",
+            "Sodium (Na) in Group 1 and Aluminium (Al) in Group 13 — both react with NaOH to produce hydrogen"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Diagonal Relationship occurs because moving across a period increases atomic radius (decreases) and moving down a group increases atomic radius — the two effects partly cancel diagonally. This makes diagonally adjacent elements sometimes more similar than vertically adjacent ones. Famous diagonal pairs: Li (Group 1, Period 2) ≈ Mg (Group 2, Period 3); Be (Group 2, Period 2) ≈ Al (Group 13, Period 3); B (Group 13, Period 2) ≈ Si (Group 14, Period 3). Li resembles Mg more than Na in: hardness, melting point, reaction with nitrogen (both form nitrides Li₃N and Mg₃N₂), reaction with oxygen (both form simple oxides, not peroxides like other alkali metals), solubility patterns of their salts. This relationship is most pronounced in Period 2 elements because Period 2 has anomalously small atoms.",
+          "source": "SSC CGL — diagonal relationship in periodic table (Li and Mg) is a tricky advanced question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Why are noble gases almost completely unreactive, and what are they used for commercially?",
+          "options": [
+            "Noble gases are unreactive because they are gases at room temperature — all gases are inherently unreactive",
+            "Noble gases have completely filled outer electron shells (He: 2e⁻; others: 8e⁻ in outermost shell) — no tendency to gain, lose, or share electrons; used in lighting (neon signs, argon bulbs), inert atmospheres (welding, food packaging), and cooling (liquid helium for MRI magnets)",
+            "Noble gases are unreactive because they are toxic; they are used only in laboratories, not commercially",
+            "Noble gases are unreactive because they have the highest ionisation energies and are used primarily in nuclear reactors as shielding gases"
+          ],
+          "answerIndex": 1,
+          "explanation": "Noble gases (Group 18: He, Ne, Ar, Kr, Xe, Rn) are almost completely unreactive because their outermost electron shells are completely filled — He has 2e⁻ (fills the 1st shell); Ne, Ar, Kr, Xe, Rn each have 8e⁻ in their outermost shell. This 'full shell' configuration represents the most stable electronic state — no tendency to gain, lose, or share electrons. Some heavy noble gases (Kr, Xe) do form compounds under extreme conditions (XeF₂, XeF₄, XeF₆) — Xe was the first noble gas to form a compound (Neil Bartlett, 1962). Commercial uses: Helium: balloons, MRI scanner coolant (liquid He at -269°C), deepwater diving (heliox mixtures, no nitrogen narcosis); Neon: neon signs (red-orange glow); Argon: most widely used; inert welding atmosphere; incandescent/LED bulb filling; food packaging; Krypton: high-intensity lamps; Xenon: anaesthetic, flash photography, ion propulsion (spacecraft).",
+          "source": "SSC CGL — noble gas inertness (full shells) and commercial applications is underrated",
+          "verified": true
+        },
+        {
+          "text": "What is the significance of Döbereiner's Law of Triads in the history of the periodic table?",
+          "options": [
+            "Döbereiner arranged all 118 elements into triads for the first time, creating the first complete periodic table",
+            "Döbereiner (1817) observed that in groups of three chemically similar elements, the middle element's atomic mass was approximately the average of the other two — the first quantitative observation linking atomic mass to chemical similarity",
+            "Döbereiner's triads were used to discover nuclear fission when three isotopes were found to behave similarly",
+            "Döbereiner discovered that elements in the same triad have the same electronic configuration"
+          ],
+          "answerIndex": 1,
+          "explanation": "Johann Wolfgang Döbereiner (1817) made the first systematic observation connecting atomic mass and chemical properties, identifying groups of three elements ('triads') with similar properties: Triad 1: Lithium (7), Sodium (23), Potassium (39) → Na's mass ≈ (7+39)/2 = 23 ✓; Triad 2: Calcium (40), Strontium (88), Barium (137) → Sr's mass ≈ (40+137)/2 = 88.5 ✓; Triad 3: Chlorine (35.5), Bromine (80), Iodine (127) → Br's mass ≈ (35.5+127)/2 = 81 ✓. This was revolutionary because it showed, for the first time, that atomic mass was mathematically connected to the position of an element among its chemical relatives. Döbereiner's triads were a precursor to the full periodic law — laying the conceptual groundwork that Mendeleev would later complete. The limitation: only worked for some element groups; couldn't organise all 63 known elements.",
+          "source": "SSC CGL — Döbereiner's Law of Triads as first step toward periodic table is underrated but historically important",
+          "verified": true
+        },
+        {
+          "text": "Silicon and Germanium are called metalloids and semiconductors. Why are they crucial to modern technology?",
+          "options": [
+            "Silicon and Germanium are used as structural materials in buildings because they are harder than most metals",
+            "They are semiconductors — their electrical conductivity can be precisely controlled by adding tiny amounts of impurities (doping), making them the foundation of transistors, integrated circuits, solar cells, and all modern electronics",
+            "Silicon and Germanium are used as fuel sources because they burn with high energy density in electronic devices",
+            "They are uniquely transparent to visible light, making them essential for optical fibre cables"
+          ],
+          "answerIndex": 1,
+          "explanation": "Semiconductors have electrical conductivity between conductors (metals) and insulators (non-metals) — this intermediate property makes them uniquely useful. Pure silicon conducts electricity poorly, but when trace amounts of impurities are added ('doping'): n-type semiconductor: doped with phosphorus (5 valence electrons → extra electron available for conduction); p-type semiconductor: doped with boron (3 valence electrons → 'hole' that acts as positive charge carrier). Combining n-type and p-type materials creates: p-n junctions (diodes — allow current one way), transistors (amplify or switch signals), integrated circuits (IC chips — billions of transistors on a fingernail-sized silicon wafer). Applications: all computers, smartphones, solar panels, LEDs, sensors. Silicon (Z=14) is the dominant semiconductor material; Germanium (Z=32) was used in early transistors (1947 Bell Labs) but largely replaced by Si (higher stability at operating temperatures). Silicon Valley is named after this element.",
+          "source": "SSC CGL — silicon and germanium as semiconductors (doping, transistors) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "Newlands' Law of Octaves (1865) was an early attempt at classification. Why was it rejected by the Royal Chemical Society?",
+          "options": [
+            "Newlands arranged elements in alphabetical order, which had no scientific basis",
+            "Newlands observed that every 8th element had similar properties (like musical octaves), but this pattern broke down after calcium; he forced unlike elements together and didn't leave gaps for undiscovered elements",
+            "Newlands' law was rejected because it was plagiarised from Döbereiner's work without credit",
+            "Newlands arranged elements by electronegativity rather than atomic mass, giving wrong groupings"
+          ],
+          "answerIndex": 1,
+          "explanation": "John Newlands (1865) arranged the 56 known elements in order of atomic mass and noticed that every 8th element had similar properties to the first — like the eighth note in a musical scale (do-re-mi-fa-sol-la-ti-do). He called this the 'Law of Octaves.' The Royal Chemical Society famously rejected his work, with a member sarcastically asking whether he had tried arranging elements alphabetically. Reasons for rejection: (1) The octave pattern worked only up to calcium (the first 17 elements); after that, the pattern broke down as d-block elements disrupted it. (2) Newlands forced chemically dissimilar elements into the same group to maintain the octave pattern (e.g., iron with oxygen and sulphur). (3) He left no gaps for undiscovered elements — Mendeleev's crucial insight 4 years later. Despite rejection, Newlands is now credited as a pioneer — the Royal Society gave him the Davy Medal in 1887, recognising his contribution to the periodic table's development.",
+          "source": "SSC CGL — Newlands' Law of Octaves and why it was rejected is underrated historical knowledge",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which element is the most abundant in the Earth's atmosphere by volume?",
+          "options": ["Oxygen (O₂)", "Carbon dioxide (CO₂)", "Nitrogen (N₂)", "Argon (Ar)"],
+          "answerIndex": 2,
+          "explanation": "Nitrogen (N₂) is the most abundant gas in the Earth's atmosphere, comprising approximately 78.09% by volume. Composition of dry air: Nitrogen (N₂) ≈ 78.09%; Oxygen (O₂) ≈ 20.95%; Argon (Ar) ≈ 0.93%; Carbon dioxide (CO₂) ≈ 0.04% (increasing due to human activity); other trace gases (Ne, He, CH₄, Kr, etc.). Note: Water vapour (H₂O) is variable (0-4%) and is NOT included in 'dry air' measurements. Nitrogen is relatively unreactive (strong N≡N triple bond requires a lot of energy to break) — its abundance reflects its chemical stability. Despite being 78% of air, most organisms cannot use atmospheric N₂ directly — only nitrogen-fixing bacteria can convert it to usable forms.",
+          "source": "SSC CGL / SSC CHSL — nitrogen as most abundant gas in atmosphere (78%) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which metal is liquid at room temperature?",
+          "options": ["Gallium", "Mercury", "Sodium", "Tin"],
+          "answerIndex": 1,
+          "explanation": "Mercury (Hg, also called quicksilver) is the only metal that is liquid at room temperature (25°C) and standard atmospheric pressure. Its melting point is -38.83°C and boiling point is 356.73°C. Mercury is used in: thermometers (expanding uniformly with temperature), barometers, fluorescent lamps, dental amalgams (with silver, tin, copper), and some scientific instruments. Mercury is toxic — chronic exposure causes neurological damage (Minamata disease in Japan was caused by mercury pollution from a chemical factory). Gallium (Ga) melts at 29.77°C — slightly above room temperature — so it melts in the warmth of your hand but is solid at room temperature in air-conditioned rooms. All other metals melt well above room temperature. SSC sometimes mentions 'Gallium melts in hand' as a distractor — the definitive liquid metal at room temperature is Mercury.",
+          "source": "SSC CGL / SSC CHSL — mercury (Hg) as the only liquid metal at room temperature is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "How many periods and groups does the modern periodic table have?",
+          "options": [
+            "6 periods and 16 groups",
+            "7 periods and 18 groups",
+            "8 periods and 18 groups",
+            "7 periods and 20 groups"
+          ],
+          "answerIndex": 1,
+          "explanation": "The modern periodic table has 7 horizontal rows called PERIODS and 18 vertical columns called GROUPS. Period 1: 2 elements (H, He); Periods 2 and 3: 8 elements each (short periods); Periods 4 and 5: 18 elements each (long periods, include d-block transition metals); Periods 6 and 7: 32 elements each (very long periods, include f-block lanthanides and actinides — placed separately below the main table). Groups 1-18 are numbered according to IUPAC nomenclature. The 18-group system replaced the older A/B group system (IA, IIA... VIIB, VIII, IB... VIIA, 0). Currently 118 elements are known; element 119 has not been synthesised. The periodic table was first compiled by Mendeleev in 1869 with 63 elements in 6 periods and 8 groups.",
+          "source": "SSC CGL / SSC CHSL — 7 periods and 18 groups in modern periodic table is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Alkali metals (Group 1) are stored in kerosene oil. Why?",
+          "options": [
+            "Kerosene prevents them from absorbing moisture from the air, which would make them brittle",
+            "Kerosene keeps them cool; alkali metals would melt at room temperature without cooling",
+            "Alkali metals react so vigorously with water and oxygen in the air that they must be stored under kerosene (an inert hydrocarbon) to prevent violent reactions, fires, and explosions",
+            "Kerosene prevents alkali metals from reacting with each other when stored in large quantities"
+          ],
+          "answerIndex": 2,
+          "explanation": "Alkali metals (Li, Na, K, Rb, Cs, Fr) are stored in kerosene (paraffin oil) or mineral oil because they react violently with both water and oxygen in air: With water: 2Na + 2H₂O → 2NaOH + H₂↑ + heat. The hydrogen gas produced can ignite from the heat of the reaction — causing fires and explosions. Potassium reacts explosively with water; Caesium reacts so violently it can shatter the container. With oxygen: 4Na + O₂ → 2Na₂O (sodium oxide) or 2Na + O₂ → Na₂O₂ (sodium peroxide). Kerosene is an inert hydrocarbon that does not react with alkali metals — it simply covers the metal surface, preventing contact with air or moisture. Lithium, being less dense, floats on kerosene — so it is sometimes stored under liquid paraffin or in sealed containers with inert gas (argon). Reactivity with water increases down Group 1: Li < Na < K < Rb < Cs.",
+          "source": "SSC CGL / SSC CHSL — alkali metals stored in kerosene to prevent reaction with water/air is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

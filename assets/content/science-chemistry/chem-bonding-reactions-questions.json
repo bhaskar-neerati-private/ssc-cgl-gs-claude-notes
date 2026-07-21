@@ -1,0 +1,238 @@
+{
+  "topic": "Chemical Bonding & Types of Chemical Reactions",
+  "topicId": "chem-bonding-reactions",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Rusting of iron involves which type of chemical reaction?",
+          "options": [
+            "Decomposition reaction only",
+            "Combination reaction only",
+            "Redox (oxidation-reduction) reaction involving both iron being oxidised and oxygen being reduced",
+            "Displacement reaction where oxygen replaces iron"
+          ],
+          "answerIndex": 2,
+          "explanation": "Rusting is an oxidation-reduction (redox) reaction: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O. Iron (Fe) is oxidised: Fe → Fe³⁺ + 3e⁻ (iron loses electrons — OIL, Oxidation Is Loss). Oxygen is reduced: O₂ + 4e⁻ → 2O²⁻ (oxygen gains electrons — RIG, Reduction Is Gain). Key facts about rusting: requires BOTH oxygen AND water/moisture (dry air → no rust; pure water with no dissolved oxygen → very slow rusting); rust is hydrated iron(III) oxide (Fe₂O₃·xH₂O); rusting is also exothermic (releases heat, though slowly); galvanisation (zinc coating) prevents rusting because zinc is more reactive than iron and acts as a sacrificial anode.",
+          "source": "SSC CGL / SSC CHSL previous years — rusting as oxidation/redox reaction is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "When iron is dipped in copper sulphate solution, the blue colour of the solution changes to green. What type of reaction is this?",
+          "options": [
+            "Decomposition reaction",
+            "Double displacement (exchange) reaction",
+            "Single displacement reaction — iron displaces copper from copper sulphate solution",
+            "Combination reaction"
+          ],
+          "answerIndex": 2,
+          "explanation": "This is a single displacement (substitution) reaction: Fe + CuSO₄ → FeSO₄ + Cu. Iron (Fe) is more reactive than copper (Cu) in the reactivity series → Fe displaces Cu from its salt solution. Visual changes: Blue colour of CuSO₄ solution fades/disappears (no more Cu²⁺ ions); Solution becomes pale green (due to FeSO₄, iron(II) sulphate); Reddish-brown copper metal deposits on the iron surface. This confirms that iron is above copper in the activity/reactivity series. This experiment directly demonstrates the concept of relative reactivity — a more reactive metal displaces a less reactive metal from its salt solution. Also note: copper CANNOT displace iron from iron sulphate solution because Cu < Fe in reactivity.",
+          "source": "SSC CGL / SSC CHSL previous years — iron displacing copper from CuSO₄ (single displacement, blue→green) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is an example of a decomposition reaction?",
+          "options": [
+            "Na + Cl₂ → NaCl (sodium reacts with chlorine)",
+            "Fe + CuSO₄ → FeSO₄ + Cu (iron in copper sulphate)",
+            "AgBr → Ag + Br₂ (silver bromide decomposes on exposure to light)",
+            "HCl + NaOH → NaCl + H₂O (acid-base neutralisation)"
+          ],
+          "answerIndex": 2,
+          "explanation": "AgBr → Ag + Br₂ is a photolytic decomposition reaction — ONE reactant (silver bromide) breaks down into TWO products (silver metal + bromine) when exposed to light. Types of decomposition: Thermal (heat): CaCO₃ → CaO + CO₂ (limestone heated); Photolytic (light): AgBr → Ag + Br₂; 2H₂O₂ → 2H₂O + O₂ (hydrogen peroxide in sunlight); Electrolytic: 2H₂O → 2H₂ + O₂ (electrolysis of water). The other options are: Option A = combination reaction (two reactants → one product); Option B = single displacement; Option D = double displacement/neutralisation. Silver bromide's light sensitivity was the basis of traditional black-and-white photography (AgBr in gelatin on photographic paper turns dark/grey where light hits it).",
+          "source": "SSC CGL / SSC CHSL previous years — identifying decomposition reaction (AgBr light decomposition) is frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following reactions is endothermic?",
+          "options": [
+            "Burning of coal (combustion)",
+            "Slaking of lime — CaO + H₂O → Ca(OH)₂",
+            "Photosynthesis — 6CO₂ + 6H₂O + light → C₆H₁₂O₆ + 6O₂",
+            "Neutralisation of HCl with NaOH"
+          ],
+          "answerIndex": 2,
+          "explanation": "Photosynthesis is endothermic — it absorbs energy (from sunlight) from the surroundings to drive the conversion of CO₂ and H₂O into glucose and O₂. ΔH > 0 (energy absorbed). The other options are all exothermic (energy released): Combustion: CH₄ + 2O₂ → CO₂ + 2H₂O + heat (ΔH < 0, lots of energy released — used for cooking, heating); Slaking of lime: CaO + H₂O → Ca(OH)₂ + heat (quick, violent exothermic reaction; freshly slaked lime is very hot — used in setting Holi bonfires, whitewash setting); Neutralisation: HCl + NaOH → NaCl + H₂O + heat (always exothermic: H⁺ + OH⁻ → H₂O releases ~57.3 kJ/mol). Other endothermic reactions: thermal decomposition, dissolution of ammonium nitrate in water (instant cold pack), cooking food.",
+          "source": "SSC CGL / SSC CHSL previous years — identifying endothermic vs exothermic reactions is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What is the difference between a 'reducing agent' and a 'substance that gets reduced' in a redox reaction?",
+          "options": [
+            "They are the same thing — the reducing agent always gets reduced in a reaction",
+            "The reducing agent is the substance that CAUSES reduction in another — it does so by giving away its own electrons (thereby getting OXIDISED itself). The substance that gets reduced GAINS those electrons.",
+            "A reducing agent gains electrons; a substance that gets reduced loses electrons",
+            "Reducing agents work only in acidic solutions; oxidising agents work only in alkaline solutions"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is one of the most confusing concepts in redox chemistry: The REDUCING AGENT gets OXIDISED (loses electrons); The OXIDISING AGENT gets REDUCED (gains electrons). Think of it as: a 'reducing agent' gives electrons to reduce something else — in the process of giving away electrons, the reducing agent itself is oxidised. Example: In Fe₂O₃ + 3CO → 2Fe + 3CO₂ (blast furnace): CO is the reducing agent (it reduces Fe³⁺ to Fe); CO itself gets oxidised: C goes from +2 in CO to +4 in CO₂ (loses 2 electrons per C). Fe³⁺ is reduced to Fe⁰ (gains 3 electrons). OIL RIG: the reducing agent always goes through OIL (Oxidation Is Loss). The oxidising agent always goes through RIG (Reduction Is Gain). Common reducing agents: C (carbon/coke), CO, H₂, Na, Zn, Al. Common oxidising agents: O₂, F₂, Cl₂, KMnO₄, K₂Cr₂O₇, conc. H₂SO₄.",
+          "source": "SSC CGL — the 'reducing agent gets oxidised' paradox is a very tricky conceptual question",
+          "verified": true
+        },
+        {
+          "text": "Why does ice float on water? This is explained by which property of water?",
+          "options": [
+            "Ice is lighter because it is a gas trapped in solid form; water molecules in ice have higher kinetic energy",
+            "Hydrogen bonding between water molecules creates a unique hexagonal lattice structure in ice that makes it LESS dense than liquid water — so ice floats (density of ice ≈ 0.92 g/cm³; liquid water ≈ 1.0 g/cm³)",
+            "Ice floats because ice crystals have smooth surfaces that reduce friction with water, keeping them above the surface",
+            "Ice is kept afloat by the surface tension of water, which is also caused by oxygen's high atomic mass"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is one of water's most unusual and ecologically important properties. Normally, solids are denser than their liquids and sink. Water is exceptional: When water freezes into ice, water molecules form an open hexagonal lattice held by hydrogen bonds (H-O-H...O-H-O), where each water molecule forms 4 hydrogen bonds to its neighbours in a fixed, spacious arrangement. This open lattice has more space between molecules than liquid water (where H-bonds are constantly breaking and reforming) → ice occupies MORE volume for the same mass → lower density (≈ 0.92 g/cm³) → floats on liquid water. Ecological importance: lakes and ponds freeze from the top down; the ice layer insulates the water below, preventing it from freezing solid → aquatic life survives winter. If ice sank, bodies of water would freeze solid from bottom up and kill all aquatic organisms.",
+          "source": "SSC CGL — ice floating on water explained by hydrogen bonding and anomalous density is a tricky application question",
+          "verified": true
+        },
+        {
+          "text": "In a single displacement reaction, can copper displace zinc from zinc sulphate solution?",
+          "options": [
+            "Yes — copper is a brightly coloured metal that is more reactive than the dull zinc",
+            "Yes — copper can displace zinc because copper is a transition metal with variable valency",
+            "No — zinc is MORE reactive than copper in the reactivity series; only more reactive metals displace less reactive ones. Zinc can displace copper, but not the reverse.",
+            "No — copper and zinc do not react with sulphate solutions; only acids cause displacement reactions"
+          ],
+          "answerIndex": 2,
+          "explanation": "Displacement reactions only proceed when the displacing metal is MORE reactive than the metal in solution (higher in the reactivity/activity series). Reactivity Series (most to least reactive): K > Na > Ca > Mg > Al > Zn > Fe > Ni > Sn > Pb > H > Cu > Ag > Au > Pt. Zinc (Zn) is above copper (Cu) in the series → Zn is more reactive than Cu. Therefore: Zn + CuSO₄ → ZnSO₄ + Cu ✓ (zinc displaces copper); Cu + ZnSO₄ → no reaction ✗ (copper CANNOT displace zinc). Similarly: Fe can displace Cu, Zn can displace Fe — but Cu cannot displace either. Gold and platinum are at the bottom → cannot be displaced by most other metals, which is why they are found in native (elemental) form in nature.",
+          "source": "SSC CGL — activity series and direction of displacement reactions is a tricky application question",
+          "verified": true
+        },
+        {
+          "text": "What is a precipitation reaction, and how does it differ from a simple double displacement reaction?",
+          "options": [
+            "Precipitation reactions produce gases; double displacement reactions produce new solid compounds",
+            "All double displacement reactions are precipitation reactions — there is no meaningful distinction",
+            "A precipitation reaction is a SUBSET of double displacement where at least one product is insoluble in water (precipitate = solid that forms from solution). Not all double displacement reactions produce precipitates — neutralisation (acid + base → salt + water) is also double displacement but usually produces no precipitate.",
+            "Precipitation reactions occur in acidic solutions; double displacement reactions occur in alkaline solutions"
+          ],
+          "answerIndex": 2,
+          "explanation": "Double displacement (metathesis) reaction: AB + CD → AD + CB — ions exchange partners. This category includes: Precipitation reactions (one product is an insoluble precipitate): Na₂SO₄ + BaCl₂ → BaSO₄↓ (white precipitate) + 2NaCl; AgNO₃ + NaCl → AgCl↓ (white precipitate) + NaNO₃; Pb(NO₃)₂ + 2KI → PbI₂↓ (yellow precipitate) + 2KNO₃. Neutralisation reactions (no precipitate, produces water): HCl + NaOH → NaCl + H₂O (soluble salt + water). Gas-forming reactions (gas produced instead of precipitate): Na₂CO₃ + H₂SO₄ → Na₂SO₄ + H₂O + CO₂↑. The ↓ symbol = precipitate (insoluble solid falls from solution); ↑ symbol = gas escapes from solution. Precipitate tests are used as qualitative analytical tests: AgCl↓ = test for Cl⁻; BaSO₄↓ = test for SO₄²⁻; PbI₂↓ = test for Pb²⁺.",
+          "source": "SSC CGL — precipitation as subset of double displacement and understanding ↓ symbol is a tricky question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is the significance of the 'sea of delocalised electrons' model in explaining metallic properties?",
+          "options": [
+            "The sea model explains why metals are coloured — electrons in the sea absorb specific wavelengths of light",
+            "The sea of delocalised electrons model explains, in a single framework, why metals conduct electricity and heat, have metallic lustre, and are malleable/ductile — the free electrons are mobile charge carriers, thermal energy transmitters, light reflectors, and allow ion layers to slide without the 'bond' breaking",
+            "The sea model explains why metals form ionic bonds with non-metals — the sea electrons are transferred to non-metals",
+            "The sea model only applies to transition metals (Groups 3-12); alkali metals have a different bonding mechanism"
+          ],
+          "answerIndex": 1,
+          "explanation": "The 'sea of delocalised electrons' model (also called the free electron model) elegantly explains all characteristic metallic properties from one underlying structure: 1. Electrical conductivity: free electrons move through the metal lattice under an applied electric field, carrying charge. Metals are the best conductors (Ag > Cu > Au > Al). 2. Thermal conductivity: free electrons also carry kinetic energy (heat) efficiently through the lattice — metals feel cold because they conduct heat away from your hand rapidly. 3. Metallic lustre: the sea of electrons at the metal surface absorbs incoming light and re-emits it — giving metals their characteristic shine. 4. Malleability and ductility: when a metal is hammered or bent, layers of positive metal ions slide over each other, and the electron sea 'flows' with them, maintaining electrostatic attraction throughout. This is unlike ionic crystals, where like charges align when struck → repel → crystal shatters. The model was later refined by quantum mechanics into band theory (explains semiconductors too).",
+          "source": "SSC CGL — understanding how the sea of electrons model explains all metallic properties is underrated",
+          "verified": true
+        },
+        {
+          "text": "Why does complete combustion produce CO₂ while incomplete combustion produces CO and soot?",
+          "options": [
+            "Complete combustion occurs at higher temperatures; incomplete combustion is a low-temperature process with more reactants",
+            "In complete combustion, each carbon atom reacts with TWO oxygen molecules (C + O₂ → CO₂); in incomplete combustion, insufficient oxygen means each carbon can only get one oxygen atom (C + ½O₂ → CO) or none at all (producing C/soot particles)",
+            "Complete combustion uses pure oxygen from a cylinder; incomplete combustion uses atmospheric air which contains nitrogen",
+            "CO₂ is produced when wet fuel burns; CO is produced when dry fuel burns — moisture determines the product"
+          ],
+          "answerIndex": 1,
+          "explanation": "Combustion of hydrocarbons in sufficient oxygen: CH₄ + 2O₂ → CO₂ + 2H₂O (complete — each carbon gets 2 oxygen atoms → CO₂; blue, clean flame with maximum heat release). Combustion of hydrocarbons in insufficient oxygen: 2CH₄ + 3O₂ → 2CO + 4H₂O (incomplete — each carbon gets only 1 oxygen atom → carbon monoxide, CO; sooty yellow flame with less heat). Or worse: CH₄ + O₂ → C + 2H₂O (extreme oxygen shortage → solid carbon soot particles). Why CO is dangerous: Carbon monoxide (CO) is colourless and odourless; binds to haemoglobin (Hb) 250 times more strongly than O₂ → blocks oxygen transport → carbon monoxide poisoning (CO poisoning) causes headache, dizziness, unconsciousness, death. Sources of CO: unvented gas heaters, charcoal fires in enclosed spaces, vehicle exhaust, biomass burning. Catalytic converters in cars convert CO → CO₂: 2CO + O₂ → 2CO₂ (palladium/platinum catalyst).",
+          "source": "SSC CGL — complete vs incomplete combustion and CO danger is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What is a coordinate (dative) covalent bond, and what distinguishes it from a regular covalent bond?",
+          "options": [
+            "In a coordinate bond, the bonded atoms share electrons from their inner shells rather than valence shells",
+            "A coordinate (dative) bond is a covalent bond where BOTH electrons of the shared pair are donated by ONE atom (the Lewis base/donor), whereas in a regular covalent bond each atom contributes one electron. Once formed, coordinate bonds are identical in strength to regular covalent bonds.",
+            "A coordinate bond is weaker than a regular covalent bond because only one atom contributes electrons, making it half as strong",
+            "A coordinate bond occurs only between metals and non-metals; regular covalent bonds occur only between identical non-metal atoms"
+          ],
+          "answerIndex": 1,
+          "explanation": "In a regular covalent bond: each atom contributes 1 electron to the shared pair. In a coordinate (dative) covalent bond: one atom (the DONOR, also called Lewis base) provides BOTH electrons; the other atom (the ACCEPTOR, also called Lewis acid) provides the empty orbital. Key examples: NH₃ + H⁺ → NH₄⁺ (ammonium ion): The NH₃ molecule's nitrogen has a lone pair; H⁺ has an empty orbital (has no electrons at all); N donates both electrons to form the N→H coordinate bond; Result: NH₄⁺ has four equivalent N-H bonds — you CANNOT tell which one was the coordinate bond after formation. CO molecule: Has a triple bond (2 regular covalent + 1 coordinate). Complex ions / coordination compounds: in [Fe(CN)₆]³⁻, CN⁻ groups donate lone pairs to Fe³⁺ central atom via coordinate bonds — entire field of coordination chemistry! Coordination compounds are important in biology: haemoglobin (Fe²⁺ + porphyrin), chlorophyll (Mg²⁺ + porphyrin), vitamin B₁₂ (Co³⁺).",
+          "source": "SSC CGL — coordinate/dative bond (both electrons from one atom, e.g. NH₄⁺) is underrated and conceptually tricky",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between an electrolyte and a non-electrolyte, and which types of compounds are typically electrolytes?",
+          "options": [
+            "Electrolytes are metals that conduct electricity; non-electrolytes are non-metals that do not conduct electricity",
+            "Electrolytes are compounds that conduct electricity when dissolved in water (or melted) because they produce ions in solution; non-electrolytes dissolve but produce no ions and cannot conduct electricity. Ionic compounds and some polar covalent compounds (HCl, H₂SO₄) are electrolytes.",
+            "Electrolytes are strong acids; non-electrolytes are weak acids — all other compounds cannot conduct electricity at all",
+            "Electrolytes are solids that conduct electricity in solid state; non-electrolytes require melting before they can conduct"
+          ],
+          "answerIndex": 1,
+          "explanation": "Electrolytes produce ions in aqueous solution and conduct electricity: Strong electrolytes (completely ionise): NaCl → Na⁺ + Cl⁻; HCl → H⁺ + Cl⁻; H₂SO₄ → 2H⁺ + SO₄²⁻; NaOH → Na⁺ + OH⁻. Weak electrolytes (partially ionise): CH₃COOH ⇌ H⁺ + CH₃COO⁻ (acetic acid, only ~1% ionised); NH₃ + H₂O ⇌ NH₄⁺ + OH⁻. Non-electrolytes dissolve but do not ionise, so cannot conduct: Sugar (C₁₂H₂₂O₁₁), glucose (C₆H₁₂O₆), ethanol (C₂H₅OH), urea (CO(NH₂)₂), glycerol. Key rule: Ionic compounds (NaCl, KOH, CaCl₂) are electrolytes; most non-polar covalent compounds are non-electrolytes; some polar covalent compounds (HCl, H₂SO₄, HNO₃) are electrolytes because they ionise in water. Solid ionic compounds do NOT conduct (ions locked); molten or dissolved ionic compounds DO conduct (free ions). This concept connects to electrochemistry, galvanic cells, and electrolysis.",
+          "source": "SSC CGL — electrolytes vs non-electrolytes and which compounds are which is underrated but important",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which statement about ionic compounds is CORRECT?",
+          "options": [
+            "Ionic compounds are generally gases at room temperature",
+            "Ionic compounds are formed by sharing of electrons between atoms",
+            "Ionic compounds have high melting points and conduct electricity when dissolved in water or melted",
+            "Ionic compounds are insoluble in water because ions repel water molecules"
+          ],
+          "answerIndex": 2,
+          "explanation": "Key properties of ionic compounds: High melting and boiling points: strong electrostatic forces between oppositely charged ions require large amounts of energy to overcome (NaCl melts at 801°C). Electrical conductivity in solution/melt: when dissolved in water or melted, ions are free to move and carry charge. SOLID ionic compounds do NOT conduct (ions are fixed). Solubility: most ionic compounds are soluble in polar solvents (especially water) because water molecules surround ions (hydration) and pull them apart. Some ionic compounds are insoluble: BaSO₄, AgCl, PbI₂ — these form precipitates. Crystalline structure: regular 3D lattice (e.g., NaCl face-centred cubic lattice). Hardness but brittleness: hard due to strong ionic attractions; brittle because mechanical force shifts ionic layers, aligning like charges that then repel and shatter the crystal. Ionic bonds form between metals (low IE, lose electrons) and non-metals (high EA, gain electrons) — electronegativity difference > 1.7.",
+          "source": "SSC CGL / SSC CHSL — properties of ionic compounds is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The reaction between an acid and a base is called neutralisation. What type of reaction is it, and what are the products?",
+          "options": [
+            "Combination reaction producing a single product (water only)",
+            "Decomposition reaction that breaks down the acid into hydrogen and oxygen",
+            "Double displacement reaction producing salt and water; also exothermic (releases heat)",
+            "Single displacement reaction where hydrogen in the acid is displaced by the metal in the base"
+          ],
+          "answerIndex": 2,
+          "explanation": "Acid-base neutralisation: HCl + NaOH → NaCl + H₂O; H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O; HNO₃ + KOH → KNO₃ + H₂O. This is a double displacement (ion exchange) reaction: H⁺ (from acid) + Cl⁻ (from acid) + Na⁺ (from base) + OH⁻ (from base) → Na⁺Cl⁻ (NaCl, salt) + H₂O. Products: Salt (the anion from acid + cation from base) + Water. Always exothermic: H⁺ + OH⁻ → H₂O releases ~57.3 kJ per mole at room temperature. The 'neutralisation' concept: pH of acid < 7; pH of base > 7; pH of neutral salt solution = 7 (for strong acid + strong base); At neutralisation point (equivalence point): all H⁺ from acid neutralised by OH⁻ from base. Common exam fact: The 'heat of neutralisation' for strong acid + strong base is always ~57.3 kJ/mol (because it's always the same reaction: H⁺ + OH⁻ → H₂O). For weak acid or weak base, the heat of neutralisation is LESS because some energy is used for ionisation.",
+          "source": "SSC CGL / SSC CHSL — neutralisation as double displacement producing salt and water (exothermic) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the correct mnemonic for remembering oxidation and reduction in redox reactions?",
+          "options": [
+            "RILO: Reduction Is Loss (of electrons); Oxidation is Gain",
+            "OIL RIG: Oxidation Is Loss (of electrons); Reduction Is Gain (of electrons)",
+            "GELO: Gain of Electrons = Loss of Oxygen; LEGA: Loss of Electrons = Gain of Atoms",
+            "ARIO: Atoms React In Oxidation; electrons are never lost or gained"
+          ],
+          "answerIndex": 1,
+          "explanation": "OIL RIG is the universal mnemonic for redox reactions: OIL: Oxidation Is Loss (of electrons) — the substance being oxidised loses electrons; its oxidation state increases (+ve). RIG: Reduction Is Gain (of electrons) — the substance being reduced gains electrons; its oxidation state decreases (→ more negative). Key relationships: Oxidation and reduction always happen SIMULTANEOUSLY — you cannot have one without the other. The REDUCING AGENT GETS OXIDISED (it loses electrons to reduce something else). The OXIDISING AGENT GETS REDUCED (it gains electrons and oxidises something else). Examples: 2Na + Cl₂ → 2NaCl: Na is oxidised (0 → +1, loses electrons) = reducing agent; Cl₂ is reduced (0 → -1, gains electrons) = oxidising agent. 2H₂ + O₂ → 2H₂O: H₂ is oxidised (reducing agent); O₂ is reduced (oxidising agent). Old definition (still tested): Oxidation = gain of oxygen OR loss of hydrogen; Reduction = loss of oxygen OR gain of hydrogen. Both definitions are correct — the electron-transfer definition is more general.",
+          "source": "SSC CGL / SSC CHSL — OIL RIG mnemonic and identifying oxidising/reducing agents is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is a combination reaction?",
+          "options": [
+            "2H₂O₂ → 2H₂O + O₂ (hydrogen peroxide decomposes)",
+            "Fe + CuSO₄ → FeSO₄ + Cu (iron in copper sulphate)",
+            "2Mg + O₂ → 2MgO (magnesium burns in oxygen)",
+            "NaOH + HCl → NaCl + H₂O (neutralisation)"
+          ],
+          "answerIndex": 2,
+          "explanation": "A combination (synthesis) reaction: TWO or more reactants → ONE product. General form: A + B → AB. 2Mg + O₂ → 2MgO: Two reactants (Mg and O₂) combine to form one product (MgO, magnesium oxide). This is a combination reaction AND a combustion reaction AND a redox reaction (Mg is oxidised, O₂ is reduced). The spectacular white flame and intense brightness of burning magnesium is used in emergency flares and fireworks. Other combination reactions: C + O₂ → CO₂; 2H₂ + O₂ → 2H₂O; CaO + H₂O → Ca(OH)₂; SO₃ + H₂O → H₂SO₄ (industrial H₂SO₄ production). The other options: Option A = decomposition (one reactant breaks down); Option B = single displacement (iron displaces copper); Option D = double displacement/neutralisation (two compounds exchange ions). Key rule: In a combination reaction, you always COUNT the reactants — if there are two or more giving one product = combination.",
+          "source": "SSC CGL / SSC CHSL — identifying combination reaction (2Mg + O₂ → 2MgO) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

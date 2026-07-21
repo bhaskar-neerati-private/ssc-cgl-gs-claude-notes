@@ -1,0 +1,213 @@
+{
+  "topic": "Metals, Non-metals, Metallurgy, Alloys, Reactivity Series & Corrosion",
+  "topicId": "chem-metals-metallurgy",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which metal is used for galvanisation of iron to prevent rusting?",
+          "options": ["Tin (Sn)", "Copper (Cu)", "Zinc (Zn)", "Nickel (Ni)"],
+          "answerIndex": 2,
+          "explanation": "Galvanisation is the process of coating iron/steel with a thin layer of ZINC (Zn) to prevent rusting/corrosion. Named after Luigi Galvani. Why zinc and not just any metal coating: Zinc is more reactive than iron (Zn is above Fe in the reactivity series). If the zinc coating scratches or is damaged, zinc acts as a SACRIFICIAL ANODE — it preferentially oxidises (corrodes) instead of iron, continuing to protect the iron even with damaged coating: Zn → Zn²⁺ + 2e⁻ (zinc corrodes instead of Fe). Contrast with TIN-coated iron: Tin is LESS reactive than iron; if tin coating breaks, iron becomes the anode in a Sn-Fe galvanic cell → iron corrodes FASTER than uncoated iron. Uses of galvanised iron (GI): GI pipes, roofing sheets, corrugated iron roofs, buckets, wire fencing. Hot-dip galvanisation: iron/steel is dipped in molten zinc (450°C); zinc-iron alloy layers form at the interface, then pure zinc on the surface.",
+          "source": "SSC CGL / SSC CHSL previous years — zinc used in galvanisation to prevent rusting is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is an ore of aluminium?",
+          "options": ["Haematite", "Chalcopyrite", "Bauxite", "Magnetite"],
+          "answerIndex": 2,
+          "explanation": "Bauxite (Al₂O₃·2H₂O or Al₂O₃·nH₂O) is the most important ore of aluminium. Aluminium ores: Bauxite (Al₂O₃·2H₂O) — primary ore; hydrated aluminium oxide; named after Les Baux, France; major producers: Australia, China, Guinea, Brazil, India. Corundum (Al₂O₃) — anhydrous; gem varieties: ruby (red, Cr impurity), sapphire (blue, Fe/Ti impurity), emery (abrasive). Cryolite (Na₃AlF₆) — sodium hexafluoroaluminate; used as flux/solvent in Hall-Héroult process to lower the melting point of Al₂O₃ for electrolysis. Extraction: Bayer process: Bauxite → NaOH treatment → Al(OH)₃ (precipitated) → heating → pure Al₂O₃; Hall-Héroult process: Electrolysis of molten Al₂O₃ (in cryolite) → Al metal + O₂. The other options: Haematite (Fe₂O₃) = iron ore; Chalcopyrite (CuFeS₂) = copper ore; Magnetite (Fe₃O₄) = iron ore (magnetic).",
+          "source": "SSC CGL / SSC CHSL previous years — bauxite as aluminium ore is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the composition of brass?",
+          "options": [
+            "Copper and Tin",
+            "Copper and Zinc",
+            "Iron and Carbon",
+            "Aluminium and Copper"
+          ],
+          "answerIndex": 1,
+          "explanation": "Brass = Copper (Cu) + Zinc (Zn), typically 60–70% copper and 30–40% zinc. Brass is yellow-golden in colour, stronger and harder than pure copper, resistant to corrosion, and easy to machine. Uses: Musical instruments (trumpets, trombones, French horns — the entire 'brass section' of an orchestra); Locks, keys, door fittings; Plumbing fittings; Decorative items; Electrical connectors (good conductivity, corrosion-resistant); Bullet casings. The most commonly confused alloy pair: BRONZE = Copper + TIN; BRASS = Copper + ZINC. Memory aid: Brass is Bright Yellow (Zn makes it yellow-golden); Bronze is Brown (its name even sounds like 'brown'). Composition differences: Bronze: 88–95% Cu + 5–12% Sn; harder and more durable than brass; used for statues, bells, bearings, medals. Brass: 60–70% Cu + 30–40% Zn; more malleable and easier to work with; yellow in colour.",
+          "source": "SSC CGL / SSC CHSL previous years — brass (Cu + Zn) vs bronze (Cu + Sn) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which metal is extracted by electrolysis of its molten ore (Hall-Héroult process)?",
+          "options": ["Iron", "Copper", "Aluminium", "Zinc"],
+          "answerIndex": 2,
+          "explanation": "Aluminium (Al) is extracted by electrolysis of molten alumina (Al₂O₃) using the Hall-Héroult process (invented independently by Charles Martin Hall in the USA and Paul Héroult in France, both in 1886). Why electrolysis (not carbon reduction like iron)? Aluminium is VERY reactive (high up in the reactivity series) → Al₂O₃ is extremely stable → carbon cannot reduce it at practical temperatures (would need >2000°C). Electrolysis overcomes this using electrical energy directly. Hall-Héroult process: Al₂O₃ dissolved in molten cryolite (Na₃AlF₆) at ~950°C (cryolite lowers the melting point of Al₂O₃ from 2050°C to ~950°C — key energy saving); Electrolysis: cathode (Al³⁺ + 3e⁻ → Al); anode (2O²⁻ → O₂ + 4e⁻ — burns carbon anodes); Molten aluminium (density 2.7 g/cm³) collects at the bottom. This process is energy-intensive (~14 kWh per kg Al) — which is why aluminium recycling saves 95% of the energy needed for primary production.",
+          "source": "SSC CGL / SSC CHSL previous years — aluminium extracted by Hall-Héroult electrolysis is frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Why doesn't aluminium rust despite being high up in the reactivity series (more reactive than iron)?",
+          "options": [
+            "Aluminium doesn't rust because it is a non-metal disguised as a metal",
+            "Aluminium forms a thin, invisible, self-healing layer of aluminium oxide (Al₂O₃) on its surface when exposed to air — this passivation layer is impermeable and adheres tightly, preventing further oxidation of the aluminium beneath",
+            "Aluminium is always stored in vacuum or inert atmosphere; it would corrode rapidly if exposed to air like iron does",
+            "Aluminium is less reactive than it appears in the reactivity series; the series does not apply to aluminium in normal atmospheric conditions"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aluminium's paradox — reactive metal that resists corrosion: When Al is exposed to oxygen in air: 4Al + 3O₂ → 2Al₂O₃ (aluminium oxide). This reaction happens almost instantly. However: The Al₂O₃ layer is: Extremely thin (2–9 nm, invisible to naked eye); Very adherent — bonds tightly to the aluminium surface below; Dense and impermeable — prevents further O₂ and moisture from reaching the Al beneath; Self-healing — if scratched, the exposed Al immediately reforms the oxide layer in air. This passive layer is called the 'oxide passivation film.' In contrast: Iron's rust (Fe₂O₃·xH₂O) is: Porous and flaky — does NOT stick well to the surface below; Allows further moisture and oxygen to penetrate → rust grows from inside → iron keeps rusting until it disintegrates. This is why iron structures need constant maintenance while aluminium structures last for decades without treatment. Anodisation thickens the Al₂O₃ layer artificially (electrolytic process) for even better protection.",
+          "source": "SSC CGL — why aluminium doesn't rust despite being reactive (passive Al₂O₃ layer) is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "What is the thermite reaction and what is its most important practical application?",
+          "options": [
+            "Thermite reaction is the combustion of iron in pure oxygen, producing enormous heat used in rocket fuel",
+            "Thermite reaction: 2Al + Fe₂O₃ → Al₂O₃ + 2Fe + heat (~3500°C). Aluminium is more reactive than iron and reduces iron oxide to iron while itself being oxidised to Al₂O₃. Used in thermite welding to weld railway tracks in-situ without requiring electric power.",
+            "Thermite is the chemical name for 'liquid iron' produced in blast furnaces at 1600°C; it is applied to railway tracks as a coating",
+            "Thermite reaction is between aluminium powder and chlorine gas, producing AlCl₃ and releasing heat used in industrial smelting"
+          ],
+          "answerIndex": 1,
+          "explanation": "Thermite reaction: 2Al + Fe₂O₃ → Al₂O₃ + 2Fe (ΔH = −850 kJ/mol; temperature can reach 2500–3500°C). This is a redox reaction: Al (more reactive) reduces Fe³⁺ to Fe (displacement reaction); Al is oxidised to Al³⁺ (in Al₂O₃). Once ignited (requires very high initiation temperature, ~2000°C, using Mg ribbon), the reaction is self-sustaining and extremely rapid. Practical application — Thermite welding (Aluminothermic welding): Used to weld railway tracks in the field without electrical power. Molten iron produced (~2700°C) pours into a mould around the two track ends → iron solidifies → perfect weld in minutes. Very important where electrical welding equipment cannot reach. Also used in: Incendiary weapons (thermite grenades — produce molten iron that burns through metal); Recovery of chromium: 2Al + Cr₂O₃ → Al₂O₃ + 2Cr (Goldschmidt process). The concept of 'less reactive oxide + more reactive metal = more reactive metal oxide + less reactive metal' is a general displacement principle.",
+          "source": "SSC CGL — thermite reaction (Al + Fe₂O₃ → Fe) and railway track welding is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "Steel is an alloy of iron. How does the carbon content of steel determine its properties?",
+          "options": [
+            "More carbon = softer, more ductile steel; less carbon = harder but more brittle steel; carbon content doesn't matter much above 1%",
+            "More carbon = harder, more brittle steel with higher tensile strength; less carbon = softer, more ductile, more easily welded steel. Wrought iron (<0.02% C) is most ductile; mild steel (0.2–0.4% C) is used in construction; high-carbon steel (0.7–2% C) is used for cutting tools and springs.",
+            "Carbon makes steel rust-resistant; pure iron (without carbon) corrodes rapidly; adding 2% carbon produces stainless steel",
+            "Carbon content has no effect on steel's mechanical properties; steel's strength comes from the iron lattice structure alone"
+          ],
+          "answerIndex": 1,
+          "explanation": "Iron-carbon phase diagram determines steel properties: Wrought iron (<0.02% C): Almost pure iron; very soft, ductile, malleable, tough; used in decorative ironwork, chains; can be welded easily. Mild/Low-carbon steel (0.1–0.3% C): Soft, ductile, weldable; most widely used steel; structural beams, ships, cars, pipelines. Medium-carbon steel (0.3–0.6% C): Higher strength; railway tracks, crankshafts, gears. High-carbon steel (0.6–1.5% C): Very hard, but brittle; springs, saw blades, cutting tools, files. Cast iron (2–4.5% C): Very high carbon; extremely brittle (breaks rather than bends); engine blocks, pipes, cookware (cast iron pans). The reason for this behaviour: Carbon atoms fill interstitial spaces in the iron crystal lattice; high C content distorts the lattice heavily → dislocations cannot move easily → hard and brittle; low C content → little lattice distortion → dislocations move freely → ductile and soft. Stainless steel achieves rust resistance through Cr/Ni additions, NOT carbon.",
+          "source": "SSC CGL — carbon content determines steel type (wrought iron < mild steel < high-carbon steel < cast iron) is tricky",
+          "verified": true
+        },
+        {
+          "text": "What is the zone refining process, and for which metals is it used?",
+          "options": [
+            "Zone refining is a technique for separating iron from slag using a magnetic field; used in the blast furnace zone at 1500–1600°C",
+            "Zone refining is a purification method for SEMICONDUCTORS (silicon, germanium) — a narrow molten zone is moved slowly along a rod, carrying impurities to one end; the purified semiconductor crystal solidifies behind the molten zone. Produces ultra-pure silicon for electronics.",
+            "Zone refining is a gravity-based separation technique in which metal ores are separated by density in sloping water channels",
+            "Zone refining is a salt-dipping technique where impure metals are dissolved in molten salt baths that dissolve only the impurities, leaving pure metal behind"
+          ],
+          "answerIndex": 1,
+          "explanation": "Zone refining (William Pfann, Bell Labs, 1952) is a technique for producing ultra-high purity metals, especially semiconductors: A narrow heater (induction coil) creates a small molten zone in a rod of impure metal. The molten zone is moved slowly from one end to the other. Impurities (which prefer to stay in the liquid phase) are swept along with the molten zone. After several passes, impurities concentrate at one end of the rod (the 'impurity end'), which is then cut off. The remaining rod is ultra-pure (purity > 99.9999%). Used for: Silicon (Si) and Germanium (Ge) — semiconductor grade purity required is 1 impurity atom per 10¹⁰ silicon atoms; Gallium (Ga), Indium (In), Antimony (Sb). This level of purity is impossible to achieve by chemical methods alone. It's essential because even 1 ppb (part per billion) of some impurities can completely change the electrical properties of a semiconductor. Compare with electrolytic refining (used for Cu, Ag, Au, Ni) and distillation refining (used for Zn, Hg, Cd).",
+          "source": "SSC CGL — zone refining for ultra-pure silicon/germanium (semiconductors) is a tricky metallurgy question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "What is froth flotation, and for which types of ores is it used?",
+          "options": [
+            "Froth flotation is a high-temperature process where metal ores float to the surface of molten slag; used for iron ores",
+            "Froth flotation is an ore dressing technique where powdered ore is mixed with oil, water, and a frothing agent; air is blown in to create froth; ore particles (wetted by oil) cling to air bubbles and float, while gangue (wetted by water) sinks. Used primarily for SULPHIDE ores of copper, zinc, and lead.",
+            "Froth flotation uses dilute acid to dissolve impurities (gangue) in a froth; the ore particles remain undissolved and are then filtered out",
+            "Froth flotation is a magnetic separation technique used exclusively for magnetite (Fe₃O₄) because magnetite particles are attracted to the magnetised froth"
+          ],
+          "answerIndex": 1,
+          "explanation": "Froth flotation is a key ore concentration technique: Process: (1) Ore crushed to fine powder; (2) Mixed with water + collectors (pine oil or xanthate — makes ore surface hydrophobic/oil-loving); (3) Frother (pine oil, cresols) added to stabilise bubbles; (4) Air blown through the mixture → fine bubbles form; (5) Ore particles (now hydrophobic, oily) attach to air bubbles → float to surface with froth; (6) Gangue particles (hydrophilic, water-loving) remain wet by water → sink; (7) Froth (with ore) skimmed off. Used for: Sulphide ores: ZnS (sphalerite/zinc blende), PbS (galena, lead ore), CuFeS₂ (chalcopyrite, copper ore), FeS₂ (pyrite, fool's gold). The technique exploits the difference in surface wettability between ore and gangue. Selectivity can be enhanced with activators (promote collection of specific minerals) and depressants (prevent collection of specific gangue minerals). Advantages: Works with very fine-grained ore; highly selective; continuous operation. Not used for: Oxide ores, silicate ores (these are better processed by gravity separation or chemical leaching).",
+          "source": "SSC CGL — froth flotation for sulphide ores is underrated but important in metallurgy",
+          "verified": true
+        },
+        {
+          "text": "Why is sodium stored in kerosene but NOT in the same way we store potassium?",
+          "options": [
+            "Sodium and potassium are both stored in kerosene in identical ways; there is no meaningful difference in storage requirements",
+            "Both Na and K are stored submerged in kerosene oil (to prevent reaction with air and moisture). However, potassium reacts even more violently than sodium — K can ignite the kerosene itself at high temperatures, so it requires extra precaution, smaller quantities, and sometimes needs to be stored under liquid paraffin or argon gas instead.",
+            "Sodium is stored in kerosene because it floats on kerosene; potassium sinks in kerosene so it must be stored in vacuum-sealed containers",
+            "Potassium is stored in water because it reacts slowly with water; sodium is stored in kerosene because it reacts quickly with water"
+          ],
+          "answerIndex": 1,
+          "explanation": "Reactivity of alkali metals with water increases DOWN Group 1: Li < Na < K < Rb < Cs. With water: 2Na + 2H₂O → 2NaOH + H₂↑ (vigorous; Na sizzles, moves on surface, heat produced but doesn't usually ignite) 2K + 2H₂O → 2KOH + H₂↑ (more violent; K reacts immediately, the H₂ produced DOES ignite due to extra heat → K catches fire and burns with violet/lilac flame). Storage: Li: stored in kerosene/light mineral oil; Na: submerged in kerosene (common); K: submerged in kerosene, but extra care needed — K can ignite the kerosene vapour at high concentrations; sometimes stored in sealed ampoules under argon gas. Rb and Cs: stored in sealed glass ampoules under argon/nitrogen (too reactive even for kerosene). Why alkali metals react with water at all: they have only 1 valence electron with low ionisation energy → easily lost; the highly exothermic release of energy when Na⁺ (or K⁺) and OH⁻ form and the H₂ is released drives the reaction. Potassium produces enough heat from the reaction to ignite the H₂ gas released.",
+          "source": "SSC CGL — storage of alkali metals in kerosene and why K is more dangerous than Na is underrated",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between a mineral and an ore?",
+          "options": [
+            "A mineral is always more pure than an ore; minerals are refined ores",
+            "A mineral is any naturally occurring substance containing a metal (whether or not it is economically viable to extract the metal). An ore is a mineral from which a metal can be extracted PROFITABLY. All ores are minerals, but not all minerals are ores — it depends on the concentration of the metal and current technology/economics.",
+            "An ore is a mixture of multiple minerals; a mineral is always a single pure chemical compound",
+            "Minerals occur in ocean sediments; ores only occur in continental rocks — the geological location defines the distinction"
+          ],
+          "answerIndex": 1,
+          "explanation": "Mineral vs Ore — a crucial distinction often tested: MINERAL: A naturally occurring, inorganic, homogeneous substance with a definite chemical composition and crystalline structure. Examples: quartz (SiO₂), feldspar, mica, haematite (Fe₂O₃), calcite (CaCO₃) — these are all minerals. A mineral that CONTAINS a metal is a 'metallic mineral'. ORE: A mineral (or mineralised rock) from which a metal can be commercially (economically and technically) extracted. Whether a mineral is an 'ore' depends on: Concentration of the metal (grade of ore); Current market price of the metal; Available extraction technology; Energy and labour costs; Location and accessibility. Example: Iron pyrite (FeS₂) contains iron but is NOT used as an iron ore — too difficult and expensive to extract iron from it; haematite (Fe₂O₃) IS used because extraction is easier and profitable. The distinction is economic, not just chemical. A mineral that was not an ore 100 years ago might become an ore today if extraction technology improves (e.g., low-grade aluminium ore became viable with the Hall-Héroult process). GANGUE: Unwanted earthy/rocky material associated with the ore in the mine.",
+          "source": "SSC CGL — mineral vs ore distinction (economic viability, not just metal content) is underrated",
+          "verified": true
+        },
+        {
+          "text": "What is electroplating, and why is gold used in electronic circuit board connections even though it is very expensive?",
+          "options": [
+            "Gold is used in circuits because it has the highest melting point, preventing circuit boards from melting when processors heat up",
+            "Electroplating deposits a thin layer of gold on circuit contacts because gold has excellent electrical conductivity AND is corrosion-resistant — gold contacts don't oxidise or tarnish, ensuring reliable electrical connections over decades. Even a thin gold layer (micrometres thick) prevents the corrosion that would degrade copper or silver contacts.",
+            "Gold is used because it is transparent to X-rays used in chip manufacturing, allowing easier quality inspection of soldered joints",
+            "Gold electroplating is required by law for all medical-grade electronic equipment; non-medical circuits use silver plating"
+          ],
+          "answerIndex": 1,
+          "explanation": "Electroplating: An electrolytic process that deposits a thin layer of a metal (coating metal) onto a substrate (object to be coated). Setup: Object to be plated = CATHODE (negative electrode); Coating metal = ANODE (positive electrode); Electrolyte = solution of the coating metal's salt. Process: Anode dissolves (coating metal oxidises: M → Mⁿ⁺ + ne⁻); Mⁿ⁺ ions migrate to cathode; Mⁿ⁺ + ne⁻ → M (metal deposits on object). Why GOLD in electronics: Electrical conductivity: Au is third-best conductor (Ag > Cu > Au), but the very thin gold layer does not significantly impede current; Corrosion resistance: Gold does NOT oxidise even at high temperatures (bottom of reactivity series); Other metals like copper, silver, tin oxidise over time → increased contact resistance → circuit failure; Gold contacts remain clean and reliable for the lifespan of the device (decades); Solderability: Gold-plated contacts accept solder reliably; Gold in electronics: CPU socket pins, USB/HDMI connectors, SIM card contacts, PCB edge connectors, satellite communications equipment. Cost efficiency: Gold layer is only 0.1–1 micrometre thick → very little gold used per device; the performance/reliability benefit outweighs the cost for critical connections.",
+          "source": "SSC CGL — gold electroplating in electronics (corrosion resistance + conductivity) is underrated but logical",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "Which of the following alloys contains copper and tin?",
+          "options": ["Steel", "Brass", "Bronze", "Duralumin"],
+          "answerIndex": 2,
+          "explanation": "Bronze = Copper (Cu) + Tin (Sn). Bronze typically contains 88–95% copper and 5–12% tin (sometimes with small amounts of zinc, lead, or phosphorus). Properties: Harder and stronger than pure copper; Good corrosion resistance (especially to seawater — used for ship propellers); Good casting properties; Distinctive reddish-brown colour. Historical significance: Bronze Age (~3300–1200 BCE) — humankind's first major metal alloy, harder than copper alone, used for weapons, tools, and art. Uses: Statues and sculptures; Bells (bell metal = 78% Cu + 22% Sn — gives resonant sound); Bearings, bushings; Coins (older British pennies were bronze); Medals. The critical distinction: BRONZE = Cu + Sn; BRASS = Cu + Zn. Memory: Bronze and Brown start with B (both reddish-brown); Brass and Bright start with B (brass is bright yellow-gold). Steel = Fe + C; Duralumin = Al + Cu + Mg + Mn (aircraft alloy, very light and strong). Nickel silver (German silver) = Cu + Zn + Ni (looks like silver but contains no silver).",
+          "source": "SSC CGL / SSC CHSL — Bronze = Cu + Sn (vs Brass = Cu + Zn) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which of the following metals is the most reactive?",
+          "options": ["Iron (Fe)", "Sodium (Na)", "Copper (Cu)", "Silver (Ag)"],
+          "answerIndex": 1,
+          "explanation": "Sodium (Na) is the most reactive among the four options. Reactivity series (most to least reactive): K > Na > Ca > Mg > Al > Zn > Fe > Ni > Sn > Pb > H > Cu > Ag > Pt > Au. Among the given options: Na is at position 2 (extremely reactive — top of the series); Fe is at position 7 (moderate reactivity — reacts with steam and dilute acids); Cu is at position 13 (very low reactivity — does not react with dilute acids); Ag is at position 14 (very low — dissolves only in concentrated HNO₃). Sodium's reactivity: Reacts violently with water: 2Na + 2H₂O → 2NaOH + H₂↑ + heat; Catches fire in moist air; Stored under kerosene oil; Reacts with oxygen: 4Na + O₂ → 2Na₂O (or 2Na + O₂ → Na₂O₂ peroxide at excess O₂). Most reactive metal overall: Francium (Fr) — but it's radioactive and ultra-rare; most reactive stable metal is Caesium (Cs); among common metals, Potassium (K) is usually treated as most reactive in NCERT syllabus.",
+          "source": "SSC CGL / SSC CHSL — comparing reactivity of Na, Fe, Cu, Ag from the reactivity series is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The most important ore of iron is:",
+          "options": [
+            "Galena (PbS)",
+            "Haematite (Fe₂O₃)",
+            "Cinnabar (HgS)",
+            "Zinc blende (ZnS)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Haematite (Fe₂O₃, iron(III) oxide) is the most commercially important ore of iron. Properties: Reddish colour (from Fe³⁺); About 70% iron content (maximum possible in a pure oxide); Named from Greek 'haima' (blood) due to its red colour; Major iron ore deposits in India: Jharkhand (Singhbhum), Odisha (Keonjhar, Barajamda), Chhattisgarh, Goa, Karnataka. Other iron ores: Magnetite (Fe₃O₄): 72.4% iron — highest iron content of any ore; magnetic properties; used in some steel plants; forms large deposits in Scandinavia and USA; Limonite (FeO(OH)·nH₂O): Hydrated iron oxide; yellow-brown; lower grade ore; Siderite (FeCO₃): Iron carbonate; relatively rare. The other options: Galena (PbS) = lead ore; Cinnabar (HgS) = mercury ore; Zinc blende (ZnS) = zinc ore. India is the fourth-largest iron ore producer in the world; major steel plants: Jamshedpur (Tata Steel), Bhilai, Rourkela, Bokaro (SAIL), Vishakhapatnam (RINL).",
+          "source": "SSC CGL / SSC CHSL — haematite (Fe₂O₃) as the main iron ore is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Stainless steel is an alloy of iron. Which metals are added to make it rust-resistant?",
+          "options": [
+            "Iron + Carbon (0.5%) + Manganese (5%)",
+            "Iron + Chromium (12–18%) + Nickel (~8%)",
+            "Iron + Zinc (10%) + Tin (5%)",
+            "Iron + Aluminium (15%) + Silicon (5%)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Stainless steel = Iron (Fe) + Chromium (Cr, 12–18%) + Nickel (Ni, ~8–10%), plus small amounts of carbon and manganese. How chromium prevents rusting: Chromium reacts with oxygen in air to form a very thin, adherent, self-healing passive film of chromium(III) oxide (Cr₂O₃): 4Cr + 3O₂ → 2Cr₂O₃. This Cr₂O₃ layer (only 2–3 nm thick, invisible) is: Impermeable to oxygen and moisture; Self-healing — if scratched, Cr₂O₃ reforms immediately in air; Stable even in mildly acidic and alkaline environments. Why nickel is added: Nickel stabilises the austenite crystal structure of stainless steel at room temperature, improving ductility, toughness, and resistance to acidic environments. Types of stainless steel: 304 (18-8 stainless steel): 18% Cr, 8% Ni — most common; cutlery, kitchen equipment; 316: 16% Cr, 10% Ni, 2% Mo — more corrosion-resistant; used in medical devices, marine environments; 410, 420: Less Ni, harder; used for cutlery (knife blades).",
+          "source": "SSC CGL / SSC CHSL — stainless steel composition (Fe + Cr 12-18% + Ni 8%) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

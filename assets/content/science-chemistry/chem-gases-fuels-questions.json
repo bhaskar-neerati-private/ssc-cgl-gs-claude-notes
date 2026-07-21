@@ -1,0 +1,238 @@
+{
+  "topic": "Key Gases & Fuels — Hydrogen, Oxygen, Nitrogen, CO₂, Ozone, LPG & CNG",
+  "topicId": "chem-gases-fuels",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which gas is used in fire extinguishers to put out fires, and why is it effective?",
+          "options": [
+            "Oxygen (O₂) — it dilutes the fuel so it cannot burn",
+            "Nitrogen (N₂) — because it reacts chemically with the fire to neutralise it",
+            "Carbon dioxide (CO₂) — it is heavier than air, does not support combustion, and smothers the fire by cutting off the oxygen supply",
+            "Hydrogen (H₂) — it absorbs the heat of the fire very quickly, cooling it below ignition temperature"
+          ],
+          "answerIndex": 2,
+          "explanation": "CO₂ fire extinguishers work because carbon dioxide: (1) Does NOT support combustion — CO₂ is already fully oxidised (carbon has combined with 2 oxygen atoms) and cannot react with more oxygen; (2) Is heavier than air (density 1.98 g/L vs air 1.29 g/L; ~1.5× heavier) — sinks and forms a blanket over the burning material, displacing the oxygen needed for combustion; (3) Smothers the fire by reducing O₂ concentration below ~16% (normal air = 21% O₂); below ~12% O₂, most fires cannot sustain. CO₂ extinguishers are ideal for: Electrical fires (CO₂ leaves no residue, is non-conductive — safe on live electrical equipment); Oil/flammable liquid fires (CO₂ blankets the surface); Computer/server room fires. CO₂ extinguishers are NOT suitable for: Class A fires (paper, wood, textiles) — CO₂ doesn't penetrate deeply; Metals (Mg, Na burn in CO₂ — use dry sand); Pressurised liquid fires (CO₂ pressure can spread the burning liquid). Key SSC fact: CO₂ cylinders feel very cold when discharged — CO₂ expands from liquid (high pressure inside) to gas → Joule-Thomson cooling → very cold gas. This also helps cool the fire. Dry ice (solid CO₂) effect sometimes visible.",
+          "source": "SSC CGL / SSC CHSL previous years — CO₂ used in fire extinguishers (heavier than air, doesn't support combustion) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the main component of CNG (Compressed Natural Gas) used as fuel in vehicles?",
+          "options": [
+            "Butane (C₄H₁₀)",
+            "Propane (C₃H₈)",
+            "Ethane (C₂H₆)",
+            "Methane (CH₄)"
+          ],
+          "answerIndex": 3,
+          "explanation": "CNG (Compressed Natural Gas) is composed primarily of METHANE (CH₄) — typically 85–95% methane, with small amounts of ethane, propane, butane, and nitrogen. Methane (CH₄): Simplest alkane; molecular formula = 1 carbon + 4 hydrogen; boiling point = −161.5°C (very low — stays as gas at room temperature even under high pressure); Burns cleanly: CH₄ + 2O₂ → CO₂ + 2H₂O. CNG details: Stored at 200–250 bar in strong steel/composite cylinders (as compressed gas, NOT liquid — unlike LPG which liquefies); Must NOT be confused with LPG: LPG = propane + butane (C₃ + C₄); stored as LIQUID at moderate pressure; CNG = methane (C₁); stored as COMPRESSED GAS. Advantages: ~25% lower CO₂ than petrol; negligible SO₂; fewer particulates → cleaner air; High octane number (~120) → smooth engine performance; Cheaper per km (India). Uses in India: Buses, autorickshaws, taxis, private cars; Delhi mandatory CNG for public transport from 2001 (after Supreme Court order) → dramatic improvement in Delhi's air quality. Biogas ≈ CNG when methane is separated and purified → called 'biomethane' or 'CBG' (Compressed Biogas).",
+          "source": "SSC CGL / SSC CHSL previous years — CNG is mainly methane (CH₄) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "The Montreal Protocol (1987) was signed to protect the ozone layer. Which chemicals does it aim to phase out?",
+          "options": [
+            "Carbon dioxide (CO₂) and methane (CH₄) — the main greenhouse gases",
+            "Sulphur dioxide (SO₂) and nitrogen oxides (NOₓ) — the main acid rain gases",
+            "Chlorofluorocarbons (CFCs) and other ozone-depleting substances — used in refrigerators, aerosols, and air conditioners",
+            "Carbon monoxide (CO) and benzene — urban air pollutants from vehicle exhaust"
+          ],
+          "answerIndex": 2,
+          "explanation": "Montreal Protocol on Substances that Deplete the Ozone Layer (1987): Target: Phase out Ozone-Depleting Substances (ODS), primarily Chlorofluorocarbons (CFCs). What are CFCs? Chlorofluorocarbons: Compounds containing C, Cl, and F (e.g., CFC-11 = CCl₃F, CFC-12 = CCl₂F₂, Freon-22 = CHClF₂); Previously used in: Refrigerators and air conditioners (refrigerant), aerosol propellants (deodorants, hairspray), foam blowing agents (Styrofoam). How CFCs destroy ozone: UV breaks the C-Cl bond in the stratosphere → Cl (atomic chlorine); Cl + O₃ → ClO + O₂ (ozone destroyed); ClO + O → Cl + O₂ (Cl regenerated — catalytic cycle); 1 Cl atom destroys up to 100,000 O₃ molecules. Also under Montreal Protocol: HCFCs (hydrochlorofluorocarbons — transitional replacements for CFCs, still slightly ozone-depleting); Halons (fire suppression chemicals, very potent ODS). Montreal Protocol achievements: Most successful environmental treaty; signed by 197 countries (every UN member); CFC production largely eliminated; ozone hole is slowly recovering (expected full recovery by 2060–2070). The Kigali Amendment (2016) to Montreal Protocol added HFCs (which replaced CFCs but are powerful greenhouse gases) to the phase-down schedule.",
+          "source": "SSC CGL / SSC CHSL previous years — Montreal Protocol (1987) phases out CFCs to protect ozone layer is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What test is used to confirm the presence of carbon dioxide gas?",
+          "options": [
+            "Pass the gas through a solution of potassium permanganate — it turns colourless if CO₂ is present",
+            "Burn the gas — if it burns with a blue flame, it is CO₂",
+            "Pass the gas through limewater [Ca(OH)₂ solution] — CO₂ turns limewater milky white by forming calcium carbonate (CaCO₃) precipitate",
+            "Dip a burning splint into the gas — if the flame goes out, CO₂ is confirmed"
+          ],
+          "answerIndex": 2,
+          "explanation": "Limewater test for CO₂: Reaction: CO₂ + Ca(OH)₂ → CaCO₃↓ (white precipitate) + H₂O; CaCO₃ is insoluble in water → forms white, milky turbidity in the clear limewater solution. This is the DEFINITIVE laboratory test for CO₂. Process: Bubble the unknown gas through a test tube of clear limewater (dilute calcium hydroxide solution); If white cloudiness/precipitate forms → CO₂ is present. Additional information: Excess CO₂ clears the cloudiness: CaCO₃ + CO₂ + H₂O → Ca(HCO₃)₂ (calcium bicarbonate, soluble → solution becomes clear again); So: if excess gas is bubbled, clear → milky → clear again = CO₂ confirmed. Option D (burning splint test): A glowing (not burning) splint relights in O₂; CO₂ extinguishes a burning splint (but so do many other gases) — NOT specific to CO₂. Option A: KMnO₄ is decolorised by reducing gases (SO₂, H₂S, H₂) — NOT CO₂ specific. CO₂ does NOT decolorise KMnO₄. Option B: CO₂ does NOT burn at all (already fully oxidised); it smothers flames. The limewater test is uniquely specific and easy to perform — the only answer.",
+          "source": "SSC CGL / SSC CHSL previous years — limewater test (milky with CaCO₃) confirms CO₂ is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Ozone is described as both 'good' and 'bad' depending on where it is found. Explain the difference.",
+          "options": [
+            "Ozone is only ever harmful; the description of 'good ozone' in the stratosphere is a misconception — all ozone causes respiratory problems",
+            "Stratospheric ozone (15–35 km altitude) = 'good ozone' — absorbs harmful UV-B and UV-C radiation from the sun, protecting all life on Earth. Tropospheric ozone (0–10 km, ground level) = 'bad ozone' — formed from NOₓ + VOC + sunlight reactions; a major air pollutant that damages lungs, irritates eyes, and damages crops and rubber.",
+            "Ozone in cities is 'good' because it cleans the air; ozone in forests is 'bad' because it causes trees to grow abnormally fast, displacing native species",
+            "The distinction is based on concentration: dilute ozone (< 0.01 ppm) in the stratosphere is 'good'; concentrated ozone (> 1 ppm) at ground level is 'bad'"
+          ],
+          "answerIndex": 1,
+          "explanation": "The ozone paradox — same molecule, opposite effects depending on location: GOOD OZONE — Stratospheric (15–35 km altitude): Formed naturally: UV + O₂ → 2O; O + O₂ → O₃; The ozone layer absorbs 97–99% of UV-B (290–315 nm) and all UV-C (100–280 nm); UV-B causes: skin cancer (melanoma), cataracts (eye), DNA damage, immune suppression; UV-C would be lethal to surface life — ozone completely absorbs it; Without the ozone layer, most surface life on Earth could not exist; Total ozone above a spot measured in Dobson Units (DU); Ozone hole = DU < 220 over Antarctica in spring. BAD OZONE — Tropospheric (0–10 km, especially at surface): Formed by photochemical reaction: NOₓ + VOCs + sunlight → O₃ (photochemical smog); NOₓ from vehicle exhaust and industry; VOCs from vehicles, paint, solvents, petrol vapour; Effects: Respiratory irritant (causes asthma, bronchitis); Eye and nose irritation; Damages crops and forest vegetation (reduces photosynthesis); Degrades rubber (ozone cracking in tyres and seals); Part of photochemical smog (LA Smog, visible brown haze in cities). Key distinction for SSC: Location is everything — stratosphere = good; troposphere = bad. Same O₃ molecule, very different context and consequences.",
+          "source": "SSC CGL — stratospheric ozone (good, UV shield) vs tropospheric ozone (bad, air pollutant) is a tricky distinction question",
+          "verified": true
+        },
+        {
+          "text": "Why does liquid nitrogen (LN₂) have so many seemingly magical applications in medicine and food?",
+          "options": [
+            "Liquid nitrogen is not actually used in medicine or food — only in industrial cooling of metal parts; medical applications are restricted due to nitrogen's toxicity in liquid form",
+            "Liquid nitrogen boils at −196°C (77 K), the second-lowest-boiling cryogenic fluid after liquid helium. This ultra-low temperature is biologically relevant: cells and microbes are instantly killed (cryotherapy), biological samples are preserved indefinitely (biobanking), and food is flash-frozen without forming large ice crystals that damage cell walls (preserves texture and nutrients).",
+            "Liquid nitrogen has special antibacterial properties that come from nitrogen's chemical reactivity at very low temperatures; it kills bacteria by chemical reaction, not by freezing them",
+            "Liquid nitrogen works in medicine only because it is always contaminated with liquid oxygen (LN₂ is a mixture); the oxygen component provides the therapeutic benefit"
+          ],
+          "answerIndex": 1,
+          "explanation": "Liquid nitrogen (LN₂) — properties and applications: Physical properties: Boiling point: −195.79°C (77.36 K); Colourless, cryogenic liquid; Very low viscosity (flows like water); 1 litre of LN₂ expands to ~700 litres of N₂ gas at room temperature (DANGER — rapid expansion in enclosed spaces → asphyxiation). Medical applications (cryotherapy): Dermatology: Skin lesions, warts, pre-cancerous cells (actinic keratosis), seborrhoeic keratosis → directly applied LN₂ or spray → instant freezing → cells burst (ice crystal formation inside cells → lethal) → dead tissue sloughs off; Gynaecology: Cervical cryotherapy for CIN (cervical intraepithelial neoplasia); Prostate cryotherapy; Cryosurgery for tumour ablation. Biobanking (long-term preservation): Sperm, eggs (oocytes), embryos: stored in LN₂ vapour (−150°C) or liquid (−196°C) → metabolism essentially stops → preserved for decades; Stem cells, bone marrow, cord blood; Tissue samples and pathology specimens. Food industry (cryogenic freezing): Flash-freezing: food lowered into or sprayed with LN₂ → freezes in seconds; Small ice crystals form (rapid freezing) → cell walls intact → texture preserved (vs slow freezing → large ice crystals → mushy texture when thawed); Used for delicate items: berries, shrimp, peas, cooked meals. Restaurant 'molecular gastronomy': LN₂ used at table for instant frozen desserts, cocktail fog effects (nitrogen fog = condensed atmospheric moisture around cold gas).",
+          "source": "SSC CGL — liquid nitrogen (−196°C) uses in cryotherapy, biobanking, food freezing is a tricky applications question",
+          "verified": true
+        },
+        {
+          "text": "What is 'water gas' and how does it differ from natural gas and biogas?",
+          "options": [
+            "Water gas is natural gas dissolved in water at high pressure; when pressure is released, the gas escapes (like opening a soda bottle)",
+            "Water gas is a synthetic mixture of carbon monoxide (CO) and hydrogen (H₂) made by passing steam over hot coke: C + H₂O → CO + H₂. Unlike natural gas (mainly CH₄) or biogas (CH₄ + CO₂ from biological decomposition), water gas is made industrially from coal/coke and water — NOT from biological sources.",
+            "Water gas is the gas produced when water is electrolysed: oxygen and hydrogen are produced and collectively called water gas",
+            "Water gas is the steam (water vapour) produced when fuels burn; it is considered a gas because it is in gaseous form at the high temperatures of combustion"
+          ],
+          "answerIndex": 1,
+          "explanation": "Water gas — a crucial industrial gas from the 19th–20th centuries: Formation: C (coke/coal, heated to ~1000°C) + H₂O (steam) → CO + H₂ (water gas); Composition: ~50% CO + ~50% H₂ (approximately); Also called: synthesis gas or syngas (when mixed with other components). Properties: Combustible (both CO and H₂ burn); High calorific value (~11 MJ/m³); Used as fuel and for hydrogen production; 'Producer gas' is different: C + O₂ (limited) + N₂ → CO + N₂ (burning carbon in limited air → mostly CO and N₂; lower calorific value than water gas because of diluting N₂). Comparison of gas fuels: Natural gas (CNG/PNG): Found underground; mainly CH₄; no CO; piped from wells; used directly as fuel; Biogas: CH₄ + CO₂; from biological decomposition of organic waste; renewable; Water gas: CO + H₂; from coke + steam (industrial process); man-made; historical importance as town gas before natural gas pipelines. Modern relevance: 'Syngas' (CO + H₂) produced from natural gas reforming or coal gasification → used in Fischer-Tropsch synthesis (making synthetic petrol from coal/gas) and for making ammonia (H₂ from syngas → Haber Process). Water gas is NOT suitable for domestic use without purification because CO is odourless and highly toxic.",
+          "source": "SSC CGL — water gas (CO + H₂, from C + H₂O) vs natural gas vs biogas is a tricky comparison question",
+          "verified": true
+        },
+        {
+          "text": "What is the 'hydrogen economy' concept, and what is 'green hydrogen' vs 'grey hydrogen'?",
+          "options": [
+            "The hydrogen economy is a theoretical concept that has been abandoned because hydrogen cannot be stored safely",
+            "The hydrogen economy envisions hydrogen as the primary clean energy carrier. Grey hydrogen is made from fossil fuels (cheap but releases CO₂); blue hydrogen is grey + carbon capture; green hydrogen is made by electrolysis using 100% renewable electricity (zero CO₂ — the cleanest; currently expensive). India's National Hydrogen Mission targets 5 Mt of green hydrogen by 2030.",
+            "The hydrogen economy refers to the global trade in hydrogen-rich compounds (water, ammonia, methane); hydrogen itself is not traded because it is too light",
+            "Grey hydrogen is hydrogen from coal gasification (high CO₂); green hydrogen is hydrogen from natural gas (medium CO₂); the 'green' refers only to the colour of the gas at different purities"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hydrogen colours — a key classification in energy policy: GREY HYDROGEN (most common, ~95% of global production): From steam methane reforming (SMR): CH₄ + H₂O → CO + 3H₂ (Ni catalyst, 700–1000°C); CO + H₂O → CO₂ + H₂ (water-gas shift reaction); Releases CO₂ to atmosphere (~10 kg CO₂ per kg H₂); Cheapest form (~$1–2/kg); Used in fertiliser production, oil refining. BLUE HYDROGEN: Same SMR process, but CO₂ is captured and stored (Carbon Capture and Storage, CCS); Lower CO₂ emissions but CCS is expensive and not yet proven at scale; ~$2–4/kg. GREEN HYDROGEN (the goal): Electrolysis of water: 2H₂O + electricity → 2H₂ + O₂; Using electricity from wind, solar, or hydro (renewable) → zero CO₂; Currently expensive (~$4–8/kg) due to cost of renewable electricity and electrolysers; Cost falling rapidly as renewable electricity cost drops. Fuel cell vehicles: Toyota Mirai, Hyundai Nexo — use H₂ in fuel cells: H₂ + O₂ → H₂O + electricity → drives electric motors; Zero tailpipe emissions. India National Hydrogen Mission (2021): Target 5 million tonnes of green hydrogen production by 2030; India has abundant solar and wind potential for green hydrogen production; Export target — 'hydrogen hub' for Asian market.",
+          "source": "SSC CGL — green vs grey hydrogen and the hydrogen economy/National Hydrogen Mission is a tricky question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Nitrogen is used in food packaging (chips, biscuits, nuts). Why nitrogen specifically — and not just any inert gas?",
+          "options": [
+            "Nitrogen adds a mild flavour to snacks that enhances the taste; it is used for flavouring, not preservation",
+            "Nitrogen is cheap (78% of air), non-toxic, dry, chemically inert, and does not react with oils or food. Replacing air in packaging with N₂ prevents oxidation (rancidity) of oils/fats and fungal/bacterial spoilage. It also keeps packaging inflated to cushion delicate snacks during transport.",
+            "Nitrogen reacts with the potato starch in chips to form a preservation compound that prevents spoilage at the molecular level",
+            "Nitrogen's extremely low boiling point (−196°C) keeps the chips cold inside the packet, preventing microbial growth"
+          ],
+          "answerIndex": 1,
+          "explanation": "Modified atmosphere packaging (MAP) with nitrogen: Why air is bad for packaged snacks: O₂ in air reacts with unsaturated fats/oils in snacks → lipid oxidation → rancidity (off-taste, off-smell; 'stale' flavour); Moisture in air + O₂ support mould/bacteria growth; CO₂ in air and O₂ can dissolve in the oils. Why N₂ is the solution: Chemistry: N₂ is completely inert with food molecules at room temperature; N₂ does not react with fats, proteins, or carbohydrates; N₂ is dry (no moisture to contribute to spoilage); Economics: N₂ is extracted from air very cheaply (separation from 78% N₂ air); About 10× cheaper than helium or argon; Safety: N₂ is completely non-toxic, tasteless, odourless — safe for food contact. Additional benefit — cushioning: Nitrogen-filled packages (chips bags, nut bags) are 'inflated' with N₂; This puffed structure cushions the delicate contents from crushing during transport and handling; The gas volume acts as a shock absorber. Other MAP gases: CO₂ (alone or with N₂): inhibits bacterial/mould growth directly; slightly acidic in moist environments; used in some fresh meat packaging; O₂ (sometimes added for fresh red meat to maintain bright red myoglobin colour and for fresh produce to support respiration).",
+          "source": "SSC CGL — nitrogen in food packaging (inert, prevents oxidation/rancidity, cheap, cushions) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What is 'calorific value' of a fuel, and why does hydrogen have the highest calorific value despite being very lightweight?",
+          "options": [
+            "Calorific value is the temperature at which a fuel ignites; hydrogen has the lowest ignition temperature, which SSC textbooks incorrectly label as the highest calorific value",
+            "Calorific value is the heat energy released per unit mass (or volume) when a fuel is completely burned. Hydrogen (H₂) has the highest calorific value (~143 kJ/g) because: the H-H bond is weak (436 kJ/mol) but the O-H bonds formed in water are very strong (2 × 497 kJ/mol = 994 kJ/mol per H₂ molecule) — the net energy release is enormous per unit mass, especially because hydrogen is so light.",
+            "Calorific value measures how much carbon dioxide is produced per litre of fuel burned; hydrogen produces the least CO₂, giving it the 'highest' calorific value by this definition",
+            "Calorific value is the energy stored per unit volume, not per unit mass; hydrogen has the lowest value by volume (because it is a gas at low pressure) and is only highest by mass"
+          ],
+          "answerIndex": 1,
+          "explanation": "Calorific value (CV) = heat released per unit mass on complete combustion in oxygen (units: kJ/g or MJ/kg). Hydrogen's record: H₂ + ½O₂ → H₂O; ΔH = −286 kJ/mol per mole of H₂; Molar mass of H₂ = 2 g/mol; CV = 286/2 = ~143 kJ/g. Why so high per gram: Hydrogen atom is the LIGHTEST atom (mass 1 u); But each H-H bond breaking + 2(O-H) bond forming releases about 286 kJ; Compared to methane: CH₄ + 2O₂ → CO₂ + 2H₂O; ΔH = −890 kJ/mol; molar mass = 16 g/mol; CV = 890/16 ≈ 55.6 kJ/g; Compared to octane (petrol): ~45 kJ/g. Calorific value order (kJ/g): H₂ (143) > Methane/CNG (55) > LPG/butane (49) > Petrol (45) > Diesel (44) > Kerosene (43) > Coal (28–35) > Wood (17) > Dung cake (7). Practical challenge of hydrogen: Very high CV per MASS but very low energy per VOLUME (because H₂ is so light); 1 kg H₂ (compressed to 350 bar in tank) has energy of ~45 litres of petrol by mass equivalent, but takes a large, heavy tank; Engineering the storage is the key challenge for hydrogen vehicles.",
+          "source": "SSC CGL — calorific value definition and hydrogen having highest (~143 kJ/g) is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What is photochemical smog, and which gases are responsible for it?",
+          "options": [
+            "Photochemical smog is fog that forms when factories burn coal; the 'photo' prefix means the smog is visible in photographs",
+            "Photochemical smog forms when nitrogen oxides (NOₓ) and volatile organic compounds (VOCs) from vehicle exhaust and industry react in the presence of sunlight to form ground-level ozone (O₃), aldehydes, peroxy acetyl nitrate (PAN), and brown NO₂. Causes eye/lung irritation, reduced visibility, and crop damage.",
+            "Photochemical smog is identical to industrial smog (London smog); both are caused by SO₂ from coal burning and water vapour condensing into acid fog",
+            "Photochemical smog is caused by CO₂ and methane reacting in sunlight; it is essentially the same as the greenhouse effect but concentrated near the ground"
+          ],
+          "answerIndex": 1,
+          "explanation": "Photochemical smog (also called Los Angeles smog or summer smog): Formation: Primary pollutants from vehicle exhaust: NOₓ (NO + NO₂) from combustion of fuels at high temperature (N₂ + O₂ → 2NO at engine temperatures → NO oxidises to NO₂ in air); VOCs (volatile organic compounds): unburnt hydrocarbons, aldehydes, from petrol evaporation, incomplete combustion, solvents, paints. Photochemical reactions (sunlight needed — hence 'photo'): NO₂ + UV → NO + O (atomic oxygen); O + O₂ → O₃ (ozone formed — the key photochemical smog component); O₃ + VOCs → aldehydes, PANs (Peroxyacyl Nitrates), radicals; Health effects: O₃: irritates lungs, causes asthma, chest pain; NO₂: brownish colour, lung irritant; Aldehydes (HCHO, CH₃CHO): eye irritation, lachrymatory (tear-inducing); PAN: eye irritant, damages plants. Agricultural damage: O₃ and PAN damage crops — estimated $10+ billion annually globally; Visible smog: brownish-yellow haze over cities (NO₂ is brown/reddish-brown). Contrast — Classical/London smog (winter smog): SO₂ + particulates + fog + cold temperature → sulfurous acid fog; Occurs in industrial cities burning sulphur-containing coal; Great London Smog (December 1952) killed 4,000–12,000 people in 4 days.",
+          "source": "SSC CGL — photochemical smog (NOₓ + VOCs + sunlight → O₃ + PANs) vs London smog is underrated but important",
+          "verified": true
+        },
+        {
+          "text": "What happens if you pass excess CO₂ into limewater that has already turned milky?",
+          "options": [
+            "The milky solution becomes more turbid (cloudier) as more CaCO₃ is deposited",
+            "The milky solution clears (becomes transparent again) because excess CO₂ converts the insoluble CaCO₃ precipitate to soluble calcium bicarbonate [Ca(HCO₃)₂] which dissolves in water",
+            "The limewater turns blue when excess CO₂ is passed through it",
+            "Excess CO₂ causes the CaCO₃ to decompose back to Ca(OH)₂ and CO₂ — the original clear limewater is restored"
+          ],
+          "answerIndex": 1,
+          "explanation": "The two-stage limewater test — a classic SSC trap: STAGE 1 (limited CO₂): CO₂ + Ca(OH)₂ → CaCO₃↓ (white precipitate) + H₂O; Clear limewater → MILKY white. STAGE 2 (excess CO₂): CaCO₃ (insoluble) + CO₂ + H₂O → Ca(HCO₃)₂ (calcium bicarbonate, soluble); Milky white → CLEAR again; This clears because calcium bicarbonate is soluble in water — the precipitate dissolves. Applications — identifying CO₂: Confirm CO₂: bubble through limewater → milky. Confirm EXCESS CO₂: continue bubbling → milky clears → confirms CO₂ (not SO₂ or HCl which also cause similar initial cloudiness but don't clear on excess). Relevance in nature: River water dissolving limestone: CO₂ (from rain + air) + H₂O + CaCO₃ (limestone) → Ca(HCO₃)₂ (soluble) → limestone dissolves → forms caves (karst landscape); Stalactites/stalagmites: Ca(HCO₃)₂ → CaCO₃↓ + CO₂ + H₂O (as CO₂ escapes from dripping water in cave → CaCO₃ re-precipitates → forms calcium carbonate deposits → stalactites grow down, stalagmites grow up). This is also why temporary hard water (from Ca(HCO₃)₂) is removed by boiling — heating reverses the second reaction.",
+          "source": "SSC CGL — excess CO₂ clears milky limewater (CaCO₃ → Ca(HCO₃)₂) is underrated and a classic trap",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "LPG (Liquefied Petroleum Gas) is stored as a liquid in cylinders. Which gas is added to it to detect leaks?",
+          "options": [
+            "Chlorine (Cl₂) — gives a sharp, disinfectant smell",
+            "Hydrogen sulphide (H₂S) — gives a rotten egg smell",
+            "Ethyl mercaptan (C₂H₅SH) or thiophane — gives a characteristic pungent smell",
+            "Ammonia (NH₃) — gives a sharp, acrid smell like cleaning fluid"
+          ],
+          "answerIndex": 2,
+          "explanation": "LPG (propane + butane) is naturally colourless and ODOURLESS — you cannot smell it unless an odorant is deliberately added. Odorant added: ETHYL MERCAPTAN (ethanethiol, C₂H₅SH) or THIOPHANE — sulphur-containing organic compounds with an intensely pungent, garlic-like or 'rotten cabbage' smell detectable at extremely low concentrations (1–10 ppm). Why mercaptans: Detectable at very low concentrations (human nose can smell < 1 ppm); Not removed by combustion (burns to SO₂ which is also detectable by smell); Chemically stable in LPG; Non-toxic at the concentrations used as odorant. Safety implications: When you smell 'gas' in kitchen → mercaptan smell → LPG leak; Immediately: DON'T switch on/off any electrical switches (sparks can ignite gas); Open windows and doors for ventilation; Move away from the area; Call the gas supplier. Cylinders: Red/maroon cylinders = domestic LPG (12.5 kg or 5 kg); Blue cylinders = commercial/industrial LPG. Important: H₂S (option B) smells like rotten eggs and is toxic, but is NOT added to LPG — it's a naturally occurring impurity in some natural gas deposits that is REMOVED before distribution, not added. NH₃ (option D) is added to industrial refrigerants to detect leaks but not to LPG.",
+          "source": "SSC CGL / SSC CHSL — ethyl mercaptan added to odourless LPG for leak detection is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which gas is produced in a biogas plant and what is the main raw material used?",
+          "options": [
+            "Hydrogen gas; produced from water using solar energy",
+            "Methane (CH₄) is the main gas; produced by anaerobic (oxygen-free) digestion of organic waste — mainly cow dung (gobar), agricultural residue, and food waste by methanogenic bacteria",
+            "Carbon dioxide; produced from limestone by heating it with organic acids",
+            "Nitrogen gas; produced from the decomposition of protein-rich manure"
+          ],
+          "answerIndex": 1,
+          "explanation": "Biogas plant (gobar gas plant): Raw materials: Primarily cow dung (gobar) in India — hence 'gobar gas'; also used: agricultural residues, food waste, municipal solid waste, sewage sludge, algae, poultry droppings. Process — Anaerobic Digestion (AD): Stage 1 (Hydrolysis): Complex organic molecules (cellulose, proteins, fats) broken down by hydrolytic bacteria into simpler sugars, amino acids, fatty acids; Stage 2 (Acidogenesis): Acidogenic bacteria convert these to organic acids (acetic acid, propionic acid), H₂, CO₂; Stage 3 (Acetogenesis): Acetogenic bacteria convert organic acids to acetic acid, H₂, CO₂; Stage 4 (Methanogenesis): METHANOGENIC ARCHAEA (not bacteria!) convert acetic acid → CH₄ + CO₂; CO₂ + 4H₂ → CH₄ + 2H₂O (most important step). Biogas composition: CH₄: 50–65%; CO₂: 35–50%; H₂S, N₂, H₂O traces. Calorific value: ~22 MJ/m³ (lower than natural gas ~38 MJ/m³ because of CO₂ dilution). By-product: Slurry (digested sludge) — excellent organic fertiliser rich in N, P, K; safer than raw manure (pathogens killed in digester). When biogas is purified to >95% methane → 'biomethane' or 'Compressed Biogas (CBG)' — same as CNG, used in vehicles.",
+          "source": "SSC CGL / SSC CHSL — biogas = methane from anaerobic digestion of cow dung is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which among the following is NOT a greenhouse gas?",
+          "options": [
+            "Carbon dioxide (CO₂)",
+            "Methane (CH₄)",
+            "Nitrogen (N₂)",
+            "Nitrous oxide (N₂O)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Nitrogen (N₂) is NOT a greenhouse gas — it is the most abundant gas in the atmosphere (78%) but does NOT cause any greenhouse effect. Greenhouse gases must ABSORB infrared (IR) radiation emitted by the Earth's warmed surface. Mechanism: Earth's surface absorbs solar radiation (visible light) → warms up → emits infrared radiation (heat); Greenhouse gases absorb this IR radiation → re-radiate in all directions → some returns to Earth's surface → warming ('greenhouse effect'). Why N₂ is NOT a greenhouse gas: N₂ is a symmetrical, homonuclear diatomic molecule (N≡N); It has NO dipole moment and no change in dipole moment when vibrating; IR photons cannot excite N₂ vibrational modes (IR-inactive); N₂ simply does not interact with IR radiation → passes through. Why CO₂, CH₄, H₂O, N₂O ARE greenhouse gases: These molecules have dipole moments or change in dipole moment when vibrating → interact with IR radiation → absorb it → heat up → re-emit → trap heat. Similarly, O₂ (diatomic, symmetric) is also NOT a greenhouse gas for the same reason as N₂. All the major greenhouse gases: CO₂ (GWP=1), CH₄ (GWP≈28), N₂O (GWP≈273), H₂O vapour (most abundant GHG by mass), HFCs, CFCs, SF₆, O₃ (tropospheric).",
+          "source": "SSC CGL / SSC CHSL — nitrogen (N₂) is NOT a greenhouse gas (homonuclear, no dipole) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which gas is used to fill weather balloons and airships instead of hydrogen, and why?",
+          "options": [
+            "Nitrogen — because it is cheaper than hydrogen and lighter than air",
+            "Helium — because it provides good lift (second lightest gas) while being completely non-flammable, unlike hydrogen which is highly flammable (Hindenburg disaster, 1937)",
+            "Argon — because it is a noble gas that doesn't react with atmospheric moisture at high altitude",
+            "Carbon dioxide — because it maintains the balloon shape at high altitudes where pressure is very low"
+          ],
+          "answerIndex": 1,
+          "explanation": "Helium (He) replaced hydrogen in balloons and airships: Hydrogen for lift: H₂ is the lightest gas (density 0.09 g/L vs air 1.29 g/L) → excellent lift; BUT H₂ is highly flammable (burns in air between 4–75% concentration — an exceptionally wide flammability range). The Hindenburg disaster (6 May 1937): German airship LZ 129 Hindenburg → caught fire while mooring in Lakehurst, NJ, USA; Burned in 37 seconds; 35 of 97 people on board died + 1 ground worker; Ended the era of hydrogen-filled passenger airships. Helium for safety: Density = 0.18 g/L (heavier than H₂ but still much lighter than air → provides good lift: ~93% of H₂'s lift); Completely non-flammable (noble gas — zero combustibility); Chemical formula: He (monatomic, Group 18). Uses of helium balloons: Weather balloons — radiosonde balloons measuring atmospheric temperature, pressure, humidity at altitude (carried by He balloons); Airships/blimps (advertising, surveillance); Scientific research balloons; Party balloons and decorative balloons. Sources: Helium is extracted from natural gas deposits (where He is trapped underground — produced by radioactive decay of uranium and thorium); Primarily from USA and Qatar; Helium cannot be produced chemically or synthetically — it's a finite, non-renewable resource.",
+          "source": "SSC CGL / SSC CHSL — helium used in balloons (non-flammable, vs hydrogen Hindenburg disaster) is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

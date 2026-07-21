@@ -1,0 +1,233 @@
+{
+  "topic": "Acids, Bases, Salts & pH — Properties, Indicators & Key Compounds",
+  "topicId": "chem-acids-bases-salts",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "What is the chemical name of 'oil of vitriol' and what is it used for?",
+          "options": [
+            "Nitric acid (HNO₃) — used to make explosives (TNT) and fertilisers",
+            "Sulphuric acid (H₂SO₄) — used in car batteries, manufacture of fertilisers, dyes, drugs, and as a dehydrating agent",
+            "Hydrochloric acid (HCl) — used in cleaning and stomach acid",
+            "Phosphoric acid (H₃PO₄) — used in soft drinks as a sour flavouring agent"
+          ],
+          "answerIndex": 1,
+          "explanation": "Oil of vitriol is the old alchemical name for concentrated sulphuric acid (H₂SO₄). It was called 'oil of vitriol' because it is a viscous, oily liquid and was originally obtained by heating green vitriol (FeSO₄·7H₂O). H₂SO₄ is the most important industrial chemical — often called the 'king of chemicals'. Uses: Car/lead-acid batteries (dilute H₂SO₄ is the electrolyte); Manufacture of fertilisers (superphosphate, ammonium sulphate); Manufacture of dyes, drugs, explosives, and rayon; Dehydrating agent (absorbs water from organic substances — chars sugar, dehydrates organic tissue); Petroleum refining; Acid rain formation (SO₃ + H₂O → H₂SO₄). H₂SO₄ is a strong diprotic acid (donates 2 H⁺). Other vitriols: Green vitriol = FeSO₄·7H₂O (ferrous sulphate); Blue vitriol = CuSO₄·5H₂O (copper sulphate); White vitriol = ZnSO₄·7H₂O.",
+          "source": "SSC CGL / SSC CHSL previous years — 'oil of vitriol' = sulphuric acid is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which acid is present in vinegar?",
+          "options": ["Citric acid", "Lactic acid", "Acetic acid (ethanoic acid)", "Tartaric acid"],
+          "answerIndex": 2,
+          "explanation": "Vinegar contains 5–8% acetic acid (ethanoic acid, CH₃COOH) in water. Acetic acid is a weak organic acid with a characteristic pungent sour smell. It was historically called 'acetum' in Latin (meaning 'sharp/sour' — same root as 'acid' and 'acet-' in acetyl, acetone, etc.). Vinegar is produced by fermentation: Ethanol (in wine/beer) + oxygen → acetic acid + water (oxidation by Acetobacter bacteria). Uses of acetic acid: Food preservative in pickles and sauces; Coagulating agent in rubber production; Starting material for making various chemicals; As glacial acetic acid (100% pure, solidifies at 16.7°C). Other natural acids: Citric acid (C₆H₈O₇) = lemon, orange, citrus fruits; Tartaric acid = tamarind (imli), grapes; Oxalic acid = tomato, spinach, tea; Lactic acid = curd (yogurt), sour milk, muscles during exercise; Formic acid = red ants, nettle sting.",
+          "source": "SSC CGL / SSC CHSL previous years — acetic acid (ethanoic acid) in vinegar is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What happens when blue litmus paper is dipped into an acidic solution?",
+          "options": [
+            "The blue litmus turns colourless",
+            "The blue litmus turns red",
+            "The blue litmus turns green",
+            "The blue litmus remains unchanged (blue)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Litmus is a natural indicator obtained from lichens (Rocella tinctoria) and is the most commonly used acid-base indicator. In acidic solutions (pH < 7): BLUE litmus turns RED; In basic/alkaline solutions (pH > 7): RED litmus turns BLUE. Memory trick: B-R-B (Blue turns Red in acid, Base makes Red turn Blue) or simply: 'Acids are RED alert — they turn litmus red.' The change is caused by the H⁺ ions in acid protonating the litmus molecules, changing their structure and hence their colour. Litmus works in the pH range of approximately 5 to 8. For SSC exams: Blue litmus → Red = test for acid; Red litmus → Blue = test for base. Neutral solutions (pH 7) don't change either litmus paper. Litmus is also available as litmus solution (purple) which turns red in acid and blue in base.",
+          "source": "SSC CGL / SSC CHSL previous years — blue litmus turns red in acid is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Baking soda (NaHCO₃) is used in cooking. What gas is produced when baking soda is heated or reacts with acid?",
+          "options": [
+            "Oxygen (O₂) — baking soda decomposes to release pure oxygen",
+            "Carbon dioxide (CO₂) — makes dough rise; also produced with acids in baking powder",
+            "Hydrogen (H₂) — the lightest gas; makes cakes light and fluffy",
+            "Nitrogen dioxide (NO₂) — a reddish-brown gas that aerates the dough"
+          ],
+          "answerIndex": 1,
+          "explanation": "Baking soda (NaHCO₃, sodium bicarbonate) releases CO₂ in two situations: On heating: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑ (thermal decomposition); With acid (as in baking powder): NaHCO₃ + H⁺ → Na⁺ + H₂O + CO₂↑. The CO₂ gas gets trapped in the dough/batter → small bubbles → dough rises (leavening). Baking powder = baking soda + tartaric acid (cream of tartar) or citric acid. The acid in baking powder neutralises the Na₂CO₃ left over from heating (otherwise the cake would taste bitter and soapy). Uses of NaHCO₃: Baking/cooking (leavening agent); Antacid (neutralises excess stomach acid — mild base, pH ~8.3: NaHCO₃ + HCl → NaCl + H₂O + CO₂↑); Fire extinguishers (dry powder type — heat decomposes NaHCO₃ → CO₂ smothers fire); Mild cleaning agent. Note: Na₂CO₃ (washing soda) ≠ NaHCO₃ (baking soda) — two different compounds with different uses.",
+          "source": "SSC CGL / SSC CHSL previous years — baking soda produces CO₂ on heating or with acid is very frequently asked",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Aqua regia can dissolve gold and platinum — what is its composition and why can't either acid alone dissolve these noble metals?",
+          "options": [
+            "Aqua regia is a mixture of concentrated H₂SO₄ and HNO₃ (3:1); neither alone can oxidise gold because it takes extremely strong acid",
+            "Aqua regia is a freshly prepared mixture of concentrated HNO₃ (1 part) and concentrated HCl (3 parts); it works because HNO₃ oxidises gold while HCl provides Cl⁻ ions that form soluble tetrachloroaurate complex AuCl₄⁻, pulling the gold into solution",
+            "Aqua regia contains HF which forms stable gold fluoride complexes; it is made by mixing HF and HNO₃ in a 1:1 ratio",
+            "Aqua regia is super-heated H₂SO₄ (above 200°C); the gold dissolves because H₂SO₄ is a stronger acid at high temperatures"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aqua regia (Latin: 'royal water', named by alchemists because it dissolves the 'royal metals') = 1 part concentrated HNO₃ + 3 parts concentrated HCl, freshly mixed. Why it works when neither acid alone can dissolve gold: HNO₃ is a strong oxidising agent — it can oxidise Au⁰ to Au³⁺: Au → Au³⁺ + 3e⁻. But Au³⁺ is such a noble (unreactive) ion it would simply deposit back. HCl provides Cl⁻ ions that immediately complex with Au³⁺: Au³⁺ + 4Cl⁻ → [AuCl₄]⁻ (tetrachloroaurate, soluble). The complex formation drives the dissolution forward. Nitrosyl chloride (NOCl) is also released and is a very powerful oxidant. Fun fact: During WWII, physicist Niels Bohr dissolved Nobel Prize gold medals (belonging to colleagues) in aqua regia to hide them from the Nazis; after the war, the gold was precipitated back and new medals made from it. Platinum dissolves in aqua regia as: Pt + 4HCl + HNO₃ → H₂PtCl₄ + NOCl + 2H₂O.",
+          "source": "SSC CGL — aqua regia composition (HNO₃:HCl = 1:3) and why it dissolves gold is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between 'hard water' and 'soft water', and why does soap not lather in hard water?",
+          "options": [
+            "Hard water has a higher density than soft water; soap molecules are too light to float in hard water",
+            "Hard water contains dissolved Ca²⁺ and Mg²⁺ salts; soap (sodium stearate, C₁₇H₃₅COONa) reacts with these ions to form insoluble calcium/magnesium stearate ('scum'), consuming the soap before any lather can form",
+            "Hard water has a lower temperature than soft water; soap only lathers in warm water above 25°C",
+            "Soft water has dissolved CO₂; the CO₂ reacts with soap to produce foam; hard water has no dissolved gas"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hard water contains dissolved Ca²⁺ (from CaCl₂, CaSO₄, Ca(HCO₃)₂) and Mg²⁺ (from MgCl₂, MgSO₄, Mg(HCO₃)₂). When soap (sodium stearate, C₁₇H₃₅COO⁻Na⁺) is added to hard water: 2C₁₇H₃₅COO⁻Na⁺ + Ca²⁺ → (C₁₇H₃₅COO)₂Ca↓ (insoluble calcium stearate — 'scum') + 2Na⁺. The soap forms an insoluble precipitate with Ca²⁺/Mg²⁺ and is destroyed before lather can form. This wastes soap. Types: Temporary hardness (Ca(HCO₃)₂, Mg(HCO₃)₂) — removed by boiling: Ca(HCO₃)₂ → CaCO₃↓ + H₂O + CO₂↑ (scale/fur in kettles); Permanent hardness (CaSO₄, MgSO₄, CaCl₂) — cannot be removed by boiling; removed by: Adding Na₂CO₃ (washing soda): CaCl₂ + Na₂CO₃ → CaCO₃↓ + 2NaCl; Ion exchange resins (zeolites); Distillation. Detergents (synthetic surfactants with sulphonate groups) work in hard water because calcium sulphonate IS soluble — unlike soap scum.",
+          "source": "SSC CGL — hard vs soft water and soap-scum reaction in hard water is a tricky application question",
+          "verified": true
+        },
+        {
+          "text": "Why is NaHCO₃ (baking soda) used as an antacid, while Na₂CO₃ (washing soda) is NOT used for the same purpose?",
+          "options": [
+            "NaHCO₃ and Na₂CO₃ are both used as antacids with equal effectiveness; the choice is merely a matter of availability",
+            "NaHCO₃ is a MILD base (pH ~8.3) that gently neutralises excess stomach acid (HCl) without being too alkaline; Na₂CO₃ is a STRONG base (pH ~11.6) that would seriously irritate or corrode the stomach lining if ingested",
+            "Na₂CO₃ cannot neutralise HCl because it is a salt, not a base; only true bases like NaHCO₃ can neutralise acids",
+            "Washing soda is used for heavy-duty neutralisation; baking soda is used only for mild cases of acid reflux because of its pleasant taste"
+          ],
+          "answerIndex": 1,
+          "explanation": "Both NaHCO₃ and Na₂CO₃ can neutralise HCl (stomach acid): NaHCO₃ + HCl → NaCl + H₂O + CO₂↑ (mild, gentle — pH of solution ~8.3); Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑ (also effective, but pH ~11–12 if excess). The critical difference: NaHCO₃ is a MILD base — excess NaHCO₃ makes a solution of pH ~8.3, only mildly alkaline. Even if excess is ingested, it is safe. Na₂CO₃ (washing soda) is a MUCH STRONGER base — it can cause: Chemical burns to esophagus and stomach lining; Hypernatraemia (sodium poisoning); Severe gastrointestinal irritation. Also, Na₂CO₃ is sodium CARBONATE (dibasic, neutralises 2H⁺ per molecule) — far more alkaline than the monobasic NaHCO₃. Similarly: Mg(OH)₂ (milk of magnesia) is used as antacid — mild base, insoluble (low absorption into blood). Ca(OH)₂ (slaked lime) is a base but too corrosive for antacid use.",
+          "source": "SSC CGL — why baking soda is an antacid but washing soda is NOT (pH and corrosiveness) is a tricky question",
+          "verified": true
+        },
+        {
+          "text": "What is potash alum [KAl(SO₄)₂·12H₂O], and how does it purify water?",
+          "options": [
+            "Alum is a disinfectant that kills bacteria by releasing chlorine when dissolved in water",
+            "Alum is a coagulant: when dissolved in water, Al³⁺ ions hydrolyse to form Al(OH)₃ — a sticky, gelatinous precipitate that traps suspended mud, bacteria, and impurities, causing them to flocculate (clump) and settle",
+            "Alum creates an acidic environment that neutralises alkaline impurities in drinking water, making it safe to drink",
+            "Alum is a reducing agent that removes dissolved oxygen from water, killing aerobic bacteria"
+          ],
+          "answerIndex": 1,
+          "explanation": "Potash alum = KAl(SO₄)₂·12H₂O (potassium aluminium sulphate dodecahydrate). How it purifies water — the coagulation process: Al³⁺ + 3H₂O → Al(OH)₃ + 3H⁺. Al(OH)₃ is a gelatinous (jelly-like), sticky floc. This floc: Physically traps fine suspended particles (clay, silt, bacteria) through adsorption; The + charged Al(OH)₃ attracts and neutralises − charged colloidal particles (most suspended impurities carry negative surface charges); Particles clump together (flocculate) and settle to the bottom (sedimentation) where they can be filtered out. This is the alum-coagulation-flocculation-sedimentation-filtration sequence used in municipal water treatment. Traditional uses: Village wells — handful of alum powder thrown into the well causes mud to settle overnight; As a styptic pencil (haemostatic) — alum blocks cut — Al³⁺ causes proteins in blood to coagulate, stopping bleeding; After-shave block — same coagulation mechanism seals microscopic cuts from shaving; Pickling vegetables (keeps them crisp — Al³⁺ firms cell walls).",
+          "source": "SSC CGL — alum (potash alum) purifying water by coagulation/flocculation is a tricky application question",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Most Underrated Questions",
+      "questions": [
+        {
+          "text": "Why does the pH of pure water change with temperature, even though it remains 'neutral'?",
+          "options": [
+            "Pure water's pH doesn't change with temperature — pH 7 is the absolute definition of neutral at all temperatures",
+            "Water undergoes autoionisation: H₂O ⇌ H⁺ + OH⁻; at higher temperatures, this equilibrium shifts right, producing more H⁺ and OH⁻ ions. At 25°C, pH = 7.0 (neutral). At 100°C, pH ≈ 6.1 (but still neutral, because [H⁺] = [OH⁻]). Neutral doesn't always mean pH 7 — it means [H⁺] = [OH⁻].",
+            "Pure water at higher temperatures absorbs CO₂ from the air more readily, which forms carbonic acid and lowers the pH",
+            "The pH meter's electrode changes its reading at higher temperatures due to thermal drift, giving an artificially lower reading for pure water"
+          ],
+          "answerIndex": 1,
+          "explanation": "This is a deeply underrated and misunderstood concept: Pure water self-ionises: H₂O ⇌ H⁺ + OH⁻ (Kw = [H⁺][OH⁻]). At 25°C: Kw = 1×10⁻¹⁴; [H⁺] = [OH⁻] = 10⁻⁷ M; pH = 7.0. At 100°C: Kw = 5.1×10⁻¹³; [H⁺] = [OH⁻] = 2.25×10⁻⁷ M; pH = 6.65. The water is still NEUTRAL (equal H⁺ and OH⁻) but the pH has decreased. Definition of neutral: [H⁺] = [OH⁻] — not necessarily pH 7. pH 7 is neutral ONLY at 25°C. This is why: blood pH of 7.4 at body temperature (37°C) is slightly alkaline; the neutral pH at 37°C is ~6.8, so blood pH 7.4 is indeed basic/alkaline relative to neutral at that temperature. For SSC exams: pH 7 = neutral is correct at standard conditions (25°C). This subtlety appears in higher-level examinations.",
+          "source": "SSC CGL — pH of neutral water changes with temperature (autoionisation) is underrated but conceptually important",
+          "verified": true
+        },
+        {
+          "text": "What is a 'buffer solution', and why is it important for blood?",
+          "options": [
+            "A buffer is a highly concentrated acid that prevents any base from changing the pH; blood uses concentrated HCl as its buffer",
+            "A buffer is a solution that resists changes in pH when small amounts of acid or base are added; blood uses a carbonic acid-bicarbonate buffer (H₂CO₃/HCO₃⁻) to maintain pH 7.35–7.45",
+            "A buffer absorbs all acids produced in the body and converts them to neutral salts permanently; the buffer is consumed and needs to be replaced by food",
+            "A buffer is a protein that carries acid-base molecules in the blood; haemoglobin acts as the only buffer in blood"
+          ],
+          "answerIndex": 1,
+          "explanation": "A buffer solution resists changes in pH when small amounts of acid (H⁺) or base (OH⁻) are added. It consists of either: Weak acid + its conjugate base (e.g., CH₃COOH + CH₃COO⁻Na⁺); OR Weak base + its conjugate acid (e.g., NH₃ + NH₄Cl). Blood buffer system — the carbonic acid-bicarbonate buffer: H₂CO₃ ⇌ H⁺ + HCO₃⁻. When acid (H⁺) enters blood: HCO₃⁻ + H⁺ → H₂CO₃ → CO₂ + H₂O (exhaled by lungs) → pH restored. When base (OH⁻) enters blood: H₂CO₃ + OH⁻ → HCO₃⁻ + H₂O → pH restored. Normal blood pH: 7.35–7.45. Acidosis (pH < 7.35): can cause coma, death — occurs in uncontrolled diabetes, respiratory failure. Alkalosis (pH > 7.45): muscle cramps, seizures — occurs in hyperventilation. Blood has three buffer systems: bicarbonate (most important), haemoglobin buffer, phosphate buffer. This is why blood maintains its pH in a tight range despite metabolic activity constantly producing CO₂ and lactic acid.",
+          "source": "SSC CGL — buffer solutions and the blood carbonic acid-bicarbonate buffer system is underrated",
+          "verified": true
+        },
+        {
+          "text": "What is the difference between a salt hydrate (like CuSO₄·5H₂O) and an anhydrous salt?",
+          "options": [
+            "A salt hydrate is dissolved in water; an anhydrous salt is dissolved in an organic solvent",
+            "A salt hydrate contains chemically bound water molecules (water of crystallisation) within its crystal structure; anhydrous salts have no such water. CuSO₄·5H₂O (blue) loses its water of crystallisation on heating → anhydrous CuSO₄ (white). The rehydration test (adds water → turns blue) is used to detect moisture.",
+            "Salt hydrates are formed only with sulphate salts; chloride salts are always anhydrous",
+            "Anhydrous salts are always more reactive than their hydrated forms because water molecules block the reactive sites"
+          ],
+          "answerIndex": 1,
+          "explanation": "Water of crystallisation: fixed number of water molecules chemically incorporated into the crystal lattice of a salt. The water molecules form coordinate bonds with the metal ions or hydrogen bonds with the anions. Examples: CuSO₄·5H₂O (blue vitriol — blue crystals) → heat → CuSO₄ (anhydrous copper sulphate — white powder) + 5H₂O. This reaction is the basis of a key test: white anhydrous CuSO₄ turns blue when water is added → used to detect water/moisture in liquids. Similarly: CaSO₄·2H₂O (gypsum, 2 water molecules) → heat at 120°C → (CaSO₄)₂·H₂O (plaster of paris, ½ water per CaSO₄) → heat above 200°C → CaSO₄ (anhydrous). Na₂CO₃·10H₂O (washing soda, 10 water molecules) → heat → Na₂CO₃ (soda ash, anhydrous). MgSO₄·7H₂O (Epsom salt, 7 water molecules) — used in bath salts and laxatives. The formula ·nH₂O indicates n molecules of water per formula unit in the crystal.",
+          "source": "SSC CGL — water of crystallisation in hydrated salts (CuSO₄·5H₂O vs anhydrous CuSO₄) is underrated",
+          "verified": true
+        },
+        {
+          "text": "Which acid is responsible for the pain of a bee sting versus a red ant sting?",
+          "options": [
+            "Both bee stings and ant stings involve sulphuric acid — the concentration differs (bee sting is more concentrated)",
+            "Red ant sting: formic acid (methanoic acid, HCOOH) injected by the ant. Bee sting: complex mixture including melittin (a protein), histamine, and formic acid — formic acid is the burning/acidic component in BOTH cases.",
+            "Bee stings involve lactic acid; ant stings involve tartaric acid — both found naturally in insects",
+            "Both bee and ant stings use nitric acid — insects produce HNO₃ in a specialised venom gland"
+          ],
+          "answerIndex": 1,
+          "explanation": "Formic acid (methanoic acid, HCOOH) is the simplest carboxylic acid. It is responsible for the acidic burning sensation in: Red ant (Formica species) stings: ants inject formic acid through their sting. The name 'formic' comes from Latin 'formica' (ant). Nettle plant (Urtica dioica) stings: fine hollow hairs (trichomes) on nettle leaves inject a mixture containing formic acid, histamine, and serotonin when touched. Some bee stings: formic acid is one of the acidic components (the full venom cocktail includes melittin, apamin, phospholipase A2, histamine). Wasp stings are ALKALINE (contain alkalis), not acidic — this is why: bee sting (acidic) → apply baking soda (base) to neutralise; wasp sting (alkaline) → apply vinegar (acid) to neutralise. Formic acid is used industrially: in leather tanning, textile dyeing, antibacterial food preservative (in Europe), rubber coagulation.",
+          "source": "SSC CGL — formic acid in ant stings and nettles; bee sting acidic vs wasp sting alkaline is underrated",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Most Frequently Asked Patterns",
+      "questions": [
+        {
+          "text": "What is the chemical formula of 'washing soda' and 'baking soda'?",
+          "options": [
+            "Washing soda = NaHCO₃; Baking soda = Na₂CO₃",
+            "Washing soda = Na₂CO₃·10H₂O (sodium carbonate decahydrate); Baking soda = NaHCO₃ (sodium bicarbonate)",
+            "Washing soda = Na₂SO₄·10H₂O; Baking soda = NaHCO₃",
+            "Washing soda = NaCl; Baking soda = Na₂CO₃"
+          ],
+          "answerIndex": 1,
+          "explanation": "Two most commonly confused sodium compounds: Washing soda = Sodium carbonate decahydrate = Na₂CO₃·10H₂O. Also called 'soda ash' when anhydrous (Na₂CO₃). Uses: Water softening (removes Ca²⁺, Mg²⁺ by precipitation as CaCO₃, MgCO₃); Laundry cleaning; Glass making; Paper manufacturing; pH ~11 (strongly basic). Baking soda = Sodium bicarbonate = NaHCO₃. Also called 'sodium hydrogen carbonate'. Uses: Leavening agent in baking (releases CO₂ → dough rises); Antacid (neutralises excess stomach acid); Fire extinguisher (dry powder type); Mild cleaning agent; pH ~8.3 (mildly basic). Key differences: Na₂CO₃ is dibasic (2 OH⁻ equivalents per formula unit); NaHCO₃ is monobasic (1 OH⁻ equivalent); Na₂CO₃ is MUCH more alkaline than NaHCO₃; Na₂CO₃ has 10 water molecules (decahydrate); NaHCO₃ is anhydrous. Never mix them up in an exam — the most frequently tested distinction in salt chemistry.",
+          "source": "SSC CGL / SSC CHSL — washing soda (Na₂CO₃·10H₂O) vs baking soda (NaHCO₃) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "What is the pH of a neutral solution at 25°C, and what does a pH below 7 indicate?",
+          "options": [
+            "Neutral pH = 0; pH below 0 = acidic; pH above 0 = basic",
+            "Neutral pH = 7; pH below 7 = acidic solution (excess H⁺); pH above 7 = alkaline/basic solution (excess OH⁻)",
+            "Neutral pH = 14; pH below 14 = acidic; any solution with pH = 14 is neutral",
+            "Neutral pH = 7; pH below 7 = basic; pH above 7 = acidic"
+          ],
+          "answerIndex": 1,
+          "explanation": "The pH scale (0–14 at 25°C): pH 7 = neutral (pure water at 25°C; equal H⁺ and OH⁻ concentration = 10⁻⁷ mol/L each). pH < 7 = acidic (more H⁺ than OH⁻; lower the pH, more acidic): pH 1–3 = strong acids; pH 4–6 = weak acids. pH > 7 = alkaline/basic (more OH⁻ than H⁺; higher the pH, more basic): pH 8–10 = weak bases; pH 11–14 = strong bases. Each unit decrease in pH = 10-fold INCREASE in [H⁺] (logarithmic scale): pH 5 is 10× more acidic than pH 6; pH 3 is 100× more acidic than pH 5. Common pH values for SSC: Blood = 7.35–7.45; Gastric juice = 1.5–2.0; Lemon juice = 2.0; Vinegar = 3.0; Milk = 6.5; Pure water = 7.0; Seawater = 8.2; Baking soda = 8.3; Toothpaste = ~9; Household ammonia = 11; Bleach = 12; Caustic soda = 14. Normal rain = ~5.6 (slightly acidic due to dissolved CO₂); Acid rain < 5.6 (due to SO₂ and NOₓ from industrial pollution).",
+          "source": "SSC CGL / SSC CHSL — pH scale, neutral at 7, pH below 7 = acidic is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Blue vitriol is the common name for which compound, and what colour does it turn when heated?",
+          "options": [
+            "Blue vitriol = FeSO₄·7H₂O (ferrous sulphate); it turns red when heated",
+            "Blue vitriol = CuSO₄·5H₂O (copper sulphate pentahydrate); it turns white (anhydrous CuSO₄) on strong heating when it loses its water of crystallisation",
+            "Blue vitriol = CuCl₂·2H₂O (copper chloride dihydrate); it turns brown when heated",
+            "Blue vitriol = Co(NO₃)₂·6H₂O (cobalt nitrate); it turns pink when heated due to loss of water"
+          ],
+          "answerIndex": 1,
+          "explanation": "Blue vitriol = copper(II) sulphate pentahydrate = CuSO₄·5H₂O. It is: Bright blue crystalline solid (due to the 5 water molecules coordinated to Cu²⁺ in the crystal — the blue colour comes from d-d electronic transitions in the Cu²⁺ ion complexed with water). When heated strongly: CuSO₄·5H₂O → CuSO₄ (anhydrous) + 5H₂O; The anhydrous CuSO₄ is WHITE/off-white powder (no water → no Cu²⁺ hydration → no colour from d-d transitions). This is the basis of a key test: White anhydrous CuSO₄ turns BLUE when water is added → used to test for presence of water. When water is added back: CuSO₄ (white) + 5H₂O → CuSO₄·5H₂O (blue). Uses of CuSO₄: Bordeaux mixture (CuSO₄ + Ca(OH)₂) = fungicide in vineyards and farms; Electroplating of copper; Laboratory reagent (Fehling's solution for detecting reducing sugars); Germicide in swimming pools. Other vitriols: Green vitriol = FeSO₄·7H₂O (pale green); White vitriol = ZnSO₄·7H₂O.",
+          "source": "SSC CGL / SSC CHSL — blue vitriol = CuSO₄·5H₂O, white when heated (water of crystallisation lost) is very frequently asked",
+          "verified": true
+        },
+        {
+          "text": "Which acid is produced in the stomach for digestion, and what common problem results from its excess?",
+          "options": [
+            "Sulphuric acid (H₂SO₄) — excess causes peptic ulcers; treated with antacids",
+            "Hydrochloric acid (HCl) — excess production causes hyperacidity/acid reflux (GERD); treated with antacids like NaHCO₃, Mg(OH)₂, or Al(OH)₃",
+            "Lactic acid (C₃H₆O₃) — excess causes stomach cramps; only produced during vigorous exercise",
+            "Nitric acid (HNO₃) — excess causes stomach burning; treated by drinking milk which contains calcium that neutralises it"
+          ],
+          "answerIndex": 1,
+          "explanation": "The stomach produces hydrochloric acid (HCl) from parietal cells in the gastric mucosa. Normal gastric pH = 1.5–2.0 (very acidic). Functions of stomach HCl: Activates pepsinogen to pepsin (protein-digesting enzyme); Kills harmful microorganisms in food; Creates acidic environment for pepsin to work optimally; Helps absorb B12, iron, calcium. Excess HCl causes: Hyperacidity / acid reflux / GERD (gastroesophageal reflux disease): burning sensation in chest (heartburn); Peptic ulcers: erosion of stomach lining; Gastritis: inflammation of stomach lining. Antacids (neutralise excess HCl): NaHCO₃ + HCl → NaCl + H₂O + CO₂↑ (baking soda); Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O (milk of magnesia — safest, no gas); Al(OH)₃ + 3HCl → AlCl₃ + 3H₂O (aluminium hydroxide). Commercial antacids: ENO = NaHCO₃ + citric acid (produces CO₂ fizz); Gelusil, Digene = Al(OH)₃ + Mg(OH)₂ mixture; Omeprazole is a proton pump inhibitor — reduces HCl production itself (not an antacid in the traditional sense).",
+          "source": "SSC CGL / SSC CHSL — HCl in stomach, excess → hyperacidity, treated by antacids is very frequently asked",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
