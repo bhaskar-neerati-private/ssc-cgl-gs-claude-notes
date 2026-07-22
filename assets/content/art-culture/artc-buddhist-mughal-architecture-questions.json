@@ -1,0 +1,158 @@
+{
+  "topic": "Buddhist, Jain, Sultani & Mughal Architecture",
+  "topicId": "artc-buddhist-mughal-architecture",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Taj Mahal was built by Shah Jahan as a mausoleum for whom?",
+          "options": ["His mother Nur Jahan", "His daughter Jahanara Begum", "His wife Mumtaz Mahal", "His grandmother Maryam uz-Zamani"],
+          "answerIndex": 2,
+          "explanation": "Shah Jahan built the Taj Mahal (1632–1648) in Agra as a mausoleum for his favourite wife Mumtaz Mahal, who died in 1631 while giving birth to their 14th child. The chief architect was Ustad Ahmad Lahauri. The marble was sourced from Makrana, Rajasthan.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "The Qutb Minar in Delhi was started by which Slave dynasty Sultan and completed by whom?",
+          "options": ["Iltutmish started, Balban completed", "Qutbuddin Aibak started, Iltutmish completed", "Balban started, Alauddin Khalji completed", "Alauddin Khalji started, Muhammad bin Tughlaq completed"],
+          "answerIndex": 1,
+          "explanation": "Qutbuddin Aibak began the construction of Qutb Minar after 1193 CE but died in 1210. Iltutmish (his son-in-law and successor) completed the minar, adding the top three storeys. The minar is 72.5 metres tall and is a UNESCO World Heritage Site.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Sanchi Stupa was originally built by which Mauryan emperor?",
+          "options": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Brihadratha"],
+          "answerIndex": 2,
+          "explanation": "The Sanchi Stupa (Madhya Pradesh) was originally built by Emperor Ashoka in the 3rd century BCE. It was later enlarged by the Sunga dynasty (1st century BCE), who also added the famous carved toranas (gateways). It is a UNESCO World Heritage Site (1989).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Humayun's Tomb in Delhi is significant as the first major Mughal structure built in:",
+          "options": ["Red sandstone with Mughal arch", "White marble in charbagh garden layout", "Mixed Hindu-Islamic style with sloping walls", "Stone and brick with Persian calligraphy alone"],
+          "answerIndex": 1,
+          "explanation": "Humayun's Tomb (1565–72, Delhi) was the first complete Mughal garden-tomb built in white marble with a formal charbagh (four-part garden) layout. It served as the template for the Taj Mahal. Built by Humayun's wife Haji Begum. It is a UNESCO World Heritage Site (1993).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "The Alai Darwaza (1311 CE) is historically significant because it is considered:",
+          "options": ["The first true arch used in India", "The first mosque built in India", "The tallest minaret in India", "The first structure using white marble in the Qutb complex"],
+          "answerIndex": 0,
+          "explanation": "The Alai Darwaza, built by Alauddin Khalji in 1311 CE at the Qutb complex in Delhi, is considered the first use of a true arch and true dome in India. This marks the shift from 'trabeate' (post-and-lintel) to 'arcuate' (arch-and-dome) construction in Indian architecture.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Iron Pillar inside the Qutb complex in Delhi was built by which dynasty?",
+          "options": ["Slave dynasty (Delhi Sultanate)", "Khalji dynasty", "Gupta dynasty", "Maurya dynasty"],
+          "answerIndex": 2,
+          "explanation": "The Iron Pillar inside the Qutb complex is from the Gupta period (4th–5th century CE), NOT from the Delhi Sultanate. It is a testament to Gupta-era metallurgy — it has not rusted significantly in over 1,600 years. It was brought to its current location from elsewhere.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Itmad-ud-Daulah's Tomb in Agra is sometimes called the 'Baby Taj'. Which Mughal emperor commissioned it?",
+          "options": ["Akbar", "Shah Jahan", "Jahangir", "Aurangzeb"],
+          "answerIndex": 2,
+          "explanation": "Itmad-ud-Daulah's tomb was built by Empress Nur Jahan for her father Mirza Ghiyas Beg during the reign of her husband Jahangir. It is the first major Mughal structure built entirely in white marble and features pietra dura (stone inlay work) — innovations later perfected in the Taj Mahal.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "What is a Chaitya in Buddhist architecture?",
+          "options": ["A monastery with cells for monks", "A prayer hall with a stupa at one end", "A rock-cut image of the Buddha", "An outdoor assembly courtyard"],
+          "answerIndex": 1,
+          "explanation": "A Chaitya is a Buddhist prayer hall, typically apsidal (horse-shoe) in plan, with a central nave flanked by aisles, and a small stupa at the far end. The congregation gathers for worship while circumambulating the stupa. Karla (Maharashtra) has one of the largest rock-cut chaityas in India.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Fatehpur Sikri was built by Akbar but was abandoned within 14 years. What is the most widely accepted reason?",
+          "options": ["Mughal court moved to Delhi for administrative reasons", "Water scarcity made it unsustainable as a capital city", "Aurangzeb destroyed it during religious campaigns", "The local Rajput rulers drove the Mughals out"],
+          "answerIndex": 1,
+          "explanation": "Fatehpur Sikri (built 1571, abandoned 1585) was deserted primarily because of inadequate water supply — the city could not sustain its population. It remained intact since then and is now a UNESCO World Heritage Site. Akbar also needed to conduct military campaigns in Punjab.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Mahabodhi Temple at Bodh Gaya marks which event in the Buddha's life?",
+          "options": ["His birth", "His first sermon (Dhammachakrapravartana)", "His attainment of Enlightenment", "His death (Mahaparinirvana)"],
+          "answerIndex": 2,
+          "explanation": "The Mahabodhi Temple at Bodh Gaya (Bihar) marks the spot where Siddhartha Gautama attained Enlightenment under the Bodhi tree. The Vajrasana (diamond throne) inside marks the exact spot. It is a UNESCO World Heritage Site (2002). Sarnath (Dhamek Stupa) marks the first sermon.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "What distinguishes Tughlaq architecture from Khalji architecture in Delhi Sultanate period?",
+          "options": ["Tughlaq used white marble; Khalji used red sandstone", "Tughlaq buildings have sloping (battered) walls and austere style; Khalji buildings were decorative", "Tughlaq built only mosques; Khalji built only forts", "Tughlaq used true arches; Khalji used corbelled arches"],
+          "answerIndex": 1,
+          "explanation": "Tughlaq architecture (e.g., Tughlaqabad Fort, Firoz Shah's structures) is characterised by sloping/battered walls (walls that lean inward), use of grey stone, and an austere style with little ornamental carving. Khalji architecture (e.g., Alai Darwaza) was more decorative with geometric tracery, intricate carving, and use of red sandstone.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which architectural feature of Gomateshwara (Bahubali) statue at Shravanabelagola makes it unique?",
+          "options": ["It is the world's tallest idol carved in granite", "It is a 57-foot monolithic statue carved from a single granite rock", "It was built by the Mughal emperor Akbar", "It is submerged in water for most of the year"],
+          "answerIndex": 1,
+          "explanation": "The Gomateshwara (Bahubali) statue at Shravanabelagola, Karnataka is a 57-foot (17.4m) monolithic statue carved from a single granite rock in 981 CE. It is a sacred Jain pilgrimage site. Every 12 years, a grand anointing ceremony called Mahamastakabhisheka is performed.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "The Buland Darwaza at Fatehpur Sikri was built to commemorate which victory of Akbar?",
+          "options": ["Victory over Mewar (Chittor)", "Victory over Bengal", "Victory over Gujarat", "Victory over Deccan Sultanates"],
+          "answerIndex": 2,
+          "explanation": "Buland Darwaza (the 'Gate of Magnificence') at Fatehpur Sikri was built by Akbar in 1601 CE to commemorate his victory over Gujarat. At 54 metres high, it is the tallest gateway in India. The inscription on the gate includes: 'The world is a bridge, pass over it but build no houses upon it.'",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Red Fort in Delhi was built by which Mughal emperor and in which year was it completed?",
+          "options": ["Akbar, 1571", "Humayun, 1556", "Shah Jahan, 1648", "Aurangzeb, 1707"],
+          "answerIndex": 2,
+          "explanation": "The Red Fort (Lal Qila) in Delhi was built by Shah Jahan when he shifted the Mughal capital from Agra to the new city of Shahjahanabad (Old Delhi). Construction began in 1638 and was completed in 1648. It is a UNESCO World Heritage Site (2007).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Bibi ka Maqbara in Aurangabad is sometimes called the 'Poor Man's Taj'. It was built by:",
+          "options": ["Shah Jahan for his second wife", "Aurangzeb for his wife Dilras Banu Begum", "Dara Shikoh as a replica of the Taj", "Akbar for his mother Hamida Banu Begum"],
+          "answerIndex": 1,
+          "explanation": "Bibi ka Maqbara in Aurangabad was built by Aurangzeb's son Azam Shah for his mother Dilras Banu Begum (Aurangzeb's wife) in 1660. It was modelled on the Taj Mahal but with far fewer resources, hence 'Poor Man's Taj'. Aurangzeb himself was known for austere taste.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Jama Masjid in Delhi is the largest mosque in India with a capacity of about 25,000 worshippers. Who built it?",
+          "options": ["Akbar", "Jahangir", "Aurangzeb", "Shah Jahan"],
+          "answerIndex": 3,
+          "explanation": "The Jama Masjid in Delhi (Masjid-i-Jahan-Numa — 'mosque commanding a view of the world') was built by Shah Jahan between 1644 and 1656. It is the largest mosque in India with a capacity of 25,000. It features three gateways, four minarets and two 40-metre high minarets.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

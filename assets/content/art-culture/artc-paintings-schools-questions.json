@@ -1,0 +1,158 @@
+{
+  "topic": "Indian Paintings — Caves, Schools & Styles",
+  "topicId": "artc-paintings-schools",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Ajanta Caves are famous for which type of art?",
+          "options": ["Rock-cut sculptures only", "Buddhist cave paintings and murals", "Jain paintings and inscriptions", "Hindu temple carvings"],
+          "answerIndex": 1,
+          "explanation": "Ajanta Caves (Maharashtra) contain some of the world's oldest and finest Buddhist cave paintings, dating from 2nd century BCE to 7th century CE. The paintings depict Jataka tales (stories of Buddha's previous lives), court scenes, and nature. They were declared a UNESCO World Heritage Site in 1983.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Kailasa Temple (Cave 16) at Ellora is known as the largest structure of what kind?",
+          "options": ["Largest Buddhist stupa in India", "Largest monolithic rock-cut structure in the world", "Largest Jain temple in South India", "Largest multi-storey cave temple in Asia"],
+          "answerIndex": 1,
+          "explanation": "The Kailasa Temple (Cave 16) at Ellora is the largest monolithic (carved from a single rock) structure in the world. It was built by the Rashtrakuta dynasty (8th century CE). The entire temple was carved from top to bottom into a single basalt cliff.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Madhubani painting is associated with which state?",
+          "options": ["Madhya Pradesh", "Bihar", "Rajasthan", "Odisha"],
+          "answerIndex": 1,
+          "explanation": "Madhubani painting (also called Mithila painting) originates from the Mithila region of Bihar. It uses natural pigments from plants and minerals, geometric patterns, and depicts subjects from Hindu mythology, nature, and social customs including weddings.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The 'Bani Thani' painting — sometimes called the 'Mona Lisa of India' — belongs to which school of painting?",
+          "options": ["Mughal School", "Mewar School", "Kishangarh School", "Kangra School"],
+          "answerIndex": 2,
+          "explanation": "Bani Thani is a famous 18th-century painting from the Kishangarh School of Rajasthan, painted by artist Nihal Chand for ruler Savant Singh. It depicts a stylised woman with elongated features (almond eyes, arched brows, curved lips). It is called the 'Mona Lisa of India'.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Ellora Caves are unique because they represent which combination of religions?",
+          "options": ["Buddhist and Hindu only", "Hindu and Jain only", "Buddhist, Hindu, and Jain — all three", "Jain and Buddhist only"],
+          "answerIndex": 2,
+          "explanation": "Ellora is unique in containing temples of all three religions — 12 Buddhist caves (1–12), 17 Hindu caves (13–29), and 5 Jain caves (30–34). This religious coexistence makes Ellora exceptional in Indian art history. Ajanta, by contrast, is exclusively Buddhist.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which Pahari painting school is the oldest and most vigorous, known for using beetle wing-cases for jewellery decoration?",
+          "options": ["Kangra School", "Guler School", "Basohli School", "Chamba School"],
+          "answerIndex": 2,
+          "explanation": "Basohli School (Jammu) is the oldest of the Pahari painting traditions, characterised by bold, stark colours, clear lines, and distinctively, the use of actual beetle wing-cases (glittery greenish material) to depict jewellery in the paintings. Kangra is the most refined and later Pahari school.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Warli painting is a tribal art form associated with which state?",
+          "options": ["Bihar (Mithila region)", "Rajasthan", "Maharashtra (Palghar tribal belt)", "Odisha (Saura tribe)"],
+          "answerIndex": 2,
+          "explanation": "Warli painting is the tribal art of the Warli people of the Palghar and Nashik districts of Maharashtra. It features white geometric figures (circles, triangles, squares) painted on a dark earth-toned background. Common themes include harvesting, hunting, and community gatherings. Often confused with Madhubani (which is from Bihar).",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        },
+        {
+          "text": "What distinguishes Kalamkari (Srikalahasti style) from Kalamkari (Machilipatnam style)?",
+          "options": ["Srikalahasti = block printing; Machilipatnam = hand-drawn", "Srikalahasti = hand-drawn with pen (kalam); Machilipatnam = block printing", "Srikalahasti = Rajasthani; Machilipatnam = Gujarati", "Srikalahasti = geometric; Machilipatnam = floral"],
+          "answerIndex": 1,
+          "explanation": "Both are Kalamkari traditions from Andhra Pradesh. Srikalahasti style uses 'kalam' (pen/brush) for hand-drawing mythological scenes. Machilipatnam style uses wooden blocks for printing geometric and floral designs. 'Kalam' means pen in Telugu — hence the name Kalamkari (pen work).",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The Ajanta Cave paintings were discovered by a British officer during a tiger hunt in which year?",
+          "options": ["1801", "1819", "1857", "1883"],
+          "answerIndex": 1,
+          "explanation": "The Ajanta Caves were 'discovered' (by Europeans) in 1819 by British cavalry officer John Smith while on a tiger hunt in the Sahyadri hills of Maharashtra. The caves were known to local people before, but Smith's report brought them to British and international attention.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Gond Art — using dot-and-line filling technique — is associated with which state?",
+          "options": ["Bihar", "Jharkhand", "Madhya Pradesh (Gondwana region)", "Chhattisgarh"],
+          "answerIndex": 2,
+          "explanation": "Gond Art is the tribal art of the Gond people of Madhya Pradesh (Gondwana region). It uses a distinctive technique of filling outlines with dots and lines to create intricate patterns. Jangarh Singh Shyam was the most celebrated Gond artist who brought it to international recognition.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "What is the distinguishing material used in Tanjore (Thanjavur) paintings?",
+          "options": ["Natural vegetable colours on cotton", "Gold foil and semi-precious stone inlay", "Crushed lapis lazuli on silk", "Beetle wing-cases on paper"],
+          "answerIndex": 1,
+          "explanation": "Tanjore paintings from Tamil Nadu are characterised by the use of gold foil and semi-precious stones applied over a thick gesso (chalk) base. Religious images (Ganesha, Krishna, Meenakshi) feature prominently. This gold foil embellishment makes Tanjore paintings instantly recognisable.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which Mughal emperor's court is known for the finest portrait painting tradition, with Ustad Mansur as a key artist?",
+          "options": ["Akbar", "Humayun", "Jahangir", "Shah Jahan"],
+          "answerIndex": 2,
+          "explanation": "Jahangir's court produced the finest portrait paintings in Mughal history. Jahangir himself was a keen art collector and connoisseur. Ustad Mansur was his chief court painter known for exceptionally realistic depictions of animals and birds, including rare species. Jahangir claimed he could identify any artist's work by style.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Pattachitra is a traditional cloth painting tradition primarily associated with which state?",
+          "options": ["West Bengal only", "Odisha (and also West Bengal)", "Karnataka", "Andhra Pradesh"],
+          "answerIndex": 1,
+          "explanation": "Pattachitra ('Patta' = cloth/leaf, 'chitra' = picture) is primarily from Odisha, with a related tradition in West Bengal (Bengal Patachitra). Odisha Pattachitra mainly depicts themes from Jagannath cult and Hindu mythology with bold outlines and natural colours. GI tag awarded to Odisha's tradition.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Blue Pottery of Jaipur is unique because it is made from which material instead of clay?",
+          "options": ["Soapstone", "Quartz powder (not clay)", "Marble dust", "Terracotta"],
+          "answerIndex": 1,
+          "explanation": "Jaipur's Blue Pottery is distinctive because it is NOT made from clay. Instead, it uses quartz powder (and other ingredients) as the base, which means it does not shrink during firing. The Persian-origin technique produces items with turquoise/cobalt blue motifs on a white base.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Miniature paintings under Akbar were notable for depicting which themes?",
+          "options": ["Purely religious Hindu themes", "Pure Persian geometric patterns", "Court life, battles, Akbarnama, and Baburnama narratives", "Abstract spiritual compositions"],
+          "answerIndex": 2,
+          "explanation": "Akbar's court established a massive painting workshop (karkhana) that produced narrative paintings depicting court life, battles, and illustrations for manuscripts like the Akbarnama and Baburnama. Akbar encouraged artists to merge Indian and Persian styles. The style was representational and detailed.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Bundi-Kota school of Rajput painting is particularly known for paintings of:",
+          "options": ["Elongated stylised women (Nayika paintings)", "Dense jungle and hunting scenes", "Devotional images of Shrinathji", "Portrait paintings of Mughal rulers"],
+          "answerIndex": 1,
+          "explanation": "The Bundi-Kota school (Rajasthan) is famous for its vibrant depictions of dense jungle, hunting scenes, and royal sports — with lush greens and rich animal imagery. Kishangarh is known for elongated Nayika (Bani Thani). Nathdwara/Pichwai paintings depict Shrinathji.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

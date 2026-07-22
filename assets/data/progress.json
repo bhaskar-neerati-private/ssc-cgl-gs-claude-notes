@@ -706,8 +706,22 @@
       "name": "Art & Culture",
       "tier": "B",
       "order": 10,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        { "id": "artc-classical-dance", "title": "Classical Dance Forms of India", "status": "done" },
+        { "id": "artc-classical-music", "title": "Classical Music — Hindustani & Carnatic", "status": "done" },
+        { "id": "artc-folk-dances", "title": "Folk Dances of India", "status": "done" },
+        { "id": "artc-folk-arts-puppetry-theatre", "title": "Folk Arts, Puppetry & Traditional Theatre", "status": "done" },
+        { "id": "artc-paintings-schools", "title": "Indian Paintings — Caves, Schools & Styles", "status": "done" },
+        { "id": "artc-temple-architecture", "title": "Temple Architecture — Nagara, Dravida & Vesara", "status": "done" },
+        { "id": "artc-buddhist-mughal-architecture", "title": "Buddhist, Jain, Sultani & Mughal Architecture", "status": "done" },
+        { "id": "artc-languages-literature", "title": "Classical Languages, Scripts & Sanskrit Literature", "status": "done" },
+        { "id": "artc-handicrafts-textiles-gi", "title": "Handicrafts, Textiles & GI Tags", "status": "done" },
+        { "id": "artc-festivals-fairs", "title": "Festivals, Fairs & Cultural Celebrations", "status": "done" },
+        { "id": "artc-unesco-heritage-sites", "title": "UNESCO World Heritage Sites in India", "status": "done" },
+        { "id": "artc-intangible-heritage-awards", "title": "Intangible Heritage, Cultural Bodies & Awards", "status": "done" },
+        { "id": "artc-martial-arts-yoga-games", "title": "Martial Arts, Yoga & Traditional Sports", "status": "done" }
+      ]
     },
     {
       "id": "static-gk",

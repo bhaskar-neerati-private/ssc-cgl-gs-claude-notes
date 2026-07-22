@@ -1,0 +1,158 @@
+{
+  "topic": "Festivals, Fairs & Cultural Celebrations",
+  "topicId": "artc-festivals-fairs",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Onam festival is associated with the legend of which king's annual return?",
+          "options": ["Vikramaditya", "Harsha", "Mahabali", "Prithviraj Chauhan"],
+          "answerIndex": 2,
+          "explanation": "Onam is Kerala's harvest festival celebrating the annual return of the mythical King Mahabali (Maveli), a demon king beloved by his people who was sent to the netherworld by Vamana (an avatar of Vishnu). Elaborate floral carpets (Pookalam) and snake boat races (Vallamkali) are key features.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Pushkar Fair (Camel Fair) is held in which state?",
+          "options": ["Gujarat", "Rajasthan", "Haryana", "Madhya Pradesh"],
+          "answerIndex": 1,
+          "explanation": "The Pushkar Fair (Kartik Mela) is held in Pushkar, near Ajmer in Rajasthan. Held during Kartik Purnima (October–November), it is the world's largest camel fair. The town also has the only major Brahma temple in India. The fair attracts tourists from around the world.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Rath Yatra (chariot festival) of Lord Jagannath in Puri is held in which month of the Hindu calendar?",
+          "options": ["Vaishakha", "Ashadha", "Kartika", "Chaitra"],
+          "answerIndex": 1,
+          "explanation": "The Puri Rath Yatra is held on the 2nd day (Dwitiya) of the bright fortnight of the month of Ashadha (June–July). Three chariots carry Lord Jagannath (Nandighosa), Balabhadra (Taladhwaja), and Subhadra (Darpadalana) from the Jagannath temple to the Gundicha temple.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which Indian festival was inscribed in UNESCO's Intangible Cultural Heritage list in 2017?",
+          "options": ["Diwali", "Durga Puja", "Kumbh Mela", "Navratri"],
+          "answerIndex": 2,
+          "explanation": "Kumbh Mela was inscribed in UNESCO's Intangible Cultural Heritage list in 2017. It is considered the world's largest peaceful gathering of people. It rotates between 4 cities: Prayagraj (Allahabad), Haridwar, Nashik, and Ujjain. The Maha Kumbh at Prayagraj occurs every 12 years.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Lohri (Punjab's winter bonfire festival) is celebrated on which date — and why is this date significant?",
+          "options": ["January 26, coinciding with Republic Day", "January 13, the day BEFORE Makar Sankranti", "January 14, same day as Makar Sankranti", "December 25, winter solstice"],
+          "answerIndex": 1,
+          "explanation": "Lohri is celebrated on January 13, the eve of Makar Sankranti (January 14). It marks the end of winter in Punjab with bonfires, sesame (til), popcorn, and rewari. Bhangra and Giddha dances accompany the celebrations. Makar Sankranti on January 14 marks the sun's entry into Capricorn.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Ugadi (New Year for Andhra/Telangana/Karnataka) and Gudi Padwa (New Year for Maharashtra) are celebrated on:",
+          "options": ["Different days, two months apart", "The same day — first day of Chaitra (March–April)", "Ugadi in April; Gudi Padwa in March", "Ugadi on Baisakhi day; Gudi Padwa on Diwali"],
+          "answerIndex": 1,
+          "explanation": "Both Ugadi (Andhra, Telangana, Karnataka) and Gudi Padwa (Maharashtra) are celebrated on the same day — the first day of Chaitra (typically March–April), which marks the traditional new year for these communities. The day involves eating a mixture of neem, jaggery, tamarind, and raw mango (Ugadi Pachadi).",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Sonepur Fair in Bihar is famous as the largest animal fair in Asia. What distinguishes it from the Pushkar Fair?",
+          "options": ["Sonepur is for camels only; Pushkar is for horses only", "Sonepur includes elephant and cattle trading; Pushkar is mainly for camels", "Sonepur is a religious fair only; Pushkar is secular", "Sonepur is held in winter; Pushkar is held in summer"],
+          "answerIndex": 1,
+          "explanation": "The Sonepur Fair (Harihar Kshetra Mela, Bihar) is the largest animal fair in Asia, held at Kartik Purnima at the confluence of Ganga and Gandak rivers. Unlike Pushkar (world's largest camel fair), Sonepur includes elephants, cattle, horses, and other animals. It is an ancient fair mentioned in historical texts.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Ganesh Chaturthi festival's public celebration was famously popularised in which year by Bal Gangadhar Tilak?",
+          "options": ["1857", "1875", "1893", "1905"],
+          "answerIndex": 2,
+          "explanation": "Bal Gangadhar Tilak transformed Ganesh Chaturthi from a private household festival into a large public community gathering in 1893 in Pune, Maharashtra. His intention was to unite Hindus across caste lines and provide a platform for nationalist discourse under the guise of religious celebration during the British period.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The Hornbill Festival celebrated in Nagaland is named after the Hornbill bird because:",
+          "options": ["Hornbill hunting is the main competition during the festival", "The Hornbill is revered in most Naga tribal cultures and features prominently in their art and costumes", "The festival falls when hornbills migrate to Nagaland", "Hornbill feathers are traded at the festival"],
+          "answerIndex": 1,
+          "explanation": "The Hornbill Festival (December 1–10, Kohima) is named after the Great Hornbill bird, which is revered in Naga culture across multiple tribes as a symbol of power and dignity. Hornbill feathers are used in traditional Naga warrior headdresses and regalia. The festival showcases the culture of all 16 major Naga tribes.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Thrissur Pooram in Kerala involves a famous competition between two groups. What type of competition is it?",
+          "options": ["Snake boat racing between two villages", "Competition between two groups of caparisoned elephants with percussion orchestras", "Kalaripayattu martial arts contest", "Competitive Carnatic music performance"],
+          "answerIndex": 1,
+          "explanation": "Thrissur Pooram (held in Thrissur, Kerala during Medam/April–May) is famous for the face-off between two rival groups — Thiruvambadi and Paramekkavu — each presenting caparisoned elephants with elaborate parasols (kudamattam) while percussion orchestras (Panchavadyam and Thimila) compete. It is the most spectacular temple festival in Kerala.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Kolkata's Durga Puja was inscribed in UNESCO's ICH list in which year?",
+          "options": ["2017", "2019", "2021", "2023"],
+          "answerIndex": 2,
+          "explanation": "Kolkata's Durga Puja was inscribed in UNESCO's Intangible Cultural Heritage list in 2021. The listing specifically names 'Durga Puja in Kolkata' — recognising the unique creative and community dimension of the pandal (temporary temple) art that transforms the city for five days annually.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Baisakhi has a dual significance for Sikhs. Besides being the harvest festival, what is the second major significance?",
+          "options": ["Birthday of Guru Nanak Dev Ji", "Day Guru Gobind Singh founded the Khalsa Panth (1699)", "Anniversary of the Jallianwala Bagh massacre (1919)", "Day the Golden Temple was completed"],
+          "answerIndex": 1,
+          "explanation": "Baisakhi (April 13–14) marks both the Punjabi/Sikh New Year and the founding of the Khalsa Panth by Guru Gobind Singh in 1699 at Anandpur Sahib. On this day, Guru Gobind Singh created the five beloved ones (Panj Pyare) who were initiated into the new Khalsa order. The Jallianwala Bagh massacre (1919) also occurred on Baisakhi day.",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "The Rath Yatra of Jagannath Puri: what is the name of Lord Jagannath's chariot?",
+          "options": ["Darpadalana", "Taladhwaja", "Nandighosa", "Devadalana"],
+          "answerIndex": 2,
+          "explanation": "Lord Jagannath's chariot is called Nandighosa (also spelled Nandighosha). Balabhadra's chariot is called Taladhwaja. Subhadra's chariot is called Darpadalana (or Padmadhvaja). SSC frequently asks the names of the three chariots in the Puri Rath Yatra.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Pongal is a four-day harvest festival of Tamil Nadu. Which day involves worship of cattle?",
+          "options": ["1st day (Bhogi Pongal)", "2nd day (Thai Pongal)", "3rd day (Mattu Pongal)", "4th day (Kaanum Pongal)"],
+          "answerIndex": 2,
+          "explanation": "Mattu Pongal (3rd day of Pongal) is dedicated to cattle worship. Cows and bulls are bathed, decorated with garlands, and offered freshly made Pongal (sweet rice). 'Mattu' means cattle in Tamil. Jallikattu (bull-taming sport) is also associated with this day. Thai Pongal (2nd day) is the main festival day.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Which Bihu of Assam is associated with the spring agricultural new year?",
+          "options": ["Bhogali (Magh) Bihu — January", "Kongali (Kati) Bihu — October", "Rongali (Bohag) Bihu — April", "All three equally"],
+          "answerIndex": 2,
+          "explanation": "Rongali Bihu (also called Bohag Bihu) in April is the most important and joyful Bihu, celebrating the Assamese New Year and the beginning of the agricultural season. Young men and women dance together. Bhogali Bihu (January) is the harvest feast; Kongali Bihu (October) is a quiet, lean-season observance.",
+          "source": "SSC CHSL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Surajkund Mela, one of the world's largest crafts fairs, is held in which state?",
+          "options": ["Uttar Pradesh", "Rajasthan", "Haryana", "Delhi"],
+          "answerIndex": 2,
+          "explanation": "The Surajkund International Crafts Mela is held at Surajkund in Faridabad district, Haryana (near Delhi). Held every February for 14–21 days, it is one of the largest crafts fairs in the world, featuring artisans and folk performers from all Indian states and several international countries.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

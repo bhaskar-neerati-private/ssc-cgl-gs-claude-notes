@@ -1,0 +1,158 @@
+{
+  "topic": "Handicrafts, Textiles & GI Tags",
+  "topicId": "artc-handicrafts-textiles-gi",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which was the FIRST product in India to receive a Geographical Indication (GI) tag?",
+          "options": ["Kanchipuram Silk Saree", "Banarasi Silk", "Darjeeling Tea", "Alphonso Mango"],
+          "answerIndex": 2,
+          "explanation": "Darjeeling Tea from West Bengal was the first Indian product to receive a Geographical Indication tag (in 2004–05) under the Geographical Indications of Goods (Registration and Protection) Act, 1999. This made it a protected GI even before many iconic Indian products.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Chikankari embroidery is associated with which city?",
+          "options": ["Jaipur", "Lucknow", "Varanasi", "Amritsar"],
+          "answerIndex": 1,
+          "explanation": "Chikankari is a delicate white-on-white embroidery tradition from Lucknow, Uttar Pradesh. The embroidery uses white thread on white or pastel fabric, creating shadow effects. It has Mughal court origins and is especially associated with kurtas, sarees, and dupattas. It holds a GI tag.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Bidriware is a famous metal craft from which state?",
+          "options": ["Rajasthan", "Karnataka (Bidar)", "Andhra Pradesh", "Maharashtra"],
+          "answerIndex": 1,
+          "explanation": "Bidriware is a traditional metal craft from Bidar, Karnataka. It involves inlaying silver on a blackened metal alloy (zinc and copper). The distinctive black body with bright silver decorations makes it unique. The craft is named after the city of Bidar and has a GI tag.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Blue Pottery of Jaipur is unique because it is NOT made from clay. What is its actual primary ingredient?",
+          "options": ["Marble dust", "Quartz powder", "Soapstone", "Terracotta"],
+          "answerIndex": 1,
+          "explanation": "Jaipur's Blue Pottery is made using quartz powder (SiO2) as the base material instead of clay. The Persian-origin technique produces items that are fired at lower temperatures and don't shrink. The characteristic blue and white patterns have Islamic geometric designs.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Muga silk — famous for its natural golden colour — is produced exclusively in which state?",
+          "options": ["West Bengal", "Jharkhand", "Assam", "Manipur"],
+          "answerIndex": 2,
+          "explanation": "Muga silk is unique to Assam. Produced by the Antheraea assamensis silkworm, it has a natural golden-yellow lustre that intensifies with age and washing. Assam also produces Eri silk (peace silk). Tasar silk, by contrast, comes from Jharkhand, Odisha, and Chhattisgarh.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Phulkari embroidery from Punjab — when it covers the entire cloth (not just borders) — is called:",
+          "options": ["Bagh", "Kashida", "Kantha", "Zardozi"],
+          "answerIndex": 0,
+          "explanation": "In Phulkari (flower work) embroidery of Punjab, when the pattern covers the entire cloth densely (no background visible), it is called 'Bagh' (meaning garden). Regular Phulkari leaves the background visible. A Bagh is considered a more elaborate and prestigious Phulkari. SSC often asks this Phulkari/Bagh distinction.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "What is the key feature distinguishing Srikalahasti style Kalamkari from Machilipatnam style?",
+          "options": ["Srikalahasti uses chemical dyes; Machilipatnam uses natural dyes only", "Srikalahasti is hand-drawn with pen (kalam); Machilipatnam uses wooden block printing", "Srikalahasti is from Rajasthan; Machilipatnam is from Andhra Pradesh", "Srikalahasti is woven; Machilipatnam is embroidered"],
+          "answerIndex": 1,
+          "explanation": "Both Srikalahasti and Machilipatnam are Kalamkari traditions from Andhra Pradesh. Srikalahasti is hand-drawn using a bamboo pen (kalam) with fermented jaggery ink, depicting mythological scenes. Machilipatnam uses carved wooden blocks for printing geometric and floral patterns. Both use natural dyes.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Dhokra is the world's oldest known non-ferrous metal casting craft. Which technique does it use?",
+          "options": ["Die casting", "Lost-wax (cire perdue) casting", "Sand casting", "Electroplating"],
+          "answerIndex": 1,
+          "explanation": "Dhokra metalwork uses the 'lost-wax' (cire perdue) technique — a wax model is made, coated in clay, then heated. The wax melts away ('lost') and molten metal is poured in. Found in West Bengal (Bankura), Chhattisgarh, and Odisha, Dhokra artifacts have been found at Indus Valley sites (~2500 BCE).",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Kashmiri Pashmina is made from the underfur of which animal?",
+          "options": ["Cashmere sheep", "Changthangi goat (Pashmina goat)", "Yak", "Angora rabbit"],
+          "answerIndex": 1,
+          "explanation": "Authentic Kashmiri Pashmina is made from the soft underfur of the Changthangi (Pashmina) goat, native to the Changthang plateau of Ladakh at 14,000+ feet altitude. The fine fibres (12–15 microns, compared to 19–20 for cashmere) are hand-spun and hand-woven by Kashmiri artisans. It holds a GI tag.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Paithani sarees — famous for real gold zari and peacock motifs — are associated with which state?",
+          "options": ["Tamil Nadu", "Karnataka", "Maharashtra (Nashik/Yeola)", "Gujarat"],
+          "answerIndex": 2,
+          "explanation": "Paithani sarees are from Maharashtra, traditionally woven at Paithan (Pratishthana, near Aurangabad) and Yeola (Nashik). They are pure silk with real gold/silver zari woven into the borders and pallav, featuring the distinctive peacock motif. The tradition dates to the Satavahana period.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Ikat textile technique is characterised by which unique feature?",
+          "options": ["Embroidery added after weaving", "Dyeing the threads before weaving to create patterns", "Block printing on finished cloth", "Gold foil applied over woven fabric"],
+          "answerIndex": 1,
+          "explanation": "Ikat (from Malay 'mengikat' = to tie/bind) involves tie-dyeing the threads (warp and/or weft) in specific patterns before weaving. When woven, the pre-dyed threads create the pattern. The most complex form is 'double ikat' where both warp and weft are dyed — Patan Patola of Gujarat is the world's most intricate double ikat.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Channapatna toys — coloured lacquered wooden toys — are made in which Indian state, earning it the nickname 'Toy Town of India'?",
+          "options": ["Andhra Pradesh (Kondapalli)", "Karnataka (Channapatna, near Bengaluru)", "Rajasthan (Jaipur)", "Tamil Nadu (Thanjavur)"],
+          "answerIndex": 1,
+          "explanation": "Channapatna town in Ramanagara district of Karnataka is called the 'Toy Town of India'. The colourful wooden toys use lacquer (ivory wood or rose wood) and natural dyes. The craft has a GI tag. Kondapalli toys (Andhra Pradesh) are a different tradition of soft wood painted toys.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Phulkari is an embroidery tradition associated with which state?",
+          "options": ["Rajasthan", "Haryana", "Punjab", "Himachal Pradesh"],
+          "answerIndex": 2,
+          "explanation": "Phulkari (meaning 'flower work') is the traditional embroidery of Punjab. Silk thread is embroidered on coarse cotton fabric (khaddar) in vibrant geometric patterns. It is traditionally made by women and gifted at weddings. It holds a GI tag as 'Punjab Phulkari'.",
+          "source": "SSC CHSL 2016",
+          "verified": true
+        },
+        {
+          "text": "Pochampally Ikat is a textile GI tag product from which state?",
+          "options": ["Odisha", "Andhra Pradesh / Telangana", "Madhya Pradesh", "Gujarat"],
+          "answerIndex": 1,
+          "explanation": "Pochampally (now in Telangana, near Hyderabad) is famous for its Ikat silk sarees. The town gives its name to the Pochampally Ikat — geometric tie-dye patterns on silk. It holds a GI tag. Odisha's Sambalpuri also uses Ikat, but Pochampally Ikat is its own distinct style.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Kantha embroidery tradition is associated with which states?",
+          "options": ["Punjab and Haryana", "West Bengal and Odisha", "Rajasthan and Gujarat", "Tamil Nadu and Kerala"],
+          "answerIndex": 1,
+          "explanation": "Kantha is the running-stitch embroidery tradition of West Bengal and Odisha. Traditionally made by recycling old saris and dhotis (stitched layer by layer for warmth), kantha features simple folk motifs — sun, lotus, fish, birds. The name comes from the Sanskrit 'kantha' meaning rags.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Meenakari is the art of enamelling on metal. It is primarily associated with which city?",
+          "options": ["Varanasi", "Hyderabad", "Jaipur", "Moradabad"],
+          "answerIndex": 2,
+          "explanation": "Meenakari (enamel work on metal, particularly gold and silver) is primarily associated with Jaipur, Rajasthan. The art was brought from Lahore by Rajput kings in the 16th century. Brilliant colours are fused onto gold or silver surfaces using mineral pigments. Jaipur's Meenakari has a GI tag.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

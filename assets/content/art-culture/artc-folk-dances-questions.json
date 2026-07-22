@@ -1,0 +1,158 @@
+{
+  "topic": "Folk Dances of India",
+  "topicId": "artc-folk-dances",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Garba and Dandiya Raas are folk dances associated with which state?",
+          "options": ["Rajasthan", "Maharashtra", "Gujarat", "Punjab"],
+          "answerIndex": 2,
+          "explanation": "Garba and Dandiya Raas are both folk dances from Gujarat, performed during Navratri (nine nights). Garba is performed around an earthen pot with a lamp inside; Dandiya Raas is performed with coloured sticks representing Goddess Durga's sword.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Bihu dance is associated with which state of India?",
+          "options": ["Manipur", "Assam", "Meghalaya", "Tripura"],
+          "answerIndex": 1,
+          "explanation": "Bihu is the most important folk dance and festival of Assam. There are three types: Rongali (Bohag) Bihu in April, Kongali (Kati) Bihu in October, and Bhogali (Magh) Bihu in January. Rongali Bihu, celebrating spring and the Assamese New Year, is the most celebrated.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Kalbeliya folk dance is associated with which state?",
+          "options": ["Punjab", "Gujarat", "Rajasthan", "Maharashtra"],
+          "answerIndex": 2,
+          "explanation": "Kalbeliya is a folk dance of the Kalbeliya (snake charmer) community of Rajasthan. Women dancers wear black swirling skirts mimicking a snake's movements. It was inscribed in UNESCO's Intangible Cultural Heritage list in 2010.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Ghoomar is a traditional folk dance of which state?",
+          "options": ["Haryana", "Rajasthan", "Madhya Pradesh", "Himachal Pradesh"],
+          "answerIndex": 1,
+          "explanation": "Ghoomar (from 'ghoomna' meaning to spin) is a traditional folk dance of Rajasthan, originating with the Bhil tribe and later adopted by Rajput women. The dance involves circular swirling movements in long flowing ghagra (skirts).",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Chhau dance is performed in three different styles across three Indian states. Which state does NOT have a Chhau tradition?",
+          "options": ["West Bengal", "Jharkhand", "Bihar", "Odisha"],
+          "answerIndex": 2,
+          "explanation": "Chhau dance has three styles: Purulia Chhau (West Bengal, with masks), Seraikella Chhau (Jharkhand, with half-masks), and Mayurbhanj Chhau (Odisha, no masks). Bihar does NOT have a Chhau tradition. All three forms were inscribed in UNESCO ICH in 2010.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Bhangra is a male folk dance and Giddha is its female counterpart. Both are from which state?",
+          "options": ["Haryana", "Himachal Pradesh", "Punjab", "Rajasthan"],
+          "answerIndex": 2,
+          "explanation": "Bhangra (male, vigorous harvest dance) and Giddha (female, expressive with bolian/couplets) are both from Punjab. Both are associated with Baisakhi (April harvest festival). Bhangra features the dhol drum prominently.",
+          "source": "SSC CGL 2017",
+          "verified": false
+        },
+        {
+          "text": "Which Bihu is associated specifically with the winter harvest feast in Assam?",
+          "options": ["Rongali (Bohag) Bihu", "Kongali (Kati) Bihu", "Bhogali (Magh) Bihu", "All three equally"],
+          "answerIndex": 2,
+          "explanation": "Bhogali or Magh Bihu (January) is the harvest feast Bihu — 'Bhog' means enjoyment/food. Rongali (April) celebrates spring and new year. Kongali (October) is a quiet, lamp-lighting Bihu when granaries are empty — 'Kongali' means 'poor'.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Cheraw dance (Bamboo Dance) is associated with which state?",
+          "options": ["Nagaland", "Manipur", "Mizoram", "Meghalaya"],
+          "answerIndex": 2,
+          "explanation": "Cheraw, the famous bamboo dance of India, belongs to Mizoram. Performers jump between moving bamboo poles held by others on the ground. It has been internationally recognised and has origins in warrior tradition of the Mizo people.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Hornbill Festival, showcasing all Naga tribes, is celebrated annually in which state?",
+          "options": ["Manipur", "Meghalaya", "Nagaland", "Arunachal Pradesh"],
+          "answerIndex": 2,
+          "explanation": "The Hornbill Festival is held every year from December 1–10 at Kisama Heritage Village near Kohima, Nagaland. It is called the 'Festival of Festivals' because all 16 major Naga tribes participate. It is named after the endangered hornbill bird revered in Naga culture.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Theyyam is a ritual folk dance-worship from which region of India?",
+          "options": ["South Kerala (Travancore)", "North Kerala (Malabar)", "Central Kerala (Kochi)", "Andhra Pradesh (Krishna delta)"],
+          "answerIndex": 1,
+          "explanation": "Theyyam is a traditional ritual practice from North Kerala (Malabar region), where the performer is believed to be possessed by a deity. Unlike Kathakali (theatrical), Theyyam is a religious ritual with elaborate makeup and towering costumes. It is quite distinct from South Kerala traditions.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Wangala is a harvest festival celebrated by which tribal community in Meghalaya?",
+          "options": ["Khasi", "Jaintia", "Garo", "Bodo"],
+          "answerIndex": 2,
+          "explanation": "Wangala (also called the '100 Drums Festival') is the most important harvest festival of the Garo tribe of Meghalaya, held in November. It involves massive drum orchestras, dances, and offerings to the sun deity Saljong. Not to be confused with Nongkrem (Khasi tribe).",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Koodiyattam was the FIRST Indian element added to UNESCO's list of intangible cultural heritage. It belongs to which state?",
+          "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
+          "answerIndex": 3,
+          "explanation": "Koodiyattam (Sanskrit theatre performed by the Chakyar community) from Kerala was the first Indian element added to UNESCO's 'Oral and Intangible Heritage of Humanity' list in 2001 (integrated into the ICH Convention list in 2008). It is considered the world's oldest surviving Sanskrit theatre.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Lavani is a famous folk dance associated with which state?",
+          "options": ["Rajasthan", "Gujarat", "Maharashtra", "Goa"],
+          "answerIndex": 2,
+          "explanation": "Lavani (from 'Lavanya' meaning beauty) is a traditional folk performance of Maharashtra, associated with the Tamasha form of theatre. Women performers wear the traditional nine-yard saree (nauvari). The dholki drum is the key accompaniment.",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "Which dance form is associated with the Kalbeliya community of Rajasthan and was listed in UNESCO ICH in 2010?",
+          "options": ["Ghoomar", "Chari", "Kalbeliya", "Terah Taali"],
+          "answerIndex": 2,
+          "explanation": "Kalbeliya folk songs and dances of Rajasthan were inscribed in UNESCO's Intangible Cultural Heritage list in 2010. The Kalbeliya community (traditional snake charmers) perform this dance with swirling black skirts imitating snake movements to the accompaniment of been (pungi) and dufli drum.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Yakshagana is a traditional theatre-dance form associated with which state?",
+          "options": ["Kerala", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+          "answerIndex": 2,
+          "explanation": "Yakshagana is a traditional theatrical form from Karnataka combining dance, music, dialogue, costume, and makeup. Night-long performances enact stories from Hindu epics. It pre-dates Kathakali and is often compared to it, but remains distinctly Kannadiga.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "Nati is a folk dance of which Indian state?",
+          "options": ["Uttarakhand", "Himachal Pradesh", "Jammu & Kashmir", "Haryana"],
+          "answerIndex": 1,
+          "explanation": "Nati (also called Kullu Nati) is the folk dance of Himachal Pradesh, particularly from the Kullu Valley. It is performed in groups during festivals and fairs. Nati from Kullu is one of the most energetic folk dances of the Himalayan region.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

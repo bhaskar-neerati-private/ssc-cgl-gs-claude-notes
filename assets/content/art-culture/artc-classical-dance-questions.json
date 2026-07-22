@@ -1,0 +1,158 @@
+{
+  "topic": "Classical Dance Forms of India",
+  "topicId": "artc-classical-dance",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which of the following classical dance forms belongs to Tamil Nadu?",
+          "options": ["Kathak", "Bharatanatyam", "Manipuri", "Kuchipudi"],
+          "answerIndex": 1,
+          "explanation": "Bharatanatyam originates from Tamil Nadu. It evolved from the Devadasi tradition and was revived by Rukmini Devi Arundale in 1935. Kathak is from North India (UP), Manipuri from Manipur, and Kuchipudi from Andhra Pradesh.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Sangeet Natak Akademi recognises how many classical dance forms of India?",
+          "options": ["6", "7", "8", "9"],
+          "answerIndex": 2,
+          "explanation": "The Sangeet Natak Akademi officially recognises 8 classical dance forms: Bharatanatyam, Kathak, Kuchipudi, Odissi, Kathakali, Mohiniyattam, Manipuri, and Sattriya. Sattriya was added as the 8th form in 2000.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which classical dance form was added last to the list of classical dances recognised by Sangeet Natak Akademi?",
+          "options": ["Mohiniyattam", "Sattriya", "Odissi", "Manipuri"],
+          "answerIndex": 1,
+          "explanation": "Sattriya, a 15th-century Vaishnavite dance tradition from Assam created by Srimanta Sankardeva, was added as the 8th classical form in 2000 — the most recently recognised classical dance.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Natyashastra, the foundational text of Indian classical dance and drama, is attributed to which sage?",
+          "options": ["Narada", "Valmiki", "Bharata Muni", "Patanjali"],
+          "answerIndex": 2,
+          "explanation": "The Natyashastra is attributed to Bharata Muni, dated approximately 200 BCE – 200 CE. It defines the principles of dance (nritta, nritya, natya), music, stagecraft, and the nine rasas (emotions).",
+          "source": "SSC MTS 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Mohiniyattam and Kathakali are both classical dances from the same state. Which state?",
+          "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+          "answerIndex": 2,
+          "explanation": "Both Mohiniyattam and Kathakali originate from Kerala. Mohiniyattam is a solo feminine (lasya) dance, while Kathakali is a dramatic performance with elaborate makeup and costumes depicting epic stories.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which Kathak gharana is associated with Birju Maharaj?",
+          "options": ["Jaipur Gharana", "Benaras Gharana", "Lucknow Gharana", "Gwalior Gharana"],
+          "answerIndex": 2,
+          "explanation": "Birju Maharaj belongs to the Lucknow Gharana of Kathak, which emphasises grace, lyrical expression, and thumri. The Jaipur Gharana emphasises vigour and complex footwork. There is no Gwalior Gharana of Kathak (Gwalior is a Hindustani music gharana).",
+          "source": "SSC CHSL 2020",
+          "verified": false
+        },
+        {
+          "text": "The term 'Tribhangi' in Odissi dance refers to which posture?",
+          "options": ["Straight body alignment", "Three-point bend of head, torso, and hips", "Circular arm movement", "Square stance of the legs"],
+          "answerIndex": 1,
+          "explanation": "Tribhangi (three-bend) is the signature posture of Odissi dance where the head, torso, and hips are bent in three different directions creating an S-curve. Chauka is the square stance. The postures are inspired by Odisha temple sculptures.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Bharatanatyam was earlier known by what name associated with the Devadasi tradition?",
+          "options": ["Lasya Nritya", "Sadir or Dasi Attam", "Mahari Nritya", "Odra Nritya"],
+          "answerIndex": 1,
+          "explanation": "Bharatanatyam was earlier called Sadir or Dasi Attam — the dance of the Devadasis (temple women) of Tamil Nadu. Rukmini Devi Arundale renamed and revived it as 'Bharatanatyam' when she performed at the Music Academy in 1935.",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The 'Mahari' tradition of temple dancers in Odisha is associated with which classical dance form?",
+          "options": ["Kathakali", "Bharatanatyam", "Odissi", "Kuchipudi"],
+          "answerIndex": 2,
+          "explanation": "The Mahari dancers were temple women attached to the Jagannath temple in Puri, Odisha. This tradition is the root of Odissi classical dance. Guru Kelucharan Mohapatra revived Odissi in the 20th century based on Mahari movements and temple sculptures.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which dance form was created by Srimanta Sankardeva in the 15th century?",
+          "options": ["Manipuri", "Sattriya", "Bihu", "Ankiya Nat"],
+          "answerIndex": 1,
+          "explanation": "Sattriya was created by Srimanta Sankardeva, a 15th-century Vaishnavite saint of Assam, as part of a neo-Vaishnavism movement. It was performed in Sattras (monasteries) of Assam. It was recognised as India's 8th classical dance in 2000.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "In Kathakali, which character type is represented by a predominantly green face makeup?",
+          "options": ["Kathi (villain)", "Pacha (noble hero)", "Kari (demoness)", "Minukku (women)"],
+          "answerIndex": 1,
+          "explanation": "In Kathakali makeup: Pacha (meaning 'green') = green face = noble hero like Rama, Krishna, Arjuna. Kathi = green face with red streaks = anti-hero. Kari = black face = evil characters. Minukku = golden yellow = women characters.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Pung drum is associated with which classical dance form?",
+          "options": ["Odissi", "Bharatanatyam", "Manipuri", "Sattriya"],
+          "answerIndex": 2,
+          "explanation": "The Pung is a barrel-shaped drum uniquely associated with Manipuri classical dance from Manipur. It is an integral instrument in Ras Lila performances. Manipuri dancers also often perform the Pung Cholom — a dance with the pung drum.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Which classical dance form originated in Andhra Pradesh, and involves a Brahmin male tradition with unique items like dancing on a brass plate?",
+          "options": ["Odissi", "Kathak", "Kuchipudi", "Bharatanatyam"],
+          "answerIndex": 2,
+          "explanation": "Kuchipudi originated in the village of Kuchipudi in Krishna district, Andhra Pradesh. It began as an exclusively male Brahmin tradition (Bhagavatham style). A distinctive Kuchipudi item is the Tarangam — dancing on the rim of a brass plate while balancing a pot on the head.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "Which two elements constitute the term 'Abhinaya' in Indian classical dance?",
+          "options": ["Nritta and Nritya", "Rasa and Bhava", "Angika and Sattvika among 4 types", "Tandava and Lasya"],
+          "answerIndex": 2,
+          "explanation": "Abhinaya (expressive performance) has 4 types: Angika (body language/gestures), Vachika (speech/singing), Aharya (costume and makeup), and Sattvika (emotional expression through the performer's inner feeling). The question tests knowledge of these four subdivisions.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Sangeet Natak Akademi was established in which year?",
+          "options": ["1947", "1950", "1952", "1954"],
+          "answerIndex": 2,
+          "explanation": "The Sangeet Natak Akademi (National Academy of Music, Dance and Drama) was established in 1952. It is the apex body for performing arts in India, headquartered in New Delhi. Sahitya Akademi and Lalit Kala Akademi were established two years later in 1954.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Rukmini Devi Arundale is associated with the revival of which classical dance?",
+          "options": ["Kuchipudi", "Mohiniyattam", "Bharatanatyam", "Odissi"],
+          "answerIndex": 2,
+          "explanation": "Rukmini Devi Arundale revived Bharatanatyam in 1935 when she performed at the Music Academy in Madras, bringing the dance out of temple devadasi tradition and onto the public stage. She also founded Kalakshetra in Chennai to teach and preserve the art form.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

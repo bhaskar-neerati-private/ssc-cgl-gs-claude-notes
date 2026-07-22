@@ -1,0 +1,158 @@
+{
+  "topic": "UNESCO World Heritage Sites in India",
+  "topicId": "artc-unesco-heritage-sites",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Taj Mahal was inscribed as a UNESCO World Heritage Site in which year?",
+          "options": ["1978", "1983", "1987", "1993"],
+          "answerIndex": 1,
+          "explanation": "The Taj Mahal was inscribed as a UNESCO World Heritage Site in 1983, as part of the first batch of four Indian WHS sites that year (along with Ajanta Caves, Ellora Caves, and Agra Fort). This was just one year after India ratified the World Heritage Convention.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which Indian site is the ONLY 'Mixed' UNESCO World Heritage Site (fulfilling both cultural and natural criteria)?",
+          "options": ["Sundarbans National Park", "Great Himalayan National Park", "Khangchendzonga National Park, Sikkim", "Valley of Flowers, Uttarakhand"],
+          "answerIndex": 2,
+          "explanation": "Khangchendzonga National Park in Sikkim (inscribed 2016) is India's only UNESCO Mixed World Heritage Site, recognised for both its exceptional natural biodiversity and its cultural/sacred landscape significance for Sikkimese communities.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which was the first Indian city to receive UNESCO World Heritage Site status?",
+          "options": ["Delhi", "Jaipur", "Ahmedabad", "Mumbai"],
+          "answerIndex": 2,
+          "explanation": "Ahmedabad became the first Indian city to receive UNESCO World Heritage City status in 2017. The walled city of Ahmedabad (founded 1411 by Ahmad Shah I) was recognised for its historic architecture including Pol houses (traditional urban clusters), mosques, tombs, and step-wells.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Mahabodhi Temple at Bodh Gaya was inscribed as a UNESCO WHS in which year?",
+          "options": ["1987", "1993", "2002", "2008"],
+          "answerIndex": 2,
+          "explanation": "The Mahabodhi Temple at Bodh Gaya (Bihar), marking the site where Buddha attained Enlightenment, was inscribed as a UNESCO World Heritage Site in 2002. The Vajrasana (diamond throne) inside marks the exact spot of enlightenment. The Bodhi tree growing there is said to be a descendant of the original tree.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "The 'Mountain Railways of India' UNESCO WHS covers how many railway lines?",
+          "options": ["One (Darjeeling only)", "Two (Darjeeling and Nilgiri)", "Three (Darjeeling, Nilgiri, and Kalka-Shimla)", "Four (including Matheran)"],
+          "answerIndex": 2,
+          "explanation": "The Mountain Railways of India UNESCO WHS (serial nomination) covers three railways: Darjeeling Himalayan Railway (inscribed 1999), Nilgiri Mountain Railway (added 2005), and Kalka-Shimla Railway (added 2008). They were inscribed in three different years, which SSC may test. Matheran is NOT included.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Jantar Mantar inscribed as UNESCO WHS (2010) is located in which city?",
+          "options": ["Delhi", "Jaipur", "Ujjain", "Mathura"],
+          "answerIndex": 1,
+          "explanation": "The Jantar Mantar inscribed as UNESCO WHS in 2010 is the one in Jaipur, Rajasthan, built by Sawai Jai Singh II. There are Jantar Mantars in 5 cities (Delhi, Jaipur, Varanasi, Mathura, Ujjain), but only the Jaipur one is a UNESCO WHS. The Delhi Jantar Mantar is larger, but is NOT the UNESCO-listed one.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Rani-ki-Vav, a UNESCO WHS (2014), is a stepwell located in which state?",
+          "options": ["Rajasthan", "Gujarat (Patan)", "Maharashtra", "Karnataka"],
+          "answerIndex": 1,
+          "explanation": "Rani-ki-Vav (Queen's Stepwell) is in Patan, Gujarat, built in the 11th century by Queen Udayamati in memory of her husband King Bhimdev I of the Solanki dynasty. The stepwell is designed as an inverted temple, with sculptures on seven tiers. SSC often places it in Rajasthan — it's Gujarat.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Dholavira, inscribed as UNESCO WHS in 2021, belongs to which ancient civilisation?",
+          "options": ["Vedic Civilisation", "Indus Valley (Harappan) Civilisation", "Mauryan Empire", "Satavahana period"],
+          "answerIndex": 1,
+          "explanation": "Dholavira is an archaeological site in Gujarat (Kutch district) representing one of the most significant cities of the Indus Valley Civilisation (Harappan period), dated approximately 2650–2100 BCE. It was inscribed as a UNESCO WHS in 2021 and is notable for its water conservation system and a signboard with Indus script.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Rock Shelters of Bhimbetka (MP), a UNESCO WHS (2003), contain the oldest evidence of human life in India. How old are the oldest paintings?",
+          "options": ["5,000 years ago", "10,000 years ago", "30,000 BCE", "1,00,000 BCE"],
+          "answerIndex": 2,
+          "explanation": "The Rock Shelters of Bhimbetka in Madhya Pradesh contain prehistoric rock paintings dating back to approximately 30,000 BCE (some estimates go further). They show early humans hunting, dancing, and performing rituals. The site was discovered by V. S. Wakankar in 1957 and is the oldest evidence of human habitation in India.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Hoysala Sacred Ensembles were inscribed as UNESCO WHS in which year?",
+          "options": ["2015", "2019", "2021", "2023"],
+          "answerIndex": 3,
+          "explanation": "The Hoysala Sacred Ensembles (Belur, Halebidu, and Somanathapur temples in Karnataka) were inscribed as UNESCO World Heritage Sites in 2023. This is one of the more recent inscriptions. The temples represent the pinnacle of Hoysala art and architecture from the 12th–13th century CE.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Le Corbusier's architectural works in India (Chandigarh Capitol Complex) are part of a transnational UNESCO WHS covering how many countries?",
+          "options": ["5", "10", "17", "22"],
+          "answerIndex": 2,
+          "explanation": "The 'Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement' was inscribed as a transnational UNESCO WHS in 2016, covering 17 countries across 4 continents. The Chandigarh Capitol Complex (Assembly, Secretariat, High Court, Open Hand Monument) is India's contribution.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Moidams of Assam — India's most recent UNESCO WHS (2024) — are burial mounds associated with which dynasty?",
+          "options": ["Ahom dynasty", "Chutia dynasty", "Kachari dynasty", "Koch dynasty"],
+          "answerIndex": 0,
+          "explanation": "Moidams are the mound-burial system of the Ahom dynasty, which ruled Assam for nearly 600 years (1228–1826 CE). The Charaideo Moidams (royal burial complex in Sivasagar, Assam) were inscribed as UNESCO WHS in July 2024 — making it India's most recently added heritage site.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Hampi, a UNESCO World Heritage Site in Karnataka, was the capital of which empire?",
+          "options": ["Chalukya Empire", "Rashtrakuta Empire", "Hoysala Empire", "Vijayanagara Empire"],
+          "answerIndex": 3,
+          "explanation": "Hampi (inscribed UNESCO WHS 1986) was the capital of the Vijayanagara Empire — one of the greatest Hindu empires of medieval India (14th–16th century CE). It was described by foreign travelers as one of the greatest cities of the world. The Virupaksha Temple is its most important surviving monument.",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "Which religious structure in Goa is a UNESCO World Heritage Site, containing the remains of St. Francis Xavier?",
+          "options": ["Se Cathedral", "Church of Our Lady of Immaculate Conception", "Basilica of Bom Jesus", "Chapel of St. Catherine"],
+          "answerIndex": 2,
+          "explanation": "The Basilica of Bom Jesus in Old Goa (part of 'Churches and Convents of Goa' UNESCO WHS, 1986) contains the mortal remains of St. Francis Xavier, the Jesuit missionary. The remains are preserved in a silver casket. The name 'Bom Jesus' means 'Good Jesus' in Portuguese.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Great Living Chola Temples — a UNESCO WHS — includes which three temples?",
+          "options": ["Shore Temple (Mahabalipuram), Meenakshi (Madurai), Nataraja (Chidambaram)", "Brihadeeswarar (Thanjavur), Gangaikondacholapuram, Airavatesvara (Darasuram)", "Tirupati Balaji, Srirangam, Brihadeeswara", "Chidambaram, Kanchi Kamakshi, Ekambaranatha"],
+          "answerIndex": 1,
+          "explanation": "The Great Living Chola Temples UNESCO WHS (inscribed 1987, extended 2004) comprises three temples: Brihadeeswarar Temple in Thanjavur (Raja Raja Chola I), Gangaikondacholapuram Temple (Rajendra Chola I), and Airavatesvara Temple at Darasuram (Rajaraja Chola II). All are still functioning temples — hence 'Living'.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Jaipur City UNESCO WHS was inscribed in which year?",
+          "options": ["2015", "2017", "2019", "2021"],
+          "answerIndex": 2,
+          "explanation": "Jaipur (the 'Pink City' of Rajasthan, planned by Sawai Jai Singh II in 1727) was inscribed as a UNESCO World Heritage City in 2019. This came two years after Ahmedabad became India's first WHS city in 2017. Jaipur's grid-based town planning and colour-coded architecture were cited.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

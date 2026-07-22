@@ -1,0 +1,158 @@
+{
+  "topic": "Temple Architecture — Nagara, Dravida & Vesara",
+  "topicId": "artc-temple-architecture",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Sun Temple at Konark was built by which dynasty?",
+          "options": ["Chola dynasty", "Ganga dynasty (Narasimhadeva I)", "Chalukya dynasty", "Pallava dynasty"],
+          "answerIndex": 1,
+          "explanation": "The Sun Temple at Konark (Odisha) was built by King Narasimhadeva I of the Eastern Ganga dynasty in the 13th century CE. It is designed as a giant chariot with 24 wheels for the Sun God. It is a UNESCO World Heritage Site (1984).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Brihadeeswarar Temple in Thanjavur was built by which Chola ruler?",
+          "options": ["Rajendra Chola I", "Raja Raja Chola I", "Kulottunga Chola", "Vikrama Chola"],
+          "answerIndex": 1,
+          "explanation": "The Brihadeeswarar Temple (also called Big Temple) in Thanjavur was built by Raja Raja Chola I, completed in 1010 CE. At 66 metres, its vimana (tower) is the tallest in India. It is part of the UNESCO 'Great Living Chola Temples' designation.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Khajuraho group of monuments is associated with which dynasty?",
+          "options": ["Paramara", "Chandela", "Kalachuri", "Chalukya"],
+          "answerIndex": 1,
+          "explanation": "The Khajuraho temples in Madhya Pradesh were built primarily by the Chandela dynasty (10th–11th century CE). The temples are renowned for their intricate erotic sculptures, though these represent only about 10% of the total carvings. They are a UNESCO World Heritage Site.",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "Which architectural style has the distinctive feature of a 'Gopuram' — a massive entrance gateway tower?",
+          "options": ["Nagara style", "Vesara style", "Dravida style", "Gandhar style"],
+          "answerIndex": 2,
+          "explanation": "Gopuram (monumental entrance gateway towers) is the characteristic feature of Dravida (South Indian) temple architecture. In large South Indian temple complexes, the Gopurams often surpass the main Vimana in height. The Meenakshi Temple in Madurai has 14 gopurams.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Hoysala temples like those at Belur and Halebidu are examples of which architectural style?",
+          "options": ["Nagara", "Dravida", "Vesara (mixed)", "Gandhar"],
+          "answerIndex": 2,
+          "explanation": "Hoysala temples (12th–13th century, Karnataka) are the classic examples of Vesara style — a mixture of Nagara and Dravida. They have no tall shikhara or tall gopuram, but feature elaborate star-shaped (stellate) plans, intricate sculptural friezes, and are built in soft chloritic schite (soapstone).",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "What is the 'Amalaka' in Nagara temple architecture?",
+          "options": ["The innermost sanctum (womb-house)", "The ribbed disc-shaped stone crowning the Nagara shikhara before the finial", "The circumambulatory passage around the sanctum", "The mandapa entrance vestibule"],
+          "answerIndex": 1,
+          "explanation": "Amalaka is the characteristic ribbed, disc-shaped stone element placed just below the Kalasha (metal pot finial) at the top of a Nagara shikhara. It is one of the most distinctive diagnostic features of Nagara style temples. The word 'amalaka' comes from the Indian gooseberry fruit it resembles.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Shore Temple at Mahabalipuram belongs to which dynasty and is significant as what?",
+          "options": ["Chola dynasty; first Dravida temple", "Pallava dynasty; oldest surviving stone structural temple in South India", "Chalukya dynasty; example of Vesara style", "Vijayanagara; first waterfront temple"],
+          "answerIndex": 1,
+          "explanation": "The Shore Temple at Mahabalipuram (Tamil Nadu) was built by the Pallava dynasty (7th–8th century CE) and is considered the oldest surviving free-standing stone structural (not rock-cut) temple in South India. It is a UNESCO World Heritage Site (1984, as part of Mahabalipuram monuments).",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Aihole in Karnataka is called the 'Cradle of Indian Architecture'. Why?",
+          "options": ["It has the oldest surviving temple in India", "Chalukyan architects experimented with different temple styles here, making it a laboratory of Indian architecture", "It was the first place Mughal architecture mixed with Indian style", "It contains the most temples per square kilometre in any Indian city"],
+          "answerIndex": 1,
+          "explanation": "Aihole (Chalukyan period, 6th–8th century CE) is called the 'Cradle of Indian Architecture' because the Chalukyan architects used it as an experimental site. Over 125 temples of varying plans and styles exist here — some Nagara, some Dravida, some mixed — showing the evolution of Indian temple architecture.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "What is the largest functioning Hindu temple complex in the world?",
+          "options": ["Meenakshi Temple, Madurai", "Tirupati Balaji, Tirumala", "Srirangam (Ranganathaswamy), Trichy", "Jagannath Temple, Puri"],
+          "answerIndex": 2,
+          "explanation": "The Srirangam Ranganathaswamy Temple in Trichy, Tamil Nadu is considered the largest functioning Hindu temple complex in the world, covering about 156 acres with 7 concentric prakaras (enclosure walls). It has 21 gopurams, with the main Rajagopuram reaching 73 metres.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Dilwara Jain temples at Mount Abu are famous for being built primarily from which material?",
+          "options": ["Red sandstone", "Granite", "White marble", "Soapstone"],
+          "answerIndex": 2,
+          "explanation": "The Dilwara Jain temples (11th–13th century) at Mount Abu in Rajasthan are built from pure white marble. They are exceptional for their intricate carved ceilings and pillars, with virtually no decoration on the exterior — all beauty is concentrated inside. Vimal Vasahi (1031 CE) is the oldest.",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Pattadakal in Karnataka (UNESCO World Heritage Site) is historically important because:",
+          "options": ["It has the oldest Jain temple in South India", "It contains temples of both Nagara and Dravida styles side by side", "It was the capital of Vijayanagara Empire", "It has the largest collection of rock-cut caves in Deccan"],
+          "answerIndex": 1,
+          "explanation": "Pattadakal (Chalukya period, 7th–8th century) is a unique UNESCO WHS in Karnataka because it contains temples of both Nagara and Dravida styles constructed simultaneously by Chalukyan rulers. This makes it a living record of how both great traditions of Indian temple architecture coexisted and were practiced side-by-side.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which South Indian temple is famous for having the longest corridor among any temple in India?",
+          "options": ["Srirangam Temple", "Brihadeeswarar Temple, Thanjavur", "Ramanathaswamy Temple, Rameshwaram", "Meenakshi Temple, Madurai"],
+          "answerIndex": 2,
+          "explanation": "The Ramanathaswamy Temple (Rameshwaram) in Tamil Nadu has the longest corridor (~1,200 metres/1.2 km) of any temple in India, flanked by thousands of carved pillars. It is one of the four Dhams and is in the Dravida architectural tradition with massive prakaras.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "The Lingaraj Temple in Bhubaneswar represents which style of temple architecture?",
+          "options": ["Dravida (South Indian)", "Vesara (mixed)", "Nagara (Deula/Kalinga style)", "Sultani (Indo-Islamic)"],
+          "answerIndex": 2,
+          "explanation": "The Lingaraj Temple (11th century) in Bhubaneswar, Odisha is a magnificent example of Nagara/Kalinga/Deula style — a variant of Nagara style characteristic of Odisha. It has a curved Rekha shikhara (tower) and is the largest temple in Bhubaneswar, dedicated to Shiva as Harihara.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "In Dravida temple architecture, what is the term for the main tower above the sanctum?",
+          "options": ["Shikhara", "Gopuram", "Vimana", "Mandapa"],
+          "answerIndex": 2,
+          "explanation": "In Dravida (South Indian) architecture, the tower above the sanctum (garbhagriha) is called the Vimana — a stepped pyramid with multiple tiers. In Nagara (North Indian) architecture, the equivalent is called Shikhara. Gopuram is the monumental gateway tower at the outer boundaries of South Indian temple complexes.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Hoysala temple complex at which location is known for the best-preserved Hoysala temple with a trikuta (triple-shrine) plan?",
+          "options": ["Belur", "Halebidu", "Somanathapur", "Shravanabelagola"],
+          "answerIndex": 2,
+          "explanation": "The Kesava Temple at Somanathapur (Mysuru district, Karnataka) is the best-preserved Hoysala temple and uniquely has a trikuta (three-shrine) layout on a single star-shaped platform. It was built in 1268 CE. Belur has the Chennakesava Temple; Halebidu has the twin Hoysaleswara Temple.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which feature is most diagnostic of Nagara temple architecture?",
+          "options": ["A flat pyramidal tower with multiple tiers (vimana)", "A curvilinear tapering tower (shikhara) above the sanctum", "Multiple massive gateway towers (gopurams) at the boundary walls", "Horizontal layered construction with sloping battered walls"],
+          "answerIndex": 1,
+          "explanation": "The curvilinear tapering shikhara above the garbhagriha (sanctum) is the most diagnostic feature of Nagara temple architecture. This distinguishes it from Dravida style (stepped/pyramidal vimana) and from Hoysala/Vesara style (no prominent tower). The shikhara symbolises Mount Meru, axis of the universe.",
+          "source": "SSC CHSL 2021",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

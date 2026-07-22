@@ -1,0 +1,158 @@
+{
+  "topic": "Intangible Heritage, Cultural Bodies & Awards",
+  "topicId": "artc-intangible-heritage-awards",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Sangeet Natak Akademi was established in which year?",
+          "options": ["1947", "1950", "1952", "1954"],
+          "answerIndex": 2,
+          "explanation": "The Sangeet Natak Akademi (National Academy of Music, Dance and Drama) was established in 1952 by the Government of India. It is the apex body for performing arts, headquartered in New Delhi. Sahitya Akademi and Lalit Kala Akademi were set up two years later in 1954.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Dada Saheb Phalke Award is the highest honour in the Indian cinema. Who is it named after?",
+          "options": ["The first Indian film actor", "Dhundiraj Govind Phalke, director of India's first film", "A British film censor who allowed Indian cinema to grow", "The founder of Bollywood"],
+          "answerIndex": 1,
+          "explanation": "The Dada Saheb Phalke Award (established 1969) is named after Dhundiraj Govind Phalke, who directed Raja Harishchandra (1913) — the first Indian feature film. He is called the 'Father of Indian Cinema'. The award is given for lifetime contribution to Indian cinema.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Indian Museum in Kolkata is significant as:",
+          "options": ["Largest museum in India (by collection size)", "Oldest and largest museum in India (established 1814)", "First museum to receive UNESCO recognition", "Only museum with Indus Valley Civilisation collection"],
+          "answerIndex": 1,
+          "explanation": "The Indian Museum in Kolkata, established in 1814, is the oldest and largest museum in India. It houses significant collections including Buddhist relics, Mohenjodaro artifacts, mummies, and the Bharhut stupa sculptures. The National Museum in New Delhi (1949) is younger.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Rajiv Gandhi Khel Ratna Award — India's highest sports honour — was renamed in 2021 to honour which person?",
+          "options": ["Milkha Singh", "P. T. Usha", "Major Dhyan Chand", "Kapil Dev"],
+          "answerIndex": 2,
+          "explanation": "The Rajiv Gandhi Khel Ratna Award was renamed to the 'Major Dhyan Chand Khel Ratna Award' in August 2021, honouring the legendary Indian hockey player Major Dhyan Chand. He scored over 400 international goals and is called the 'Wizard of Hockey'. His birthday, August 29, is celebrated as National Sports Day.",
+          "source": "SSC CGL 2022",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Which was the FIRST Indian element added to any UNESCO list of intangible heritage?",
+          "options": ["Ramlila (2005)", "Vedic Chanting (2003)", "Koodiyattam (2001)", "Chhau Dance (2010)"],
+          "answerIndex": 2,
+          "explanation": "Koodiyattam (Sanskrit theatre from Kerala) was the first Indian element inscribed on UNESCO's list, when it was named a 'Masterpiece of the Oral and Intangible Heritage of Humanity' in 2001. Vedic Chanting was added in 2003. Ramlila in 2005. All were integrated into the standard ICH Convention list in 2008.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "How many languages are currently included in the Sahitya Akademi Award?",
+          "options": ["18", "22", "24", "28"],
+          "answerIndex": 2,
+          "explanation": "The Sahitya Akademi Award is given annually in 24 languages recognised by the Akademi — this includes all 22 scheduled languages plus English and Rajasthani. This is slightly more than the 22 languages in the 8th Schedule of the Constitution, so candidates must remember '24 languages' for Sahitya Akademi specifically.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Article 51A(f) of the Indian Constitution places which cultural obligation on citizens?",
+          "options": ["A Directive Principle to create cultural institutions", "A Fundamental Right to preserve one's culture", "A Fundamental Duty to value and preserve India's rich composite cultural heritage", "A Constitutional mandate for the Government to fund arts"],
+          "answerIndex": 2,
+          "explanation": "Article 51A(f) is a Fundamental Duty (Part IVA of Constitution) that requires every citizen 'to value and preserve the rich heritage of our composite culture.' It is specifically a DUTY on citizens, not a government directive or individual right. SSC tests whether students mistake it for a Fundamental Right.",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        },
+        {
+          "text": "When were Bodo and Maithili added to the 8th Schedule (Scheduled Languages) of the Indian Constitution?",
+          "options": ["1952, at the time of the original Constitution", "1967, by the 21st Amendment", "1992, by the 71st Amendment", "2004, by the 92nd Amendment"],
+          "answerIndex": 3,
+          "explanation": "Bodo, Dogri, Maithili, and Santhali were added to the 8th Schedule by the 92nd Constitutional Amendment Act, 2003 (effective 2004), bringing the total to 22 scheduled languages. Sindhi was added in 1967; Konkani, Manipuri, Nepali were added in 1992 (71st Amendment).",
+          "source": "SSC CGL 2018",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The Archaeological Survey of India (ASI) was established in which year and who was its first Director General?",
+          "options": ["1858, John Marshall", "1861, Alexander Cunningham", "1885, James Princep", "1905, Vincent Smith"],
+          "answerIndex": 1,
+          "explanation": "The Archaeological Survey of India (ASI) was established in 1861 under the British administration. Alexander Cunningham was its first Director General (and founder). He began systematic archaeological surveys of India. John Marshall was DG from 1902 and supervised Harappan excavations. ASI is under the Ministry of Culture.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The National School of Drama (NSD) is located in which city?",
+          "options": ["Mumbai", "Kolkata", "Delhi", "Pune"],
+          "answerIndex": 2,
+          "explanation": "The National School of Drama (NSD), the premier theatre training institution in India, is located in New Delhi. Established in 1959, it offers a three-year diploma in theatre arts. Alumni include Om Puri, Naseeruddin Shah, Irrfan Khan, and many more leading actors.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Dronacharya Award in sports is given to:",
+          "options": ["The best young athlete under 25 years", "The best coach/trainer of sports persons", "The best lifetime contributor to Indian sports", "The highest medal winner at Asian Games"],
+          "answerIndex": 1,
+          "explanation": "The Dronacharya Award is given to coaches and trainers who have produced outstanding sports persons at the international level. It is named after Drona, the guru (teacher/coach) who trained the Pandavas in the Mahabharata. Established in 1985, it includes both regular and lifetime achievement categories.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Sankirtana — Ritual Singing, Drumming and Dancing of Manipur — was inscribed in UNESCO's ICH list in which year?",
+          "options": ["2010", "2012", "2013", "2016"],
+          "answerIndex": 2,
+          "explanation": "Sankirtana (Manipuri ritual singing, drumming, and dancing associated with Vaishnavite traditions in Manipur) was inscribed in UNESCO's Intangible Cultural Heritage list in 2013. It is performed during festivals and celebrations, with two Pung (barrel drum) players central to the ensemble.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "The Bharat Ratna is India's highest civilian award. What is the second highest?",
+          "options": ["Padma Shri", "Padma Bhushan", "Padma Vibhushan", "Param Vir Chakra"],
+          "answerIndex": 2,
+          "explanation": "The hierarchy of India's civilian awards is: 1st — Bharat Ratna, 2nd — Padma Vibhushan (exceptional distinguished service), 3rd — Padma Bhushan (distinguished service of high order), 4th — Padma Shri. The Param Vir Chakra is a military (war) gallantry award, not a civilian award.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "India's National Sports Day is observed on which date?",
+          "options": ["August 15", "August 29", "September 5", "October 2"],
+          "answerIndex": 1,
+          "explanation": "National Sports Day in India is observed on August 29, the birthday of Major Dhyan Chand — the legendary hockey player called 'Wizard of Hockey'. On this day, the President of India presents sports awards (Khel Ratna, Arjuna, Dronacharya, Dhyan Chand) at Rashtrapati Bhavan.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Kalidas Samman, one of India's most prestigious classical arts awards, is given by which government?",
+          "options": ["Government of India (Union Government)", "Madhya Pradesh State Government", "Karnataka State Government", "Indian Council for Cultural Relations (ICCR)"],
+          "answerIndex": 1,
+          "explanation": "The Kalidas Samman is given by the Madhya Pradesh State Government annually for excellence in classical arts (music, dance, theatre, visual arts, and literature). It is named after the great Sanskrit poet Kalidasa who has strong associations with Ujjain (MP). It is a state award, not a national award.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Article 29 of the Indian Constitution guarantees which cultural right?",
+          "options": ["Government's obligation to fund arts and culture", "Right to religious practice of any community", "Right of any section of citizens to conserve their distinct language, script, or culture", "Right of the state to determine official language"],
+          "answerIndex": 2,
+          "explanation": "Article 29 of the Indian Constitution guarantees the right of any section of citizens (having a distinct language, script, or culture) to conserve the same. This is a Fundamental Right under Part III. It primarily protects minority cultural identity. Article 30 additionally gives minorities the right to establish educational institutions.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

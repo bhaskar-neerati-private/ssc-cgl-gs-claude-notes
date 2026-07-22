@@ -1,0 +1,158 @@
+{
+  "topic": "Classical Music — Hindustani & Carnatic",
+  "topicId": "artc-classical-music",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who is credited with inventing the Tabla?",
+          "options": ["Tansen", "Bismillah Khan", "Amir Khusrau", "Zakir Hussain"],
+          "answerIndex": 2,
+          "explanation": "Amir Khusrau (1253–1325) is credited with inventing the Tabla by splitting the two-headed Pakhawaj drum into two separate drums. He also introduced Khayal, Qawwali, and Tarana, and is called the 'Parrot of India' (Tuti-e-Hind).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which instrument is Bismillah Khan associated with?",
+          "options": ["Sitar", "Sarod", "Shehnai", "Tabla"],
+          "answerIndex": 2,
+          "explanation": "Bismillah Khan (1916–2006) was the greatest Shehnai maestro. He received the Bharat Ratna in 2001. He was famous for his Shehnai performances at the Golden Temple and at India's independence ceremony in 1947.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Carnatic music Trinity includes which three composers?",
+          "options": ["Purandaradasa, Tyagaraja, Muthuswami Dikshitar", "Tyagaraja, Muthuswami Dikshitar, Syama Sastri", "Tyagaraja, Syama Sastri, Amir Khusrau", "Muthuswami Dikshitar, Purandaradasa, Syama Sastri"],
+          "answerIndex": 1,
+          "explanation": "The Carnatic Music Trinity consists of Tyagaraja, Muthuswami Dikshitar, and Syama Sastri — all born in the late 18th century in Tamil Nadu. Purandaradasa (15th century) is called the 'Father of Carnatic Music' but predates the Trinity.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Ravi Shankar is associated with which instrument?",
+          "options": ["Sarod", "Santoor", "Sitar", "Sarangi"],
+          "answerIndex": 2,
+          "explanation": "Pandit Ravi Shankar (1920–2012) was the world's most renowned Sitar maestro. He popularised Indian classical music globally, collaborated with Beatle George Harrison, and received the Bharat Ratna in 1999.",
+          "source": "SSC MTS 2014",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "How many Melakarta ragas form the parent scale system in Carnatic music?",
+          "options": ["10", "36", "72", "108"],
+          "answerIndex": 2,
+          "explanation": "Carnatic music has 72 Melakarta ragas as parent scales, worked out mathematically by Venkatamakhi in the 17th century. Hindustani music, by contrast, uses 10 Thaats (parent scales). This distinction is a common exam trap.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which instrument has no frets — Sitar or Sarod?",
+          "options": ["Sitar", "Sarod", "Both have frets", "Neither has frets"],
+          "answerIndex": 1,
+          "explanation": "Sarod has no frets — it has a metal fingerboard and the player stops the strings by pressing with fingernails. Sitar has movable frets. This technical distinction frequently appears in SSC questions. Amjad Ali Khan is the most famous Sarod player.",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        },
+        {
+          "text": "What is the oldest form of Hindustani classical vocal music?",
+          "options": ["Khayal", "Thumri", "Dhrupad", "Tappa"],
+          "answerIndex": 2,
+          "explanation": "Dhrupad is the oldest surviving form of Hindustani classical vocal music. It is pure, austere, and has minimal film/folk influence. Khayal, introduced by Amir Khusrau and developed by Hussain Sharqi, is the dominant form today but is younger than Dhrupad.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "The Ghatam is an instrument associated with which music tradition?",
+          "options": ["Hindustani", "Carnatic", "Both traditions equally", "Western classical"],
+          "answerIndex": 1,
+          "explanation": "The Ghatam (clay pot used as percussion instrument) is exclusively associated with Carnatic classical music. It is an idiophone — sound produced by the pot's own vibrations. Vikku Vinayakram is a famous Ghatam player. Hindustani music uses Tabla and Pakhawaj instead.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Purandaradasa is called the 'Father of Carnatic Music'. He belonged to which state?",
+          "options": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala"],
+          "answerIndex": 2,
+          "explanation": "Purandaradasa (1484–1564) was a Carnatic music saint-composer from Karnataka. He standardised the music curriculum, composed in Kannada and Telugu, and is revered as the Pitamaha (grandfather) of Carnatic music. He predates the 18th-century Carnatic Trinity.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which Hindustani music gharana is associated with Pandit Bhimsen Joshi?",
+          "options": ["Gwalior Gharana", "Agra Gharana", "Kirana Gharana", "Patiala Gharana"],
+          "answerIndex": 2,
+          "explanation": "Pandit Bhimsen Joshi (1922–2011) belonged to the Kirana Gharana, known for slow, meditative khayal with emphasis on sur (precise pitch). He received the Bharat Ratna in 2008. The Kirana Gharana was founded by Abdul Karim Khan.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Santoor is primarily associated with which state of India?",
+          "options": ["Rajasthan", "Kashmir", "Punjab", "Uttar Pradesh"],
+          "answerIndex": 1,
+          "explanation": "The Santoor (100-stringed hammered instrument) is a traditional instrument from Kashmir, related to the Persian santur. Shivkumar Sharma popularised it in Hindustani classical music. The instrument is struck with light wooden mallets.",
+          "source": "SSC CHSL anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Pancharatna Kritis (five jewel compositions) are associated with which Carnatic music composer?",
+          "options": ["Muthuswami Dikshitar", "Syama Sastri", "Purandaradasa", "Tyagaraja"],
+          "answerIndex": 3,
+          "explanation": "The Pancharatna Kritis (five jewel compositions) are five famous kritis by Tyagaraja — one of the Carnatic Trinity. They are considered the crowning glory of Carnatic music and are performed collectively at Tyagaraja Aradhana festivals every year in Thiruvaiyaru, Tamil Nadu.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Zakir Hussain is associated with which instrument?",
+          "options": ["Sitar", "Tabla", "Sarod", "Flute"],
+          "answerIndex": 1,
+          "explanation": "Ustad Zakir Hussain is India's most celebrated Tabla maestro. Son of the legendary Alla Rakha, he has collaborated with artists worldwide including Ravi Shankar and John McLaughlin. He has received the Padma Vibhushan and Grammy Awards.",
+          "source": "SSC CHSL 2015",
+          "verified": true
+        },
+        {
+          "text": "Which is the main vocal form in Hindustani classical music today?",
+          "options": ["Dhrupad", "Khayal", "Thumri", "Qawwali"],
+          "answerIndex": 1,
+          "explanation": "Khayal (meaning 'imagination' or 'thought' in Urdu) is the predominant form of Hindustani classical vocal music today. It allows extensive improvisation and comes in Vilambit (slow) and Drut (fast) versions. Dhrupad is older but less common today.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Bansuri (flute) maestro Hariprasad Chaurasia is associated with which classical music tradition?",
+          "options": ["Carnatic", "Hindustani", "Both equally", "Odissi music"],
+          "answerIndex": 1,
+          "explanation": "Pandit Hariprasad Chaurasia is one of India's foremost Bansuri (bamboo flute) players in the Hindustani classical tradition. He trained under Annapurna Devi (daughter of Alauddin Khan of Maihar). He has received the Padma Vibhushan.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "In Carnatic music, the main composition form is called:",
+          "options": ["Khayal", "Dhrupad", "Kriti", "Thumri"],
+          "answerIndex": 2,
+          "explanation": "The Kriti (meaning 'creation' or 'work') is the main composition form in Carnatic music, typically having three parts: Pallavi, Anupallavi, and Charanam. The Trinity composed hundreds of kritis. Khayal and Dhrupad are Hindustani forms; Thumri is semi-classical.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

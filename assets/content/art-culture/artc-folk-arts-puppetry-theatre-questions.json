@@ -1,0 +1,158 @@
+{
+  "topic": "Folk Arts, Puppetry & Traditional Theatre",
+  "topicId": "artc-folk-arts-puppetry-theatre",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Kathputli is a famous puppet tradition associated with which state?",
+          "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Punjab"],
+          "answerIndex": 1,
+          "explanation": "Kathputli (from 'kath' = wood/cloth and 'putli' = doll) is the string puppet (marionette) tradition of Rajasthan, performed by the Nat community. The puppets have cloth bodies and no legs. They enact stories of Rajput heroes like Amar Singh Rathor.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Koodiyattam, recognised by UNESCO as Intangible Cultural Heritage, is associated with which state?",
+          "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+          "answerIndex": 2,
+          "explanation": "Koodiyattam is an ancient Sanskrit theatre tradition from Kerala, performed by the Chakyar community in temple stages (Koothambalams). It was the first Indian element added to UNESCO's ICH list (2001/2008). The Mizhavu is the special pot-drum used in Koodiyattam.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "Tholu Bommalata is a form of which type of puppetry?",
+          "options": ["String puppets", "Shadow puppets", "Glove puppets", "Rod puppets"],
+          "answerIndex": 1,
+          "explanation": "Tholu Bommalata ('Tholu' = leather, 'Bommalata' = puppet dance) is the shadow puppet tradition of Andhra Pradesh. The large translucent leather puppets are projected on a backlit white screen. They can be up to 5 feet tall and depict Ramayana stories.",
+          "source": "SSC MTS 2019",
+          "verified": true
+        },
+        {
+          "text": "Ramlila — Traditional Performance of the Ramayana — was inscribed on UNESCO's ICH list in which year?",
+          "options": ["2003", "2005", "2008", "2010"],
+          "answerIndex": 2,
+          "explanation": "Ramlila was inscribed on UNESCO's Intangible Cultural Heritage list in 2008 (it was first recognised in 2005 under an earlier list format and formally integrated in 2008). Ramnagar's Ramlila near Varanasi is the most famous. It is a 30-day epic dramatic performance.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "Pavakathakali from Kerala is what type of puppet?",
+          "options": ["String puppet (marionette)", "Shadow puppet", "Glove puppet (hand puppet)", "Rod puppet"],
+          "answerIndex": 2,
+          "explanation": "Pavakathakali is a glove puppet (hand puppet) from Kerala that mimics Kathakali dance drama in miniature form with the same elaborate costumes and makeup as Kathakali. It is performed by a single puppeteer. Students often confuse it with string puppets because of the Kathakali connection.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Putul Naach of West Bengal is which type of puppetry?",
+          "options": ["String puppets", "Shadow puppets", "Rod puppets", "Glove puppets"],
+          "answerIndex": 2,
+          "explanation": "Putul Naach (Bengali for 'puppet dance') of West Bengal refers to rod puppets — large puppets controlled by rods from below. These are distinct from string marionettes or shadow puppets. Jatra-style stories are performed with these rod puppets in rural Bengal.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Ankiya Nat and Bhaona are theatrical traditions of Assam. Who created Ankiya Nat?",
+          "options": ["Valmiki", "Srimanta Sankardeva", "Tyagaraja", "Purandaradasa"],
+          "answerIndex": 1,
+          "explanation": "Ankiya Nat (one-act plays) was created by Srimanta Sankardeva, the 15th-century Vaishnavite saint of Assam. These plays are performed in Sattra monastery courtyards. Bhaona is the dramatised public performance of Ankiya Nat scripts. Sankardeva also created Sattriya dance.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Nautanki in UP is known by what alternative name in Haryana?",
+          "options": ["Tamasha", "Swang", "Bidesia", "Maach"],
+          "answerIndex": 1,
+          "explanation": "Nautanki, the folk theatre form of Uttar Pradesh and Rajasthan, is called Swang in Haryana and Punjab. Both feature melodramatic performances with songs and dialogues on historical and social themes. Tamasha is Maharashtra's form; Bidesia is Bihar's; Maach is Madhya Pradesh's.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Teejan Bai is associated with which storytelling tradition of Chhattisgarh?",
+          "options": ["Phad", "Pandavani", "Harikatha", "Burra Katha"],
+          "answerIndex": 1,
+          "explanation": "Teejan Bai is the most famous exponent of Pandavani, a solo oral narration of the Mahabharata from Chhattisgarh. She received the Padma Vibhushan. Pandavani narrators perform with a single-string instrument (ektara) and dramatic gestures, enacting Mahabharata stories.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Tolpavakoothu is a shadow puppet theatre tradition from Kerala performed in which type of setting?",
+          "options": ["Open-air village squares", "Temple compound stages (Koothumadam)", "Proscenium theatres", "Palace courtyards"],
+          "answerIndex": 1,
+          "explanation": "Tolpavakoothu (leather shadow puppet theatre) of Kerala is traditionally performed in temple compounds in specially built stages called Koothumadam. The leather puppets are projected on a long white cloth screen lit by oil lamps. It is dedicated to Goddess Bhagavati and enacts the Kamba Ramayana.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Phad painting is a scroll tradition from Rajasthan. Which community performs with the Phad scroll?",
+          "options": ["Bhopa priests", "Kathputli community (Nats)", "Kalbeliya dancers", "Bhil tribal artists"],
+          "answerIndex": 0,
+          "explanation": "Phad painting depicts the stories of folk heroes Devnarayan and Pabuji on long cloth scrolls. Bhopa priests unroll and display the scroll at night by lamplight, singing the heroes' stories to the audience. This is a combined visual art + oral storytelling tradition unique to Rajasthan.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Mudiyettu is a UNESCO Intangible Cultural Heritage from Kerala that enacts the battle between which two figures?",
+          "options": ["Rama and Ravana", "Krishna and Kansa", "Goddess Bhadrakali and demon Darika", "Durga and Mahishasura"],
+          "answerIndex": 2,
+          "explanation": "Mudiyettu is a ritual dance-drama from Kerala (inscribed in UNESCO ICH in 2010) that enacts the battle between Goddess Bhadrakali and the demon Darika. It is performed in fields or temples and has religious significance for the communities of central Kerala.",
+          "source": "SSC anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "Jatra is a popular folk theatre form associated primarily with which state?",
+          "options": ["Bihar", "Odisha", "West Bengal", "Assam"],
+          "answerIndex": 2,
+          "explanation": "Jatra (also called Yatra) is the most popular folk theatre tradition of West Bengal, performed in open grounds with loud, dramatic singing, acting, and instrumental music. It also exists in Odisha as 'Odia Jatra'. Stories are based on mythology, history, and social issues.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Ravanachhaya is a shadow puppet tradition from which state?",
+          "options": ["Andhra Pradesh", "Kerala", "Odisha", "Karnataka"],
+          "answerIndex": 2,
+          "explanation": "Ravanachhaya ('Ravana's shadow') is a unique shadow puppet tradition from Odisha. The puppets are made of single-coloured deer skin with no joints — they are rigid (unlike the jointed, colourful Tholu Bommalata of Andhra Pradesh). Stories are from the Ramayana.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Tamasha is a traditional folk theatre form from which state?",
+          "options": ["Gujarat", "Maharashtra", "Rajasthan", "Karnataka"],
+          "answerIndex": 1,
+          "explanation": "Tamasha is a traditional folk theatre form from Maharashtra that integrates Lavani dance, comic dialogues, and social satire. Historically performed by the Kolhati community. Bal Gangadhar Tilak used public performances (Tamasha stages) to build mass consciousness.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The oldest surviving Sanskrit theatre in the world is:",
+          "options": ["Ramlila", "Koodiyattam", "Yakshagana", "Bhagavata Mela"],
+          "answerIndex": 1,
+          "explanation": "Koodiyattam from Kerala is considered the world's oldest surviving Sanskrit theatre, with a continuous performance tradition of over 2,000 years. It is performed by the Chakyar community in temple stages. UNESCO recognised it as Intangible Cultural Heritage (2001/2008).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "topic": "Classical Languages, Scripts & Sanskrit Literature",
+  "topicId": "artc-languages-literature",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which language was the FIRST to receive 'Classical Language' status in India?",
+          "options": ["Sanskrit", "Tamil", "Telugu", "Kannada"],
+          "answerIndex": 1,
+          "explanation": "Tamil was the first language to be accorded Classical Language status in India in 2004. It has a recorded literary tradition dating back over 2,500 years (Sangam literature, 3rd century BCE – 3rd century CE), making it one of the world's oldest living languages.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Ramayana was composed by which poet, who is also called 'Adi Kavi' (first poet)?",
+          "options": ["Vyasa", "Kalidasa", "Valmiki", "Tulsidas"],
+          "answerIndex": 2,
+          "explanation": "Valmiki is called 'Adi Kavi' (the first poet) and his Ramayana is the 'Adi Kavya' (the first poem). The Ramayana has 24,000 shlokas (verses) in 7 Kandas. Vyasa composed the Mahabharata; Kalidasa was a later Sanskrit poet and playwright; Tulsidas wrote Ramcharitmanas in Hindi.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which ancient Indian text is attributed to Chanakya (Kautilya) and deals with statecraft and political science?",
+          "options": ["Ashtadhyayi", "Arthashastra", "Manusmriti", "Natyashastra"],
+          "answerIndex": 1,
+          "explanation": "The Arthashastra is attributed to Kautilya (also called Chanakya or Vishnugupta), the minister of Chandragupta Maurya. It deals with statecraft, economic policy, military strategy, and governance. Ashtadhyayi is Panini's grammar; Natyashastra is Bharata Muni's text on performing arts.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Brahmi script was deciphered by which scholar?",
+          "options": ["William Jones", "Max Muller", "James Prinsep", "Alexander Cunningham"],
+          "answerIndex": 2,
+          "explanation": "Brahmi script was deciphered in 1837 by James Prinsep, a British officer and scholar serving as assay master at the Calcutta Mint. This breakthrough opened up Ashokan edicts and ancient Indian inscriptions to historians. William Jones proposed Indo-European language family; Max Muller translated Vedas.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing Questions",
+      "questions": [
+        {
+          "text": "What is the primary difference between Brahmi and Kharosthi scripts?",
+          "options": ["Brahmi is left-to-right and parent of modern Indian scripts; Kharosthi is right-to-left and did not survive", "Brahmi was used only for Sanskrit; Kharosthi only for Pali", "Brahmi is Buddhist-only; Kharosthi is Vedic-only", "Brahmi is northern; Kharosthi is southern"],
+          "answerIndex": 0,
+          "explanation": "Brahmi is written left-to-right and is the ancestor of all modern Indian scripts (Devanagari, Tamil, Bengali, etc.). Kharosthi is written right-to-left and was used in northwestern India (present Pakistan/Afghanistan) for Ashokan edicts. Kharosthi died out and left no descendant scripts.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "Kalidasa, the greatest Sanskrit poet and playwright, is associated with which dynasty?",
+          "options": ["Maurya dynasty", "Gupta dynasty", "Kushan dynasty", "Chalukya dynasty"],
+          "answerIndex": 1,
+          "explanation": "Kalidasa is considered the greatest Sanskrit poet and is associated with the Gupta period (4th–5th century CE). He wrote Abhijnanashakuntalam (play), Meghadutam and Kumarasambhava (poems), and Raghuvamsha (epic). He is often called the 'Indian Shakespeare'.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        },
+        {
+          "text": "Sangam literature belongs to which language and approximately which period?",
+          "options": ["Sanskrit; 2nd–5th century CE", "Tamil; 3rd century BCE – 3rd century CE", "Pali; 5th–3rd century BCE", "Prakrit; 3rd–7th century CE"],
+          "answerIndex": 1,
+          "explanation": "Sangam literature is Tamil literature from approximately 3rd century BCE to 3rd century CE. Named after legendary literary academies (Sangams) in Madurai, it includes poetry collections (Ettuttogai, Pattuppattu) and works like Tolkappiyam (grammar), Tirukkural, and epics like Silappatikaram.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Mahabharata was composed by Vyasa and is the longest epic in the world. Approximately how many shlokas does it contain?",
+          "options": ["24,000", "48,000", "1,00,000 (one lakh)", "5,00,000"],
+          "answerIndex": 2,
+          "explanation": "The Mahabharata contains approximately 1,00,000 shlokas (verses) — making it the longest epic in the world, about 7–8 times longer than the Iliad and Odyssey combined. The Ramayana has 24,000 shlokas. The Mahabharata includes the Bhagavad Gita (18 chapters) within it.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The Tripitaka is the canonical scripture of Buddhism. In which language is it written?",
+          "options": ["Sanskrit", "Pali", "Prakrit", "Ardhamagadhi"],
+          "answerIndex": 1,
+          "explanation": "The Tripitaka (Three Baskets) is the canon of Theravada Buddhism written in Pali — the language spoken in ancient Magadha (modern Bihar/eastern UP). It consists of Vinaya Pitaka (monastic rules), Sutta Pitaka (teachings/discourses), and Abhidhamma Pitaka (philosophical texts). The Jain canonical texts use Ardhamagadhi Prakrit.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Pancharatna Kritis are associated with which Tamil composer?",
+          "options": ["Purandaradasa", "Muthuswami Dikshitar", "Syama Sastri", "Tyagaraja"],
+          "answerIndex": 3,
+          "explanation": "The Pancharatna Kritis ('five jewel compositions') are five celebrated compositions by Tyagaraja (1767–1847), one of the Carnatic Music Trinity. They are in Telugu and dedicated to Lord Rama. They are collectively performed at the annual Tyagaraja Aradhana festival in Thiruvaiyaru, Tamil Nadu.",
+          "source": "SSC anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Ashtadhyayi is a foundational text on Sanskrit grammar. Who composed it?",
+          "options": ["Bharata Muni", "Kautilya (Chanakya)", "Panini", "Patanjali"],
+          "answerIndex": 2,
+          "explanation": "The Ashtadhyayi ('eight chapters') by Panini (approximately 4th century BCE) is the earliest and most comprehensive grammar of Sanskrit. It contains about 3,976 sutras (rules) and is considered one of the greatest intellectual achievements of antiquity. It influenced all subsequent Indian linguistic analysis.",
+          "source": "SSC MTS anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which text by Tulsidas is a Hindi retelling of the Ramayana and is considered one of the most important works in Hindi literature?",
+          "options": ["Vinaya Patrika", "Ramcharitmanas", "Kavitavali", "Dohavali"],
+          "answerIndex": 1,
+          "explanation": "Ramcharitmanas (Lake of the Acts of Rama) was composed by Tulsidas in Awadhi (a form of Hindi) in the 16th century. It is immensely popular among Hindi-speaking people, often called the 'Bible of the North'. Tulsidas also composed Vinaya Patrika, Kavitavali, and Hanuman Chalisa. Ramcharitmanas was added to UNESCO Memory of the World Register in 2023.",
+          "source": "SSC CGL anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked in SSC",
+      "questions": [
+        {
+          "text": "How many languages are listed in the 8th Schedule of the Indian Constitution?",
+          "options": ["14", "18", "22", "28"],
+          "answerIndex": 2,
+          "explanation": "The 8th Schedule of the Indian Constitution currently lists 22 scheduled languages of India. Originally 14 languages were listed in 1950. Sindhi was added in 1967; Konkani, Manipuri, Nepali added in 1992; Bodo, Dogri, Maithili, Santhali added in 2004 (92nd Amendment).",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Mricchakatika (Little Clay Cart) is a famous Sanskrit drama written by:",
+          "options": ["Kalidasa", "Vishakhadatta", "Shudraka", "Bharavi"],
+          "answerIndex": 2,
+          "explanation": "Mricchakatika (The Little Clay Cart) was written by Shudraka (approximately 2nd–5th century CE). It is unusual among Sanskrit dramas for its secular, social themes — featuring a poor Brahmin hero and a courtesan heroine. Unlike religious epics, it depicts urban life, politics, and justice.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The four Vedas in order from oldest to most recently added are:",
+          "options": ["Rigveda, Samaveda, Yajurveda, Atharvaveda", "Samaveda, Rigveda, Atharvaveda, Yajurveda", "Yajurveda, Rigveda, Samaveda, Atharvaveda", "Rigveda, Yajurveda, Samaveda, Atharvaveda"],
+          "answerIndex": 0,
+          "explanation": "Rigveda is the oldest (1500–1200 BCE), containing hymns to gods. Samaveda contains melodies largely from Rigveda. Yajurveda contains ritual formulas. Atharvaveda (latest addition) contains spells, charms, and philosophical speculations. Atharvaveda was for a time not counted as a Veda by strict Vedic tradition.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Tirukkural — an ancient Tamil ethical text of 1,330 couplets — was composed by:",
+          "options": ["Tolkappiyar", "Thiruvalluvar", "Ilango Adigal", "Sittalai Sattanar"],
+          "answerIndex": 1,
+          "explanation": "Tirukkural was composed by Thiruvalluvar, a Tamil poet-saint who lived in the ancient Sangam period. The 1,330 couplets (kurals) deal with virtue (Aram), wealth (Porul), and love (Inbam). It is called the 'Tamil Bible' or 'Kural' and has been translated into over 80 languages.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
