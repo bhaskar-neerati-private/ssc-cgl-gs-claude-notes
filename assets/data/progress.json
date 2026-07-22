@@ -728,8 +728,22 @@
       "name": "Static GK (Awards, Books, Schemes, Days, etc.)",
       "tier": "C",
       "order": 11,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        { "id": "sgk-national-awards", "title": "National Awards — Bharat Ratna, Padma, Gallantry & Literary", "status": "done" },
+        { "id": "sgk-international-awards", "title": "International Awards — Nobel, Booker, Oscar & Sports Honours", "status": "done" },
+        { "id": "sgk-books-authors", "title": "Famous Books & Authors — Leaders, Scientists & Literary Works", "status": "done" },
+        { "id": "sgk-government-schemes", "title": "Government Flagship Schemes & Social Programmes", "status": "done" },
+        { "id": "sgk-important-days", "title": "National & International Days, Weeks & Themes", "status": "done" },
+        { "id": "sgk-international-organizations", "title": "International Organisations & Their Headquarters", "status": "done" },
+        { "id": "sgk-india-firsts", "title": "India's Firsts — Politics, Services, Science, Sports & Women", "status": "done" },
+        { "id": "sgk-sports-trophies-tournaments", "title": "Sports — Trophies, Tournaments, Venues & Governing Bodies", "status": "done" },
+        { "id": "sgk-defence-missiles-exercises", "title": "Defence — Missiles, Organisations, Exercises & Operations", "status": "done" },
+        { "id": "sgk-india-superlatives", "title": "India Superlatives — Largest, Longest, Highest & Records", "status": "done" },
+        { "id": "sgk-science-tech-institutions", "title": "Science & Technology — ISRO, Institutions, Labs & Missions", "status": "done" },
+        { "id": "sgk-abbreviations-acronyms", "title": "Abbreviations, Acronyms & Full Forms", "status": "done" },
+        { "id": "sgk-national-symbols-emblems", "title": "National Symbols, Emblems & State Symbols of India", "status": "done" }
+      ]
     }
   ]
 }

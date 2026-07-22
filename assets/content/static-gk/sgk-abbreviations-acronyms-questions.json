@@ -1,0 +1,158 @@
+{
+  "topic": "Abbreviations, Acronyms & Full Forms — Complete SSC Reference",
+  "topicId": "sgk-abbreviations-acronyms",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "What does NITI in 'NITI Aayog' stand for?",
+          "options": ["National Institute for Technology and Innovation", "National Institution for Transforming India", "National Integrated Think-tank for India", "National Infrastructure and Trade Institute"],
+          "answerIndex": 1,
+          "explanation": "NITI stands for 'National Institution for Transforming India.' The full name is NITI Aayog (National Institution for Transforming India Aayog). It replaced the Planning Commission in January 2015. The PM chairs NITI Aayog.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "SEBI was established as a statutory body in which year?",
+          "options": ["1988", "1990", "1992", "1996"],
+          "answerIndex": 2,
+          "explanation": "SEBI (Securities and Exchange Board of India) was initially established as a non-statutory body in 1988. It became a statutory body (with legal powers) in 1992 through the SEBI Act, 1992. Its headquarters are in Mumbai, Maharashtra.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "What does MUDRA stand for?",
+          "options": ["Micro Units Development and Refinance Agency", "Micro Urban Development for Rural Areas", "Ministry of Urban Development and Rural Administration", "Micro Units Development and Rural Administration"],
+          "answerIndex": 0,
+          "explanation": "MUDRA = Micro Units Development and Refinance Agency. It was set up under the PM Mudra Yojana (PMMY) in 2015 to provide micro-enterprise loans in three tiers: Shishu (up to ₹50k), Kishor (₹50k–₹5L), and Tarun (₹5L–₹10L).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "What is the full form of GST?",
+          "options": ["General Sales Tax", "Goods and Services Tax", "Government Service Tax", "General Statutory Tax"],
+          "answerIndex": 1,
+          "explanation": "GST = Goods and Services Tax. It is a comprehensive indirect tax that replaced multiple central and state taxes. GST was implemented on July 1, 2017. It follows the 'One Nation, One Tax' principle with four rates: 5%, 12%, 18%, and 28%.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "IRDAI, the insurance regulator of India, is headquartered in which city?",
+          "options": ["Mumbai", "New Delhi", "Hyderabad", "Bengaluru"],
+          "answerIndex": 2,
+          "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) is headquartered in Hyderabad, Telangana. It was initially set up in Delhi in 1999 and moved to Hyderabad in 2001. This is frequently confused with SEBI (Mumbai) or RBI (Mumbai).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "UNICEF stands for 'United Nations Children's ___':",
+          "options": ["Fund", "Foundation", "Forum", "Federation"],
+          "answerIndex": 0,
+          "explanation": "UNICEF = United Nations Children's Fund (originally United Nations International Children's Emergency Fund, 1946). The 'Emergency' and 'International' were dropped but the acronym was retained. HQ is in New York.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "What does LPG stand for in the context of India's 1991 economic reforms?",
+          "options": ["Liquefied Petroleum Gas", "Liberalisation, Privatisation, Globalisation", "Loan, Partnership, Growth", "Labour, Production, Government"],
+          "answerIndex": 1,
+          "explanation": "In the economic context, LPG refers to Liberalisation, Privatisation, and Globalisation — the three pillars of the 1991 economic reforms initiated by Finance Minister Manmohan Singh under PM P. V. Narasimha Rao. This opened India's economy to foreign investment.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "NABARD is headquartered in which city?",
+          "options": ["New Delhi", "Bengaluru", "Mumbai", "Hyderabad"],
+          "answerIndex": 2,
+          "explanation": "NABARD (National Bank for Agriculture and Rural Development) is headquartered in Mumbai. It was established in 1982 on the recommendations of the Shivaraman Committee. NABARD provides credit for agricultural and rural development in India.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "What does SWAYAM stand for (India's online education platform)?",
+          "options": ["Study Without Any Years of Academic Mentoring", "Study Webs of Active Learning for Young Aspiring Minds", "Self-paced Web Access for Youth Academic Modules", "Students with Advanced Yearning for Modern Learning"],
+          "answerIndex": 1,
+          "explanation": "SWAYAM = Study Webs of Active Learning for Young Aspiring Minds. It is a government-run MOOC (Massive Open Online Course) platform launched in 2016, offering free online courses from class 9 to post-graduation.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "What does the 'B' in IBRD (the main World Bank arm) stand for?",
+          "options": ["Banking", "Board", "Bank", "Bilateral"],
+          "answerIndex": 2,
+          "explanation": "IBRD = International Bank for Reconstruction and Development — this is the main arm of the World Bank Group. 'Bank' is the B. The World Bank Group also includes IFC (International Finance Corporation), IDA, ICSID, and MIGA.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "NPA in banking context stands for:",
+          "options": ["Net Profit Asset", "Non-Performing Asset", "Non-Principal Account", "Net Portfolio Asset"],
+          "answerIndex": 1,
+          "explanation": "NPA = Non-Performing Asset. A loan or advance is classified as an NPA if the interest or principal amount has not been paid for more than 90 days. High NPA levels indicate stress in the banking system. It is also called a 'bad loan.'",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "What does ICAO stand for?",
+          "options": ["International Commission on Aviation Operations", "International Civil Aviation Organisation", "India-Canada Aviation Organisation", "International Council of Aeronautics and Operations"],
+          "answerIndex": 1,
+          "explanation": "ICAO = International Civil Aviation Organisation. It is a UN specialised agency headquartered in Montreal, Canada. It sets global standards for civil aviation safety, security, efficiency, and environmental protection.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "What does the 'D' in DRDO stand for?",
+          "options": ["Department", "Division", "Defence", "Directorate"],
+          "answerIndex": 2,
+          "explanation": "DRDO = Defence Research and Development Organisation. It is India's premier defence research body under the Ministry of Defence. Established in 1958, DRDO is headquartered in New Delhi and has over 50 laboratories across India.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "IRNSS, India's satellite navigation system, is also known as:",
+          "options": ["GAGAN", "NavIC", "GSAT", "Aryabhata"],
+          "answerIndex": 1,
+          "explanation": "IRNSS = Indian Regional Navigation Satellite System, also called NavIC (Navigation with Indian Constellation). It is India's own GPS with a 7-satellite constellation providing accuracy within 5 metres in India and up to 1,500 km around its borders.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "CRR (Cash Reserve Ratio) refers to the proportion of deposits that banks must keep:",
+          "options": ["As loans to farmers", "As liquid assets (gold/securities)", "As cash with the RBI", "As foreign exchange reserves"],
+          "answerIndex": 2,
+          "explanation": "CRR = Cash Reserve Ratio is the minimum percentage of deposits that commercial banks must maintain as cash with the Reserve Bank of India. It is a monetary policy tool — RBI increases CRR to reduce money supply. SLR = deposits in liquid assets (different from CRR).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "What does UGC stand for?",
+          "options": ["University Graduation Council", "University Grants Commission", "Unified Government Committee", "University General Council"],
+          "answerIndex": 1,
+          "explanation": "UGC = University Grants Commission. It is a statutory body (established 1956) under the Ministry of Education that coordinates higher education and provides recognition and grants to universities in India. It is headquartered in New Delhi.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

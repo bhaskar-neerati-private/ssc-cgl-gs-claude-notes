@@ -1,0 +1,158 @@
+{
+  "topic": "Defence — Missiles, Organisations, Exercises & Operations",
+  "topicId": "sgk-defence-missiles-exercises",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Integrated Guided Missile Development Programme (IGMDP) was launched in which year?",
+          "options": ["1971", "1975", "1983", "1990"],
+          "answerIndex": 2,
+          "explanation": "The IGMDP was launched in 1983 under the leadership of Dr. A. P. J. Abdul Kalam. It produced five missiles: Prithvi, Agni, Nag, Trishul, and Akash — collectively covering ballistic, anti-tank, and surface-to-air roles.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "BrahMos is a supersonic cruise missile developed jointly by India and:",
+          "options": ["USA", "France", "Russia", "Israel"],
+          "answerIndex": 2,
+          "explanation": "BrahMos is a joint venture between India (DRDO/BrahMos Aerospace) and Russia (NPO Mashinostroyeniya). The name combines Brahmaputra (India) and Moskva (Russia). It is the world's fastest operational cruise missile at Mach 2.8.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "India demonstrated Anti-Satellite (A-SAT) capability through 'Mission Shakti' in:",
+          "options": ["2016", "2017", "2019", "2021"],
+          "answerIndex": 2,
+          "explanation": "Mission Shakti was conducted on March 27, 2019, when India successfully tested an A-SAT missile that destroyed an Indian satellite (Microsat-R) in Low Earth Orbit. PM Modi announced the achievement, making India the 4th country after USA, Russia, and China to have A-SAT capability.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The National Defence Academy (NDA) is located in:",
+          "options": ["Dehradun", "Pune (Khadakwasla)", "Hyderabad", "New Delhi"],
+          "answerIndex": 1,
+          "explanation": "The National Defence Academy (NDA) is located at Khadakwasla, near Pune, Maharashtra. It is the joint defence training institution for the Army, Navy, and Air Force. The Indian Military Academy (IMA) is in Dehradun.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "The Agni-V missile is significant because it is classified as:",
+          "options": ["Short-range ballistic missile", "Anti-tank missile", "Surface-to-air missile", "Intercontinental ballistic missile (ICBM) class"],
+          "answerIndex": 3,
+          "explanation": "Agni-V, with a range of 5,000–8,000 km, is classified as ICBM-class (Intercontinental Ballistic Missile), capable of reaching all of China and most of Europe. It can carry MIRV (Multiple Independently targetable Reentry Vehicles). India officially calls it an 'intermediate range' missile.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "The Malabar naval exercise involves India, USA, and which third nation?",
+          "options": ["Australia", "Russia", "Japan", "France"],
+          "answerIndex": 2,
+          "explanation": "Malabar exercise began as an India-US bilateral naval exercise in 1992. Japan became a permanent member in 2015 (previously participated in 2007, 2009, 2014). Australia joined from 2020. The 2021 edition was the first with all four Quad nations participating.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "INS Vikrant (commissioned 2022) is significant because it is:",
+          "options": ["India's first nuclear submarine", "India's first indigenous aircraft carrier", "India's largest destroyer", "India's first guided missile frigate"],
+          "answerIndex": 1,
+          "explanation": "INS Vikrant, commissioned on September 2, 2022, is India's first domestically built aircraft carrier. It weighs 45,000 tonnes and is built by Cochin Shipyard. INS Vikramaditya (2013) was a refurbished Russian carrier. INS Arihant is India's first nuclear submarine.",
+          "source": "SSC CGL 2023",
+          "verified": true
+        },
+        {
+          "text": "Operation Vijay in 1961 was conducted for:",
+          "options": ["Liberation of Bangladesh", "Integration of Hyderabad", "Liberation of Goa from Portugal", "Kargil War victory"],
+          "answerIndex": 2,
+          "explanation": "Operation Vijay (December 1961) was India's military operation to liberate Goa from Portuguese colonial rule. It lasted just 36 hours. Note: There is also an 'Operation Vijay' in 1999 (Kargil War) — two different operations with the same name, both in different contexts.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "Vijay Diwas (December 16) commemorates India's victory in the 1971 war. Pakistan's General who signed the surrender was:",
+          "options": ["Yahya Khan", "Zulfikar Ali Bhutto", "A. A. K. Niazi", "Ayub Khan"],
+          "answerIndex": 2,
+          "explanation": "Lieutenant General Amir Abdullah Khan Niazi, Commander of Pakistani Eastern Command, signed the Instrument of Surrender on December 16, 1971 in Dhaka to General J. S. Aurora. Nearly 93,000 Pakistani soldiers surrendered — the largest surrender since World War II.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "The Indian Air Force was officially established on:",
+          "options": ["October 8, 1932", "January 26, 1950", "August 15, 1947", "April 1, 1954"],
+          "answerIndex": 0,
+          "explanation": "The Indian Air Force was established on October 8, 1932, as the Royal Indian Air Force. The 'Royal' prefix was removed on April 1, 1950, after India became a Republic. October 8 is observed as Indian Air Force Day annually.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Kargil Vijay Diwas is celebrated on July 26 to mark the end of Operation Vijay in which year?",
+          "options": ["1965", "1971", "1999", "2001"],
+          "answerIndex": 2,
+          "explanation": "Operation Vijay, the Kargil War, officially ended on July 26, 1999, when Indian forces recaptured all Pakistani-occupied positions in the Kargil sector of Jammu & Kashmir. This date is observed as Kargil Vijay Diwas annually.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Chief of Defence Staff (CDS) post was created in India following recommendations from which committee/review?",
+          "options": ["Kargil Review Committee", "Naresh Chandra Committee", "Both of the above", "National Security Council"],
+          "answerIndex": 0,
+          "explanation": "The CDS post was primarily recommended by the Kargil Review Committee (2000), chaired by K. Subrahmanyam, following the Kargil conflict's coordination gaps. The post was finally created in December 2019 and the first CDS General Bipin Rawat was appointed on January 1, 2020.",
+          "source": "SSC CGL 2022",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The Akash missile is a:",
+          "options": ["Anti-tank guided missile", "Surface-to-surface ballistic missile", "Surface-to-air missile for air defence", "Air-to-air missile for fighter jets"],
+          "answerIndex": 2,
+          "explanation": "Akash is a medium-range surface-to-air missile (SAM) system developed by DRDO under the IGMDP programme. It provides air defence against aircraft, helicopters, and cruise missiles at a range of 25–30 km. India has exported it to the Philippines.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The India-USA army exercise 'Yudh Abhyas' is a:",
+          "options": ["Naval exercise", "Air Force exercise", "Army exercise", "Special Forces exercise"],
+          "answerIndex": 2,
+          "explanation": "Yudh Abhyas is an annual India-USA Army exercise focusing on counter-terrorism and humanitarian aid operations. It alternates between locations in India and the USA. Vajra Prahar is the India-USA special forces exercise.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "DRDO (Defence Research and Development Organisation) was established in:",
+          "options": ["1947", "1952", "1958", "1965"],
+          "answerIndex": 2,
+          "explanation": "DRDO was established in 1958 by merging the existing Technical Development Establishment (TDE) and the Directorate of Technical Development and Production (DTDP). DRDO HQ is in New Delhi, under the Ministry of Defence.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "India's first nuclear submarine is:",
+          "options": ["INS Vikrant", "INS Vikramaditya", "INS Arihant", "INS Chakra"],
+          "answerIndex": 2,
+          "explanation": "INS Arihant is India's first nuclear-powered ballistic missile submarine (SSBN), commissioned in 2016. It was built under India's Advanced Technology Vessel (ATV) project. INS Chakra was a nuclear-powered submarine leased from Russia, not built by India.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

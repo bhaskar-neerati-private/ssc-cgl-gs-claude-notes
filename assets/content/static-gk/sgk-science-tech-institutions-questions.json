@@ -1,0 +1,158 @@
+{
+  "topic": "Science & Technology — ISRO, Institutions, Labs & Missions",
+  "topicId": "sgk-science-tech-institutions",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "India's first satellite, Aryabhata, was launched by ISRO in which year?",
+          "options": ["1969", "1972", "1975", "1980"],
+          "answerIndex": 2,
+          "explanation": "Aryabhata, India's first satellite, was launched on April 19, 1975. It was built by ISRO but launched using a Soviet rocket from USSR's Kapustin Yar. The satellite was named after the 5th-century Indian mathematician-astronomer.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "ISRO is headquartered in which city?",
+          "options": ["New Delhi", "Mumbai", "Chennai", "Bengaluru"],
+          "answerIndex": 3,
+          "explanation": "ISRO (Indian Space Research Organisation) is headquartered in Bengaluru (Bangalore), Karnataka. DRDO is in New Delhi. This is one of SSC's most predictable 'swap and confuse' questions.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "India's Mars Orbiter Mission (Mangalyaan) was notable because:",
+          "options": ["It landed on Mars", "It succeeded on the first attempt", "It discovered water on Mars", "It was the cheapest mission ever"],
+          "answerIndex": 1,
+          "explanation": "MOM (Mangalyaan, 2013) became the first interplanetary mission by any nation to succeed on its first attempt. India became the first Asian nation to reach Mars. The mission cost ₹450 crore, making it the cheapest Mars mission at the time (less than the budget of Hollywood film Gravity).",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "The first Indian IIT was established at which location?",
+          "options": ["Mumbai", "Delhi", "Kharagpur", "Chennai"],
+          "answerIndex": 2,
+          "explanation": "IIT Kharagpur (in West Bengal) was the first IIT, established in 1951. It was set up in a location that once housed a British jail. IIT Bombay (Mumbai), IIT Madras (Chennai), IIT Delhi, and IIT Kanpur were all established later.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "Chandrayaan-3's Vikram lander touched down on the Moon on August 23, 2023. Which part of the Moon was it?",
+          "options": ["Northern equatorial belt", "Near side (facing Earth)", "Southern polar region", "Far side (facing away from Earth)"],
+          "answerIndex": 2,
+          "explanation": "Chandrayaan-3's Vikram lander achieved a soft landing in the southern polar region of the Moon on August 23, 2023. India was the first country to successfully land near the lunar south pole. This date is now observed as National Space Day.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        },
+        {
+          "text": "Aditya-L1, India's first solar mission, was launched in 2023 to study the Sun from which point?",
+          "options": ["L1 Lagrange Point between Earth and Sun", "Low Earth Orbit", "Geosynchronous Orbit", "Lunar Orbit"],
+          "answerIndex": 0,
+          "explanation": "Aditya-L1 was launched in September 2023 and placed at the Sun-Earth L1 Lagrange Point, approximately 1.5 million km from Earth. This position gives it an unobstructed view of the Sun without eclipses. 'L1' = Lagrange Point 1.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        },
+        {
+          "text": "BARC (Bhabha Atomic Research Centre) is located in which part of Mumbai?",
+          "options": ["Bandra", "Andheri", "Trombay", "Nariman Point"],
+          "answerIndex": 2,
+          "explanation": "BARC is located at Trombay in eastern Mumbai. It was established in 1954 as AEET (Atomic Energy Establishment, Trombay) and renamed after Homi J. Bhabha's death in 1966. It is India's premier nuclear research centre, under the Department of Atomic Energy.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "NavIC (IRNSS) is India's navigation satellite system. How many satellites does it have in its constellation?",
+          "options": ["4", "5", "7", "12"],
+          "answerIndex": 2,
+          "explanation": "NavIC (Navigation with Indian Constellation), also called IRNSS, has 7 satellites — 3 in geostationary orbit and 4 in geosynchronous inclined orbit. It provides regional navigation covering India and areas up to 1,500 km beyond India's borders.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "Who is known as the 'Father of Indian Space Programme'?",
+          "options": ["A. P. J. Abdul Kalam", "Satish Dhawan", "Vikram Sarabhai", "K. Kasturirangan"],
+          "answerIndex": 2,
+          "explanation": "Dr. Vikram Sarabhai is called the Father of the Indian Space Programme. He established INCOSPAR (1962) and ISRO (1969). The Vikram lander of Chandrayaan-3 is named after him. Satish Dhawan was his successor at ISRO. Kalam is the Missile Man of India.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "India's first rocket was launched from Thumba, Kerala in 1963. What type of rocket was it?",
+          "options": ["Satellite launch vehicle", "Ballistic missile", "Sounding rocket (Nike-Apache)", "Anti-satellite missile"],
+          "answerIndex": 2,
+          "explanation": "India's first rocket, a Nike-Apache sounding rocket, was launched from Thumba Equatorial Rocket Launching Station (TERLS) near Thiruvananthapuram, Kerala on November 21, 1963. The rocket and equipment were from the USA. The first parts were transported on a bicycle.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        },
+        {
+          "text": "CSIR (Council of Scientific and Industrial Research) operates how many national laboratories in India?",
+          "options": ["15", "22", "37", "50"],
+          "answerIndex": 2,
+          "explanation": "CSIR operates 37 national laboratories across India, including NEERI (Nagpur), NCL (Pune), NIO (Goa), CCMB (Hyderabad), and many others. It is under the Ministry of Science and Technology and its Director General is also the Minister of Science.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "India's Kudankulam Nuclear Power Plant is built with technical cooperation from:",
+          "options": ["USA", "France", "Russia", "Germany"],
+          "answerIndex": 2,
+          "explanation": "Kudankulam Nuclear Power Plant (KKNPP) in Tamil Nadu is built with Russian technical assistance under an agreement signed in 1988. It uses VVER (Water-Water Energetic Reactor) technology. Units 1 and 2 are operational; more are being built.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "PSLV (Polar Satellite Launch Vehicle) set a world record in 2017 by launching how many satellites simultaneously?",
+          "options": ["36", "70", "104", "120"],
+          "answerIndex": 2,
+          "explanation": "PSLV-C37 launched 104 satellites simultaneously on February 15, 2017, setting a world record at the time. Of these, 101 were from foreign customers. This was a major commercial achievement for ISRO and demonstrated the PSLV's reliability.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Chandrayaan-1 (2008) made which key discovery about the Moon?",
+          "options": ["Found ice in craters", "Detected water molecules on the surface", "Discovered magnetic anomalies", "Found evidence of ancient life"],
+          "answerIndex": 1,
+          "explanation": "Chandrayaan-1's Moon Impact Probe and NASA's Mini-SAR instrument onboard confirmed the presence of water molecules (as hydroxyl radicals) on the Moon's surface in 2009. This was a landmark discovery that changed our understanding of the Moon.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The first AIIMS was established in New Delhi in which year?",
+          "options": ["1947", "1952", "1956", "1960"],
+          "answerIndex": 2,
+          "explanation": "All India Institute of Medical Sciences (AIIMS), New Delhi was established in 1956 under an Act of Parliament. It was set up with WHO assistance and American aid. Today, 23 AIIMS institutions operate across India following the 2003 legislation for more.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Who is called the 'Father of India's Nuclear Programme'?",
+          "options": ["Vikram Sarabhai", "A. P. J. Abdul Kalam", "Raja Ramanna", "Homi J. Bhabha"],
+          "answerIndex": 3,
+          "explanation": "Dr. Homi Jehangir Bhabha is called the Father of India's Nuclear Programme. He established the Tata Institute of Fundamental Research (TIFR) in 1945 and the Atomic Energy Establishment (now BARC) in 1954. Bhabha died in a plane crash in 1966, and BARC was renamed in his honour.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

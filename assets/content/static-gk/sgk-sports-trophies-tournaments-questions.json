@@ -1,0 +1,158 @@
+{
+  "topic": "Sports — Trophies, Tournaments, Venues & Governing Bodies",
+  "topicId": "sgk-sports-trophies-tournaments",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Ranji Trophy is associated with which sport?",
+          "options": ["Football", "Hockey", "Cricket", "Badminton"],
+          "answerIndex": 2,
+          "explanation": "The Ranji Trophy is India's premier domestic first-class cricket tournament, established in 1934. It is named after Ranjitsinhji (K. S. Ranjitsinhji), the Sussex and England cricketer who was also the Jam Saheb of Nawanagar.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "India won the first ICC Cricket World Cup (Prudential Cup) in 1983 under the captaincy of:",
+          "options": ["Sunil Gavaskar", "M. A. K. Pataudi", "Kapil Dev", "Dilip Vengsarkar"],
+          "answerIndex": 2,
+          "explanation": "India won the 1983 Cricket World Cup (Prudential Cup) under the captaincy of Kapil Dev. India beat the West Indies by 43 runs in the final at Lord's, London. This was India's first World Cup victory.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The All England Badminton Championship is the world's oldest badminton tournament. Which Indian won it in 1980?",
+          "options": ["Saina Nehwal", "P. V. Sindhu", "Prakash Padukone", "Pullela Gopichand"],
+          "answerIndex": 2,
+          "explanation": "Prakash Padukone became the first Indian to win the All England Badminton Championship in 1980. Pullela Gopichand was the second Indian to win it (2001). P. V. Sindhu and Saina Nehwal have won multiple BWF events but not the All England.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which Indian won the first individual Olympic gold medal?",
+          "options": ["K. D. Jadhav", "Karnam Malleswari", "Abhinav Bindra", "Sushil Kumar"],
+          "answerIndex": 2,
+          "explanation": "Abhinav Bindra won India's first individual Olympic gold medal at the 2008 Beijing Olympics in the 10m Air Rifle event. K. D. Jadhav won India's first individual Olympic medal (wrestling bronze, Helsinki 1952), but that was not gold.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "The oldest football tournament in India is:",
+          "options": ["Santosh Trophy", "Durand Cup", "Nehru Cup", "Federation Cup"],
+          "answerIndex": 1,
+          "explanation": "The Durand Cup (1888) is India's oldest football tournament, making it one of the oldest football tournaments in the world. Named after Sir Henry Mortimer Durand, it was originally for military teams. The Santosh Trophy is the national championship but came later.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The oldest hockey tournament in Asia is:",
+          "options": ["Aga Khan Cup", "Beighton Cup", "Murugappa Gold Cup", "Sultan Azlan Shah Cup"],
+          "answerIndex": 2,
+          "explanation": "The Murugappa Gold Cup (1895) held in Chennai is the oldest hockey tournament in Asia. The Beighton Cup (also 1895, Kolkata) is of similar vintage. The Sultan Azlan Shah Cup (Malaysia) is prestigious but much more recent. The Aga Khan Cup is held in Mumbai.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        },
+        {
+          "text": "Viswanathan Anand has won the World Chess Championship how many times?",
+          "options": ["3", "4", "5", "6"],
+          "answerIndex": 2,
+          "explanation": "Viswanathan Anand has won the World Chess Championship 5 times: 2000, 2007, 2008, 2010, and 2012. He became the first Indian and Asian to win the undisputed world chess title. Magnus Carlsen defeated him in 2013.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "P. V. Sindhu became the first Indian woman to win the BWF World Championship in which year?",
+          "options": ["2016", "2017", "2018", "2019"],
+          "answerIndex": 3,
+          "explanation": "P. V. Sindhu won the BWF World Badminton Championship in 2019 in Basel, Switzerland, becoming the first Indian woman to win the title. She had finished runner-up in the World Championships twice (2017, 2018) before winning it.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "The first Asian Games were held in New Delhi in which year?",
+          "options": ["1948", "1951", "1954", "1958"],
+          "answerIndex": 1,
+          "explanation": "The first Asian Games were held in New Delhi in 1951, with India as the host country. India won the most gold medals in the inaugural edition. The second time India hosted the Asian Games was in 1982 (also New Delhi).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Mary Kom has won the World Amateur Boxing Championship how many times?",
+          "options": ["4 times", "5 times", "6 times", "7 times"],
+          "answerIndex": 2,
+          "explanation": "Mary Kom has won the AIBA Women's World Amateur Boxing Championship 6 times (2002, 2005, 2006, 2008, 2010, 2018), making her the most decorated boxer in the tournament's history. She also won an Olympic bronze at the 2012 London Olympics.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "India's best-ever performance at the Asian Games was at which edition?",
+          "options": ["2010 Guangzhou", "2018 Jakarta", "2022 Hangzhou (2023)", "2014 Incheon"],
+          "answerIndex": 2,
+          "explanation": "India achieved its best-ever performance at the 2023 Hangzhou Asian Games (19th edition), winning 107 medals including 28 gold medals. India finished 4th in the overall medal tally.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        },
+        {
+          "text": "The ICC (International Cricket Council) is headquartered in:",
+          "options": ["London, UK", "Mumbai, India", "Dubai, UAE", "Colombo, Sri Lanka"],
+          "answerIndex": 2,
+          "explanation": "The ICC (International Cricket Council) moved its headquarters from Lord's, London to Dubai, UAE in 2005 for tax efficiency reasons. ICC has 108 member nations, with 12 Full Members and the rest as associate or affiliate members.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "National Sports Day in India is observed on August 29 — the birthday of which sports legend?",
+          "options": ["Sachin Tendulkar", "Major Dhyan Chand", "Milkha Singh", "Sunil Gavaskar"],
+          "answerIndex": 1,
+          "explanation": "National Sports Day is observed on August 29, the birthday of Major Dhyan Chand (1905–1979) — India's greatest hockey player who scored over 400 goals in international matches and helped India win three consecutive Olympic gold medals (1928, 1932, 1936).",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "India hosted the 2010 Commonwealth Games in which city?",
+          "options": ["Mumbai", "New Delhi", "Bengaluru", "Kolkata"],
+          "answerIndex": 1,
+          "explanation": "India hosted the XIX Commonwealth Games (2010) in New Delhi — India's first and only time hosting the Commonwealth Games. India finished second in the medal tally with 101 medals (38 gold).",
+          "source": "SSC CGL 2011",
+          "verified": true
+        },
+        {
+          "text": "The Olympic motto 'Faster, Higher, Stronger' was recently expanded to add which word?",
+          "options": ["Braver", "Together", "United", "Greater"],
+          "answerIndex": 1,
+          "explanation": "The Olympic motto 'Citius, Altius, Fortius' (Faster, Higher, Stronger) was officially updated in 2021 to include 'Communiter' (Together), making it 'Faster, Higher, Stronger — Together.' The IOC Executive Board approved this change.",
+          "source": "SSC CGL 2022",
+          "verified": true
+        },
+        {
+          "text": "BWF (Badminton World Federation) is headquartered in:",
+          "options": ["London", "Singapore", "Kuala Lumpur", "Bangkok"],
+          "answerIndex": 2,
+          "explanation": "The Badminton World Federation (BWF) is headquartered in Kuala Lumpur, Malaysia. Malaysia is a dominant badminton nation. BWF organises all major global badminton competitions including the Thomas Cup, Uber Cup, and World Championships.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

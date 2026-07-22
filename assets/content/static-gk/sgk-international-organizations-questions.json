@@ -1,0 +1,158 @@
+{
+  "topic": "International Organisations & Their Headquarters",
+  "topicId": "sgk-international-organizations",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The headquarters of UNESCO is located in:",
+          "options": ["New York", "Geneva", "Paris", "Vienna"],
+          "answerIndex": 2,
+          "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organisation) is headquartered in Paris, France. It was founded in 1945 and maintains the World Heritage List and the Intangible Cultural Heritage list.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which UN body is the only one headquartered in Africa?",
+          "options": ["UNICEF", "UNEP", "FAO", "UNDP"],
+          "answerIndex": 1,
+          "explanation": "UNEP (UN Environment Programme), established in 1972, is headquartered in Nairobi, Kenya — making it the only major UN body headquartered in Africa and in a developing country. All other major UN bodies are in New York, Geneva, or Rome.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The International Court of Justice (ICJ) and the International Criminal Court (ICC) are both located in:",
+          "options": ["Brussels", "Geneva", "The Hague", "Vienna"],
+          "answerIndex": 2,
+          "explanation": "Both the ICJ and the ICC are located in The Hague, Netherlands. The ICJ (established 1945) is the principal judicial organ of the UN, settling disputes between states. The ICC (established 2002 under the Rome Statute) prosecutes individuals for war crimes, crimes against humanity, and genocide.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Asian Development Bank (ADB) is headquartered in:",
+          "options": ["Beijing", "Tokyo", "Singapore", "Manila"],
+          "answerIndex": 3,
+          "explanation": "The Asian Development Bank (ADB), established in 1966, is headquartered in Manila, Philippines. India has historically been one of the largest borrowers from the ADB for infrastructure development.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "The IOC (International Olympic Committee) is headquartered in which Swiss city?",
+          "options": ["Geneva", "Bern", "Zurich", "Lausanne"],
+          "answerIndex": 3,
+          "explanation": "The IOC is headquartered in Lausanne, Switzerland — not Geneva (which hosts WHO, WTO, ILO, etc.) or Zurich (which hosts FIFA). SSC frequently tests Lausanne vs Geneva for sports bodies.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The NDB (New Development Bank), also called the BRICS Bank, is headquartered in:",
+          "options": ["Beijing", "Mumbai", "Shanghai", "New Delhi"],
+          "answerIndex": 2,
+          "explanation": "The NDB (New Development Bank), established by BRICS nations in 2015, is headquartered in Shanghai, China — not Beijing. It is often compared to the World Bank and provides development financing as an alternative to Western-dominated institutions.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The ICC in the context of cricket is headquartered in Dubai. What does ICC stand for in this context?",
+          "options": ["International Court of Commerce", "International Cricket Council", "Indian Cricket Commission", "International Champions Cup"],
+          "answerIndex": 1,
+          "explanation": "ICC = International Cricket Council, headquartered in Dubai, UAE. It is the global governing body for cricket. This is distinct from ICC = International Criminal Court (The Hague, Netherlands). SSC loves testing this acronym confusion.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "The ILO (International Labour Organisation) is unique because it was established before the UN itself. In which year was ILO founded?",
+          "options": ["1919", "1939", "1945", "1948"],
+          "answerIndex": 0,
+          "explanation": "The ILO was founded in 1919 as part of the Treaty of Versailles after World War I, making it the oldest UN specialised agency. When the UN was formed in 1945, the ILO became a UN specialised agency. It is headquartered in Geneva.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "OPEC (Organisation of Petroleum Exporting Countries) is headquartered in:",
+          "options": ["Riyadh, Saudi Arabia", "Abu Dhabi, UAE", "Vienna, Austria", "Kuwait City, Kuwait"],
+          "answerIndex": 2,
+          "explanation": "OPEC's Secretariat is headquartered in Vienna, Austria — despite most of its 13 member countries being in the Middle East or Africa. OPEC was founded in 1960 in Baghdad and moved to Vienna in 1965.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "India became a full member of the Shanghai Cooperation Organisation (SCO) in which year?",
+          "options": ["2005", "2011", "2017", "2019"],
+          "answerIndex": 2,
+          "explanation": "India and Pakistan became full members of the SCO in June 2017 at the Astana Summit. The SCO is a Eurasian security and economic organisation headquartered in Beijing. India had observer status since 2005.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The AIIB (Asian Infrastructure Investment Bank) was launched in 2016. India's position in AIIB is:",
+          "options": ["Largest shareholder", "Second largest shareholder", "Third largest shareholder", "Founding observer"],
+          "answerIndex": 1,
+          "explanation": "India is the second largest shareholder in the AIIB (after China, which holds over 26% shares). India joined as a founding member in 2016. The AIIB, headquartered in Beijing, focuses on infrastructure investment in Asia.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "G20 admitted which new member during India's presidency in 2023?",
+          "options": ["Bangladesh", "Indonesia", "African Union", "Vietnam"],
+          "answerIndex": 2,
+          "explanation": "During India's G20 presidency in 2023 (New Delhi Summit), the African Union (AU) was admitted as a full member of the G20, becoming the 21st entity alongside the 19 countries and the European Union.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "FAO, WFP, and IFAD are all based in which city?",
+          "options": ["New York", "Geneva", "Paris", "Rome"],
+          "answerIndex": 3,
+          "explanation": "All three food-related UN bodies are headquartered in Rome, Italy: FAO (Food and Agriculture Organisation), WFP (World Food Programme), and IFAD (International Fund for Agricultural Development). WFP is the world's largest humanitarian organisation.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "NATO (North Atlantic Treaty Organisation) is headquartered in:",
+          "options": ["Washington DC, USA", "London, UK", "Brussels, Belgium", "Paris, France"],
+          "answerIndex": 2,
+          "explanation": "NATO's headquarters is in Brussels, Belgium. Founded in 1949 (Washington Treaty), NATO is a military alliance. The USA is the dominant military power but the headquarters is in Europe. France briefly withdrew from NATO military command (1966–2009).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The SAARC Secretariat is located in:",
+          "options": ["New Delhi, India", "Islamabad, Pakistan", "Dhaka, Bangladesh", "Kathmandu, Nepal"],
+          "answerIndex": 3,
+          "explanation": "The SAARC (South Asian Association for Regional Cooperation) Secretariat is located in Kathmandu, Nepal. SAARC was established in 1985 with 8 member states: India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, and Afghanistan.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "WTO replaced GATT in which year?",
+          "options": ["1990", "1993", "1995", "1999"],
+          "answerIndex": 2,
+          "explanation": "The World Trade Organisation (WTO) replaced GATT (General Agreement on Tariffs and Trade) on January 1, 1995, following the Uruguay Round of negotiations (1986–1994). WTO is headquartered in Geneva. Unlike GATT (a treaty), WTO is a formal organisation.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

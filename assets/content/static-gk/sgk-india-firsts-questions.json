@@ -1,0 +1,158 @@
+{
+  "topic": "India's Firsts — Politics, Services, Science, Sports & Women",
+  "topicId": "sgk-india-firsts",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who was the first Indian to go to space?",
+          "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Ravish Malhotra"],
+          "answerIndex": 1,
+          "explanation": "Rakesh Sharma became the first Indian (and to date the only Indian citizen) to go to space on April 3, 1984, aboard the Soviet Soyuz T-11 spacecraft. When PM Indira Gandhi asked how India looked from space, he replied 'Saare Jahan se Accha.'",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Who was the first woman President of India?",
+          "options": ["Indira Gandhi", "Sucheta Kripalani", "Pratibha Patil", "Meira Kumar"],
+          "answerIndex": 2,
+          "explanation": "Pratibha Patil became the first woman President of India in 2007 (12th President, 2007–2012). Indira Gandhi was the first woman Prime Minister. Sucheta Kripalani was the first woman Chief Minister (UP, 1963). Meira Kumar was the first woman Speaker of Lok Sabha (2009).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Who was the first Indian to win an individual Olympic gold medal?",
+          "options": ["K. D. Jadhav", "Leander Paes", "Abhinav Bindra", "Karnam Malleswari"],
+          "answerIndex": 2,
+          "explanation": "Abhinav Bindra became the first Indian to win an individual Olympic gold medal at the 2008 Beijing Olympics in the 10m Air Rifle event. K. D. Jadhav won India's first individual Olympic medal (wrestling bronze) in 1952.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "India's first satellite, Aryabhata, was launched in 1975 by:",
+          "options": ["USA (NASA)", "France (CNES)", "Soviet Union (USSR)", "India (ISRO) with PSLV"],
+          "answerIndex": 2,
+          "explanation": "Aryabhata, India's first satellite (1975), was built by ISRO but launched by the Soviet Union using their Kosmos-3M rocket from Kapustin Yar, USSR. India's own launch vehicle (SLV-3) successfully launched Rohini in 1980.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "Who was the first tribal President of India?",
+          "options": ["K. R. Narayanan", "Pratibha Patil", "Ram Nath Kovind", "Droupadi Murmu"],
+          "answerIndex": 3,
+          "explanation": "Droupadi Murmu, a Santali tribal from Jharkhand, became India's first tribal President in 2022 (15th President). K. R. Narayanan was the first Dalit President. Pratibha Patil was the first woman President. Ram Nath Kovind was the second Dalit President.",
+          "source": "SSC CGL 2023",
+          "verified": true
+        },
+        {
+          "text": "India's first Olympic gold medal OVERALL (including team sports) was won in which sport?",
+          "options": ["Wrestling", "Field Hockey", "Boxing", "Shooting"],
+          "answerIndex": 1,
+          "explanation": "India's Men's Field Hockey team won the first Olympic gold at the 1928 Amsterdam Olympics. This was India's first gold in any sport at the Olympics. K. D. Jadhav (1952 wrestling bronze) was India's first INDIVIDUAL medal, not gold.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Who was India's first Chief Justice?",
+          "options": ["H. J. Kania", "M. C. Chagla", "Patanjali Shastri", "B. K. Mukherjea"],
+          "answerIndex": 0,
+          "explanation": "Harilal Jekisundas Kania (H. J. Kania) was India's first Chief Justice of India, serving from January 26, 1950 to November 6, 1951. SSC frequently tests his full name. He was born in Ahmedabad.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Who was the first Indian to become a member of the Indian Civil Service (ICS)?",
+          "options": ["Rabindranath Tagore", "Satyendranath Tagore", "Surendranath Banerjee", "Gopal Krishna Gokhale"],
+          "answerIndex": 1,
+          "explanation": "Satyendranath Tagore, the elder brother of Rabindranath Tagore, became the first Indian to join the Indian Civil Service (ICS) in 1863. Surendranath Banerjee also joined ICS but was later dismissed. This 'Tagore vs Tagore' confusion is an SSC favourite.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "India's first South Indian Prime Minister was:",
+          "options": ["H. D. Deve Gowda", "P. V. Narasimha Rao", "I. K. Gujral", "V. P. Singh"],
+          "answerIndex": 1,
+          "explanation": "P. V. Narasimha Rao (1991–1996) was India's first South Indian Prime Minister, from Andhra Pradesh. H. D. Deve Gowda (1996–1997) was the first PM from Karnataka and the first from Janata Dal. Rao is also known as the architect of India's 1991 economic reforms.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Who was India's first woman IPS (Indian Police Service) officer?",
+          "options": ["C. B. Muthamma", "Kiran Bedi", "Sucheta Kripalani", "Bachendri Pal"],
+          "answerIndex": 1,
+          "explanation": "Kiran Bedi (1972 batch) was India's first woman IPS officer. She served as Inspector General of Tihar Jail, UN civilian police adviser, and later Lt. Governor of Puducherry. C. B. Muthamma was the first woman IFS officer (1948).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Who was the first Indian woman to climb Mount Everest?",
+          "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+          "answerIndex": 1,
+          "explanation": "Bachendri Pal became the first Indian woman to scale Mount Everest on May 23, 1984. She was also the fifth woman in the world to climb Everest. Santosh Yadav climbed Everest twice (1992, 1993).",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "India's first film 'Raja Harishchandra' (1913) was directed by:",
+          "options": ["Satyajit Ray", "Ardeshir Irani", "Dadasaheb Phalke", "Bimal Roy"],
+          "answerIndex": 2,
+          "explanation": "Raja Harishchandra (1913) was directed by Dadasaheb Phalke (Dhundiraj Govind Phalke), known as the Father of Indian Cinema. It was a silent film. Ardeshir Irani directed India's first talkie (Alam Ara, 1931). Satyajit Ray was a later director.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "Chandrayaan-3 made India the first country to land a spacecraft at the Moon's:",
+          "options": ["Northern equatorial region", "Southern polar region", "Farside (dark side)", "Mare Imbrium"],
+          "answerIndex": 1,
+          "explanation": "Chandrayaan-3's Vikram lander touched down on August 23, 2023, in the southern polar region of the Moon — making India the first country to achieve a soft landing near the lunar south pole. India was the 4th country overall to land on the Moon.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        },
+        {
+          "text": "India's first non-Congress Prime Minister was:",
+          "options": ["Charan Singh", "Morarji Desai", "V. P. Singh", "H. D. Deve Gowda"],
+          "answerIndex": 1,
+          "explanation": "Morarji Desai became India's first non-Congress Prime Minister in 1977, leading the Janata Party coalition after defeating Indira Gandhi following the Emergency. He was also India's first PM from Gujarat.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Who was the first Speaker of the Lok Sabha?",
+          "options": ["Hukam Singh", "G. V. Mavalankar", "M. A. Ayyangar", "Neelam Sanjiva Reddy"],
+          "answerIndex": 1,
+          "explanation": "Ganesh Vasudev Mavalankar (G. V. Mavalankar) was the first Speaker of the Lok Sabha, serving from May 1952 until his death in February 1956. He was also the last President of the Constituent Assembly before the first Parliament was constituted.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Who is considered the 'Father of the Indian Space Programme'?",
+          "options": ["A. P. J. Abdul Kalam", "Satish Dhawan", "Vikram Sarabhai", "Homi J. Bhabha"],
+          "answerIndex": 2,
+          "explanation": "Dr. Vikram Sarabhai is considered the Father of the Indian Space Programme. He established INCOSPAR in 1962 and ISRO in 1969. He also set up the first rocket launch facility at Thumba, Kerala. A. P. J. Abdul Kalam is the Missile Man; Homi Bhabha is the Father of India's nuclear programme.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

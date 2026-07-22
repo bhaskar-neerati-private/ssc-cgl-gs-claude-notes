@@ -1,0 +1,158 @@
+{
+  "topic": "Famous Books & Authors — Leaders, Scientists & Literary Works",
+  "topicId": "sgk-books-authors",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Mahatma Gandhi's autobiography 'My Experiments with Truth' was originally written in which language?",
+          "options": ["Hindi", "English", "Gujarati", "Marathi"],
+          "answerIndex": 2,
+          "explanation": "Gandhi's autobiography, known in Gujarati as 'Satya ne Prayogo' (Satya ke Prayog in Hindi), was originally written in Gujarati and serialised in his journal Navajivan between 1925 and 1929. It was translated to English by Mahadev Desai.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Jawaharlal Nehru wrote 'The Discovery of India' while imprisoned in which fort?",
+          "options": ["Red Fort", "Naini Prison", "Ahmednagar Fort", "Andaman Cellular Jail"],
+          "answerIndex": 2,
+          "explanation": "Nehru wrote The Discovery of India in 1944 while imprisoned in Ahmednagar Fort (Maharashtra) — his longest imprisonment. The book covers India's history and civilisational legacy from the Indus Valley to modern times.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The novel 'Anand Math', which contains 'Vande Mataram', was written by:",
+          "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Munshi Premchand", "Sarath Chandra Chattopadhyay"],
+          "answerIndex": 1,
+          "explanation": "Anand Math (1882) was written by Bankim Chandra Chattopadhyay (also spelled Chatterjee). The song Vande Mataram appears in this novel. The novel is set during the Sannyasi Rebellion against British rule in Bengal.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "'Wings of Fire' is the autobiography of:",
+          "options": ["Sunil Gavaskar", "Kiran Bedi", "A. P. J. Abdul Kalam", "Vikram Sarabhai"],
+          "answerIndex": 2,
+          "explanation": "Wings of Fire is the autobiography of A. P. J. Abdul Kalam, co-authored with Arun Tiwari (1999). It covers his childhood in Rameswaram, his scientific career at ISRO and DRDO, and his work on India's missile programme.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "'Poverty and Un-British Rule in India' was the book that first articulated the 'Drain of Wealth' theory. Its author was:",
+          "options": ["Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Dadabhai Naoroji", "Lala Lajpat Rai"],
+          "answerIndex": 2,
+          "explanation": "Dadabhai Naoroji's 'Poverty and Un-British Rule in India' (1901) first systematically articulated the economic drain theory — arguing that British rule was draining India's wealth to Britain. He was known as the 'Grand Old Man of India.'",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "Both 'Ain-i-Akbari' and 'Akbarnama' were written by the same author. Who was it?",
+          "options": ["Babur", "Birbal", "Abul Fazl", "Todar Mal"],
+          "answerIndex": 2,
+          "explanation": "Both Ain-i-Akbari (administration under Akbar) and Akbarnama (history of Akbar's reign, in 3 volumes) were written by Abul Fazl, Akbar's court historian and one of the 'Nine Gems' (Navratnas) of his court.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Al-Biruni, who wrote 'Tahqiq-i-Hind' (Kitab-ul-Hind), came to India with which ruler?",
+          "options": ["Timur", "Babur", "Mahmud of Ghazni", "Muhammad bin Tughluq"],
+          "answerIndex": 2,
+          "explanation": "Abu Rayhan al-Biruni was a 11th-century Arab scholar who came to India with Mahmud of Ghazni in the early 11th century. He learned Sanskrit and wrote Tahqiq-i-Hind (also called Kitab-ul-Hind), a detailed account of Indian civilisation.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Sachin Tendulkar's autobiography is titled:",
+          "options": ["The Test of My Life", "Playing It My Way", "Cricket: My Style", "On Top of the World"],
+          "answerIndex": 1,
+          "explanation": "Sachin Tendulkar's autobiography is Playing It My Way (2014), co-authored with Boria Majumdar. It covers his cricket career from the age of 11 to retirement. SSC frequently tests sportsperson-autobiography pairs.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "Satyendranath Tagore, the first Indian to join the ICS (1863), was related to Rabindranath Tagore as his:",
+          "options": ["Father", "Son", "Younger brother", "Elder brother"],
+          "answerIndex": 3,
+          "explanation": "Satyendranath Tagore was Rabindranath Tagore's elder brother. He was the first Indian to join the Indian Civil Service (ICS) in 1863, clearing the exam in London. This Tagore vs Tagore connection is frequently tested.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "'A Passage to India' was written by which author?",
+          "options": ["Rudyard Kipling", "E. M. Forster", "George Orwell", "Graham Greene"],
+          "answerIndex": 1,
+          "explanation": "A Passage to India (1924) was written by E. M. Forster, a British novelist. The book explores British-Indian relations through the lens of a trip to the Marabar Caves. It is NOT written by an Indian author despite the title suggesting otherwise.",
+          "source": "SSC CHSL 2020",
+          "verified": false
+        },
+        {
+          "text": "'Godan' by Munshi Premchand depicts the life of:",
+          "options": ["Urban middle class", "Revolutionary freedom fighters", "Rural peasant farmers", "Colonial administrators"],
+          "answerIndex": 2,
+          "explanation": "Godan (Gift of a Cow, 1936) is Premchand's masterpiece, depicting the life of Hori Mahato, a rural farmer in UP struggling against debt, feudalism, and social oppression. It is considered the greatest Hindi novel of the 20th century.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        },
+        {
+          "text": "Which book by Nehru was written as letters to his daughter Indira from prison?",
+          "options": ["Discovery of India", "Autobiography (Towards Freedom)", "Glimpses of World History", "India and the World"],
+          "answerIndex": 2,
+          "explanation": "Glimpses of World History consists of 196 letters Nehru wrote to Indira from Naini Prison (1930–1933), covering world history from ancient civilisations to the 1930s. Discovery of India was written in Ahmednagar Fort in 1944.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The book 'India Wins Freedom' was written by:",
+          "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Maulana Abul Kalam Azad", "Sardar Patel"],
+          "answerIndex": 2,
+          "explanation": "India Wins Freedom (1959) was written by Maulana Abul Kalam Azad, describing the events leading to India's independence and partition. Some portions were sealed for 30 years after his death, as per his instructions, and were published fully in 1988.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which work of Rabindranath Tagore won him the Nobel Prize for Literature in 1913?",
+          "options": ["Gora", "The Home and the World", "Gitanjali", "Jana Gana Mana"],
+          "answerIndex": 2,
+          "explanation": "Gitanjali (Song Offerings, 1910) is the collection of poems by Rabindranath Tagore that won him the Nobel Prize in Literature in 1913. The Nobel citation praised Tagore's 'profoundly sensitive, fresh and beautiful verse.'",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "Milkha Singh's autobiography is titled:",
+          "options": ["The Flying Sikh", "The Race of My Life", "Run India Run", "Gold at Helsinki"],
+          "answerIndex": 1,
+          "explanation": "Milkha Singh's autobiography is The Race of My Life (2013), co-authored with Sonia Sanwalka. His life story was also portrayed in the Bollywood film Bhaag Milkha Bhaag (2013).",
+          "source": "SSC CHSL 2019",
+          "verified": false
+        },
+        {
+          "text": "'Hind Swaraj' by Mahatma Gandhi was written in which year?",
+          "options": ["1906", "1909", "1915", "1920"],
+          "answerIndex": 1,
+          "explanation": "Hind Swaraj was written by Gandhi in 1909 on a ship returning from England to South Africa. It is a critique of modern industrial civilisation and advocates for India's traditional culture and self-rule (Swaraj) through non-violence.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

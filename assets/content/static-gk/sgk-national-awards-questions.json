@@ -1,0 +1,158 @@
+{
+  "topic": "National Awards — Bharat Ratna, Padma, Gallantry & Literary",
+  "topicId": "sgk-national-awards",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who was the first posthumous recipient of the Bharat Ratna?",
+          "options": ["B. R. Ambedkar", "Lal Bahadur Shastri", "Vinoba Bhave", "Sardar Patel"],
+          "answerIndex": 1,
+          "explanation": "Lal Bahadur Shastri (1966) was the first posthumous Bharat Ratna. He died in Tashkent on January 11, 1966, and the award was conferred posthumously that same year.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Param Vir Chakra is awarded for:",
+          "options": ["Peacetime gallantry", "Wartime gallantry in presence of enemy", "Distinguished public service", "Achievement in science"],
+          "answerIndex": 1,
+          "explanation": "Param Vir Chakra is India's highest wartime military honour, awarded for most conspicuous bravery or act of selfless valour in the face of the enemy.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which is the highest peacetime gallantry award in India?",
+          "options": ["Param Vir Chakra", "Maha Vir Chakra", "Ashoka Chakra", "Kirti Chakra"],
+          "answerIndex": 2,
+          "explanation": "Ashoka Chakra is the highest peacetime gallantry award in India, equivalent to the Param Vir Chakra for wartime service.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Dada Saheb Phalke Award was established in which year?",
+          "options": ["1954", "1969", "1975", "1982"],
+          "answerIndex": 1,
+          "explanation": "The Dada Saheb Phalke Award was established in 1969, named after Dadasaheb Phalke who made India's first film Raja Harishchandra (1913). It is given for lifetime achievement in cinema.",
+          "source": "SSC MTS 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "The shape of the Bharat Ratna medal was changed from circular to what shape in 1955?",
+          "options": ["Star", "Peepal leaf", "Lotus petal", "Chakra wheel"],
+          "answerIndex": 1,
+          "explanation": "In 1955, the Bharat Ratna medal was redesigned from a circular gold medallion to a peepal leaf shape. The criteria were also expanded in 1955 to include public service beyond arts/literature/science.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "Which sportsperson received the Bharat Ratna while still an active cricketer?",
+          "options": ["Kapil Dev", "Sunil Gavaskar", "Sachin Tendulkar", "M. S. Dhoni"],
+          "answerIndex": 2,
+          "explanation": "Sachin Tendulkar received the Bharat Ratna in 2014 when he was 40 years old — the youngest recipient. He had retired from cricket in November 2013, just months before the award.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "The Khel Ratna award was renamed 'Major Dhyan Chand Khel Ratna' in which year?",
+          "options": ["2019", "2020", "2021", "2022"],
+          "answerIndex": 2,
+          "explanation": "In August 2021, PM Narendra Modi renamed the Rajiv Gandhi Khel Ratna Award to Major Dhyan Chand Khel Ratna Award following demands from hockey players after India's Olympic bronze in Tokyo 2020.",
+          "source": "SSC CGL 2022",
+          "verified": true
+        },
+        {
+          "text": "Which of the following awards is given to outstanding coaches?",
+          "options": ["Arjuna Award", "Dronacharya Award", "Dhyan Chand Award", "Rashtriya Khel Protsahan"],
+          "answerIndex": 1,
+          "explanation": "Dronacharya Award is given for outstanding coaches. It is named after Dronacharya (Drona), the legendary archery teacher from the Mahabharata. Arjuna Award is for athletes.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "Who was the first non-Indian citizen to receive the Bharat Ratna?",
+          "options": ["Nelson Mandela", "Mother Teresa", "Khan Abdul Ghaffar Khan", "Abdul Kalam"],
+          "answerIndex": 1,
+          "explanation": "Mother Teresa, an Albanian-born nun, was the first non-Indian citizen to receive the Bharat Ratna (1980). Nelson Mandela (South Africa) received it in 1990. Khan Abdul Ghaffar Khan received it in 1987.",
+          "source": "SSC CGL 2016",
+          "verified": false
+        },
+        {
+          "text": "The Maulana Abul Kalam Azad (MAKA) Trophy is awarded to:",
+          "options": ["Best sportsperson of the year", "Best university in overall sports performance", "Best cricket team", "Best sports journalist"],
+          "answerIndex": 1,
+          "explanation": "The MAKA Trophy is given to the university with the best overall sports performance. It is the oldest sports award instituted by the Government of India, predating even the Arjuna Award.",
+          "source": "SSC CGL 2018",
+          "verified": false
+        },
+        {
+          "text": "M. S. Subbulakshmi was the first musician to receive which award?",
+          "options": ["Sangeet Natak Akademi Fellowship", "Padma Vibhushan", "Bharat Ratna", "Dada Saheb Phalke Award"],
+          "answerIndex": 2,
+          "explanation": "M. S. Subbulakshmi was the first musician to receive the Bharat Ratna (1998). She was a Carnatic vocalist and is considered one of the greatest musicians of the 20th century.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Padma awards in India are announced on:",
+          "options": ["Independence Day (August 15)", "Republic Day (January 26)", "Republic Day Eve (January 25)", "Gandhi Jayanti (October 2)"],
+          "answerIndex": 2,
+          "explanation": "Padma awards are announced on Republic Day Eve (January 25) each year, though the actual presentation ceremony by the President takes place in March or April.",
+          "source": "SSC CHSL 2021",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "First Param Vir Chakra was awarded posthumously to:",
+          "options": ["Captain Vikram Batra", "Major Somnath Sharma", "Lance Naik Albert Ekka", "Second Lieutenant Arun Khetarpal"],
+          "answerIndex": 1,
+          "explanation": "Major Somnath Sharma received the first Param Vir Chakra (posthumous) for his gallantry during the Kashmir operations in 1947. He was killed in action on November 3, 1947.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following Bharat Ratna recipients was the first Chief Minister to receive the award?",
+          "options": ["Indira Gandhi", "M. G. Ramachandran (MGR)", "Jawaharlal Nehru", "Charan Singh"],
+          "answerIndex": 1,
+          "explanation": "M. G. Ramachandran (MGR), Chief Minister of Tamil Nadu, was the first Chief Minister to receive the Bharat Ratna (1988). He was also an actor-politician.",
+          "source": "SSC CGL 2020",
+          "verified": false
+        },
+        {
+          "text": "The National Film Award for Best Film is called:",
+          "options": ["Golden Globe", "Swarna Kamal (Golden Lotus)", "Rajat Kamal (Silver Lotus)", "Filmfare Award"],
+          "answerIndex": 1,
+          "explanation": "The National Film Award for Best Film is called Swarna Kamal (Golden Lotus). Other National Film Awards are given as Rajat Kamal (Silver Lotus). These are government awards, distinct from commercial awards like Filmfare.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "How many Bharat Ratna awards were announced in 2024?",
+          "options": ["3", "4", "5", "6"],
+          "answerIndex": 2,
+          "explanation": "In 2024, five Bharat Ratna awards were announced: Karpoori Thakur (posthumous), L. K. Advani, M. S. Swaminathan (posthumous), Chaudhary Charan Singh (posthumous), and P. V. Narasimha Rao (posthumous).",
+          "source": "SSC CGL 2024",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

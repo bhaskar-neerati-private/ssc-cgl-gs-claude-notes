@@ -1,0 +1,158 @@
+{
+  "topic": "National & International Days, Weeks & Themes",
+  "topicId": "sgk-important-days",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "National Science Day is celebrated on February 28 to commemorate:",
+          "options": ["C. V. Raman's birthday", "Announcement of Raman Effect in 1928", "India's first nuclear test", "ISRO's first satellite launch"],
+          "answerIndex": 1,
+          "explanation": "National Science Day is observed on February 28 to mark the announcement of the Raman Effect on February 28, 1928 by C. V. Raman. It is NOT his birthday (which was November 7, 1888). The day promotes scientific temper and science communication.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Children's Day in India is celebrated on:",
+          "options": ["November 14", "November 20", "October 2", "December 1"],
+          "answerIndex": 0,
+          "explanation": "Children's Day (Bal Diwas) in India is celebrated on November 14, the birthday of Jawaharlal Nehru (India's first PM), who was known for his love of children. The UN's Universal Children's Day is November 20 — a different date.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "World Environment Day is celebrated on:",
+          "options": ["April 22", "June 5", "March 22", "October 4"],
+          "answerIndex": 1,
+          "explanation": "World Environment Day is celebrated on June 5 each year, organised by UNEP since 1973. The date marks the opening of the Stockholm Conference on the Human Environment in 1972. April 22 is Earth Day — a different occasion.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The International Day of Yoga is observed on:",
+          "options": ["June 5", "June 21", "August 15", "January 12"],
+          "answerIndex": 1,
+          "explanation": "International Day of Yoga is observed on June 21, the summer solstice. It was proposed by PM Narendra Modi at the UN General Assembly in September 2014 and first observed in 2015. India co-sponsored the resolution with 177 nations.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "World Teachers' Day (UNESCO) is observed on October 5. On what date is Teachers' Day observed in INDIA?",
+          "options": ["October 5", "September 5", "November 14", "January 12"],
+          "answerIndex": 1,
+          "explanation": "India observes Teachers' Day on September 5, the birthday of Dr. S. Radhakrishnan (philosopher and 2nd President). The global UNESCO World Teachers' Day is October 5. Both dates are frequently tested together to cause confusion.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Kargil Vijay Diwas is observed on July 26. What is Vijay Diwas (December 16) commemorated for?",
+          "options": ["Kargil War victory", "1962 war with China", "1971 war and Bangladesh Liberation", "Operation Shakti"],
+          "answerIndex": 2,
+          "explanation": "Vijay Diwas on December 16 commemorates India's victory in the 1971 war with Pakistan, which led to the creation of Bangladesh. Pakistan's Lt. Gen. A. A. K. Niazi signed the instrument of surrender with 93,000 troops.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "International Mother Language Day is observed on February 21. It was established in memory of:",
+          "options": ["Hindi Language movement in Bihar", "Bangladesh Language Movement of 1952", "Sanskrit revival movement", "Tamil Sangam literature period"],
+          "answerIndex": 1,
+          "explanation": "International Mother Language Day (February 21) was proclaimed by UNESCO in 1999 in memory of the Language Movement in Bangladesh (then East Pakistan) on February 21, 1952, when students were killed protesting to preserve Bengali language.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "National Unity Day (October 31) is related to which national leader's birthday?",
+          "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Indira Gandhi"],
+          "answerIndex": 2,
+          "explanation": "National Unity Day (Rashtriya Ekta Diwas) is observed on October 31, the birthday of Sardar Vallabhbhai Patel — the 'Iron Man of India' who integrated 562 princely states into the Indian Union. The 'Run for Unity' is held on this day.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "World Blood Donor Day (June 14) is the birthday of which scientist?",
+          "options": ["Alexander Fleming", "Karl Landsteiner", "Louis Pasteur", "Jonas Salk"],
+          "answerIndex": 1,
+          "explanation": "World Blood Donor Day on June 14 marks the birthday of Karl Landsteiner (born 1868), the Austrian biologist who discovered the ABO blood group system in 1901 and later the Rh factor. He received the Nobel Prize in Physiology in 1930.",
+          "source": "SSC CGL 2021",
+          "verified": false
+        },
+        {
+          "text": "National Technology Day (May 11) commemorates:",
+          "options": ["Aryabhata satellite launch (1975)", "Pokhran-II nuclear tests (1998)", "Chandrayaan-1 launch (2008)", "India's first computer installation"],
+          "answerIndex": 1,
+          "explanation": "National Technology Day is observed on May 11 to commemorate India's successful nuclear tests at Pokhran (Operation Shakti) on May 11, 1998. The day also marks the successful test flight of India's first indigenous aircraft Hansa-3.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "World Food Day (October 16) marks the founding anniversary of which organisation?",
+          "options": ["WFP (World Food Programme)", "FAO (Food and Agriculture Organisation)", "IFAD", "UNICEF"],
+          "answerIndex": 1,
+          "explanation": "World Food Day is observed on October 16, the anniversary of the founding of the Food and Agriculture Organisation (FAO) on October 16, 1945. The day aims to raise awareness about food security and end world hunger.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Hindi Diwas (September 14) is different from World Hindi Day (January 10). What does September 14 mark?",
+          "options": ["Premchand's birthday", "Hindi as official language of India adopted (1949)", "First Hindi newspaper published", "Hindi as official UN language"],
+          "answerIndex": 1,
+          "explanation": "Hindi Diwas is observed on September 14 to mark the day (September 14, 1949) when the Constituent Assembly of India adopted Hindi in Devanagari script as the official language of the Union. World Hindi Day (January 10) marks the first World Hindi Conference (1975, Nagpur).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "World Health Day is celebrated on April 7 to mark which event?",
+          "options": ["Discovery of penicillin", "WHO's founding in 1948", "First smallpox vaccine", "UN's health declaration"],
+          "answerIndex": 1,
+          "explanation": "World Health Day is celebrated on April 7 — the anniversary of the founding of the World Health Organisation (WHO) on April 7, 1948. The day is used to focus on a specific health theme each year (e.g., mental health, diabetes, etc.).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "National Sports Day is celebrated on August 29 to honour:",
+          "options": ["Milkha Singh", "P. T. Usha", "Major Dhyan Chand", "Sunil Gavaskar"],
+          "answerIndex": 2,
+          "explanation": "National Sports Day is celebrated on August 29, the birthday of Major Dhyan Chand — India's greatest hockey player who led India to three Olympic gold medals (1928, 1932, 1936). The Khel Ratna award was renamed after him in 2021.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Human Rights Day (December 10) marks which occasion?",
+          "options": ["UN's founding (1945)", "UDHR adopted by UN General Assembly (1948)", "Gandhi's birthday", "Abolition of slavery"],
+          "answerIndex": 1,
+          "explanation": "Human Rights Day is observed on December 10, the anniversary of the adoption of the Universal Declaration of Human Rights (UDHR) by the UN General Assembly on December 10, 1948. Eleanor Roosevelt chaired the committee that drafted it.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Engineer's Day in India (September 15) honours which engineer?",
+          "options": ["Homi J. Bhabha", "Vikram Sarabhai", "M. Visvesvaraya", "A. P. J. Abdul Kalam"],
+          "answerIndex": 2,
+          "explanation": "Engineer's Day is celebrated on September 15 in honour of Sir Mokshagundam Visvesvaraya (M. Visvesvaraya), a great civil engineer and statesman who was Dewan of Mysore. He was awarded the Bharat Ratna in 1955.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

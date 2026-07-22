@@ -1,0 +1,158 @@
+{
+  "topic": "India Superlatives — Largest, Longest, Highest & Records",
+  "topicId": "sgk-india-superlatives",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the largest state in India by area?",
+          "options": ["Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Maharashtra"],
+          "answerIndex": 2,
+          "explanation": "Rajasthan is the largest state in India by area (~3.42 lakh sq km). Madhya Pradesh was the largest state until 2000, when Chhattisgarh was carved out of it. Rajasthan is home to the Thar Desert, which is India's largest desert.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The oldest national park in India is:",
+          "options": ["Ranthambore National Park", "Jim Corbett National Park", "Kanha National Park", "Hemis National Park"],
+          "answerIndex": 1,
+          "explanation": "Jim Corbett National Park (established 1936 as Hailey National Park) is India's oldest national park, located in Uttarakhand. It was the first to come under Project Tiger in 1973. Hemis National Park in Ladakh is the largest national park in India.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The highest dam in India is:",
+          "options": ["Bhakra Dam", "Hirakud Dam", "Tehri Dam", "Nagarjunasagar Dam"],
+          "answerIndex": 2,
+          "explanation": "Tehri Dam in Uttarakhand (on Bhagirathi river) is India's highest dam at 260.5 metres. Bhakra Dam (Himachal Pradesh) is the 2nd highest. Hirakud Dam in Odisha is the longest dam (~26 km). Tehri is also the 8th highest dam in the world.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Statue of Unity, the world's tallest statue, is dedicated to:",
+          "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "B. R. Ambedkar"],
+          "answerIndex": 2,
+          "explanation": "The Statue of Unity, at 182 metres (597 feet), is dedicated to Sardar Vallabhbhai Patel — the 'Iron Man of India.' It is located in Kevadia (Ekta Nagar), Gujarat, near the Narmada Dam. It was inaugurated on October 31, 2018 (Sardar Patel's birthday).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "Chilika Lake (Odisha) holds which distinction?",
+          "options": ["Largest freshwater lake in India", "Largest saltwater lake in India", "Largest coastal lagoon in Asia", "Deepest lake in India"],
+          "answerIndex": 2,
+          "explanation": "Chilika Lake is the largest coastal lagoon in Asia and the largest brackish water lake in India. It is NOT the largest freshwater lake (that's Wular Lake, J&K) or saltwater lake (that's Sambhar, Rajasthan). Chilika is a Ramsar wetland and a major flamingo habitat.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "India's longest road bridge, the Bhupen Hazarika Setu, is located over which river?",
+          "options": ["Brahmaputra", "Ganga", "Lohit", "Barak"],
+          "answerIndex": 2,
+          "explanation": "The Dhola-Sadiya Bridge (named Bhupen Hazarika Setu after the legendary singer), at 9.15 km, is India's longest road bridge. It crosses the Lohit river (a tributary of the Brahmaputra) in Assam, connecting Assam to Arunachal Pradesh.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Atal Tunnel (Rohtang) holds which distinction?",
+          "options": ["Longest railway tunnel in India", "World's longest highway tunnel above 10,000 feet", "Deepest tunnel in Asia", "India's first underwater tunnel"],
+          "answerIndex": 1,
+          "explanation": "Atal Tunnel (Rohtang) at 9.02 km is the world's longest highway tunnel above 10,000 feet altitude, connecting Manali to Leh through the Pir Panjal range. It was inaugurated by PM Modi in October 2020. The Pir Panjal Tunnel is India's longest railway tunnel (J&K).",
+          "source": "SSC CGL 2022",
+          "verified": true
+        },
+        {
+          "text": "Which state has the highest literacy rate in India (Census 2011)?",
+          "options": ["Mizoram", "Tripura", "Kerala", "Goa"],
+          "answerIndex": 2,
+          "explanation": "Kerala has the highest overall literacy rate (~94%, Census 2011). Mizoram has the highest literacy rate among NE states and also the highest percentage of forest cover (~86%). These two are frequently confused.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "India's Narendra Modi Stadium in Ahmedabad holds which distinction?",
+          "options": ["Tallest cricket pavilion", "World's largest cricket stadium by capacity", "India's first indoor cricket ground", "Oldest international cricket ground"],
+          "answerIndex": 1,
+          "explanation": "Narendra Modi Stadium (formerly Sardar Patel Stadium) in Motera, Ahmedabad has a capacity of 1,32,000 and is the world's largest cricket stadium by seating capacity. It was renovated and renamed in 2020.",
+          "source": "SSC CGL 2021",
+          "verified": true
+        },
+        {
+          "text": "The wettest place in India (and the world) is:",
+          "options": ["Cherrapunji", "Mawsynram", "Agumbe", "Kozhikode"],
+          "answerIndex": 1,
+          "explanation": "Mawsynram in Meghalaya is the wettest place in India and the world (~11,871 mm average annual rainfall). Cherrapunji (also in Meghalaya) held the record earlier and still holds records for extreme rainfall events. Both are often confused.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "India overtook China as the world's most populous country in approximately which year?",
+          "options": ["2020", "2021", "2023", "2025"],
+          "answerIndex": 2,
+          "explanation": "According to UN estimates, India surpassed China as the world's most populous country around April 2023, with approximately 1.429 billion people. India's population continues to grow while China's has stabilised due to its one-child policy legacy.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        },
+        {
+          "text": "The Atal Setu (Mumbai Trans Harbour Link), India's longest sea bridge, was inaugurated in:",
+          "options": ["2022", "2023", "January 2024", "March 2024"],
+          "answerIndex": 2,
+          "explanation": "The Atal Setu (Mumbai Trans Harbour Link), at 21.8 km, was inaugurated on January 12, 2024 by PM Narendra Modi. It connects Sewri (Mumbai) to Nhava (Uran, Raigad) and is India's longest sea bridge, reducing travel time from 1 hour to 20 minutes.",
+          "source": "SSC CGL 2024",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The largest national park in India by area is:",
+          "options": ["Kanha National Park", "Ranthambore National Park", "Jim Corbett National Park", "Hemis National Park"],
+          "answerIndex": 3,
+          "explanation": "Hemis National Park in Ladakh, at ~4,400 sq km, is the largest national park in India. It is famous for the snow leopard. Jim Corbett NP is the oldest. Ranthambore is famous for tigers. Kanha is in Madhya Pradesh.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The longest national highway in India (NH-44) runs between:",
+          "options": ["Delhi to Kanyakumari", "Srinagar to Kanyakumari", "Kolkata to Mumbai", "Mumbai to Chennai"],
+          "answerIndex": 1,
+          "explanation": "NH-44 (formerly NH-7 and parts of NH-1 combined under new numbering) runs approximately 3,745 km from Srinagar (J&K) to Kanyakumari (Tamil Nadu), making it India's longest national highway.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Wular Lake is the largest freshwater lake in India. It is located in:",
+          "options": ["Himachal Pradesh", "Uttarakhand", "Jammu & Kashmir", "Ladakh"],
+          "answerIndex": 2,
+          "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake in India and one of the largest in Asia. It is connected to the Jhelum River and is a Ramsar Wetland. Dalal Begum, on the banks of Wular, is also historically significant.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "India's economy is currently ranked _____ in the world by nominal GDP (2024):",
+          "options": ["3rd", "4th", "5th", "6th"],
+          "answerIndex": 2,
+          "explanation": "India is ranked 5th in the world by nominal GDP (2024), having overtaken the UK in 2022. By Purchasing Power Parity (PPP), India ranks 3rd (after China and USA). India is the fastest-growing major economy and is expected to become the 3rd largest by nominal GDP soon.",
+          "source": "SSC CGL 2024",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

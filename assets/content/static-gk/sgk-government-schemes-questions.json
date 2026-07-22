@@ -1,0 +1,158 @@
+{
+  "topic": "Government Flagship Schemes & Social Programmes",
+  "topicId": "sgk-government-schemes",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) was launched on:",
+          "options": ["August 15, 2014", "August 28, 2014", "October 2, 2014", "January 26, 2015"],
+          "answerIndex": 1,
+          "explanation": "PMJDY was launched on August 28, 2014 — not on Independence Day or Republic Day. Within the first week, 1.8 crore accounts were opened, setting a Guinness World Record. The scheme provides zero-balance bank accounts with RuPay debit cards.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Under Pradhan Mantri Fasal Bima Yojana (PMFBY), the premium for Kharif crops is:",
+          "options": ["1%", "1.5%", "2%", "5%"],
+          "answerIndex": 2,
+          "explanation": "Under PMFBY (2016), farmers pay a maximum premium of 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops. The remaining premium is shared between State and Central governments.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantees how many days of employment per year?",
+          "options": ["60 days", "80 days", "100 days", "150 days"],
+          "answerIndex": 2,
+          "explanation": "MGNREGA (passed 2005, implemented 2006) guarantees 100 days of wage employment per year to rural households willing to do unskilled manual work. The scheme has a social audit provision and women must comprise at least 1/3rd of workers.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Ayushman Bharat — PMJAY provides health insurance coverage of how much per family per year?",
+          "options": ["₹1 lakh", "₹2 lakh", "₹5 lakh", "₹10 lakh"],
+          "answerIndex": 2,
+          "explanation": "Ayushman Bharat — Pradhan Mantri Jan Arogya Yojana (AB-PMJAY), launched in 2018, provides health cover of ₹5 lakh per family per year for secondary and tertiary care hospitalisation. It is the world's largest government-funded health insurance scheme.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky & Confusing",
+      "questions": [
+        {
+          "text": "MUDRA loans are categorised into three tiers. Which tier covers loans up to ₹50,000?",
+          "options": ["Tarun", "Kishor", "Shishu", "Uday"],
+          "answerIndex": 2,
+          "explanation": "Under PM Mudra Yojana (PMMY), the Shishu category covers loans up to ₹50,000; Kishor covers ₹50,001 to ₹5 lakh; Tarun covers ₹5 lakh to ₹10 lakh. MUDRA = Micro Units Development and Refinance Agency.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Ujjwala Yojana was launched on May 1, 2016, at which location in Uttar Pradesh?",
+          "options": ["Varanasi", "Lucknow", "Allahabad", "Ballia"],
+          "answerIndex": 3,
+          "explanation": "The Pradhan Mantri Ujjwala Yojana was launched on May 1, 2016 at Ballia in Uttar Pradesh — a district in eastern UP. The scheme provides free LPG connections to BPL women under the Ministry of Petroleum and Natural Gas.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Samagra Shiksha (2018) merged which three schemes?",
+          "options": ["SSA, RMSA, and Teacher Education", "SSA, Mid Day Meal, and RMSA", "RTE, SSA, and RMSA", "Beti Bachao, SSA, and RMSA"],
+          "answerIndex": 0,
+          "explanation": "Samagra Shiksha (2018) merged: Sarva Shiksha Abhiyan (SSA, for elementary education), Rashtriya Madhyamik Shiksha Abhiyan (RMSA, for secondary), and the Centrally Sponsored Scheme for Teacher Education. It aligns with National Education Policy.",
+          "source": "SSC CGL 2019",
+          "verified": false
+        },
+        {
+          "text": "Under Sukanya Samriddhi Yojana, deposits can be made until the girl attains what age?",
+          "options": ["10 years", "14 years", "18 years", "21 years"],
+          "answerIndex": 1,
+          "explanation": "Under Sukanya Samriddhi Yojana (SSY, 2015), deposits can be made for 14 years from the date of opening the account. The account matures when the girl turns 21 years of age (or at marriage after age 18).",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Tested",
+      "questions": [
+        {
+          "text": "The Beti Bachao Beti Padhao scheme was launched on January 22, 2015, at which city?",
+          "options": ["Varanasi", "Panipat", "Jaipur", "Chandigarh"],
+          "answerIndex": 1,
+          "explanation": "Beti Bachao Beti Padhao was launched at Panipat, Haryana on January 22, 2015. Panipat was selected because Haryana had one of the lowest child sex ratios in India. The scheme is jointly implemented by three ministries.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The PM-KISAN scheme provides ₹6,000 per year to farmers in how many instalments?",
+          "options": ["2 instalments of ₹3,000", "3 instalments of ₹2,000", "4 instalments of ₹1,500", "6 instalments of ₹1,000"],
+          "answerIndex": 1,
+          "explanation": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi), launched in 2019, provides ₹6,000 per year in three equal instalments of ₹2,000 each (every 4 months) directly to farmers' bank accounts through Direct Benefit Transfer.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The PMGSY (rural roads scheme) connects habitations with a minimum population of:",
+          "options": ["100", "250", "500", "1000"],
+          "answerIndex": 2,
+          "explanation": "PMGSY (Pradhan Mantri Gram Sadak Yojana, 2000) aims to connect all habitations with 500+ population (250+ in hilly/tribal/desert areas) with all-weather roads. It falls under the Ministry of Rural Development.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The National Education Policy 2020 replaced which earlier policy?",
+          "options": ["1975 policy", "1986 policy", "1992 policy", "2005 policy"],
+          "answerIndex": 1,
+          "explanation": "NEP 2020 replaced the National Policy on Education of 1986 (with modifications in 1992). It introduced the 5+3+3+4 school structure, recommended mother tongue instruction in early years, and proposed a 50% GER in higher education by 2035.",
+          "source": "SSC CGL 2022",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The Smart Cities Mission was launched in 2015 with a target of developing how many smart cities?",
+          "options": ["50", "75", "100", "150"],
+          "answerIndex": 2,
+          "explanation": "The Smart Cities Mission was launched on June 25, 2015 with the target of developing 100 smart cities through technology-driven urban infrastructure upgradation. The cities were selected through competition (City Challenge).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which scheme provides annual premium of just ₹12 for accident insurance of ₹2 lakh?",
+          "options": ["PMJJBY", "PMSBY", "APY", "PMJDY"],
+          "answerIndex": 1,
+          "explanation": "Pradhan Mantri Suraksha Bima Yojana (PMSBY, 2015) provides accidental death and disability cover of ₹2 lakh for a premium of just ₹12 per year. PMJJBY provides life insurance of ₹2 lakh for ₹330 per year.",
+          "source": "SSC CHSL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Swachh Bharat Mission was launched on which date?",
+          "options": ["August 15, 2014", "September 15, 2014", "October 2, 2014", "November 14, 2014"],
+          "answerIndex": 2,
+          "explanation": "The Swachh Bharat Mission was launched on October 2, 2014 — Gandhi Jayanti — as a tribute to Mahatma Gandhi's 145th birth anniversary. The mission aimed to make India Open Defecation Free (ODF) by October 2, 2019.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "The ICDS (Integrated Child Development Services) scheme was launched in which year?",
+          "options": ["1952", "1965", "1975", "1985"],
+          "answerIndex": 2,
+          "explanation": "ICDS was launched on October 2, 1975, by PM Indira Gandhi. It is India's oldest and largest social welfare programme, providing nutrition, healthcare, and early childhood education through Anganwadi centres across India.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
