@@ -1,0 +1,168 @@
+{
+  "topic": "Ancient South India — Sangam Age, Pallavas & Chalukyas",
+  "topicId": "hist-south-india-ancient",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The 'Tirukkural' was written by:",
+          "options": ["Ilango Adigal", "Tolkappiyar", "Tiruvalluvar", "Sattanar"],
+          "answerIndex": 2,
+          "explanation": "The Tirukkural (1,330 couplets on ethics, polity, and love) was written by Tiruvalluvar. It is called the 'Tamil Veda' and has been translated into 60+ languages. Ilango Adigal wrote Silappatikaram; Tolkappiyar wrote Tolkappiyam (Tamil grammar); Sattanar wrote Manimekalai.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The 'Aihole Inscription' records the victory of Chalukya king Pulakesin II over which king?",
+          "options": ["Ashoka", "Harsha", "Chandragupta II", "Narasimhavarman I"],
+          "answerIndex": 1,
+          "explanation": "The Aihole Inscription (composed by poet Ravikirti) records Pulakesin II's victory over Harsha at the Narmada River, stopping Harsha's southern expansion. This inscription also helps date Pulakesin II's reign and provides valuable historical data. Pulakesin II stopped Harsha at the Narmada — the boundary remained.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Pancha Rathas (Five Rathas) at Mahabalipuram were built by the:",
+          "options": ["Cholas", "Pallavas", "Chalukyas of Badami", "Rashtrakutas"],
+          "answerIndex": 1,
+          "explanation": "The Pancha Rathas (five monolithic rock-cut chariot-temples) at Mahabalipuram (Mamallapuram) were built by the Pallavas during the reign of Narasimhavarman I (Mamalla) — named 'Mamallapuram' after him. They represent five different architectural styles. Named after the five Pandavas and Draupadi.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the oldest surviving Tamil text?",
+          "options": ["Tirukkural", "Silappatikaram", "Manimekalai", "Tolkappiyam"],
+          "answerIndex": 3,
+          "explanation": "Tolkappiyam by Tolkappiyar is the oldest surviving Tamil text — a grammar and poetics manual. While the Sangam anthologies were compiled around the same time, Tolkappiyam is considered the oldest complete surviving work. The Tirukkural and epics came somewhat later within the Sangam period.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What are the emblems of the three Tamil Sangam kingdoms in the correct order (Chera, Chola, Pandya)?",
+          "options": ["Tiger, Fish, Bow", "Bow, Tiger, Fish", "Fish, Bow, Tiger", "Bow, Fish, Tiger"],
+          "answerIndex": 1,
+          "explanation": "Chera = Bow; Chola = Tiger; Pandya = Fish. A useful mnemonic: alphabetical order of kingdom names (Chera, Chola, Pandya) matches the sequence Bow → Tiger → Fish. These emblems appear on royal seals, flags, and coins and are directly tested in SSC.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Kailasanatha Temple at Kanchipuram (the first full structural stone temple in South India) was built by which Pallava ruler?",
+          "options": ["Narasimhavarman I (Mamalla)", "Mahendravarman I", "Narasimhavarman II (Rajasimha)", "Simhavishnu"],
+          "answerIndex": 2,
+          "explanation": "The Kailasanatha Temple at Kanchipuram was built by Narasimhavarman II (Rajasimha, 700–728 CE). It is the oldest structural stone temple in Kanchipuram (as opposed to rock-cut). Narasimhavarman I (Mamalla) built the rock-cut monuments at Mahabalipuram. These two rulers are frequently confused.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which Satavahana ruler is described as 'Destroyer of Sakas, Yavanas and Pahlavas' in the Nasik Inscription?",
+          "options": ["Simuka", "Hala", "Gautamiputra Satakarni", "Vasisthiputra"],
+          "answerIndex": 2,
+          "explanation": "Gautamiputra Satakarni (106–130 CE) is described in the Nasik Praśasti (composed by his mother Gautami Balashri) as 'destroyer of Sakas (Scythians), Yavanas (Greeks), and Pahlavas (Parthians)' — indicating he defeated these three foreign ruling groups. This is the primary source for his achievements.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Arjuna's Penance rock relief at Mahabalipuram is the largest bas-relief in the world. Its alternative name is:",
+          "options": ["Descent of Ganga / Gangavataran", "Birth of Brahma", "Vishnu's Sleep on the Cosmic Ocean", "Churning of the Ocean"],
+          "answerIndex": 0,
+          "explanation": "Arjuna's Penance at Mahabalipuram is also called 'Descent of Ganga' (Gangavataran) — the two-panel bas-relief (~27 × 9 metres) carved from a single granite outcrop. It depicts the mythological descent of the River Ganga from heaven, with hundreds of figures including serpents (nagas), gods, animals, and humans.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "The Roman trading post at Arikamedu (near Pondicherry) is significant because it proves:",
+          "options": [
+            "Romans conquered South India",
+            "Direct commercial contact between Rome and Sangam-era Tamil kingdoms",
+            "Romans introduced Buddhism to India",
+            "Tamil merchants ruled Rome in the 1st century CE"
+          ],
+          "answerIndex": 1,
+          "explanation": "Arikamedu (ancient Poduke) on the Coromandel coast shows clear Roman presence — Mediterranean amphorae, glassware, lamps, and pottery have been found there. This confirms direct Roman trade with Tamil Nadu described in Sangam literature and Roman texts (Pliny the Elder's Natural History mentions trade with 'Poduke').",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Silappatikaram, the Tamil epic, is the story of:",
+          "options": [
+            "A Chola king conquering Lanka",
+            "Kannagi who burns Madurai after her husband Kovalan is unjustly executed",
+            "Manimekalai's Buddhist spiritual journey",
+            "The war between the Cheras and the Pandyas"
+          ],
+          "answerIndex": 1,
+          "explanation": "Silappatikaram ('The Tale of an Anklet') by Ilango Adigal tells the story of Kovalan and Kannagi. Kovalan left his faithful wife Kannagi for a dancer (Madhavi), lost his fortune, and tried to sell Kannagi's anklet in Madurai — but was falsely accused of theft and executed by the Pandya king's order. Kannagi proved his innocence and, in her grief, burned Madurai.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Dravidian temple style is characterised by a pyramidal tower called:",
+          "options": ["Shikhara", "Vimana", "Mandapa", "Gopuram"],
+          "answerIndex": 1,
+          "explanation": "In Dravidian (South Indian) temple architecture, the tower over the sanctum sanctorum (garbhagriha) is called Vimana — and it is pyramidal in shape (tiered). The Gopuram (towering gateway) is the entrance tower — often taller than the Vimana in later temples. In North Indian (Nagara) style, the tower is called Shikhara and is curvilinear.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Who built the Shore Temple at Mahabalipuram?",
+          "options": ["Mahendravarman I", "Narasimhavarman I (Mamalla)", "Narasimhavarman II (Rajasimha)", "Simhavishnu"],
+          "answerIndex": 2,
+          "explanation": "The Shore Temple (8th century CE) was built by Narasimhavarman II (Rajasimha) — the same ruler who built the Kailasanatha Temple at Kanchipuram. It is one of the oldest surviving structural temples in South India and is UNESCO World Heritage Site. It faces east so the rising sun illuminates the sanctum.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The Chalukya king Pulakesin II was defeated and killed by which Pallava ruler?",
+          "options": ["Mahendravarman I", "Narasimhavarman I (Mamalla)", "Simhavishnu", "Narasimhavarman II"],
+          "answerIndex": 1,
+          "explanation": "Narasimhavarman I (Mamalla) defeated Chalukya Pulakesin II in battle (~642 CE) — Pulakesin II died in the conflict or its aftermath. Mamalla earned the title 'Vatapikonda' (Conqueror of Vatapi/Badami — the Chalukya capital). It is the reverse of Pulakesin II's earlier defeat of Harsha.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which port was the most important for Roman trade with the Chola kingdom?",
+          "options": ["Muzaris", "Korkai", "Puhar (Kaveripattinam)", "Sopara"],
+          "answerIndex": 2,
+          "explanation": "Puhar (Kaveripattinam) was the Chola's main port city on the Coromandel Coast — described in the Sangam text Pattinappalai as a cosmopolitan trading hub. Muzaris (Kodungallur, Kerala) was the main port for the Chera kingdom. Both are significant for Roman trade.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "Manimekalai, the sequel to Silappatikaram, was written by:",
+          "options": ["Ilango Adigal", "Sattanar", "Tiruvalluvar", "Tolkappiyar"],
+          "answerIndex": 1,
+          "explanation": "Manimekalai was written by Sattanar (Merchant Sattanar) and is the sequel to Silappatikaram. It follows Manimekalai — the daughter of Kovalan and the dancer Madhavi — on her spiritual journey toward Buddhism. It is a significant Buddhist literary work in Tamil.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Amarvati Stupa (Andhra Pradesh) was a major Buddhist monument built under the patronage of:",
+          "options": ["Gupta dynasty", "Pallava dynasty", "Satavahana dynasty", "Rashtrakuta dynasty"],
+          "answerIndex": 2,
+          "explanation": "The Amaravati Stupa (on the Krishna River, Andhra Pradesh) was expanded and decorated primarily under Satavahana patronage (1st century BCE–3rd century CE). Its white marble sculptural panels are considered the finest example of Andhra school Buddhist art. The sculptures are now in Chennai Museum and the British Museum.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "topic": "Maratha Empire — Shivaji, Peshwas & Panipat III",
+  "topicId": "hist-maratha-empire",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Shivaji was crowned as 'Chhatrapati' at which fort?",
+          "options": ["Torna Fort", "Kondana Fort", "Raigad Fort", "Sindhudurg Fort"],
+          "answerIndex": 2,
+          "explanation": "Shivaji was crowned Chhatrapati (Supreme Sovereign) on June 6, 1674 CE at Raigad Fort (Maharashtra). The ceremony was performed by Gagabhatta (a Brahmin from Varanasi). Raigad Fort is also where Shivaji died in 1680 CE and is now a major historic monument.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Third Battle of Panipat (1761 CE) was fought between the Marathas and:",
+          "options": ["Babur", "Hemu", "Ahmad Shah Abdali (Durrani)", "The British East India Company"],
+          "answerIndex": 2,
+          "explanation": "The Third Battle of Panipat (January 14, 1761) was between the Maratha Empire (under Sadashivrao Bhau and Viswas Rao) and Ahmad Shah Abdali (Durrani, Afghan king) allied with the Rohillas and Nawab Shuja-ud-Daula of Awadh. The Marathas suffered a catastrophic defeat.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Who was Shivaji's mother, considered the most important influence on his life?",
+          "options": ["Tarabai", "Jijabai (Jijamata)", "Soyrabai", "Putlabai"],
+          "answerIndex": 1,
+          "explanation": "Jijabai (Jijamata) was Shivaji's mother — the most profound influence on his character, instilling pride in Hindu traditions, the concept of Hindavi Swarajya, and determination to build an independent kingdom. She died just 12 days after Shivaji's coronation in 1674. She is revered as a saint in Maharashtra.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Peshwa was the title given to which office in the Maratha administration?",
+          "options": ["Military commander-in-chief", "Prime minister", "Chief Justice", "Revenue minister"],
+          "answerIndex": 1,
+          "explanation": "Peshwa = prime minister in Shivaji's Ashtapradhan (council of eight ministers). After Shivaji's death, the Peshwas of the Bhat family (Pune) gradually became the de facto rulers of the Maratha Empire, while the Chhatrapati remained nominal. The Peshwaship lasted until the Third Anglo-Maratha War (1817–18).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Shivaji used which concealed weapon against Afzal Khan at the Battle of Pratapgarh (1659)?",
+          "options": ["A poison-tipped sword", "Bagh Nakh (tiger claws)", "A hidden pistol", "A garrote wire"],
+          "answerIndex": 1,
+          "explanation": "Shivaji used Bagh Nakh ('tiger claws') — a concealed iron weapon worn across the knuckles with five curved blades — when he embraced Afzal Khan during their supposed peace meeting at Pratapgarh. He drove these into the Khan's belly, mortally wounding him. The Bagh Nakh is now preserved at the Satara Museum and the Victoria and Albert Museum (London).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "What were 'Chauth' and 'Sardeshmukhi' — the two Maratha taxes?",
+          "options": [
+            "Chauth = 1/10th of revenue; Sardeshmukhi = 1/4th of revenue",
+            "Chauth = 1/4th of revenue as protection tax; Sardeshmukhi = additional 10%",
+            "Chauth = tribute from Hindu kingdoms; Sardeshmukhi = tribute from Muslim kingdoms",
+            "Chauth = tax on merchants; Sardeshmukhi = tax on landlords"
+          ],
+          "answerIndex": 1,
+          "explanation": "Chauth = 1/4th (one-quarter) of the land revenue of a territory — paid to the Marathas as 'protection.' Sardeshmukhi = an additional 10% of land revenue — claimed as the hereditary right of the Maratha Chhatrapati as 'chief headman' of the Deccan. Together, these gave the Marathas enormous economic power over territories they didn't directly rule.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Baji Rao I, the greatest Peshwa, is described as having 'never lost a battle.' In his famous march to Delhi (~1737), he demonstrated:",
+          "options": [
+            "Siege warfare superiority",
+            "Naval power on the Yamuna",
+            "Lightning cavalry tactics covering 900+ km to Delhi's outskirts",
+            "The use of European-trained artillery"
+          ],
+          "answerIndex": 2,
+          "explanation": "Baji Rao I's 1737 march to Delhi was a lightning cavalry raid — covering over 900 km from the Deccan to the outskirts of Delhi in a matter of weeks. The Mughal Emperor Muhammad Shah was panic-stricken. The raid demonstrated the Marathas' ability to project power across all of India. Baji Rao argued: 'Strike at the trunk; the branches will fall.'",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Shivaji escaped from Aurangzeb's custody in Agra by hiding in:",
+          "options": ["A hay cart leaving the fort", "Large baskets (of sweets/fruit) carried out of his house arrest", "A river boat on the Yamuna", "Disguised as a Sufi saint with followers"],
+          "answerIndex": 1,
+          "explanation": "Shivaji escaped from house arrest in Agra in 1666 CE — the most popular version says he hid in large baskets (of sweets, fruits, or goods) that were routinely sent out as charity. His son Sambhaji was smuggled out separately. They made their way through Rajasthan and back to Maharashtra in disguise.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "What was Shivaji's administrative council called, and how many ministers did it have?",
+          "options": ["Dashapradhan — 10 ministers", "Ashtapradhan — 8 ministers", "Panchapradhan — 5 ministers", "Saptanga — 7 ministers"],
+          "answerIndex": 1,
+          "explanation": "Shivaji's council was called the Ashtapradhan (Council of Eight Ministers): Peshwa (PM), Mazumdar (accountant), Dabir (foreign secretary), Senapati/Sar-i-Naubat (military chief), Nyayadhish (chief justice), Panditrao (religious affairs), Sumant (superintendent of state/household), and Waqianavish (correspondence). The Peshwa was first among equals.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "Sambhaji (Shivaji's son) was captured by Aurangzeb and executed in which year?",
+          "options": ["1680 CE", "1689 CE", "1699 CE", "1707 CE"],
+          "answerIndex": 1,
+          "explanation": "Sambhaji was captured in February 1689 CE at Sangameshwar (Maharashtra) and was publicly tortured and executed (March 1689) by Aurangzeb — reportedly for refusing to convert to Islam. His martyrdom galvanised Maratha resistance rather than ending it. His brother Rajaram continued the fight.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Tarabai (regent 1700–1707) who effectively led Maratha resistance after Rajaram's death was:",
+          "options": [
+            "Shivaji's daughter",
+            "Sambhaji's wife",
+            "Rajaram's widow and mother of Shivaji II",
+            "Baji Rao I's sister"
+          ],
+          "answerIndex": 2,
+          "explanation": "Tarabai was Rajaram's widow (Shivaji's daughter-in-law). After Rajaram died (1700), she acted as regent for her son Shivaji II and effectively commanded the Maratha armies. She raided deep into Mughal territory — into Malwa and Gujarat — while Aurangzeb was still alive and supposedly besieging Maratha forts. She is one of India's greatest female military leaders.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Treaty of Salbai (1782), which ended the First Anglo-Maratha War, resulted in:",
+          "options": [
+            "The British conquering Pune",
+            "The Peshwa becoming a British pensioner",
+            "Status quo — roughly the pre-war boundaries restored",
+            "The Marathas receiving Surat from the British"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Treaty of Salbai (May 1782) ended the First Anglo-Maratha War essentially as a status quo agreement — each side returned most captured territories. The British failed to impose their preferred candidate on the Peshwaship. This was actually a setback for British ambitions in the Deccan — they had to wait for the Second and Third Anglo-Maratha Wars to gain supremacy.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The greatest Peshwa who 'never lost a battle' was:",
+          "options": ["Balaji Vishwanath", "Baji Rao I", "Balaji Baji Rao (Nana Saheb)", "Madhav Rao I"],
+          "answerIndex": 1,
+          "explanation": "Baji Rao I (1720–1740 CE) is described as never having lost a battle. He expanded the Maratha Empire into Malwa, Gujarat, Bundelkhand, and raided Delhi in 1737. He died young at 39. He is regarded as one of the greatest cavalry commanders in Indian history. Madhav Rao I is second — he rebuilt the empire after Panipat III.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Three Anglo-Maratha Wars ultimately ended Maratha power. The Peshwaship was abolished after which war?",
+          "options": [
+            "First Anglo-Maratha War (1775–1782)",
+            "Second Anglo-Maratha War (1803–1805)",
+            "Third Anglo-Maratha War (1817–1818)",
+            "After all three — gradually abolished"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Third Anglo-Maratha War (1817–1818) resulted in the defeat of Peshwa Bajirao II and the formal abolition of the Peshwaship. Bajirao II was pensioned off at Bithur (near Kanpur). His adopted son Nana Saheb (Dhondu Pant) later led the 1857 revolt. British supremacy over all of India was established after 1818.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The concept of 'Hindavi Swarajya' (self-rule of the Hindus) was most closely associated with:",
+          "options": ["Peshwa Baji Rao I", "Shivaji Maharaj", "Sambhaji", "Tarabai"],
+          "answerIndex": 1,
+          "explanation": "Hindavi Swarajya — the concept of self-rule (Swaraj) for the people of the land (Hindavi) — is most closely associated with Shivaji Maharaj. The term appears in his own correspondence. It was not narrowly religious but meant freedom from Mughal/foreign dominance for the people of the Deccan. Shivaji's mother Jijabai instilled this vision in him.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Who is traditionally called the 'Father of the Indian Navy' for building a naval fleet to protect the Konkan coast?",
+          "options": ["Baji Rao I", "Sambhaji", "Shivaji Maharaj", "Kanhoji Angre"],
+          "answerIndex": 2,
+          "explanation": "Shivaji is traditionally called the 'Father of the Indian Navy' for recognising the importance of sea power and building a significant Maratha naval fleet for the Konkan coast. He built sea forts like Sindhudurg (1664) and Vijaydurg. Kanhoji Angre was a later Maratha admiral who successfully fought the British and Portuguese at sea.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

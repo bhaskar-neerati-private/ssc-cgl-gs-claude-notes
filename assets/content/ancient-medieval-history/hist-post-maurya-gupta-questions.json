@@ -1,0 +1,173 @@
+{
+  "topic": "Post-Maurya Period & Gupta Empire",
+  "topicId": "hist-post-maurya-gupta",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which Gupta ruler is called the 'Napoleon of India'?",
+          "options": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta"],
+          "answerIndex": 1,
+          "explanation": "Samudragupta (335–375 CE) is called the 'Napoleon of India' by historian V.A. Smith for his extensive military campaigns. The Allahabad Pillar Inscription by his court poet Harishena describes his four-phase conquest across the subcontinent.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Gupta Era is believed to have started in which year?",
+          "options": ["305 BCE", "185 BCE", "319/320 CE", "375 CE"],
+          "answerIndex": 2,
+          "explanation": "The Gupta Era began in 319/320 CE, during the reign of Chandragupta I. It is reckoned from the date of his accession or a significant political event (the exact date is debated). The Gupta Era (Gupta Samvat) was used in Gupta inscriptions.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which Chinese pilgrim visited India during the Gupta period and described it as prosperous and well-governed?",
+          "options": ["Hieun Tsang", "Fa-Hien", "I-tsing", "Wang Xuance"],
+          "answerIndex": 1,
+          "explanation": "Fa-Hien (Faxian) visited India during Chandragupta II's reign (~399–414 CE) and described a prosperous, peaceful country with free hospitals, mild governance, and people who did not consume meat or alcohol. Hieun Tsang visited much later during Harsha's reign (630–645 CE).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Indo-Greek king Menander is associated with which Buddhist text recording his dialogues with a monk?",
+          "options": ["Mahavamsa", "Milindapanha", "Dipavamsa", "Buddhacharita"],
+          "answerIndex": 1,
+          "explanation": "The Milindapanha ('Questions of Milinda/Menander') records philosophical dialogues between the Indo-Greek king Menander (Milinda) and the Buddhist monk Nagasena. Menander reportedly converted to Buddhism. This text is one of the most important sources on Indo-Greek history.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Aryabhata stated that the earth:",
+          "options": [
+            "Is flat and rests on the back of a giant turtle",
+            "Revolves around the sun in an elliptical orbit",
+            "Rotates on its own axis (which causes day and night)",
+            "Is the centre of the universe with all planets revolving around it"
+          ],
+          "answerIndex": 2,
+          "explanation": "In his Aryabhatiya (499 CE), Aryabhata stated that the earth rotates on its own axis — which is why the stars appear to move (actually the earth is moving, not the stars). He also correctly explained solar and lunar eclipses through shadows. He did NOT state heliocentric revolution (though some interpret his work that way).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Nalanda University was founded by which Gupta ruler?",
+          "options": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Kumaragupta I"],
+          "answerIndex": 3,
+          "explanation": "Nalanda University was founded by Kumaragupta I (~415 CE). It reached its peak under later Gupta patronage, Harsha, and the Pala dynasty. It attracted students from China, Korea, Japan, and Southeast Asia. It was destroyed by Bakhtiyar Khilji around 1197 CE.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The first inscription written entirely in classical Sanskrit (not Prakrit) was composed by which ruler?",
+          "options": ["Pushyamitra Shunga", "Kanishka", "Rudradaman I (Saka)", "Chandragupta I"],
+          "answerIndex": 2,
+          "explanation": "Rudradaman I (Saka ruler, ~150 CE) composed the Junagarh Inscription — the first royal inscription entirely in polished, classical Sanskrit (as opposed to the Prakrit used in Ashokan and earlier inscriptions). This marks a shift toward Sanskrit as the language of prestige and power.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Kanishka's Fourth Buddhist Council led to the formal emergence of which Buddhist school?",
+          "options": ["Theravada", "Vajrayana", "Mahayana", "Zen"],
+          "answerIndex": 2,
+          "explanation": "The Fourth Buddhist Council in Kashmir (under Kanishka) formalised the split between Mahayana (Greater Vehicle — the newer, more devotional tradition) and Hinayana/Theravada (Lesser Vehicle — the older, stricter tradition). Mahayana emphasises Bodhisattvas and worshipping Buddha as a divine figure.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "The 'Allahabad Pillar Inscription' describing Samudragupta's conquests was composed by which court poet?",
+          "options": ["Kalidasa", "Harishena", "Vishakhadatta", "Banabhatta"],
+          "answerIndex": 1,
+          "explanation": "Harishena was Samudragupta's court poet and composed the famous Allahabad Pillar Inscription (Prayagraj, UP). It describes Samudragupta's four-phase conquests in glowing poetic Sanskrit. Kalidasa was in Chandragupta II's court; Vishakhadatta wrote Mudrarakshasa; Banabhatta wrote Harshacharita.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Gandhara art style emerged due to a fusion of:",
+          "options": [
+            "Tamil and Sanskrit artistic traditions",
+            "Greek/Hellenistic and Indian Buddhist artistic traditions",
+            "Persian and Dravidian styles",
+            "Mauryan and Shunga art forms"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gandhara art (1st–5th century CE, modern NW Pakistan/Afghanistan) blended Greek/Hellenistic artistic techniques (realistic facial features, flowing drapery, naturalistic body) with Buddhist iconography. The result: the first anthropomorphic images of Buddha (earlier, Buddha was shown symbolically — footprint, wheel, etc.).",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Sushruta, known as the 'Father of Surgery', is particularly famous for describing which surgical procedure?",
+          "options": [
+            "Bone setting (orthopaedics)",
+            "Rhinoplasty (nose reconstruction surgery)",
+            "Cataract surgery",
+            "Caesarean section"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sushruta (Sushruta Samhita) is particularly famous for describing rhinoplasty — nose reconstruction surgery — using skin flaps from the forehead or cheek. This technique (still called the 'Indian method' of rhinoplasty in medical history) shows extraordinary surgical sophistication. He also described 300 surgical procedures and 120 instruments.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Kalidasa's play 'Abhijnanasakuntalam' (Shakuntala) was translated into which European language in 1789, impressing Goethe?",
+          "options": ["French", "German", "English", "Latin"],
+          "answerIndex": 2,
+          "explanation": "William Jones translated Abhijnanasakuntalam into English in 1789 (published). Goethe later read it (in German translation) and was so moved he wrote: 'Wouldst thou the young year's blossoms and the fruits of its decline, And all by which the soul is charmed, enraptured, feasted, fed, Wouldst thou the earth and heaven itself in one sole name combine? I name thee, O Sakuntala! and all at once is said.'",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "In the Gupta period, the value of pi (π) was calculated as approximately 3.1416 by:",
+          "options": ["Brahmagupta", "Varahamihira", "Aryabhata", "Kalidasa"],
+          "answerIndex": 2,
+          "explanation": "Aryabhata calculated π ≈ 3.1416 in his Aryabhatiya — more accurate than the contemporary European value. He also described it as 'approximate' — showing mathematical sophistication about the nature of irrational numbers.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "The Ajanta cave paintings are notable examples of which period's art?",
+          "options": ["Mauryan", "Shunga", "Gupta", "Rashtrakuta"],
+          "answerIndex": 2,
+          "explanation": "The most famous Ajanta paintings (Caves 16, 17, 1, 2) date to the Gupta period (5th–6th century CE). Cave 1's Bodhisattva Padmapani fresco is the most iconic. The paintings use tempera technique on plaster with natural mineral pigments. UNESCO World Heritage Site (along with Ellora).",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Amarakosha, the famous Sanskrit lexicon/thesaurus, was written by:",
+          "options": ["Vararuchi", "Varahamihira", "Kalidasa", "Amarasimha"],
+          "answerIndex": 3,
+          "explanation": "Amarakosha (Namalinaganushasana) was written by Amarasimha, one of the Navratnas (Nine Gems) of Chandragupta II's court. It is a Sanskrit thesaurus organised by subject — the most important Sanskrit vocabulary reference and a primary tool for Sanskrit students even today.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which Gupta ruler repelled the first major Huna invasion of India?",
+          "options": ["Chandragupta II", "Kumaragupta I", "Skandagupta", "Chandragupta I"],
+          "answerIndex": 2,
+          "explanation": "Skandagupta (455–467 CE) repelled the first major Huna (Hephthalite) invasion of India — described in the Bhitari Pillar Inscription as a great battle that almost toppled the empire. This defence exhausted the Gupta treasury. Later Huna invasions under Toramana and Mihirakula overwhelmed the weakened empire.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

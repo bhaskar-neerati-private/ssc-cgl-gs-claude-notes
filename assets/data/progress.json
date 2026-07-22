@@ -603,8 +603,79 @@
       "name": "Ancient & Medieval History",
       "tier": "B",
       "order": 8,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        {
+          "id": "hist-ancient-sources-prehistory",
+          "title": "Sources of Ancient History, Prehistoric Cultures & Indus Valley Civilisation",
+          "status": "done"
+        },
+        {
+          "id": "hist-vedic-age",
+          "title": "Vedic Age — Rigvedic & Later Vedic Period, Vedic Literature & Society",
+          "status": "done"
+        },
+        {
+          "id": "hist-mahajanapadas-religions",
+          "title": "Mahajanapadas, Rise of Buddhism & Jainism",
+          "status": "done"
+        },
+        {
+          "id": "hist-maurya-empire",
+          "title": "Mauryan Empire — Chandragupta, Ashoka, Edicts & Administration",
+          "status": "done"
+        },
+        {
+          "id": "hist-post-maurya-gupta",
+          "title": "Post-Maurya Period & Gupta Empire — Samudragupta, Chandragupta II & Golden Age",
+          "status": "done"
+        },
+        {
+          "id": "hist-south-india-ancient",
+          "title": "Ancient South India — Sangam Age, Satavahanas, Pallavas & Early Cholas",
+          "status": "done"
+        },
+        {
+          "id": "hist-harsha-regional-kingdoms",
+          "title": "Harsha's Empire, Regional Kingdoms & Arab Invasion of Sindh",
+          "status": "done"
+        },
+        {
+          "id": "hist-early-medieval-arab-invasion",
+          "title": "Early Medieval India — Mahmud of Ghazni, Muhammad Ghori & Rajput Kingdoms",
+          "status": "done"
+        },
+        {
+          "id": "hist-delhi-sultanate",
+          "title": "Delhi Sultanate — Slave, Khalji, Tughlaq, Sayyid & Lodi Dynasties",
+          "status": "done"
+        },
+        {
+          "id": "hist-bhakti-sufi-movements",
+          "title": "Bhakti & Sufi Movements — Saints, Poets & Religious Reform",
+          "status": "done"
+        },
+        {
+          "id": "hist-vijayanagara-bahmani",
+          "title": "Vijayanagara Empire, Bahmani Sultanate & Deccan Kingdoms",
+          "status": "done"
+        },
+        {
+          "id": "hist-mughal-empire-babur-akbar",
+          "title": "Mughal Empire — Babur, Humayun, Sher Shah Suri & Akbar",
+          "status": "done"
+        },
+        {
+          "id": "hist-mughal-jehangir-shahjahan-aurangzeb",
+          "title": "Mughal Empire — Jahangir, Shah Jahan, Aurangzeb & Decline",
+          "status": "done"
+        },
+        {
+          "id": "hist-maratha-empire",
+          "title": "Maratha Empire — Shivaji, Peshwas, Panipat III & Anglo-Maratha Wars",
+          "status": "done"
+        }
+      ]
     },
     {
       "id": "world-geography",

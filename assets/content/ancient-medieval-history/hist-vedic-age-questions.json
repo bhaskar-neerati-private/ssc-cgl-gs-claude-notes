@@ -1,0 +1,168 @@
+{
+  "topic": "Vedic Age — Rigvedic & Later Vedic Periods",
+  "topicId": "hist-vedic-age",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The 'Battle of Ten Kings' (Dashrajna Yuddha) is described in which Veda?",
+          "options": ["Samaveda", "Yajurveda", "Rigveda", "Atharvaveda"],
+          "answerIndex": 2,
+          "explanation": "The Battle of Ten Kings is described in the Rigveda (Book 7). King Sudas of the Bharata tribe defeated a confederation of ten kings on the banks of the Parushni (Ravi) river. This is the earliest recorded battle in South Asian history.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which Veda is associated with music and melodies?",
+          "options": ["Rigveda", "Yajurveda", "Samaveda", "Atharvaveda"],
+          "answerIndex": 2,
+          "explanation": "Samaveda (Veda of Melodies) contains hymns from the Rigveda set to musical notation — it is essentially a songbook. It forms the basis of Indian classical music. Yajurveda contains ritual formulae; Atharvaveda contains charms and spells.",
+          "source": "SSC CHSL 2016",
+          "verified": true
+        },
+        {
+          "text": "Who was the most important deity in the Rigvedic period?",
+          "options": ["Varuna", "Agni", "Indra", "Prajapati"],
+          "answerIndex": 2,
+          "explanation": "Indra (god of rain, thunder, and war) was the most important deity in the Rigvedic period — receiving about 250 hymns, more than any other deity. Agni (fire) received about 200 hymns and was second. Varuna (cosmic order) and Prajapati became more important in the Later Vedic period.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Panini's 'Ashtadhyayi' is related to which subject?",
+          "options": ["Astrology", "Sanskrit grammar", "Architecture", "Logic"],
+          "answerIndex": 1,
+          "explanation": "Ashtadhyayi (Eight Chapters) by Panini is the foundational text of Sanskrit grammar — considered the most sophisticated grammatical analysis of any language in the ancient world. It contains ~4,000 sutras (rules). Panini is dated roughly to the 4th century BCE.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "The Painted Grey Ware (PGW) pottery is associated with which period?",
+          "options": ["Rigvedic period", "Later Vedic period", "Mauryan period", "Indus Valley period"],
+          "answerIndex": 1,
+          "explanation": "PGW pottery (grey pottery with painted black designs) is associated with the Later Vedic period (1000–600 BCE) and is found in the Gangetic plain and Rajasthan. It marks the eastward expansion of Vedic culture from Punjab. Iron implements are also found in PGW sites.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which of the following female scholars are mentioned in the Rigveda?",
+          "options": ["Gargi and Maitreyi", "Lopamudra and Vishvavara", "Apala and Ghosa", "All of the above"],
+          "answerIndex": 3,
+          "explanation": "The Rigveda mentions several female poets (Rishikas): Lopamudra (composed hymns with her husband Agastya), Apala, Ghosa, Vishvavara, and others. Gargi and Maitreyi are famous from the Upanishads (Later Vedic period), not the Rigveda specifically. All groups mentioned contain real Vedic women scholars.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "What does the term 'Sapta Sindhu' refer to in the Rigvedic context?",
+          "options": ["Seven oceans", "Seven rivers of northwestern India (Punjab region)", "Seven sages", "Seven sacred cities"],
+          "answerIndex": 1,
+          "explanation": "Sapta Sindhu (Seven Rivers) was the geographical heartland of the early Rigvedic people — comprising the rivers: Sindhu, Vitasta (Jhelum), Asikni (Chenab), Parushni (Ravi), Vipas (Beas), Shutudri (Sutlej), and Saraswati. This corresponds to the Punjab region.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "In Later Vedic society, which deity became supreme, replacing Indra's earlier prominence?",
+          "options": ["Varuna", "Agni", "Vishnu", "Prajapati"],
+          "answerIndex": 3,
+          "explanation": "In the Later Vedic period, Prajapati (Lord of Creation / Creator deity) became the supreme deity — reflecting a shift from warrior/storm deity worship (Indra) toward a more philosophical creator concept. Vishnu and Shiva also gained prominence. This change mirrors the shift from nomadic to settled agricultural society.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "The 'Sabha' and 'Samiti' in the Rigvedic period were:",
+          "options": ["Types of sacrificial rituals", "Village assemblies or deliberative bodies", "Categories of Vedic priests", "Types of taxes collected"],
+          "answerIndex": 1,
+          "explanation": "Sabha and Samiti were two deliberative assemblies in Rigvedic political organisation. Sabha = smaller council of elders/nobles; Samiti = larger tribal assembly of all free males. They acted as checks on the Rajan's (chief's) power. In the Later Vedic period, women were excluded from Sabha.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which Vedic text contains the 'Purusha Sukta' — the hymn that describes the four varnas as born from different parts of the cosmic being?",
+          "options": ["Samaveda", "Yajurveda", "Rigveda (10th Mandala)", "Atharvaveda"],
+          "answerIndex": 2,
+          "explanation": "The Purusha Sukta is in the 10th Mandala (Book) of the Rigveda. It describes how the four varnas arose from the cosmic person (Purusha): Brahmins from the mouth, Kshatriyas from the arms, Vaishyas from the thighs, and Shudras from the feet. This is the textual basis for the varna system.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Upanishads are also called 'Vedanta' because:",
+          "options": ["They were written in Varanasi", "They come at the end of the Vedic literature and deal with ultimate knowledge", "They are the shortest Vedic texts", "They discuss the rules of sacrifice"],
+          "answerIndex": 1,
+          "explanation": "Vedanta = 'end of the Vedas' (veda + anta = end). The Upanishads are the final and philosophical layer of Vedic literature, dealing with the nature of Brahman (ultimate reality), Atman (soul), and their relationship. The famous Upanishadic statement is 'Aham Brahmasmi' (I am Brahman).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The system of four Ashrams (stages of life) was developed in which period?",
+          "options": ["Rigvedic period", "Later Vedic period", "Mauryan period", "Gupta period"],
+          "answerIndex": 1,
+          "explanation": "The four Ashrams — Brahmacharya (student), Grihastha (householder), Vanaprastha (forest dweller), and Sannyasa (renunciation) — were systematised in the Later Vedic period. This life-stage framework reflects the growing importance of dharma and social organisation in post-Rigvedic society.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "How many hymns does the Rigveda contain?",
+          "options": ["700", "1028", "1200", "800"],
+          "answerIndex": 1,
+          "explanation": "The Rigveda contains 1028 hymns (suktas) organised into 10 Mandalas (books). Mandalas 2–7 are the oldest (family books); Mandalas 1, 8, 9, 10 were added later. The Rigveda is the oldest of the four Vedas.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is correctly matched?",
+          "options": [
+            "Samaveda — charms and spells",
+            "Atharvaveda — melodies and songs",
+            "Yajurveda — ritual formulae for sacrifices",
+            "Rigveda — only musical compositions"
+          ],
+          "answerIndex": 2,
+          "explanation": "Yajurveda contains ritual formulae (yajus) used by the Adhvaryu priest during sacrifices. Samaveda contains melodies. Atharvaveda contains charms, spells, and incantations. Rigveda contains hymns of praise to the gods.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "The 'Gayatri Mantra' is found in which Veda?",
+          "options": ["Atharvaveda", "Samaveda", "Rigveda", "Yajurveda"],
+          "answerIndex": 2,
+          "explanation": "The Gayatri Mantra (Rigveda 3.62.10) is one of the most important Vedic hymns — addressed to Savitri (the sun). It is in the Rigveda's third Mandala, composed by the sage Vishvamitra. It is recited daily by millions of Hindus.",
+          "source": "SSC CGL 2021",
+          "verified": true
+        },
+        {
+          "text": "The transition from Rigvedic to Later Vedic period is marked by which key geographic and material change?",
+          "options": [
+            "Shift from Indus to Deccan; use of copper",
+            "Shift from Punjab to Gangetic plain; use of iron (~1000 BCE)",
+            "Shift from Bengal to Rajasthan; use of bronze",
+            "Shift from South India to Kashmir; use of gold"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Later Vedic period (1000–600 BCE) is marked by the eastward shift of Vedic culture from Punjab (Sapta Sindhu) to the Gangetic plain (Madhyadesha), and by the use of iron (~1000 BCE). PGW pottery, iron tools, and new political formations (Mahajanapadas) characterise this period.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

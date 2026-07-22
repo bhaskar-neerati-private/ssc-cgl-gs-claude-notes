@@ -1,0 +1,193 @@
+{
+  "topic": "Maurya Empire — Chandragupta, Kautilya & Ashoka",
+  "topicId": "hist-maurya-empire",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Lion Capital at Sarnath, adopted as India's national emblem, was built by which ruler?",
+          "options": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Kanishka"],
+          "answerIndex": 2,
+          "explanation": "The Sarnath Lion Capital (Ashoka Stambha) was built by Emperor Ashoka (~250 BCE) at Sarnath, where Buddha gave his first sermon. It shows four lions back to back atop a circular abacus. The Government of India adopted it as the national emblem in 1950. The Ashoka Chakra from this capital appears on the national flag.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Who deciphered the Brahmi script in which Ashoka's edicts are written?",
+          "options": ["Alexander Cunningham", "John Marshall", "James Prinsep", "Max Muller"],
+          "answerIndex": 2,
+          "explanation": "James Prinsep, Secretary of the Asiatic Society of Bengal, deciphered the Brahmi script in 1837. This breakthrough allowed scholars to read Ashoka's rock edicts and pillar inscriptions for the first time in centuries. He also deciphered Kharosthi script.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Kalinga War fought by Ashoka is mentioned in which edict?",
+          "options": ["Rock Edict I", "Rock Edict XIII", "Rock Edict VII", "Pillar Edict VI"],
+          "answerIndex": 1,
+          "explanation": "Rock Edict XIII describes Ashoka's horror at the Kalinga War (261 BCE) — reporting 150,000 deportees, 100,000 killed, and many times that dying. It describes his conversion to Buddhism and his rejection of military conquest in favour of Dhamma-vijaya (conquest by righteousness).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Kautilya's 'Arthashastra' deals primarily with:",
+          "options": ["Poetry and literature", "State administration, economics, and military strategy", "Religious philosophy", "Mathematics and astronomy"],
+          "answerIndex": 1,
+          "explanation": "The Arthashastra by Kautilya (Chanakya/Vishnugupta) is a treatise on statecraft, economic policy, military strategy, and political organisation. It deals with the Saptanga (seven elements of a state), taxation, espionage, diplomacy, and the duties of a king.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "What did Chandragupta Maurya receive from Seleucus Nicator in exchange for 500 war elephants?",
+          "options": [
+            "Greek soldiers for his army",
+            "Control over Punjab",
+            "Vast territories including Arachosia, Gedrosia, Paropanisadae, and Aria",
+            "Gold and silver tribute annually"
+          ],
+          "answerIndex": 2,
+          "explanation": "After defeating Seleucus Nicator (~305 BCE), Chandragupta received vast territories in the northwest (modern Afghanistan/Pakistan: Arachosia, Gedrosia, Paropanisadae, Aria) in exchange for 500 war elephants. This also led to the Treaty of Friendship and a matrimonial alliance (Seleucus's daughter married into the Maurya family, or Chandragupta married Seleucus's daughter).",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Ashoka's 'Dhamma' was NOT:",
+          "options": [
+            "A code of social and moral conduct",
+            "A specific religious doctrine of Buddhism",
+            "Based on principles like non-violence, truthfulness, and respect for all",
+            "Propagated through rock and pillar edicts"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ashoka's Dhamma was NOT Buddhism per se — it was a syncretic moral code emphasising non-violence (ahimsa), truthfulness, respect for elders, tolerance of all religions, and charity. While Ashoka was personally a Buddhist, his Dhamma was meant for ALL subjects regardless of religion. He never imposed Buddhism.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Chandragupta Maurya ended his life by:",
+          "options": [
+            "Dying in battle against the Seleucids",
+            "Being poisoned by Chanakya",
+            "Fasting to death (Sallekhana) at Shravanabelagola",
+            "Dying of old age in Pataliputra"
+          ],
+          "answerIndex": 2,
+          "explanation": "Chandragupta Maurya converted to Jainism in his later years and abdicated in favour of his son Bindusara. He went to Shravanabelagola (Karnataka) with the Jain monk Bhadrabahu and fasted to death (Sallekhana/Santhara — voluntary death by fasting, a Jain practice). This is well-attested in Jain tradition.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "Bindusara (Ashoka's father) was known by what Greek name?",
+          "options": ["Sandrokottos", "Amitrochates", "Chandramas", "Piodasses"],
+          "answerIndex": 1,
+          "explanation": "Bindusara was known to the Greeks as 'Amitrochates' (from Sanskrit Amitraghata = 'destroyer of enemies'). He corresponded with the Seleucid king Antiochus I. 'Sandrokottos' is the Greek name for Chandragupta Maurya. 'Piodasses' is Ashoka's name in some Greek/Aramaic inscriptions.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "The Mauryan provincial administration used officials called 'Kumaras'. What were they?",
+          "options": [
+            "Princes of the royal family appointed as governors of major provinces",
+            "Military commanders of frontier forts",
+            "Tax collectors appointed by local village councils",
+            "Judicial officers at the district level"
+          ],
+          "answerIndex": 0,
+          "explanation": "Kumaras (princes) were governors of the four major provinces (Uttarapatha/Taxila, Dakshinapatha/Suvarnagiri, Avantiratha/Ujjain, Prachya/Tosali). This kept strategic provinces under direct royal family control. Below provinces were districts (Janapadas) and villages (Grama).",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Ashoka sent his son Mahendra (Mahinda) to spread Buddhism to which region?",
+          "options": ["China", "Central Asia", "Sri Lanka (Ceylon)", "Greece"],
+          "answerIndex": 2,
+          "explanation": "Ashoka sent his son Mahendra (Mahinda) and daughter Sanghamitra to Sri Lanka during the Third Buddhist Council (~250 BCE). Mahinda converted the Sri Lankan king Devanampiya Tissa to Buddhism. Sanghamitra brought a cutting of the Bodhi Tree to Sri Lanka. Sri Lanka has been predominantly Buddhist ever since.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Pataliputra City Council mentioned by Megasthenes had how many members?",
+          "options": ["10", "20", "30", "40"],
+          "answerIndex": 2,
+          "explanation": "According to Megasthenes' Indica, the Pataliputra municipal committee had 30 members divided into 6 committees of 5 each, responsible for: industries and handicrafts; visitors/foreigners; births and deaths registration; trade and weights; public sales; and manufactured goods tax. This is a precise figure directly tested in SSC.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Maurya Empire collapsed when Brihadratha, the last Maurya king, was killed by:",
+          "options": ["A Seleucid invasion", "Pushyamitra Shunga, his own commander-in-chief", "A Kalinga revolt", "Yavana (Greek) mercenaries"],
+          "answerIndex": 1,
+          "explanation": "Pushyamitra Shunga, the Senapati (commander-in-chief) under Brihadratha, killed the last Maurya king while reviewing troops in 185 BCE and founded the Shunga dynasty. This marked the end of the Maurya Empire — which had lasted 137 years (322–185 BCE).",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "Which Maurya ruler is also known as 'Devanampiya' and 'Piyadassi' in his own edicts?",
+          "options": ["Chandragupta", "Bindusara", "Ashoka", "Dasaratha"],
+          "answerIndex": 2,
+          "explanation": "Ashoka uses the epithets 'Devanampiya' (Beloved of the Gods) and 'Piyadassi' (of Pleasant Appearance) in his own rock and pillar edicts. His name 'Ashoka' was not mentioned in the edicts themselves — identification was made through cross-referencing Sri Lankan chronicles (Dipavamsa, Mahavamsa).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "What is the 'Saptanga' theory mentioned in the Arthashastra?",
+          "options": [
+            "Seven ethical principles for personal conduct",
+            "Seven elements of a state: king, ministers, territory, fortified capital, treasury, army, and allies",
+            "Seven types of taxes in the Mauryan revenue system",
+            "Seven musical notes of Indian classical music"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Saptanga (seven-limbed) theory in Kautilya's Arthashastra describes the seven essential elements of a state: Swami (king), Amatya (ministers), Janapada (territory with population), Durga (fortified capital), Kosha (treasury), Danda (army), and Mitra (allies). This is the foundation of Kautilya's political theory.",
+          "source": "SSC CGL 2021",
+          "verified": true
+        },
+        {
+          "text": "Ashoka's 'Major Rock Edicts' are inscribed in which language/script?",
+          "options": [
+            "Sanskrit in Nagari script",
+            "Pali in Brahmi script (also Kharosthi in NW India, Greek/Aramaic in Afghanistan)",
+            "Prakrit in Devanagari",
+            "Tamil in Grantha script"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ashoka's edicts are primarily in Prakrit (Magadhi dialect) written in Brahmi script. In the northwest (Punjab, Afghanistan), Kharosthi script and Greek/Aramaic languages were also used. The Shahbazgarhi and Mansehra edicts (now Pakistan) use Kharosthi.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Mandala theory in Arthashastra states that:",
+          "options": [
+            "The king's territory should be shaped like a circle",
+            "Your neighbour is your natural enemy and your neighbour's neighbour is your natural friend",
+            "All states must form alliances based on shared religion",
+            "Trade with distant kingdoms is more profitable than with neighbours"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kautilya's Mandala theory holds that in the circle of states, your neighbour is your natural enemy (aritrastra) because you share a border and compete for resources, while your neighbour's neighbour is your natural ally (mitra) because you share a common enemy. This is pure realpolitik.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

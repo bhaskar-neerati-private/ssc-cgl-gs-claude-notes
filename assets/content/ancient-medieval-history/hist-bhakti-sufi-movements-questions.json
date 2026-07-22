@@ -1,0 +1,168 @@
+{
+  "topic": "Bhakti & Sufi Movements",
+  "topicId": "hist-bhakti-sufi-movements",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who was the guru of Kabir?",
+          "options": ["Shankaracharya", "Ramananda", "Ramanuja", "Madhva"],
+          "answerIndex": 1,
+          "explanation": "Kabir's guru was Ramananda — the north Indian Bhakti saint who preached in Hindi and accepted disciples of all castes. The chain: Ramanuja (philosopher) → Ramananda (north Indian Bhakti) → Kabir. Kabir was a Muslim weaver but became Ramananda's disciple.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The most important Sufi order in India, known for its emphasis on music (qawwali) and service to the poor, was:",
+          "options": ["Naqshbandi", "Suhrawardi", "Qadiri", "Chishti"],
+          "answerIndex": 3,
+          "explanation": "The Chishti order was the most popular and influential Sufi order in India. It emphasised extreme poverty, devotional music (sama/qawwali), and service to the poor. Major Chishti saints: Khwaja Moinuddin Chishti (Ajmer), Fariduddin Ganjshakar (Punjab), Nizamuddin Auliya (Delhi).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Tulsidas wrote the 'Ramcharitmanas' in which language?",
+          "options": ["Sanskrit", "Braj Bhasha", "Awadhi (Hindi)", "Marathi"],
+          "answerIndex": 2,
+          "explanation": "Tulsidas wrote Ramcharitmanas in Awadhi — a dialect of eastern Hindi spoken in the Awadh (Ayodhya) region of UP. He deliberately chose Awadhi (a vernacular language) instead of Sanskrit so that ordinary people could read/hear the story of Rama. It is one of the most widely read Hindi texts.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Guru Nanak, the founder of Sikhism, was born in which year and place?",
+          "options": [
+            "1398, Delhi",
+            "1469, Talwandi (Nankana Sahib, now Pakistan)",
+            "1440, Varanasi",
+            "1486, Navadwip (Bengal)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Guru Nanak was born in 1469 CE at Talwandi (now called Nankana Sahib, in Punjab, Pakistan). He founded Sikhism, preached the unity of God, rejected caste and idolatry, composed the Japji Sahib and other hymns included in the Guru Granth Sahib.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Amir Khusrau was the disciple of which Sufi saint?",
+          "options": ["Khwaja Moinuddin Chishti", "Fariduddin Ganjshakar", "Nizamuddin Auliya", "Sheikh Ahmad Sirhindi"],
+          "answerIndex": 2,
+          "explanation": "Amir Khusrau (1253–1325 CE) was the devoted disciple of Hazrat Nizamuddin Auliya in Delhi. He died the same year as Nizamuddin Auliya (1325) — reportedly of grief. Both are buried at the Nizamuddin Dargah, Delhi. Khusrau served seven Delhi Sultans but his greatest devotion was to his spiritual master.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Amir Khusrau is called 'Tuti-e-Hind'. What does this title mean?",
+          "options": ["King of Indian Poetry", "Parrot of India", "Father of Hindi Music", "Sword of India"],
+          "answerIndex": 1,
+          "explanation": "Amir Khusrau's title 'Tuti-e-Hind' means 'Parrot of India' — referring to his sweet, articulate, and multi-lingual literary voice. Tuti (parrot) in Persian/Urdu symbolises eloquence and beauty of speech. He wrote in Persian, Hindawi, and mixed both in innovative ways.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Chaitanya Mahaprabhu's ecstatic devotion to Krishna centred on which devotional practice he popularised in Bengal?",
+          "options": ["Yoga and meditation", "Kirtan — communal singing and dancing", "Temple rituals and fire sacrifices", "Pilgrimage to the Ganga"],
+          "answerIndex": 1,
+          "explanation": "Chaitanya Mahaprabhu (1486–1534 CE) popularised Kirtan — communal singing, dancing, and chanting of Krishna's name — as the primary form of devotion (bhakti). He would go into ecstatic states (bhava) during kirtan. His movement (Gaudiya Vaishnavism) is the root of ISKCON (International Society for Krishna Consciousness).",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "The philosophical school of 'Advaita Vedanta' (non-dualism) was founded by:",
+          "options": ["Ramanujacharya", "Madhvacharya", "Adi Shankaracharya", "Vallabhacharya"],
+          "answerIndex": 2,
+          "explanation": "Adi Shankaracharya (788–820 CE) founded the Advaita Vedanta school. Advaita = non-dualism: Brahman alone is real; individual soul (Atman) = Brahman; the world is Maya (illusion). He also established 4 mathas: Sringeri (South), Dwaraka (West), Puri (East), Joshi Math (North). He is one of India's greatest philosophers.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "The Warkari movement in Maharashtra worshipped which deity at Pandharpur?",
+          "options": ["Shiva", "Rama", "Vitthal (Vithoba/Panduranga)", "Ganesha"],
+          "answerIndex": 2,
+          "explanation": "The Warkari tradition in Maharashtra centred on devotion to Vitthal (Vithoba) at the Pandharpur temple. Warkaris make two annual pilgrimages to Pandharpur. Major Warkari saints: Namdev, Eknath, Tukaram, Janabai. Their devotional poetry (abhangas) is in Marathi and is recited/sung during pilgrimages.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Sheikh Ahmad Sirhindi (Naqshbandi Sufi) opposed which Mughal emperor's syncretic religious policies?",
+          "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+          "answerIndex": 2,
+          "explanation": "Sheikh Ahmad Sirhindi (Mujaddid Alf Sani — Reformer of the Second Islamic Millennium) strongly opposed Akbar's Din-i-Ilahi and his liberal religious policies. He argued for a return to strict Sharia and orthodox Islam. His letters to Mughal nobles influenced Aurangzeb's later orthodox approach.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Dara Shikoh translated 50 Upanishads into Persian under what title?",
+          "options": ["Majma-ul-Bahrayn", "Sirr-i-Akbar", "Biblio-Indica", "Kitab-ul-Hind"],
+          "answerIndex": 1,
+          "explanation": "Dara Shikoh (Shah Jahan's eldest son) translated 50 Upanishads into Persian under the title Sirr-i-Akbar ('The Great Secret', 1657). He also wrote Majma-ul-Bahrayn ('Mingling of Two Oceans') comparing Sufism and Vedanta. His translations were later translated into Latin and influenced European philosophers.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which of the following Bhakti saints was also known as a poetess-princess of Rajasthan devoted to Krishna?",
+          "options": ["Andal", "Akka Mahadevi", "Mirabai", "Janabai"],
+          "answerIndex": 2,
+          "explanation": "Mirabai (c. 1498–1547 CE) was a Rajput princess from Merta (Rajasthan) who became one of the most beloved poet-saints of the Bhakti movement. She considered Krishna her husband and devoted her life to him, rejecting her royal life. Her bhajans are still sung across India. Andal was a South Indian Alvar; Akka Mahadevi was a Kannada Veerashaiva saint.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "Khwaja Moinuddin Chishti's dargah (shrine) is located in which city?",
+          "options": ["Delhi", "Ajmer", "Fatehpur Sikri", "Lucknow"],
+          "answerIndex": 1,
+          "explanation": "The dargah of Khwaja Moinuddin Chishti is in Ajmer, Rajasthan. It is one of the most visited pilgrimage sites in India, attracting millions of Hindu and Muslim devotees. The Urs (death anniversary) festival draws huge crowds. Khwaja Moinuddin arrived in India with Muhammad Ghori (~1192 CE).",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Tukaram's devotional poetry (abhangas) was in which language?",
+          "options": ["Hindi", "Bengali", "Marathi", "Telugu"],
+          "answerIndex": 2,
+          "explanation": "Tukaram (1609–1649 CE) wrote his devotional poems (abhangas) in Marathi. He was a Shudra by caste — a grain merchant — and his lower-caste status made his impact on Maharashtrian society particularly significant. He was part of the Warkari tradition and deeply influenced by earlier saints like Dnyaneshwar, Namdev, and Eknath.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "The concept of 'Sulh-i-Kul' (peace with all) was associated with which Mughal emperor?",
+          "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+          "answerIndex": 2,
+          "explanation": "Sulh-i-Kul ('Universal Peace') was Akbar's principle of equal respect and tolerance for all religions. He abolished the jizyah (1562), built the Ibadat Khana for inter-faith dialogue (1575), and later proclaimed Din-i-Ilahi (1582). Sulh-i-Kul became the philosophical foundation of his religious policy.",
+          "source": "SSC CGL 2021",
+          "verified": true
+        },
+        {
+          "text": "Which Bhakti saint's compositions are included in the Guru Granth Sahib (the Sikh holy scripture)?",
+          "options": [
+            "Tulsidas and Mirabai",
+            "Kabir, Fariduddin Ganjshakar (Baba Farid), Namdev, and Raidas (Ravidas)",
+            "Shankaracharya and Ramanuja",
+            "Chaitanya Mahaprabhu and Vallabhacharya"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Guru Granth Sahib includes compositions from Hindu and Sufi saints alongside the Sikh Gurus — notably Kabir, Baba Farid (Fariduddin Ganjshakar, Sufi saint of Punjab), Namdev (Maharashtra), and Raidas (cobbler saint from Varanasi). This inclusion reflects the universal, syncretic character of the Sikh scripture.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

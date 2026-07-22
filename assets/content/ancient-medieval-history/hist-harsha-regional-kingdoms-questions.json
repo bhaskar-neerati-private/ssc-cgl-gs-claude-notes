@@ -1,0 +1,168 @@
+{
+  "topic": "Harsha's Empire, Regional Kingdoms & Arab Invasion of Sindh",
+  "topicId": "hist-harsha-regional-kingdoms",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which Chinese traveller visited Harsha's court and left detailed records in 'Si-yu-ki'?",
+          "options": ["Fa-Hien", "I-tsing", "Hieun Tsang", "Wang Xuance"],
+          "answerIndex": 2,
+          "explanation": "Hieun Tsang (Xuanzang) visited Harsha's court (630–645 CE) and wrote Si-yu-ki ('Records of the Western Regions'). Fa-Hien visited Chandragupta II's court (~399–414 CE). I-tsing visited India later (671–695 CE). Wang Xuance was a Chinese ambassador who came after Harsha's death.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Kailasa Temple at Ellora (Cave 16) was built by which dynasty?",
+          "options": ["Pallavas", "Rashtrakutas", "Chalukyas of Badami", "Palas"],
+          "answerIndex": 1,
+          "explanation": "The Kailasa Temple at Ellora (Cave 16) was built by Krishna I (Rashtrakuta dynasty, ~757–773 CE). It is the largest monolithic rock-cut temple in the world, carved from top to bottom from a single rock. Dedicated to Shiva. UNESCO World Heritage Site along with 34 Ellora Caves.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Who wrote the 'Harshacharita' — the biography of Emperor Harsha?",
+          "options": ["Hieun Tsang", "Banabhatta", "Ravikirti", "Kalidasa"],
+          "answerIndex": 1,
+          "explanation": "Banabhatta, Harsha's court poet, wrote Harshacharita (Life of Harsha) — the first political biography in Sanskrit literature. It describes Harsha's early life, rise to power, and administration. It is an important historical source even though it uses poetic embellishment.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Muhammad bin Qasim conquered Sindh in which year?",
+          "options": ["637 CE", "711–712 CE", "1000 CE", "1192 CE"],
+          "answerIndex": 1,
+          "explanation": "Muhammad bin Qasim (Umayyad general, nephew of Hajjaj ibn Yusuf) conquered Sindh in 711–712 CE, defeating King Dahir at the Battle of Raor. This was the first successful Arab/Islamic military campaign on the Indian subcontinent. The Arab conquest remained limited to Sindh.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Harsha was defeated by which Deccan king at the Narmada River?",
+          "options": ["Narasimhavarman I (Pallava)", "Vikramaditya II (Chalukya)", "Pulakesin II (Chalukya of Badami)", "Amoghavarsha I (Rashtrakuta)"],
+          "answerIndex": 2,
+          "explanation": "Pulakesin II (Chalukya of Badami) defeated Harsha's attempt to cross the Narmada River (~634 CE), stopping Harsha's southward expansion. The Narmada became the boundary between Harsha's northern empire and the Deccan. The Aihole Inscription describes this victory.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Pala dynasty's founder Gopala was unique in early Indian history because he was:",
+          "options": [
+            "The first Buddhist king of Bengal",
+            "Elected by the nobles of Bengal — a rare quasi-democratic succession",
+            "The first king to defeat the Arabs in India",
+            "The founder of Nalanda University"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gopala (~750 CE) founded the Pala dynasty after a period of political anarchy in Bengal. Historical accounts (Manjushri-mula-kalpa and later sources) indicate he was chosen/elected by the nobles to end the chaos — a rare instance of something resembling electoral succession in medieval India.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "The 'Tripartite Struggle' among Pratiharas, Palas, and Rashtrakutas was centred on control of which city?",
+          "options": ["Varanasi", "Kanauj", "Pataliputra", "Ujjain"],
+          "answerIndex": 1,
+          "explanation": "The Tripartite Struggle (8th–10th century CE) among the three major post-Harsha powers — Gurjara-Pratiharas, Palas, and Rashtrakutas — was centred on control of Kanauj. Kanauj was the symbolic center of north Indian political supremacy (it had been Harsha's capital).",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "Amoghavarsha I (Rashtrakuta) wrote the first literary work in which language?",
+          "options": ["Marathi", "Telugu", "Kannada", "Tamil"],
+          "answerIndex": 2,
+          "explanation": "Amoghavarsha I (814–878 CE) wrote Kavirajamarga — considered the first Kannada literary work (a poetics manual). He ruled for 64 years, was a Jain devotee, and one of the greatest Rashtrakuta kings. He also wrote Ratnamalika in Sanskrit.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "Nagabhata I (Gurjara-Pratihara) is historically significant because he:",
+          "options": [
+            "Founded Nalanda University",
+            "Stopped the Arab advance from Sindh into Rajasthan (~730 CE)",
+            "Defeated the Palas in Bengal",
+            "Built the Kailasa Temple at Ellora"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nagabhata I (c. 730 CE) checked the Arab advance from Sindh into Rajasthan and the Gangetic plain. The Arab governors of Sindh had been probing into Rajasthan; Nagabhata's resistance stopped their expansion. This is why Arab rule never extended beyond Sindh into the Indian heartland.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "Vikramashila University was founded by which Pala ruler?",
+          "options": ["Gopala", "Devapala", "Dharmapala", "Mahipala I"],
+          "answerIndex": 2,
+          "explanation": "Vikramashila University was founded by Dharmapala (770–810 CE), the greatest Pala king. Located in Bihar (exact site near Bhagalpur), it was the second most important Buddhist university after Nalanda. It was destroyed by Bakhtiyar Khilji around 1203 CE.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Harsha wrote three Sanskrit plays. Which of the following is NOT one of them?",
+          "options": ["Nagananda", "Ratnavali", "Priyadarshika", "Mrichchhakatika"],
+          "answerIndex": 3,
+          "explanation": "Mrichchhakatika ('The Little Clay Cart') was written by Sudraka — not Harsha. Harsha's three plays are: Nagananda (Buddhist tale of Prince Jimutavahana), Ratnavali, and Priyadarshika. Harsha is one of very few kings in history who was also a significant playwright.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which Rashtrakuta king built the Kailasa Temple at Ellora?",
+          "options": ["Dantidurga", "Krishna I", "Dhruva", "Amoghavarsha I"],
+          "answerIndex": 1,
+          "explanation": "Krishna I (757–773 CE) built the Kailasa Temple at Ellora (Cave 16). Dantidurga founded the Rashtrakuta dynasty. Dhruva and Govinda III were great military conquerors. Amoghavarsha I was the cultural patron who wrote Kavirajamarga.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "Harsha held massive charitable assemblies every five years at which city?",
+          "options": ["Kanauj", "Varanasi", "Prayag (Allahabad)", "Nalanda"],
+          "answerIndex": 2,
+          "explanation": "Harsha held quinquennial assemblies at Prayagraj (Allahabad) at the confluence of the Ganga, Yamuna, and Saraswati rivers — distributing all his wealth to the poor, monks, and Brahmins. Hieun Tsang attended the sixth such assembly (~643 CE) and described it in detail.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "The Arab general who conquered Sindh in 711 CE and defeated King Dahir was:",
+          "options": ["Hajjaj ibn Yusuf", "Muhammad bin Qasim", "Mahmud of Ghazni", "Qasim ibn Musa"],
+          "answerIndex": 1,
+          "explanation": "Muhammad bin Qasim (nephew/son-in-law of Hajjaj ibn Yusuf, governor of Iraq) commanded the Arab army that conquered Sindh. Hajjaj ibn Yusuf was the planner/organiser in Iraq but did not personally lead the campaign. Muhammad bin Qasim was recalled and executed by the next Caliph (Sulaiman) when Hajjaj died.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "What was Harsha's capital city?",
+          "options": ["Thanesar", "Varanasi", "Kanauj (Kannauj)", "Pataliputra"],
+          "answerIndex": 2,
+          "explanation": "Harsha's capital was Kanauj (Kannauj, UP). He had initially operated from Thanesar (Haryana) — his family's original base — but moved to Kanauj after becoming Emperor. Kanauj remained the symbolic prize of north Indian politics for centuries after Harsha's death.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Khajuraho temples were built by which dynasty?",
+          "options": ["Rashtrakutas", "Chandellas", "Pratiharas", "Paramaras"],
+          "answerIndex": 1,
+          "explanation": "The Khajuraho temples (950–1050 CE, Madhya Pradesh) were built by the Chandella dynasty. They were feudatories of the Gurjara-Pratiharas. The temples are famous for their erotic sculptures (which form about 10% of the total; the rest depict daily life, devotion, and mythology). UNESCO World Heritage Site.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

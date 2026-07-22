@@ -1,0 +1,178 @@
+{
+  "topic": "Early Medieval India — Mahmud of Ghazni, Muhammad Ghori & Rajputs",
+  "topicId": "hist-early-medieval-arab-invasion",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "How many times did Mahmud of Ghazni raid India?",
+          "options": ["7", "12", "17", "21"],
+          "answerIndex": 2,
+          "explanation": "Mahmud of Ghazni conducted 17 raids on India between 1000 and 1027 CE. The most famous was the 1025 raid on the Somnath temple in Gujarat. His primary motive was loot — he permanently annexed only Punjab.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The First Battle of Tarain (1191 CE) was fought between Prithviraj Chauhan and:",
+          "options": ["Mahmud of Ghazni", "Muhammad Ghori", "Bakhtiyar Khilji", "Qutbuddin Aibak"],
+          "answerIndex": 1,
+          "explanation": "The First Battle of Tarain (1191 CE) was between Prithviraj III (Chauhan) and Muhammad Ghori (Ghurid dynasty). Prithviraj won this battle — defeating and injuring Ghori. In the Second Battle of Tarain (1192 CE), Ghori returned and defeated Prithviraj. This sequence is a direct SSC trap.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which Muslim scholar accompanied Mahmud of Ghazni to India and wrote an account of Indian science and society?",
+          "options": ["Ibn Battuta", "Al-Beruni", "Firdausi", "Amir Khusrau"],
+          "answerIndex": 1,
+          "explanation": "Al-Beruni (Abu Rayhan Biruni) accompanied Mahmud of Ghazni to India and wrote Kitab-ul-Hind (~1030 CE) in Arabic. He learned Sanskrit and wrote a comprehensive, objective account of Indian mathematics, astronomy, philosophy, and society. Ibn Battuta came in the 14th century.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Nalanda University was destroyed by which commander?",
+          "options": ["Muhammad bin Qasim", "Muhammad Ghori", "Bakhtiyar Khilji", "Timur"],
+          "answerIndex": 2,
+          "explanation": "Bakhtiyar Khilji, a general under Muhammad Ghori, destroyed Nalanda University (~1197–1200 CE) and its library. He later conquered Bihar and Bengal. The library reportedly burned for weeks. The destruction ended the tradition of Buddhist monastic education in India.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Mahmud of Ghazni belonged to which dynasty?",
+          "options": ["Ghurid", "Ghaznavid", "Samanid", "Abbasid"],
+          "answerIndex": 1,
+          "explanation": "Mahmud of Ghazni was a Ghaznavid (Ghaznavid dynasty, capital Ghazni in Afghanistan). Muhammad Ghori was a Ghurid (Ghurid dynasty, capital Ghur in Afghanistan). These are different dynasties — confusing them is the single most common error in SSC history questions about early medieval India.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The epic 'Prithviraj Raso' was written by:",
+          "options": ["Al-Beruni", "Chand Bardai", "Firdausi", "Ziauddin Barani"],
+          "answerIndex": 1,
+          "explanation": "Prithviraj Raso was composed by Chand Bardai, the court poet (bard) of Prithviraj III (Prithviraj Chauhan). It is a heroic epic in Hindi describing Prithviraj's campaigns, romances (including the Sanyogita story), and battles. It contains legendary elements and is not a strictly historical text.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Battle of Chandawar (1194 CE) was fought between Muhammad Ghori and which ruler?",
+          "options": ["Prithviraj III (Chauhan)", "Jaichand (Gahadavala of Varanasi)", "Rana Sanga (Mewar)", "Paramardideva (Chandella)"],
+          "answerIndex": 1,
+          "explanation": "Muhammad Ghori defeated Jaichand (Gahadavala king of Varanasi) at the Battle of Chandawar (1194 CE). This battle gave Ghori control over the Gangetic plain east of Delhi. Jaichand died in battle. Prithviraj had been defeated at Tarain II (1192).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Firdausi's 'Shahnamah' is the national epic of which country?",
+          "options": ["Afghanistan", "Iran (Persia)", "Turkey", "Iraq"],
+          "answerIndex": 1,
+          "explanation": "Shahnamah ('Book of Kings') by Firdausi was written at Mahmud of Ghazni's court. It is the national epic of Iran — a 60,000-verse Persian epic covering the mythological and historical kings of Persia from creation to the Arab conquest. Firdausi reportedly quarrelled with Mahmud over payment and wrote a bitter satire before leaving.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "What was the main military advantage Muhammad Ghori had over Rajput armies?",
+          "options": [
+            "Superior war elephants",
+            "Mounted horse archers who could tire the enemy before charging",
+            "Naval superiority on the Ganga",
+            "Large cannon artillery"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ghori's key tactical advantage was mounted horse archers (cavalry bowmen) — who could shoot arrows at high speed while riding, tiring and disorganising the Rajput elephant corps from a distance without engaging in hand-to-hand combat. The Rajputs' war elephants panicked under sustained arrow fire.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "The Somnath temple raided by Mahmud of Ghazni in 1025 is in which present-day state?",
+          "options": ["Rajasthan", "Maharashtra", "Gujarat", "Karnataka"],
+          "answerIndex": 2,
+          "explanation": "The Somnath temple is located at Prabhas Patan (now Somnath town) in Gir Somnath district, Gujarat — on the coast of the Arabian Sea. It is one of the 12 Jyotirlingas (sacred Shiva temples). The current temple structure was consecrated in 1951 at the initiative of Sardar Vallabhbhai Patel.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "Why did Prithviraj Chauhan's chivalric code become a military liability at Tarain I (1191)?",
+          "options": [
+            "He was outnumbered 10:1",
+            "He did not pursue and destroy Ghori's retreating army after his victory",
+            "He lacked cavalry",
+            "His generals betrayed him"
+          ],
+          "answerIndex": 1,
+          "explanation": "After Tarain I, Prithviraj had Ghori and his wounded army at his mercy but allowed them to retreat — consistent with Rajput chivalric norms about not attacking a retreating enemy. This allowed Ghori to regroup, plan, and return with improved tactics for Tarain II (1192) — where he decisively defeated and captured Prithviraj.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which Paramara king of Malwa was famous as both a warrior and a prolific scholar?",
+          "options": ["Dhruva Paramara", "Bhoja I (Bhojadeva)", "Tailapa II", "Sindhuraja"],
+          "answerIndex": 1,
+          "explanation": "Bhoja I (~1000–1055 CE) of the Paramara dynasty (Malwa, capital Dhar/Dhara) was both a great warrior and a prolific scholar-king. He wrote works on Sanskrit grammar, yoga, architecture (Samarangana Sutradhara), poetics, and astronomy. He founded the city of Bhojapur (associated with modern Bhopal) and built the Bhojeshvara Temple.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "The outcome of the Second Battle of Tarain (1192 CE) was:",
+          "options": [
+            "Prithviraj III defeated Muhammad Ghori again",
+            "Muhammad Ghori defeated Prithviraj III; Prithviraj was captured and executed",
+            "The battle was inconclusive",
+            "Muhammad Ghori was killed"
+          ],
+          "answerIndex": 1,
+          "explanation": "In the Second Battle of Tarain (1192 CE), Muhammad Ghori decisively defeated Prithviraj III. Prithviraj was captured and later executed. This battle ended Rajput political dominance in north India and opened the way for the establishment of the Delhi Sultanate under Qutbuddin Aibak.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Who founded the Delhi Sultanate after Muhammad Ghori's death?",
+          "options": ["Bakhtiyar Khilji", "Qutbuddin Aibak", "Iltutmish", "Yalduz"],
+          "answerIndex": 1,
+          "explanation": "Qutbuddin Aibak, Muhammad Ghori's trusted slave-general and viceroy in Delhi, founded the Delhi Sultanate (Slave/Mamluk Dynasty) in 1206 CE after Ghori's assassination. He also began the construction of Qutub Minar and the Quwwat-ul-Islam Mosque.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Jauhar — mass self-immolation by Rajput women — was primarily done to:",
+          "options": [
+            "Please the gods before battle",
+            "Avoid capture and dishonour when a fort was about to fall to the enemy",
+            "Mourn the death of their husbands after battle",
+            "Protest against the caste system"
+          ],
+          "answerIndex": 1,
+          "explanation": "Jauhar was performed by Rajput women (and sometimes children) when a fort was about to be captured by the enemy — to die with honour rather than face captivity, slavery, or forced marriage. The men would then perform Saka (charging into battle in saffron robes, fighting to the death). The most famous Jauhar at Chittorgarh (Padmavati story, 1303 CE) is associated with Alauddin Khalji's siege.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which dynasty were the Rajput Chandellas, famous for the Khajuraho temples, feudatories of?",
+          "options": ["Rashtrakutas", "Gurjara-Pratiharas", "Palas", "Paramaras"],
+          "answerIndex": 1,
+          "explanation": "The Chandellas of Bundelkhand were originally feudatories of the Gurjara-Pratiharas. They became independent as Pratihara power declined. They built the famous Khajuraho temples between 950–1050 CE. Their capital was Khajuraho/Mahoba.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

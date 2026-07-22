@@ -1,0 +1,188 @@
+{
+  "topic": "Mahajanapadas, Buddhism & Jainism",
+  "topicId": "hist-mahajanapadas-religions",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Where did Gautama Buddha deliver his first sermon?",
+          "options": ["Bodh Gaya", "Lumbini", "Sarnath", "Kushinara"],
+          "answerIndex": 2,
+          "explanation": "The first sermon (Dhamma Chakka Pavattana Sutta — 'Setting in Motion the Wheel of Dhamma') was delivered at Sarnath (near Varanasi) at the Deer Park (Mrigadava). This event is called Dhammachakkapavattana or the First Turning of the Wheel.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Fourth Buddhist Council was held during the reign of which king?",
+          "options": ["Ashoka", "Chandragupta II", "Kanishka", "Bimbisara"],
+          "answerIndex": 2,
+          "explanation": "The Fourth Buddhist Council was held in Kashmir (~1st–2nd century CE) under the patronage of Kushana king Kanishka. It led to the formal split into Mahayana (greater vehicle) and Hinayana (lesser vehicle / Theravada) schools. The Third Council was under Ashoka at Pataliputra.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is NOT one of the Four Noble Truths of Buddhism?",
+          "options": [
+            "There is suffering (Dukkha)",
+            "Suffering has a cause (Samudaya)",
+            "Suffering can be ended (Nirodha)",
+            "Liberation comes through extreme asceticism"
+          ],
+          "answerIndex": 3,
+          "explanation": "The Four Noble Truths are: Dukkha (suffering exists), Samudaya (suffering has a cause — craving), Nirodha (suffering can be ended), Magga (the path — the Eightfold Path). Extreme asceticism is NOT the path; the Buddha rejected both extreme luxury AND extreme asceticism, choosing the Middle Way.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "Mahavira, the 24th Tirthankara of Jainism, was born in:",
+          "options": ["Bodh Gaya", "Vaishali", "Rajagriha", "Kashi"],
+          "answerIndex": 1,
+          "explanation": "Mahavira (Vardhamana) was born at Kundagrama near Vaishali (Bihar) in 599 BCE (traditional). He was a Kshatriya prince. He attained enlightenment (Kevala-jnana) at Jrimbhikagrama and died (Nirvana) at Pavapuri.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which of the following was NOT a republic (Gana-sangha) among the 16 Mahajanapadas?",
+          "options": ["Vajji", "Malla", "Kamboja", "Magadha"],
+          "answerIndex": 3,
+          "explanation": "Magadha was a monarchy (rajatantra), not a republic. Among the 16 Mahajanapadas, Vajji (with Vaishali as capital) was the most powerful republic (gana-sangha). Malla, Kamboja, Shakya (Buddha's clan), and Koliya were also republics.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The concept of 'Anekantavada' (many-sidedness of truth) belongs to:",
+          "options": ["Buddhism", "Jainism", "Ajivika sect", "Charvaka"],
+          "answerIndex": 1,
+          "explanation": "Anekantavada is the Jain philosophical principle that reality is complex and can be understood from many viewpoints — no single perspective captures the complete truth. It is also called Syadvada (doctrine of 'maybe'). This is distinct from Buddhist concepts like Sunyata (emptiness).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Tripitaka — the canonical Buddhist scripture — is written in which language?",
+          "options": ["Sanskrit", "Pali", "Prakrit", "Ardhamagadhi"],
+          "answerIndex": 1,
+          "explanation": "The Tripitaka (Pali Canon) is written in Pali — a vernacular language related to Sanskrit, probably similar to what was spoken in the Gangetic plain in Buddha's time. It comprises Vinaya Pitaka (monastic rules), Sutta Pitaka (discourses), and Abhidhamma Pitaka (philosophy).",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following correctly pairs a Buddhist Council with its location?",
+          "options": [
+            "First Council — Vaishali",
+            "Second Council — Rajagriha",
+            "Third Council — Pataliputra",
+            "Fourth Council — Nalanda"
+          ],
+          "answerIndex": 2,
+          "explanation": "Third Buddhist Council was held at Pataliputra (Patna) under Emperor Ashoka's patronage (~250 BCE). First Council = Rajagriha (Ajatashatru); Second Council = Vaishali; Fourth Council = Kashmir (Kanishka). Do not confuse these locations — it is a very common SSC trap.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "Which Mahajanapada had its capital at Rajagriha (Rajgir)?",
+          "options": ["Kosala", "Avanti", "Magadha", "Vajji"],
+          "answerIndex": 2,
+          "explanation": "Magadha's capital was Rajagriha (Rajgir, Bihar) — later shifted to Pataliputra (Patna) under the Shishunaga and Nanda dynasties. Magadha became the most powerful Mahajanapada due to iron ore resources, fertile Ganga plains, and strong rulers like Bimbisara and Ajatashatru.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Digambara and Shvetambara sects of Jainism differ primarily on which issue?",
+          "options": [
+            "Whether Mahavira was married or celibate",
+            "Whether monks should wear clothes or remain naked",
+            "Whether women can attain moksha",
+            "Both B and C"
+          ],
+          "answerIndex": 3,
+          "explanation": "Digambara (sky-clad) Jains believe monks should be naked and that women cannot attain moksha in female birth; Shvetambara (white-clad) believe monks can wear white clothes and that women CAN attain moksha. The 19th Tirthankara Malli was a woman according to Shvetambaras — Digambaras dispute this.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "The 'Ajivika' sect was founded by whom and what was its key belief?",
+          "options": [
+            "Makkhali Gosala; strict determinism (niyati) — no free will",
+            "Purana Kassapa; complete amoralism",
+            "Pakudha Kacchayana; materialism",
+            "Ajita Kesakambali; hedonism"
+          ],
+          "answerIndex": 0,
+          "explanation": "The Ajivika sect was founded by Makkhali Gosala (a contemporary and onetime associate of Mahavira). Its central belief was absolute determinism (Niyativada) — everything is pre-determined; free will is an illusion; liberation comes only after a fixed number of rebirths. The sect is now extinct.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "What are the 'Three Jewels' (Triratna) of Buddhism?",
+          "options": [
+            "Buddha, Dharma, Karma",
+            "Buddha, Dhamma, Sangha",
+            "Ahimsa, Satya, Asteya",
+            "Right View, Right Speech, Right Action"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Three Jewels (Triratna) or Three Refuges of Buddhism are: Buddha (the enlightened teacher), Dhamma (the teaching/truth), and Sangha (the community of monks and followers). Taking refuge in these three is the formal declaration of becoming a Buddhist.",
+          "source": "SSC CGL 2021",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "Where was Gautama Buddha born?",
+          "options": ["Bodh Gaya (Bihar)", "Sarnath (UP)", "Lumbini (Nepal)", "Kushinara (UP)"],
+          "answerIndex": 2,
+          "explanation": "Gautama Buddha was born at Lumbini (now in Nepal) around 563 BCE. The Four Great Events of Buddha's life: Birth = Lumbini; Enlightenment = Bodh Gaya; First Sermon = Sarnath; Death (Mahaparinirvana) = Kushinara (Kushinagar, UP).",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "The Eightfold Path of Buddhism does NOT include:",
+          "options": ["Right Speech", "Right Livelihood", "Right Meditation", "Right Caste"],
+          "answerIndex": 3,
+          "explanation": "The Eightfold Path (Ashtangika Marga) consists of: Right View, Right Intention, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, Right Concentration. There is NO 'Right Caste' — Buddhism explicitly rejected the caste system.",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "Vardhamana Mahavira attained enlightenment (Kevala Jnana) at which age?",
+          "options": ["30", "42", "72", "35"],
+          "answerIndex": 1,
+          "explanation": "Mahavira attained Kevala Jnana (omniscience/enlightenment) at age 42, after 12 years of intense asceticism. He died (attained Moksha/Nirvana) at Pavapuri at age 72. This is frequently confused with Buddha's enlightenment at age 35.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is the Jain equivalent of the Buddhist 'Dhamma Chakka Pavattana' (First Sermon)?",
+          "options": [
+            "Mahavira's birth at Kundagrama",
+            "Mahavira's first sermon at Pava after enlightenment",
+            "Mahavira renouncing his kingdom at age 30",
+            "Mahavira's death at Pavapuri"
+          ],
+          "answerIndex": 1,
+          "explanation": "After attaining Kevala Jnana, Mahavira delivered his first discourse (Deshana) at Pava (Pavapuri area, Bihar) to a group that became his first disciples (ganadharas). This is the Jain equivalent of the Buddha's First Sermon at Sarnath.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

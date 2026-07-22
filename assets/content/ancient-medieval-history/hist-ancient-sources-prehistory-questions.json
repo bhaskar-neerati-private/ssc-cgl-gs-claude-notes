@@ -1,0 +1,158 @@
+{
+  "topic": "Ancient Sources, Prehistory & Indus Valley Civilisation",
+  "topicId": "hist-ancient-sources-prehistory",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Who discovered the Harappa site in 1921?",
+          "options": ["R.D. Banerji", "Daya Ram Sahni", "John Marshall", "Mortimer Wheeler"],
+          "answerIndex": 1,
+          "explanation": "Daya Ram Sahni discovered Harappa in 1921. R.D. Banerji discovered Mohenjo-Daro in 1922. John Marshall was the Director-General of ASI who supervised excavations. Mortimer Wheeler arrived later.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Great Bath of the Indus Valley Civilisation was discovered at which site?",
+          "options": ["Harappa", "Lothal", "Mohenjo-Daro", "Kalibangan"],
+          "answerIndex": 2,
+          "explanation": "The Great Bath was discovered at Mohenjo-Daro. It is approximately 12×7 metres and 2.4 metres deep, used for ritual bathing. Lothal had a dockyard, not the Great Bath.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which of the following sites of the Indus Valley Civilisation is located in Gujarat?",
+          "options": ["Harappa", "Kalibangan", "Lothal", "Banawali"],
+          "answerIndex": 2,
+          "explanation": "Lothal is located in Gujarat (Ahmedabad district). It is famous for its dockyard — the earliest known dockyard in the world. Harappa is in Punjab (Pakistan), Kalibangan in Rajasthan, Banawali in Haryana.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which Chinese pilgrim visited India during the reign of Chandragupta II?",
+          "options": ["Hieun Tsang", "Fa-Hien", "I-tsing", "Wang Xuance"],
+          "answerIndex": 1,
+          "explanation": "Fa-Hien (Faxian) visited India during the reign of Chandragupta II (Vikramaditya) around 399–414 CE. Hieun Tsang visited during Harsha's reign (630–645 CE). I-tsing visited in 671–695 CE. Wang Xuance was an ambassador, not a pilgrim.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Questions",
+      "questions": [
+        {
+          "text": "Which of the following is the largest Indus Valley site discovered so far?",
+          "options": ["Mohenjo-Daro", "Harappa", "Dholavira", "Rakhigarhi"],
+          "answerIndex": 3,
+          "explanation": "Rakhigarhi (Haryana) is the largest known IVC site by area (~350 hectares), surpassing Mohenjo-Daro (~300 hectares). This is frequently confused in exams — Mohenjo-Daro was considered the largest until Rakhigarhi was fully excavated.",
+          "source": "SSC CGL 2022",
+          "verified": true
+        },
+        {
+          "text": "The standard brick ratio used in Indus Valley Civilisation construction was:",
+          "options": ["1:2:3", "1:2:4", "1:3:5", "2:3:4"],
+          "answerIndex": 1,
+          "explanation": "IVC bricks had a standardised ratio of 1:2:4 (height:width:length). This remarkable standardisation across sites hundreds of kilometres apart indicates a high level of urban planning and perhaps a centralised administrative system.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which foreign traveller wrote 'Kitab-ul-Hind', describing Indian society in the 11th century CE?",
+          "options": ["Ibn Battuta", "Megasthenes", "Al-Beruni", "Hieun Tsang"],
+          "answerIndex": 2,
+          "explanation": "Al-Beruni (Abu Rayhan Biruni) wrote Kitab-ul-Hind (~1030 CE) after accompanying Mahmud of Ghazni to India. He learned Sanskrit and wrote a comprehensive account of Indian science, philosophy, and society. Ibn Battuta wrote Rihla (14th century).",
+          "source": "SSC CHSL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Pashupati Seal found at Mohenjo-Daro depicts a figure which is believed to be a prototype of:",
+          "options": ["Vishnu", "Indra", "Shiva", "Brahma"],
+          "answerIndex": 2,
+          "explanation": "The Pashupati Seal shows a seated cross-legged figure surrounded by animals. It is widely interpreted as a proto-Shiva figure (Pashupati = Lord of Animals is one of Shiva's epithets). This is one of the most famous IVC artefacts and a direct SSC question.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated Topics",
+      "questions": [
+        {
+          "text": "The IVC site of Dholavira is known for which unique feature?",
+          "options": ["Dockyard", "Large water reservoir system", "Dancing Girl figurine", "Fire altars"],
+          "answerIndex": 1,
+          "explanation": "Dholavira (Gujarat, Rann of Kutch) is known for its elaborate water conservation system — reservoirs, channels, and dams — the most sophisticated in the IVC. It also has a unique signboard-like inscription. Lothal has the dockyard, Mohenjo-Daro the Dancing Girl, Kalibangan the fire altars.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Which IVC site is famous for its dockyard — the earliest known in the world?",
+          "options": ["Kalibangan", "Surkotada", "Lothal", "Banawali"],
+          "answerIndex": 2,
+          "explanation": "Lothal (Gujarat) has the earliest known dockyard in the world, dating to around 2400 BCE. The trapezoidal basin could accommodate sea-going vessels. Kalibangan is known for fire altars and ploughed field; Surkotada for horse remains.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "What was the primary crop cultivated by the people of the Indus Valley Civilisation?",
+          "options": ["Rice and millets", "Wheat and barley", "Maize and sugarcane", "Cotton and jute"],
+          "answerIndex": 1,
+          "explanation": "The IVC people primarily cultivated wheat and barley. They were also the first to cultivate cotton in the world (around 3000 BCE). Rice cultivation evidence is present at some eastern IVC sites but was not the primary crop.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Bhimbetka cave paintings are associated with which period?",
+          "options": ["Neolithic Age", "Chalcolithic Age", "Upper Palaeolithic and Mesolithic", "Iron Age"],
+          "answerIndex": 2,
+          "explanation": "Bhimbetka (Madhya Pradesh) rock shelters contain paintings spanning the Upper Palaeolithic through Mesolithic periods — some among the oldest rock art in India (10,000+ BCE). They are UNESCO World Heritage Sites and show hunting scenes, animals, and later agricultural scenes.",
+          "source": "Anticipated",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Asked",
+      "questions": [
+        {
+          "text": "Which animal is most commonly depicted on Indus Valley seals?",
+          "options": ["Elephant", "Tiger", "Unicorn (short-horned bull)", "Rhinoceros"],
+          "answerIndex": 2,
+          "explanation": "The unicorn (a bull depicted with a single horn in profile) is the most frequently found animal on IVC seals — appearing on over 60% of all discovered seals. The Pashupati Seal is the most famous individual seal.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "The Indus Valley script has NOT been deciphered. Which of the following statements about it is correct?",
+          "options": ["It reads left to right", "It reads right to left consistently", "It appears to be written boustrophedon (alternating direction)", "It reads top to bottom only"],
+          "answerIndex": 2,
+          "explanation": "IVC script appears to be boustrophedon (alternating — right to left, then left to right) based on analysis of longer inscriptions. It is predominantly right to left. The script remains undeciphered — there are about 400 signs but no bilingual text like the Rosetta Stone.",
+          "source": "Anticipated",
+          "verified": false
+        },
+        {
+          "text": "Who wrote 'Indica' — one of the earliest accounts of India based on firsthand observation?",
+          "options": ["Megasthenes", "Fa-Hien", "Al-Beruni", "Strabo"],
+          "answerIndex": 0,
+          "explanation": "Megasthenes was the Greek ambassador sent by Seleucus Nicator to the court of Chandragupta Maurya. His work 'Indica' (now lost, but preserved in fragments) is one of the earliest detailed accounts of India. It describes Mauryan administration, society, and geography.",
+          "source": "SSC CGL 2014",
+          "verified": true
+        },
+        {
+          "text": "The 'Dancing Girl' bronze figurine of the Indus Valley Civilisation was found at:",
+          "options": ["Harappa", "Mohenjo-Daro", "Lothal", "Dholavira"],
+          "answerIndex": 1,
+          "explanation": "The famous 'Dancing Girl' (a bronze statuette of a young woman in a relaxed pose) was found at Mohenjo-Daro. It is about 10.5 cm tall, made by lost-wax casting, and is now in the National Museum, New Delhi. It is one of the most recognisable IVC artefacts.",
+          "source": "SSC CHSL 2017",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
