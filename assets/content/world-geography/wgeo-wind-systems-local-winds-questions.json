@@ -1,0 +1,158 @@
+{
+  "topic": "Wind Systems & Local Winds",
+  "topicId": "wgeo-wind-systems-local-winds",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The hot and dry local wind that blows in North India during summer is called:",
+          "options": ["Mistral", "Sirocco", "Loo", "Foehn"],
+          "answerIndex": 2,
+          "explanation": "The 'Loo' is a hot, dry, dusty wind that blows across the plains of North India (Punjab, Haryana, UP, Rajasthan) during May and June. It can be fatal to those exposed for extended periods. It blows from the west/northwest.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Trade winds blow from:",
+          "options": ["Equatorial low toward sub-tropical high", "Sub-tropical high toward equatorial low", "Polar high toward sub-polar low", "Sub-polar low toward polar high"],
+          "answerIndex": 1,
+          "explanation": "Trade winds blow from the sub-tropical high pressure belts (~30°N/S) toward the equatorial low (0°). They are deflected by the Coriolis Effect to become NE Trade Winds (NH) and SE Trade Winds (SH). They are the most reliable and consistent winds on Earth.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The 'Sirocco' is a hot wind that originates from:",
+          "options": ["Alps and blows into Mediterranean", "Sahara Desert and blows northward", "Thar Desert and blows into India", "Arabian Desert and blows into South Asia"],
+          "answerIndex": 1,
+          "explanation": "The Sirocco is a hot, dry, dust-laden wind that originates in the Sahara Desert and blows northward across the Mediterranean into southern Europe (Italy, Spain, North Africa coast). It can carry Saharan dust, sometimes causing 'red rain.'",
+          "source": "SSC Geography Local Winds",
+          "verified": true
+        },
+        {
+          "text": "The Westerlies blow from:",
+          "options": ["Equatorial region toward sub-tropical region", "Polar regions toward sub-polar region", "Sub-tropical high toward sub-polar low", "Sub-polar low toward equatorial low"],
+          "answerIndex": 2,
+          "explanation": "Westerlies blow from the sub-tropical high pressure belts (~30°N/S) toward the sub-polar lows (~60°N/S). They blow as SW Westerlies in the NH and NW Westerlies in the SH. They are responsible for bringing rainfall to west-facing temperate coasts.",
+          "source": "SSC Geography Wind Systems",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "The 'Chinook' is a warm dry wind in North America. It gets its warmth because:",
+          "options": ["It comes from the tropics", "It is heated by friction with the Rocky Mountains", "Air warms as it descends the leeward side of the Rockies (adiabatic warming)", "It absorbs heat from the Great Plains"],
+          "answerIndex": 2,
+          "explanation": "The Chinook is a foehn-type wind. Moist air rises over the Rockies, loses moisture as precipitation on the windward side, then descends the leeward (eastern) side and warms at the dry adiabatic lapse rate (10°C/1,000 m) — arriving warmer and drier. It can raise temperatures by 20°C in hours, melting snow rapidly ('snow eater').",
+          "source": "SSC Foehn Winds",
+          "verified": true
+        },
+        {
+          "text": "The 'Roaring Forties' and 'Furious Fifties' refer to:",
+          "options": ["Tropical cyclone intensity categories", "Strong westerly winds in the Southern Ocean at 40°S and 50°S latitudes", "Trade winds in the Southern Hemisphere", "Polar easterlies near Antarctica"],
+          "answerIndex": 1,
+          "explanation": "'Roaring Forties' (40°S), 'Furious Fifties' (50°S), and 'Screaming Sixties' (60°S) are names for the powerful Westerly winds in the Southern Ocean. With minimal land to break their force, they circle Antarctica continuously and were critical for historic sailing clipper routes.",
+          "source": "SSC Geography Southern Ocean",
+          "verified": true
+        },
+        {
+          "text": "What does ITCZ stand for, and why does it matter for Indian monsoon?",
+          "options": ["Inter-Tropic Climate Zone; controls Indian Ocean temperature", "Inter-Tropical Convergence Zone; its northward shift in June triggers SW monsoon over India", "International Typhoon Cyclone Zone; predicts cyclone tracks", "Indo-Tidal Current Zone; drives ocean currents near India"],
+          "answerIndex": 1,
+          "explanation": "The ITCZ (Inter-Tropical Convergence Zone) is a band of low pressure near the equator where NE and SE Trade Winds converge. In June, the ITCZ shifts northward to about 20°N (partly driven by Tibetan Plateau heating). This northward shift draws moist SW winds over India, triggering the SW monsoon.",
+          "source": "SSC Indian Monsoon",
+          "verified": false
+        },
+        {
+          "text": "Wind direction is named for:",
+          "options": ["Where the wind is going", "Where the wind is coming from", "The strongest part of the wind's path", "The pressure system it originated from"],
+          "answerIndex": 1,
+          "explanation": "By meteorological convention, wind direction is named for where the wind COMES FROM: a 'Westerly' blows FROM the west (going east); a 'NE Trade Wind' comes FROM the northeast. This is different from ocean current naming (which names where the current is GOING).",
+          "source": "SSC Meteorology Basics",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The 'Mistral' wind in France blows from which direction?",
+          "options": ["From the Alps/Massif Central northward", "From the Mediterranean northward", "From the Alps/north southward through the Rhône Valley", "From the Atlantic eastward"],
+          "answerIndex": 2,
+          "explanation": "The Mistral is a cold, dry northerly wind that funnels southward from the Alps and Massif Central through the Rhône Valley toward the Mediterranean coast of France. It can be fierce (gusts up to 180 km/h) and is associated with clear, cold, sunny weather.",
+          "source": "SSC Local Winds Europe",
+          "verified": true
+        },
+        {
+          "text": "The 'Harmattan' wind is called the 'Doctor' in West Africa because:",
+          "options": ["It brings rain and relieves drought", "It dries the humid tropical air, providing relief from oppressive humidity", "It carries medicines from the Sahara", "It is cool like an air conditioner"],
+          "answerIndex": 1,
+          "explanation": "The Harmattan is a dry, dusty wind blowing from the Sahara toward the Gulf of Guinea in West Africa. It is called 'Doctor' because it dramatically reduces the high humidity of the tropical coast, providing relief. However, it also causes dry skin, nose bleeds, and dust haze.",
+          "source": "SSC Local Winds Africa",
+          "verified": true
+        },
+        {
+          "text": "The 'Bora' is a cold violent wind associated with which coastal region?",
+          "options": ["Norwegian fjords", "Adriatic coast (Croatia/Italy)", "Black Sea coast of Ukraine", "Gulf of Mexico"],
+          "answerIndex": 1,
+          "explanation": "The Bora is a cold, dry, violent wind that descends from the Dinaric Alps toward the Adriatic Sea coast (Croatia, Slovenia, Italy). It can exceed 170 km/h and is most severe in winter. It is a katabatic (downslope) wind — cold air spilling off the mountains.",
+          "source": "SSC Local Winds Europe",
+          "verified": true
+        },
+        {
+          "text": "Tamil Nadu receives significant rainfall during October–December mainly because of the:",
+          "options": ["SW Monsoon (Arabian Sea branch)", "SW Monsoon (Bay of Bengal branch)", "NE Monsoon (retreating monsoon)", "Cyclones from the Pacific"],
+          "answerIndex": 2,
+          "explanation": "Tamil Nadu receives the bulk of its rainfall from the NE Monsoon (also called retreating or winter monsoon, October–December). When the SW monsoon retreats, the wind reversal picks up moisture from the Bay of Bengal and deposits it on the southeastern coast (Coromandel Coast). Most of India is dry at this time.",
+          "source": "SSC India Climate Monsoon",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "Which pressure zone is also called the 'Doldrums'?",
+          "options": ["Sub-tropical high (~30°)", "Equatorial low (0°)", "Sub-polar low (~60°)", "Polar high (~90°)"],
+          "answerIndex": 1,
+          "explanation": "The Doldrums is the equatorial low pressure belt (0°) where trade winds converge (the ITCZ). The air rises here, creating calm, light, and variable surface winds — frustrating to sailing ships waiting for wind. The sub-tropical high (~30°) is called 'Horse Latitudes,' also known for calm winds.",
+          "source": "SSC Wind Belts",
+          "verified": true
+        },
+        {
+          "text": "The 'Khamsin' is a hot dry wind associated with:",
+          "options": ["India", "Central Asia", "Egypt/North Africa", "Southern Europe"],
+          "answerIndex": 2,
+          "explanation": "The Khamsin is a hot, dry, dust-laden wind in Egypt and surrounding North African/Middle East regions. The name comes from the Arabic for 'fifty' — it was traditionally said to blow for 50 days (khamsin days). It blows mainly in spring and brings sandstorm conditions.",
+          "source": "SSC Geography Local Winds",
+          "verified": true
+        },
+        {
+          "text": "Jet streams are significant for commercial aviation because:",
+          "options": ["They prevent turbulence for aircraft", "Flying with the jet stream reduces flight time and fuel consumption", "They generate the electricity used by aircraft", "They mark safe altitude zones for aircraft"],
+          "answerIndex": 1,
+          "explanation": "Jet streams (100–400 km/h winds at 9–16 km altitude) significantly reduce flight time and fuel consumption when aircraft fly with them. West-to-east transatlantic flights (e.g., New York to London) ride the jet stream and are typically 1–2 hours shorter than the return flight against the jet stream.",
+          "source": "SSC Science-Geography Aviation",
+          "verified": false
+        },
+        {
+          "text": "In which direction do Westerly winds blow?",
+          "options": ["From east to west", "From west to east", "From equator toward poles", "From poles toward equator"],
+          "answerIndex": 1,
+          "explanation": "Westerly winds blow FROM the west TO the east (west-to-east direction). They are named for where they come from — the west. In the Northern Hemisphere they are SW Westerlies; in Southern Hemisphere, NW Westerlies. They drive weather systems across temperate regions from west to east.",
+          "source": "SSC Wind Directions",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "topic": "Universe, Solar System & Earth's Structure",
+  "topicId": "wgeo-universe-solar-system",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which planet is known as the 'Red Planet'?",
+          "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+          "answerIndex": 2,
+          "explanation": "Mars is called the Red Planet because its surface contains iron oxide (rust), giving it a reddish appearance.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which is the hottest planet in the Solar System?",
+          "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+          "answerIndex": 1,
+          "explanation": "Venus is the hottest planet (~465°C) due to a runaway greenhouse effect with dense CO₂ atmosphere, even though Mercury is closer to the Sun.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The boundary between the crust and the mantle is known as:",
+          "options": ["Gutenberg Discontinuity", "Lehmann Discontinuity", "Mohorovičić Discontinuity", "Conrad Discontinuity"],
+          "answerIndex": 2,
+          "explanation": "The Mohorovičić (Moho) Discontinuity separates Earth's crust from the mantle, located at ~35 km depth under continents.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Which layer of the Earth is in a liquid state?",
+          "options": ["Inner core", "Outer core", "Mantle", "Crust"],
+          "answerIndex": 1,
+          "explanation": "The outer core (2,900–5,100 km depth) is liquid iron-nickel. This liquid outer core generates Earth's magnetic field. The inner core is solid despite higher temperatures due to enormous pressure.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which moon of the Solar System has the thickest atmosphere?",
+          "options": ["Europa (Jupiter)", "Ganymede (Jupiter)", "Titan (Saturn)", "Io (Jupiter)"],
+          "answerIndex": 2,
+          "explanation": "Titan, Saturn's largest moon, is the only moon in the Solar System with a thick atmosphere — denser than Earth's — composed mainly of nitrogen.",
+          "source": "SSC Geography Set",
+          "verified": false
+        },
+        {
+          "text": "A light-year is a unit of:",
+          "options": ["Time", "Speed", "Distance", "Energy"],
+          "answerIndex": 2,
+          "explanation": "A light-year is the distance light travels in one year ≈ 9.46 × 10¹² km. It is purely a unit of distance, not time, despite the name.",
+          "source": "SSC CGL 2015",
+          "verified": true
+        },
+        {
+          "text": "Which statement about Pluto is correct after the 2006 IAU decision?",
+          "options": ["Pluto is the 9th planet", "Pluto is a dwarf planet", "Pluto is a moon of Neptune", "Pluto was never a planet"],
+          "answerIndex": 1,
+          "explanation": "In 2006, the International Astronomical Union redefined planet criteria. Pluto was reclassified as a 'dwarf planet' because it has not cleared its orbital neighbourhood. The Solar System now has 8 planets.",
+          "source": "SSC Science Set",
+          "verified": false
+        },
+        {
+          "text": "Sunspots are associated with which layer of the Sun?",
+          "options": ["Core", "Radiative Zone", "Photosphere", "Corona"],
+          "answerIndex": 2,
+          "explanation": "Sunspots are cooler, darker regions on the Sun's photosphere (surface layer, ~5,500°C). They appear dark because they are about 1,500°C cooler than surrounding regions. They follow an 11-year cycle.",
+          "source": "SSC General Science Set",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "What is the equatorial radius of Earth approximately?",
+          "options": ["6,357 km", "6,371 km", "6,378 km", "6,400 km"],
+          "answerIndex": 2,
+          "explanation": "Earth's equatorial radius is ~6,378 km, while the polar radius is ~6,357 km. Earth is an oblate spheroid — slightly flattened at poles and bulging at the equator.",
+          "source": "SSC Geography Reference",
+          "verified": false
+        },
+        {
+          "text": "Spring tides occur when:",
+          "options": ["Sun, Moon, and Earth are aligned", "Sun and Moon are at right angles to Earth", "Moon is at perigee", "Earth is at perihelion"],
+          "answerIndex": 0,
+          "explanation": "Spring tides (highest high tides, lowest low tides) occur at full moon and new moon when Sun, Moon, and Earth are aligned, creating maximum combined gravitational pull. They are NOT related to the spring season.",
+          "source": "SSC CHSL Geography",
+          "verified": false
+        },
+        {
+          "text": "Which is the nearest star to Earth after the Sun?",
+          "options": ["Sirius", "Proxima Centauri", "Alpha Centauri A", "Betelgeuse"],
+          "answerIndex": 1,
+          "explanation": "Proxima Centauri (4.24 light-years away) is the nearest star to Earth after the Sun. Sirius is the brightest star in the night sky but not the nearest. Alpha Centauri A is 4.37 light-years away.",
+          "source": "SSC Astronomy Questions",
+          "verified": false
+        },
+        {
+          "text": "The Aurora Borealis (Northern Lights) is caused by:",
+          "options": ["Reflection of sunlight on ice crystals", "Solar wind particles interacting with Earth's magnetic field", "Refraction of moonlight in polar atmosphere", "Volcanic emissions in the Arctic"],
+          "answerIndex": 1,
+          "explanation": "Auroras (Borealis in North, Australis in South) are caused by charged particles from the solar wind being channelled by Earth's magnetic field into the polar atmosphere, where they excite gas molecules that then emit coloured light.",
+          "source": "SSC Science-Geography",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "Which planet has the most moons in the Solar System?",
+          "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+          "answerIndex": 1,
+          "explanation": "Jupiter has the most confirmed moons (95 as of recent counts), followed by Saturn (146). However, the count fluctuates as new small moons are discovered — check the year of the question. Saturn has historically been listed second.",
+          "source": "SSC CGL Geography",
+          "verified": false
+        },
+        {
+          "text": "Which planet is least dense in the Solar System?",
+          "options": ["Jupiter", "Neptune", "Saturn", "Uranus"],
+          "answerIndex": 2,
+          "explanation": "Saturn is the least dense planet — its average density (0.687 g/cm³) is less than water (1 g/cm³), meaning it would float if placed in a large enough body of water. Jupiter is the largest but not the least dense.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The Challenger Deep, the deepest point on Earth, is located in which ocean?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+          "answerIndex": 3,
+          "explanation": "Challenger Deep in the Mariana Trench (~10,994 m) is the deepest point on Earth's surface, located in the western Pacific Ocean. It was named after HMS Challenger, which first measured it in 1875.",
+          "source": "SSC CGL 2020",
+          "verified": true
+        },
+        {
+          "text": "Which planet rotates on its axis in a retrograde (east-to-west) direction, similar to Venus?",
+          "options": ["Mars", "Uranus", "Mercury", "Jupiter"],
+          "answerIndex": 1,
+          "explanation": "Uranus rotates retrograde AND on its side (axial tilt 97.8°). Venus also rotates retrograde (east to west) but nearly upright. Both Venus and Uranus have retrograde rotation, but Uranus is the one that 'rolls' on its side.",
+          "source": "SSC Planet Questions",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

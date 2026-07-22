@@ -1,0 +1,158 @@
+{
+  "topic": "Earth's Movements, Coordinates & Time",
+  "topicId": "wgeo-earth-movements-time",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Indian Standard Time (IST) is based on which meridian?",
+          "options": ["80°E", "82.5°E", "85°E", "90°E"],
+          "answerIndex": 1,
+          "explanation": "IST is based on the 82.5°E meridian, which passes through Mirzapur in Uttar Pradesh. IST is UTC +5:30, i.e., 5 hours 30 minutes ahead of Greenwich Mean Time.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "What is the duration of a solar day?",
+          "options": ["23 hours 56 minutes 4 seconds", "24 hours exactly", "24 hours 4 minutes", "23 hours 56 minutes"],
+          "answerIndex": 1,
+          "explanation": "A solar day is 24 hours — measured relative to the Sun's position. The sidereal day (relative to distant stars) is 23 hours 56 minutes 4 seconds. SSC typically asks about the solar day = 24 hours.",
+          "source": "SSC Geography Set",
+          "verified": true
+        },
+        {
+          "text": "Summer Solstice in the Northern Hemisphere occurs on:",
+          "options": ["March 21", "June 21", "September 23", "December 22"],
+          "answerIndex": 1,
+          "explanation": "June 21 is the Summer Solstice in the Northern Hemisphere — the longest day and shortest night. The Sun is overhead at the Tropic of Cancer (23.5°N). December 22 is Winter Solstice (shortest day in NH).",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "What is the time difference for every 15° of longitude?",
+          "options": ["30 minutes", "45 minutes", "1 hour", "2 hours"],
+          "answerIndex": 2,
+          "explanation": "Earth rotates 360° in 24 hours = 15° per hour. So every 15° of longitude represents 1 hour of time difference. Therefore, 1° = 4 minutes.",
+          "source": "SSC CHSL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "When does perihelion occur (Earth closest to the Sun)?",
+          "options": ["January 3", "March 21", "June 21", "July 4"],
+          "answerIndex": 0,
+          "explanation": "Perihelion (Earth closest to Sun, ~147 million km) occurs around January 3. This is during Northern Hemisphere winter, proving that seasons are caused by axial tilt, NOT by Earth's distance from the Sun.",
+          "source": "SSC Geography Tricky",
+          "verified": false
+        },
+        {
+          "text": "Which year was NOT a leap year?",
+          "options": ["1896", "1900", "2000", "2400"],
+          "answerIndex": 1,
+          "explanation": "1900 was NOT a leap year — it's divisible by 100 but not by 400, so it's an exception. 2000 WAS a leap year (divisible by 400). 1896 was a leap year (divisible by 4, not 100). This Gregorian rule corrects for the 365.25-day orbit.",
+          "source": "SSC Calendar Questions",
+          "verified": true
+        },
+        {
+          "text": "What happens when you cross the International Date Line going from west to east?",
+          "options": ["Add 1 day", "Subtract 1 day", "Add 12 hours", "No change in date"],
+          "answerIndex": 1,
+          "explanation": "When crossing the IDL from west to east (e.g., from Kiribati toward Samoa), you subtract 1 day (go back a day). When crossing east to west, you add a day. Magellan's crew gained a day by sailing westward around the world.",
+          "source": "SSC Geography Time Zones",
+          "verified": false
+        },
+        {
+          "text": "The Coriolis Effect causes winds in the Northern Hemisphere to deflect:",
+          "options": ["To the left", "To the right", "Straight up", "Toward the equator"],
+          "answerIndex": 1,
+          "explanation": "Due to Earth's rotation (west to east), the Coriolis Effect deflects moving objects (winds, ocean currents) to the RIGHT in the Northern Hemisphere and to the LEFT in the Southern Hemisphere. This causes cyclones to rotate anti-clockwise in the NH.",
+          "source": "SSC Atmosphere Set",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The Vernal Equinox occurs on approximately:",
+          "options": ["March 21", "June 21", "September 23", "December 22"],
+          "answerIndex": 0,
+          "explanation": "Vernal (Spring) Equinox occurs around March 21 when the Sun is overhead at the Equator. Day and night are approximately equal (12 hours each) worldwide. The Autumnal Equinox is around September 23.",
+          "source": "SSC Geography",
+          "verified": false
+        },
+        {
+          "text": "1° of latitude is approximately equal to:",
+          "options": ["55 km", "75 km", "111 km", "150 km"],
+          "answerIndex": 2,
+          "explanation": "1° of latitude ≈ 111 km (fairly constant worldwide because parallels are equally spaced). 1° of longitude varies from ~111 km at the equator to 0 km at the poles.",
+          "source": "SSC Maps and Coordinates",
+          "verified": false
+        },
+        {
+          "text": "The Antarctic Circle is located at:",
+          "options": ["23.5°S", "60°S", "66.5°S", "90°S"],
+          "answerIndex": 2,
+          "explanation": "The Antarctic Circle is at 66.5°S. At this latitude, there is at least one 24-hour period of continuous daylight (December 22) and one of continuous darkness (June 21). The Arctic Circle is at 66.5°N.",
+          "source": "SSC Geography Reference",
+          "verified": false
+        },
+        {
+          "text": "The 82.5°E meridian used for Indian Standard Time passes through which city/district?",
+          "options": ["Allahabad", "Varanasi", "Mirzapur", "Lucknow"],
+          "answerIndex": 2,
+          "explanation": "The 82.5°E meridian passes through Mirzapur (sometimes written as Mirzapur-Vindhyachal) in Uttar Pradesh. This is used as the standard time meridian for India (UTC +5:30).",
+          "source": "SSC India Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "Earth's axial tilt is approximately:",
+          "options": ["17.5°", "23.5°", "33.5°", "45°"],
+          "answerIndex": 1,
+          "explanation": "Earth's axis is tilted at 23.5° from the perpendicular to its orbital plane (or 66.5° from the orbital plane). This tilt is the primary cause of seasons and the tropics, Arctic/Antarctic circles.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "Which of these is NOT a reason Earth has seasons?",
+          "options": ["Axial tilt of 23.5°", "Revolution around the Sun", "Variable distance from the Sun", "Duration of daylight changes"],
+          "answerIndex": 2,
+          "explanation": "Seasons are caused by Earth's axial tilt, not by its variable distance from the Sun. In fact, Earth is closest to the Sun (perihelion) in January — Northern Hemisphere winter — proving distance is not the primary cause.",
+          "source": "SSC Geography Concepts",
+          "verified": false
+        },
+        {
+          "text": "India does NOT follow multiple time zones because:",
+          "options": ["India is too small for multiple zones", "IST is based at the geometric centre", "It was a political decision for administrative unity", "India's longitude span is less than 15°"],
+          "answerIndex": 2,
+          "explanation": "India has a single time zone (IST, UTC+5:30) despite spanning ~29° of longitude (68°E to 97°E, covering almost 2 time zones). This was a deliberate political and administrative decision for national unity.",
+          "source": "SSC Current Affairs Geography",
+          "verified": false
+        },
+        {
+          "text": "Which latitude receives the most direct solar radiation throughout the year?",
+          "options": ["Arctic Circle (66.5°N)", "Tropic of Cancer (23.5°N)", "Equator (0°)", "Tropic of Capricorn (23.5°S)"],
+          "answerIndex": 2,
+          "explanation": "The Equator (0°) receives the most consistently direct solar radiation year-round. The Sun's overhead position (zenith) moves between the two tropics seasonally but is always vertical (or near vertical) at the equator, giving it highest annual insolation.",
+          "source": "SSC Geography",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "topic": "World Climate Zones & Biomes",
+  "topicId": "wgeo-climate-zones-biomes",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which type of vegetation is found in the Mediterranean climate zone?",
+          "options": ["Tropical rainforest", "Temperate grassland", "Drought-resistant scrubland (chaparral/maquis)", "Tundra"],
+          "answerIndex": 2,
+          "explanation": "Mediterranean climate (30–40° west coasts) supports drought-resistant shrubland known as chaparral (California), maquis (Mediterranean), fynbos (South Africa), and mallee (Australia). These plants are adapted to hot dry summers and wet mild winters.",
+          "source": "SSC Geography Vegetation",
+          "verified": true
+        },
+        {
+          "text": "Tropical rainforests are characterised by:",
+          "options": ["Seasonal leaf fall", "Year-round high rainfall and temperature", "Dry summers and wet winters", "Permafrost in the subsoil"],
+          "answerIndex": 1,
+          "explanation": "Tropical rainforests (equatorial climate) have year-round high temperatures (~26–28°C) and rainfall (>2,000 mm/year with no dry month below 60 mm). They have no distinct seasons and host the greatest biodiversity on Earth.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The largest hot desert in the world is:",
+          "options": ["Arabian Desert", "Gobi Desert", "Sahara Desert", "Thar Desert"],
+          "answerIndex": 2,
+          "explanation": "The Sahara Desert (~9.2 million km²) is the world's largest hot desert, covering northern Africa across 11 countries. Note: The Antarctic Desert (~14 million km²) is the world's largest desert overall, but is a cold/polar desert.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Tundra vegetation is found in which climate zone?",
+          "options": ["Tropical", "Mediterranean", "Continental", "Polar"],
+          "answerIndex": 3,
+          "explanation": "Tundra is the polar climate vegetation (ET in Köppen classification). No trees grow due to permafrost; only mosses, lichens, dwarf shrubs survive the short summers (warmest month 0–10°C). Found in Arctic Circle fringe and Antarctic Peninsula.",
+          "source": "SSC Geography Biomes",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which is the world's largest terrestrial biome by area?",
+          "options": ["Tropical Rainforest", "Temperate Deciduous Forest", "Taiga/Boreal Forest", "Savanna"],
+          "answerIndex": 2,
+          "explanation": "Taiga/Boreal Forest is the world's largest terrestrial biome (~12 million km²), covering much of Russia, Canada, and Scandinavia with coniferous trees (spruce, fir, pine). Tropical rainforests are most biodiverse but not the largest by area.",
+          "source": "SSC Geography Biomes",
+          "verified": false
+        },
+        {
+          "text": "The Mediterranean climate is unique because it has:",
+          "options": ["Hot dry summers and cool wet winters", "Hot wet summers and cool dry winters", "Rain throughout the year", "Constant temperatures"],
+          "answerIndex": 0,
+          "explanation": "The Mediterranean climate (Cs in Köppen) is distinctive for hot dry summers and cool/mild wet winters — the opposite of most other climates where summer is the wetter season. This unique pattern shapes Mediterranean agriculture (grapes, olives, citrus).",
+          "source": "SSC Climate Tricky",
+          "verified": false
+        },
+        {
+          "text": "What soil type is associated with tropical rainforests?",
+          "options": ["Chernozem", "Laterite", "Black cotton soil (regur)", "Loam"],
+          "answerIndex": 1,
+          "explanation": "Laterite soil (red, iron-rich, leached) forms in tropical rainforest climates. Heavy rainfall leaches nutrients from the soil, making it nutrient-poor despite the lush vegetation (nutrients are stored in living biomass, not soil).",
+          "source": "SSC Soil Science",
+          "verified": true
+        },
+        {
+          "text": "Which world region has the most biodiverse biome?",
+          "options": ["Amazon Rainforest", "African Savanna", "Siberian Taiga", "Australian Great Barrier Reef"],
+          "answerIndex": 0,
+          "explanation": "The Amazon Rainforest (tropical rainforest biome) is the most biodiverse terrestrial biome on Earth, hosting an estimated 10% of all species on the planet. The ocean's coral reefs (like Great Barrier Reef) are the most biodiverse aquatic ecosystems.",
+          "source": "SSC Environment Geography",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The 'Veld' is the temperate grassland of which continent?",
+          "options": ["North America", "South America", "Africa", "Australia"],
+          "answerIndex": 2,
+          "explanation": "Veld (or Veldt) is the temperate grassland of Southern Africa — mainly South Africa and Zimbabwe. North America's grasslands are Prairies, South America's are Pampas, Eurasia's are Steppes, and Australia's are Downs.",
+          "source": "SSC Geography Grasslands",
+          "verified": true
+        },
+        {
+          "text": "Which climate type is found at approximately 0–10° latitude?",
+          "options": ["Mediterranean (Cs)", "Humid Subtropical (Cfa)", "Tropical Rainforest (Af)", "Tropical Savanna (Aw)"],
+          "answerIndex": 2,
+          "explanation": "Tropical Rainforest (Af) climate is found within approximately 10° of the equator, where temperatures are consistently high (>18°C every month) and rainfall is year-round (>60 mm every month). Tropical Savanna (Aw) is 10°–20°.",
+          "source": "SSC Climate Zones",
+          "verified": false
+        },
+        {
+          "text": "What is the world's largest mangrove forest?",
+          "options": ["Florida Everglades", "Bhitarkanika Mangroves, Odisha", "Sundarbans, India/Bangladesh", "Mangroves of Myanmar"],
+          "answerIndex": 2,
+          "explanation": "Sundarbans (~10,000 km²) at the Ganges-Brahmaputra-Meghna delta is the world's largest mangrove forest, spanning India (West Bengal) and Bangladesh. It is a UNESCO World Heritage Site and the Bengal Tiger's last major refuge.",
+          "source": "SSC Environment India",
+          "verified": true
+        },
+        {
+          "text": "Continental climates (Type D) are found mainly in which hemisphere?",
+          "options": ["Northern Hemisphere only", "Southern Hemisphere only", "Both hemispheres equally", "Only at the equator"],
+          "answerIndex": 0,
+          "explanation": "Continental climates (D-type) are found mainly or exclusively in the Northern Hemisphere because there are no large landmasses at 40°–70° latitude in the Southern Hemisphere (mostly ocean). Continentality requires large interior landmasses far from the moderating ocean influence.",
+          "source": "SSC Climate Advanced",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The 'Prairies' are the grasslands of which region?",
+          "options": ["South America (Argentina)", "Australia (SE)", "North America (Great Plains)", "Eurasia (Russia/Ukraine)"],
+          "answerIndex": 2,
+          "explanation": "Prairies are the temperate grasslands of North America's Great Plains (USA and Canada). Argentine grasslands are called Pampas, Eurasian ones are Steppes, South African ones are Veld, and Australian ones are Downs.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "Which soil is considered the world's most fertile?",
+          "options": ["Laterite soil", "Sandy soil", "Chernozem (black soil of steppes)", "Regur (black cotton soil of India)"],
+          "answerIndex": 2,
+          "explanation": "Chernozem (Russian: black earth) of the temperate grasslands (Steppes, Prairies, Pampas) is considered the world's most fertile soil, rich in humus. India's regur/black cotton soil is also fertile but different from the globally famous chernozem.",
+          "source": "SSC Geography Soils",
+          "verified": true
+        },
+        {
+          "text": "What is the driest non-polar desert in the world?",
+          "options": ["Sahara", "Arabian Desert", "Atacama Desert", "Gobi Desert"],
+          "answerIndex": 2,
+          "explanation": "The Atacama Desert (Chile/Peru) is the driest non-polar desert on Earth — some meteorological stations there have never recorded measurable rainfall. It is a coastal cold desert cooled by the Humboldt (Peru) Current.",
+          "source": "SSC Geography Deserts",
+          "verified": true
+        },
+        {
+          "text": "Fynbos is the Mediterranean shrubland vegetation of which country?",
+          "options": ["Australia", "South Africa", "Chile", "California, USA"],
+          "answerIndex": 1,
+          "explanation": "Fynbos is the distinctive Mediterranean-type shrubland of South Africa's Western Cape region. California's version is called chaparral, Mediterranean Europe's is maquis, and Australia's is mallee.",
+          "source": "SSC Vegetation Types",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

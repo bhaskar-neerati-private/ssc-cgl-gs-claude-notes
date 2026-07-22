@@ -1,0 +1,158 @@
+{
+  "topic": "World Deserts, Forests & Grasslands",
+  "topicId": "wgeo-deserts-forests-grasslands",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the largest desert in the world?",
+          "options": ["Sahara Desert", "Arabian Desert", "Antarctic Desert", "Gobi Desert"],
+          "answerIndex": 2,
+          "explanation": "The Antarctic Desert (~14 million km²) is the largest desert in the world. A desert is defined by aridity (low precipitation), not temperature. The Sahara (~9.2 million km²) is the largest hot desert but not the largest overall.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The world's largest tropical rainforest is:",
+          "options": ["Congo Forest", "Amazon Forest", "SE Asian Rainforest", "Daintree Rainforest"],
+          "answerIndex": 1,
+          "explanation": "The Amazon Rainforest (~5.5 million km²) in South America is the world's largest tropical rainforest. About 60% is in Brazil, with the rest in Peru, Colombia, and other South American countries. Congo is the world's 2nd largest tropical rainforest (in Africa).",
+          "source": "SSC Geography 2018",
+          "verified": true
+        },
+        {
+          "text": "The 'Sundarbans' mangrove forest is located in:",
+          "options": ["India only", "Bangladesh only", "India and Bangladesh", "Myanmar"],
+          "answerIndex": 2,
+          "explanation": "The Sundarbans mangrove forest spans both India (West Bengal) and Bangladesh, at the Ganges-Brahmaputra delta. It is the world's largest mangrove forest (~10,000 km²) and a UNESCO World Heritage Site hosting the Royal Bengal Tiger.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "What soil type is found in temperate grasslands like the Steppes and Prairies?",
+          "options": ["Laterite soil", "Sandy soil", "Chernozem (black earth)", "Alluvial soil"],
+          "answerIndex": 2,
+          "explanation": "Chernozem (black earth) is the rich, dark soil found in temperate grasslands — the Steppes of Russia/Ukraine, Prairies of North America, and Pampas of South America. It is humus-rich and the world's most fertile natural soil.",
+          "source": "SSC Geography Soils",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which desert is the driest non-polar desert in the world?",
+          "options": ["Sahara", "Arabian", "Thar", "Atacama"],
+          "answerIndex": 3,
+          "explanation": "The Atacama Desert in Chile/Peru is the driest non-polar desert on Earth. Some meteorological stations there have never recorded any rainfall. It is a cold coastal desert cooled by the Humboldt (Peru) Current flowing along the South American coast.",
+          "source": "SSC Geography Advanced",
+          "verified": true
+        },
+        {
+          "text": "Taiga forests are dominated by which type of trees?",
+          "options": ["Broad-leaved deciduous trees", "Tropical evergreen trees", "Coniferous (needle-leaved) trees", "Mangrove trees"],
+          "answerIndex": 2,
+          "explanation": "Taiga (boreal forest) is dominated by conifers — spruce, fir, pine, and larch. These needle-leaved trees are adapted to cold, long winters with heavy snow. Exception: larch is a conifer but drops its needles (deciduous conifer).",
+          "source": "SSC Biomes Advanced",
+          "verified": false
+        },
+        {
+          "text": "The Kalahari Desert is best described as:",
+          "options": ["A true hot desert with less than 250mm rainfall", "A cold desert like the Gobi", "A semi-arid grassland receiving more rainfall than true deserts", "A polar desert"],
+          "answerIndex": 2,
+          "explanation": "The Kalahari is technically semi-arid, receiving 150–500 mm of rainfall annually — more than true deserts. It supports grasses, shrubs, and wildlife (meerkats, gemsbok). It is sometimes called a 'fossil desert' as it was drier in the past.",
+          "source": "SSC Geography Africa",
+          "verified": false
+        },
+        {
+          "text": "The 'Rub' al Khali' (Empty Quarter) is part of which desert?",
+          "options": ["Sahara Desert", "Arabian Desert", "Thar Desert", "Iranian Plateau Desert"],
+          "answerIndex": 1,
+          "explanation": "The Rub' al Khali ('Empty Quarter') is the world's largest continuous sand desert, located in the southeastern Arabian Peninsula within the Arabian Desert. It covers about 650,000 km² across Saudi Arabia, UAE, Oman, and Yemen.",
+          "source": "SSC Geography Middle East",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "What percentage of global oxygen does the Amazon rainforest produce approximately?",
+          "options": ["5%", "10%", "20%", "50%"],
+          "answerIndex": 2,
+          "explanation": "The Amazon rainforest is often said to produce approximately 20% of Earth's oxygen — earning it the nickname 'Lungs of the Earth.' However, it also consumes much of that oxygen through decomposition; net production for the atmosphere is more complex.",
+          "source": "SSC Environment Geography",
+          "verified": false
+        },
+        {
+          "text": "The Gobi Desert is classified as which type of desert?",
+          "options": ["Hot desert", "Cold desert", "Coastal desert", "Polar desert"],
+          "answerIndex": 1,
+          "explanation": "The Gobi Desert (China and Mongolia) is a cold desert — it has hot summers but very cold winters (can drop to −40°C). It is the largest desert in Asia and the 5th largest in the world. Unlike the Sahara, it is not predominantly sandy — most is rocky.",
+          "source": "SSC Geography Asia Deserts",
+          "verified": true
+        },
+        {
+          "text": "The 'Serengeti National Park' (famous for wildebeest migration) is in which country?",
+          "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+          "answerIndex": 1,
+          "explanation": "Serengeti National Park is in Tanzania. The annual wildebeest migration moves between Serengeti (Tanzania) and Masai Mara (Kenya), crossing the Mara River. Masai Mara is Kenya's reserve; Serengeti is Tanzania's national park.",
+          "source": "SSC Geography Africa",
+          "verified": true
+        },
+        {
+          "text": "Shifting cultivation is called 'Jhum' in India. In which region of India is it primarily practiced?",
+          "options": ["Rajasthan and Gujarat", "Deccan Plateau", "Northeast India", "Western Ghats"],
+          "answerIndex": 2,
+          "explanation": "Jhum cultivation (slash-and-burn farming) is primarily practiced in Northeast India (Nagaland, Mizoram, Meghalaya, Arunachal Pradesh, Manipur). Farmers clear forest, farm for 2–3 years, then move on, allowing the land to regenerate.",
+          "source": "SSC India Agriculture",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "Which grassland region is known as the 'Pampas'?",
+          "options": ["North American temperate grassland", "South American temperate grassland", "South African temperate grassland", "Australian temperate grassland"],
+          "answerIndex": 1,
+          "explanation": "Pampas are the temperate grasslands of South America — primarily Argentina (also Uruguay and southern Brazil). They are known for cattle ranching and wheat farming. Argentina is among the world's largest beef exporters, thanks largely to Pampas grasslands.",
+          "source": "SSC Geography Grasslands",
+          "verified": true
+        },
+        {
+          "text": "The Thar Desert (Great Indian Desert) is located primarily in which Indian state?",
+          "options": ["Gujarat", "Rajasthan", "Punjab", "Haryana"],
+          "answerIndex": 1,
+          "explanation": "The Thar Desert is located primarily in Rajasthan (India) and extends into Sind and Punjab provinces of Pakistan. It is India's only major desert and receives some SW monsoon rainfall — making it less arid than the Sahara.",
+          "source": "SSC India Geography",
+          "verified": true
+        },
+        {
+          "text": "The Amazon rainforest is often called the 'lungs of the Earth' because it:",
+          "options": ["Stores all carbon for the planet", "Produces the world's largest river", "Generates approximately 20% of Earth's oxygen", "Has the world's largest biodiversity"],
+          "answerIndex": 2,
+          "explanation": "The Amazon rainforest is called 'lungs of the Earth' primarily because it produces approximately 20% of Earth's oxygen through photosynthesis. This vast forest also absorbs enormous amounts of CO₂, making it critical for climate regulation.",
+          "source": "SSC Environment",
+          "verified": false
+        },
+        {
+          "text": "Mangrove forests are found in which type of coastal environment?",
+          "options": ["Cold temperate rocky coasts", "Tropical and subtropical intertidal zones", "High-altitude coastal areas", "Desert coastlines"],
+          "answerIndex": 1,
+          "explanation": "Mangroves grow in tropical and subtropical intertidal zones — coastal areas regularly submerged and exposed with tidal cycles. They need warm temperatures, saline to brackish water, and tidal flow. They protect coastlines from waves, tsunamis, and erosion.",
+          "source": "SSC Ecology",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

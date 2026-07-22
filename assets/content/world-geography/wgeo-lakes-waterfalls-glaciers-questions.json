@@ -1,0 +1,158 @@
+{
+  "topic": "World Lakes, Waterfalls & Glaciers",
+  "topicId": "wgeo-lakes-waterfalls-glaciers",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the largest freshwater lake in India?",
+          "options": ["Dal Lake", "Chilika Lake", "Wular Lake", "Vembanad Lake"],
+          "answerIndex": 2,
+          "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake in India. Dal Lake (also J&K) is famous for houseboats but is much smaller. Chilika Lake (Odisha) is India's largest brackish lagoon, not a freshwater lake.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Siachen Glacier, the world's largest non-polar glacier, is located in:",
+          "options": ["Himachal Pradesh", "Uttarakhand", "Jammu & Kashmir / Ladakh (Karakoram Range)", "Arunachal Pradesh"],
+          "answerIndex": 2,
+          "explanation": "Siachen Glacier (~76 km long) is located in the Karakoram Range in Ladakh (India). It is the world's largest non-polar glacier by length. India and Pakistan both claim sovereignty — Indian Army has maintained a presence there since 1984.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "Lake Titicaca is notable as the world's highest navigable lake. It is located on the border of:",
+          "options": ["Peru and Chile", "Peru and Bolivia", "Bolivia and Brazil", "Chile and Argentina"],
+          "answerIndex": 1,
+          "explanation": "Lake Titicaca (3,812 m above sea level) lies on the border of Peru and Bolivia. It is the highest navigable lake in the world and the largest lake in South America by both area and volume. The Andes Mountains surround it.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "The source of the Ganges River is:",
+          "options": ["Yamunotri Glacier", "Gangotri Glacier", "Zemu Glacier", "Siachen Glacier"],
+          "answerIndex": 1,
+          "explanation": "The Ganges originates as the Bhagirathi River from Gangotri Glacier (Uttarakhand) at Gaumukh ('cow's mouth'), at about 3,900 m elevation. Gangotri Glacier is one of the primary Himalayan glaciers and is retreating at an accelerated rate due to climate change.",
+          "source": "SSC India Geography Rivers",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which is the correct description of Chilika Lake (Odisha)?",
+          "options": ["Largest freshwater lake in India", "Largest coastal brackish lagoon in India", "Deepest lake in India", "Highest altitude lake in India"],
+          "answerIndex": 1,
+          "explanation": "Chilika Lake is India's largest coastal lagoon — a brackish (mix of salt and fresh water) water body. It is NOT a freshwater lake (that's Wular Lake, J&K). Chilika hosts flamingoes and Irrawaddy dolphins and is a Ramsar Wetland of International Importance.",
+          "source": "SSC India Geography Lakes",
+          "verified": true
+        },
+        {
+          "text": "What is the primary difference between a U-shaped valley and a V-shaped valley?",
+          "options": ["V-shaped valleys are formed by glaciers; U-shaped by rivers", "U-shaped valleys are formed by glaciers; V-shaped by rivers", "Both are formed by rivers at different stages", "U-shaped are in mountains; V-shaped in plains"],
+          "answerIndex": 1,
+          "explanation": "U-shaped valleys are formed by glacial erosion — glaciers carve wide, flat-floored valleys with steep sides. V-shaped valleys are formed by river erosion — rivers cut downward more than sideways, creating narrow valleys with pointed floors. Fjords are drowned U-shaped valleys.",
+          "source": "SSC Geomorphology",
+          "verified": true
+        },
+        {
+          "text": "The Aral Sea catastrophe refers to:",
+          "options": ["Oil spill in the Aral Sea", "Shrinking of the Aral Sea to ~10% of its original size due to irrigation diversions", "Earthquake that drained the Aral Sea", "Tsunami that destroyed Aral Sea fishing communities"],
+          "answerIndex": 1,
+          "explanation": "The Aral Sea in Central Asia (Kazakhstan/Uzbekistan) was once the 4th largest lake in the world. Soviet irrigation projects diverted the Amu Darya and Syr Darya rivers from feeding the lake, causing it to shrink to about 10% of its original size — one of the worst environmental disasters in history.",
+          "source": "SSC Environment Geography",
+          "verified": true
+        },
+        {
+          "text": "Which is the only Great Lake (of the five North American Great Lakes) that lies entirely within the USA?",
+          "options": ["Lake Superior", "Lake Huron", "Lake Michigan", "Lake Ontario"],
+          "answerIndex": 2,
+          "explanation": "Lake Michigan is the only Great Lake entirely within the United States (the other four — Superior, Huron, Erie, Ontario — all lie on the USA-Canada border). Lake Michigan connects to Lake Huron through the Straits of Mackinac.",
+          "source": "SSC North America Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Which lake in Manipur is famous for its floating islands (Phumdis)?",
+          "options": ["Wular Lake", "Chilika Lake", "Loktak Lake", "Sambhar Lake"],
+          "answerIndex": 2,
+          "explanation": "Loktak Lake in Manipur is the largest freshwater lake in Northeast India, famous for its unique floating islands called 'phumdis' — heterogeneous masses of vegetation, soil, and organic matter. The endangered Sangai deer (brow-antlered deer) lives on these floating islands in Keibul Lamjao National Park.",
+          "source": "SSC India Geography NE",
+          "verified": true
+        },
+        {
+          "text": "What is a 'drumlin' in glacial geography?",
+          "options": ["A deep lake formed in a glacial cirque", "A streamlined hill of glacial deposit", "A deep gorge carved by a glacier", "A flat plain left by a retreating glacier"],
+          "answerIndex": 1,
+          "explanation": "A drumlin is a streamlined, elongated hill formed by the deposition of glacial till under a moving glacier. Drumlins are oval-shaped with a steeper end facing the direction from which the ice came. They often occur in large clusters ('basket of eggs' topography).",
+          "source": "SSC Glacial Landforms",
+          "verified": false
+        },
+        {
+          "text": "Vembanad Lake in Kerala is significant because it is:",
+          "options": ["India's deepest lake", "India's longest lake and site of Nehru Trophy Boat Race", "India's highest altitude lake", "India's largest saline lake"],
+          "answerIndex": 1,
+          "explanation": "Vembanad Lake (96.5 km long) is India's longest lake, located in Kerala. It is a brackish water lagoon separated from the Arabian Sea by a sandbar. The famous Nehru Trophy Boat Race (Vallamkali) is held here every August. It is a Ramsar Wetland.",
+          "source": "SSC India Lakes",
+          "verified": true
+        },
+        {
+          "text": "The Gangotri Glacier is retreating at an alarming rate. This directly threatens:",
+          "options": ["India's eastern coast fisheries", "Flow of the Ganga River which depends on this glacier for dry-season water", "Biodiversity of the Sundarbans", "Rainfall patterns in Rajasthan"],
+          "answerIndex": 1,
+          "explanation": "Gangotri Glacier (source of the Bhagirathi/Ganga) is retreating at about 22 m/year. During dry season, Himalayan glaciers provide a crucial buffer of meltwater to rivers. As glaciers shrink, river flows during dry months will reduce, threatening hundreds of millions dependent on the Ganga.",
+          "source": "SSC Environment Climate Change",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "Lake Baikal holds which distinction(s)?",
+          "options": ["Largest lake by area in the world", "Deepest lake and oldest lake in the world", "Highest altitude lake in Asia", "Saltiest lake in the world"],
+          "answerIndex": 1,
+          "explanation": "Lake Baikal (Russia) is the world's deepest lake (1,642 m) and oldest lake (~25 million years old). It contains ~20% of the world's unfrozen surface freshwater. The Caspian Sea is the largest lake by area. Lake Titicaca is the highest navigable lake.",
+          "source": "SSC Geography Lakes",
+          "verified": true
+        },
+        {
+          "text": "Jog Falls in India is located on which river?",
+          "options": ["Kaveri River", "Sharavathi River", "Krishna River", "Godavari River"],
+          "answerIndex": 1,
+          "explanation": "Jog Falls (253 m) is located on the Sharavathi River in Karnataka. It is the most famous waterfall in India and one of the highest, though Kunchikal Falls (455 m, also Karnataka) is actually taller. Jog Falls is seasonal, at its best during and just after monsoon.",
+          "source": "SSC India Geography",
+          "verified": true
+        },
+        {
+          "text": "The Sambhar Lake in Rajasthan is India's:",
+          "options": ["Largest freshwater lake", "Largest inland saltwater lake", "Deepest lake", "Highest altitude lake"],
+          "answerIndex": 1,
+          "explanation": "Sambhar Lake in Rajasthan is India's largest inland saltwater (saline) lake. It is also the largest saline wetland in South Asia. Flamingoes visit it during winter. It is a source of salt production. Do not confuse with Chilika (largest coastal lagoon, brackish).",
+          "source": "SSC India Lakes",
+          "verified": true
+        },
+        {
+          "text": "Niagara Falls is located between which two Great Lakes?",
+          "options": ["Lake Superior and Lake Huron", "Lake Michigan and Lake Erie", "Lake Erie and Lake Ontario", "Lake Ontario and Lake Huron"],
+          "answerIndex": 2,
+          "explanation": "Niagara Falls is located on the Niagara River connecting Lake Erie (south) to Lake Ontario (north). Water flows from Erie, drops at Niagara Falls, and continues to Ontario. The falls consist of three sections: Horseshoe Falls (Canadian side), American Falls, and Bridal Veil Falls.",
+          "source": "SSC Geography USA-Canada",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

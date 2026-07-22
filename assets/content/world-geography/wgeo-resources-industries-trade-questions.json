@@ -1,0 +1,158 @@
+{
+  "topic": "World Resources, Industries & Trade Routes",
+  "topicId": "wgeo-resources-industries-trade",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which organisation controls the majority of the world's oil production and is headquartered in Vienna?",
+          "options": ["World Bank", "OPEC", "WTO", "IEA"],
+          "answerIndex": 1,
+          "explanation": "OPEC (Organization of Petroleum Exporting Countries), founded in 1960, is headquartered in Vienna, Austria. It has 13 member countries (including Saudi Arabia, UAE, Iraq, Iran, Kuwait, Nigeria) and controls approximately 40% of global oil production.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Which city in India is called the 'Silicon Valley of India'?",
+          "options": ["Hyderabad", "Pune", "Chennai", "Bengaluru (Bangalore)"],
+          "answerIndex": 3,
+          "explanation": "Bengaluru (Bangalore) in Karnataka is called the 'Silicon Valley of India' due to its concentration of IT and software companies, including headquarters of Infosys, Wipro, TCS, and major offices of global tech firms.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Strait of Malacca is the world's most important shipping strait because:",
+          "options": ["It is the deepest strait", "It connects the Indian Ocean to the Pacific/South China Sea, carrying ~25% of global trade", "It is controlled by the US Navy", "It is the shortest route from Europe to Africa"],
+          "answerIndex": 1,
+          "explanation": "The Strait of Malacca (between Malaysia and Indonesia's Sumatra) is the world's busiest shipping strait, connecting the Indian Ocean to the South China Sea/Pacific. About 25% of world trade and a significant portion of the world's oil supply passes through it.",
+          "source": "SSC Trade Routes",
+          "verified": true
+        },
+        {
+          "text": "Which country is the world's largest producer of coal?",
+          "options": ["USA", "India", "Australia", "China"],
+          "answerIndex": 3,
+          "explanation": "China is by far the world's largest coal producer, accounting for about 50% of global coal production. India is 2nd, followed by Indonesia and Australia. China also consumes the most coal domestically.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "The Suez Canal differs from the Panama Canal in that the Suez Canal:",
+          "options": ["Is shorter in length", "Has no locks (is at sea level)", "Connects two oceans", "Was built first"],
+          "answerIndex": 1,
+          "explanation": "The Suez Canal (Egypt, 193 km) is at sea level and requires NO locks — ships sail straight through. The Panama Canal (80 km) uses three sets of locks to raise ships up to Gatun Lake (~26 m above sea level) and then lower them. Suez connects two seas; Panama connects two oceans.",
+          "source": "SSC Geography Infrastructure",
+          "verified": true
+        },
+        {
+          "text": "Which country is the world's top iron ore producer?",
+          "options": ["China", "India", "Brazil", "Australia"],
+          "answerIndex": 3,
+          "explanation": "Australia is the world's largest iron ore producer (and exporter), led by the Pilbara region in Western Australia. Brazil is 2nd (Carajás mine — world's largest iron ore mine, operated by Vale). India and China also produce significant quantities.",
+          "source": "SSC Geography Minerals",
+          "verified": true
+        },
+        {
+          "text": "Ahmedabad is called the 'Manchester of India' because of its:",
+          "options": ["Software industry", "Automobile manufacturing", "Cotton textile industry", "Diamond cutting industry"],
+          "answerIndex": 2,
+          "explanation": "Ahmedabad (Gujarat) earned the title 'Manchester of India' due to its large cotton textile industry, historically concentrated along the Sabarmati River. Manchester (UK) was the historic centre of Britain's cotton textile industry during the Industrial Revolution.",
+          "source": "SSC India Industries",
+          "verified": true
+        },
+        {
+          "text": "Which country is the largest LNG (Liquefied Natural Gas) exporter in the world?",
+          "options": ["Russia", "USA", "Qatar", "Australia"],
+          "answerIndex": 2,
+          "explanation": "Qatar is the world's largest LNG exporter, with its massive North Dome/South Pars gas field (shared with Iran). Russia has the largest natural gas reserves, but Qatar leads in LNG exports. Australia has been competing for the top LNG export slot in recent years.",
+          "source": "SSC Energy Geography",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Which mineral is India's #1 globally, produced mainly in Jharkhand and Andhra Pradesh?",
+          "options": ["Iron ore", "Coal", "Mica", "Bauxite"],
+          "answerIndex": 2,
+          "explanation": "India is the world's largest producer of mica — the shiny, heat-resistant mineral used in electrical insulation and cosmetics. Jharkhand and Andhra Pradesh are the main producing states. India accounts for a dominant share of global mica supply.",
+          "source": "SSC India Minerals",
+          "verified": true
+        },
+        {
+          "text": "The 'Ruhr Valley' in Germany is famous for which industry?",
+          "options": ["Automobile manufacturing", "Pharmaceutical industry", "Iron and steel / coal industry", "Textile manufacturing"],
+          "answerIndex": 2,
+          "explanation": "The Ruhr Valley (North Rhine-Westphalia, Germany) was Europe's industrial heartland, powered by local coal and steel production. Today it has diversified, but historically Ruhr coal + Rhine transport + iron ore = major steel production.",
+          "source": "SSC Geography Europe Industry",
+          "verified": true
+        },
+        {
+          "text": "South Korea is the world's leading nation in which heavy industry?",
+          "options": ["Aircraft manufacturing", "Automobile manufacturing", "Shipbuilding", "Nuclear energy"],
+          "answerIndex": 2,
+          "explanation": "South Korea is the world's #1 shipbuilder by tonnage, with companies like Hyundai Heavy Industries, Samsung Heavy Industries, and DSME. South Korea overtook Japan as the global shipbuilding leader and is also a major automobile producer (Hyundai, Kia).",
+          "source": "SSC Geography South Korea",
+          "verified": true
+        },
+        {
+          "text": "Which of the following is correctly matched (mineral → top world producer)?",
+          "options": ["Copper → India", "Diamonds → South Africa", "Uranium → Kazakhstan", "Lithium → Chile"],
+          "answerIndex": 2,
+          "explanation": "Kazakhstan is the world's #1 uranium producer, accounting for ~40% of global output. Chile has the largest lithium reserves (Lithium Triangle) but Australia now produces the most lithium. South Africa is top in platinum; DRC/Botswana lead in diamonds by different metrics. India is not a top copper producer.",
+          "source": "SSC Geography Minerals World",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The city of Pittsburgh (USA) was historically known as 'Steel City' because of its proximity to:",
+          "options": ["Silicon Valley tech industries", "Appalachian coal fields and Great Lakes iron ore", "Mississippi River and cotton plantations", "Corn Belt agriculture"],
+          "answerIndex": 1,
+          "explanation": "Pittsburgh's iron and steel industry grew from its ideal location near Appalachian coal fields and access to iron ore from the Great Lakes region. Andrew Carnegie built his steel empire here. The industry has since declined, but Pittsburgh's geographic logic exemplifies resource-based industrial location.",
+          "source": "SSC Geography USA Industry",
+          "verified": false
+        },
+        {
+          "text": "Which is the world's top coffee producing country?",
+          "options": ["Colombia", "Vietnam", "Brazil", "Ethiopia"],
+          "answerIndex": 2,
+          "explanation": "Brazil is the world's largest coffee producer by a wide margin (~35–40% of global production). Vietnam is 2nd largest. Colombia is famous for quality but ranks 3rd in production. Ethiopia is the birthplace of coffee but a smaller producer.",
+          "source": "SSC Geography Agriculture",
+          "verified": true
+        },
+        {
+          "text": "The 'Bhilai Steel Plant' in Chhattisgarh was established with assistance from which country?",
+          "options": ["United Kingdom", "Germany", "Soviet Union (USSR)", "United States"],
+          "answerIndex": 2,
+          "explanation": "Bhilai Steel Plant (1959, Chhattisgarh) was established with Soviet (USSR) assistance. Durgapur Steel Plant (1959, West Bengal) had British assistance, and Rourkela Steel Plant (1959, Odisha) had West German assistance — each during India's Second Five-Year Plan.",
+          "source": "SSC India Industry History",
+          "verified": true
+        },
+        {
+          "text": "Which Indian city is the hub of India's diamond cutting and polishing industry?",
+          "options": ["Mumbai", "Surat", "Jaipur", "Ahmedabad"],
+          "answerIndex": 1,
+          "explanation": "Surat (Gujarat) is the world's largest diamond cutting and polishing centre — processing ~90% of the world's rough diamonds. Jaipur is known for coloured gemstones (emeralds, rubies). Mumbai is the financial and commodities trading hub.",
+          "source": "SSC India Industry",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

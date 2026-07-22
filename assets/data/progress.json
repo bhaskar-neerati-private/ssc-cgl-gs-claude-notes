@@ -682,8 +682,24 @@
       "name": "World Geography",
       "tier": "B",
       "order": 9,
-      "breakdownComplete": false,
-      "topics": []
+      "breakdownComplete": true,
+      "topics": [
+        { "id": "wgeo-universe-solar-system", "title": "Universe, Solar System & Earth's Structure", "status": "done" },
+        { "id": "wgeo-earth-movements-time", "title": "Earth's Movements, Coordinates & Time", "status": "done" },
+        { "id": "wgeo-atmosphere-weather", "title": "Atmosphere — Layers, Weather & Cyclones", "status": "done" },
+        { "id": "wgeo-climate-zones-biomes", "title": "World Climate Zones & Biomes", "status": "done" },
+        { "id": "wgeo-mountain-systems-landforms", "title": "World Mountain Systems & Landforms", "status": "done" },
+        { "id": "wgeo-major-rivers", "title": "Major Rivers of the World", "status": "done" },
+        { "id": "wgeo-deserts-forests-grasslands", "title": "World Deserts, Forests & Grasslands", "status": "done" },
+        { "id": "wgeo-oceans-seas-straits-currents", "title": "Oceans, Seas, Straits & Ocean Currents", "status": "done" },
+        { "id": "wgeo-earthquakes-volcanoes-disasters", "title": "Earthquakes, Volcanoes & Natural Disasters", "status": "done" },
+        { "id": "wgeo-political-geography-countries", "title": "World Political Geography — Countries, Capitals & Borders", "status": "done" },
+        { "id": "wgeo-resources-industries-trade", "title": "World Resources, Industries & Trade Routes", "status": "done" },
+        { "id": "wgeo-geographical-superlatives", "title": "Geographical Superlatives & Key Terms", "status": "done" },
+        { "id": "wgeo-lakes-waterfalls-glaciers", "title": "World Lakes, Waterfalls & Glaciers", "status": "done" },
+        { "id": "wgeo-wind-systems-local-winds", "title": "Wind Systems & Local Winds", "status": "done" },
+        { "id": "wgeo-world-agriculture-crops", "title": "World Agriculture & Crop Regions", "status": "done" }
+      ]
     },
     {
       "id": "art-culture",

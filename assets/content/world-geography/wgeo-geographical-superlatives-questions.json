@@ -1,0 +1,158 @@
+{
+  "topic": "Geographical Superlatives & Key Terms",
+  "topicId": "wgeo-geographical-superlatives",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the deepest lake in the world?",
+          "options": ["Lake Victoria", "Caspian Sea", "Lake Baikal", "Lake Tanganyika"],
+          "answerIndex": 2,
+          "explanation": "Lake Baikal (1,642 m deep) in Siberia, Russia is the world's deepest lake. It is also the world's oldest lake (~25 million years) and contains approximately 20% of the world's surface freshwater.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The world's tallest waterfall is:",
+          "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Jog Falls"],
+          "answerIndex": 2,
+          "explanation": "Angel Falls (979 m) in Venezuela is the world's tallest waterfall, with an uninterrupted drop of 807 m. It is located on the Churún River (tributary of Carrao) in Canaima National Park. Named after pilot Jimmie Angel who crash-landed nearby in 1933.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The wettest place in India (highest average annual rainfall) is:",
+          "options": ["Cherrapunji (Sohra)", "Mawsynram", "Shillong", "Agumbe"],
+          "answerIndex": 1,
+          "explanation": "Mawsynram in Meghalaya holds the record for the highest average annual rainfall (~11,871 mm). Cherrapunji (Sohra), also in Meghalaya, holds records for highest rainfall in a single month and year, but Mawsynram leads in annual average.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The lowest point on land is:",
+          "options": ["Death Valley, USA", "Mariana Trench, Pacific Ocean", "Dead Sea shore", "Qattara Depression, Egypt"],
+          "answerIndex": 2,
+          "explanation": "The Dead Sea shoreline (Jordan/Israel/West Bank) at ~430 m below sea level is the lowest point on land. Mariana Trench is the lowest point on Earth's surface overall but is underwater. Death Valley is the lowest point in North America.",
+          "source": "SSC Geography Superlatives",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which is the largest freshwater lake by surface area in the world?",
+          "options": ["Lake Baikal", "Lake Victoria", "Caspian Sea", "Lake Superior"],
+          "answerIndex": 3,
+          "explanation": "Lake Superior (82,103 km²) is the largest freshwater lake by surface area. The Caspian Sea is larger (~371,000 km²) but is saline. Lake Baikal is the deepest and contains the most freshwater by volume but is smaller in surface area than Superior.",
+          "source": "SSC Geography Lakes",
+          "verified": true
+        },
+        {
+          "text": "The Suez Canal has no locks because:",
+          "options": ["It is too short for locks", "It connects two seas at the same level (sea level canal)", "Locks are expensive to build", "The Mediterranean is deeper than the Red Sea"],
+          "answerIndex": 1,
+          "explanation": "The Suez Canal is a sea-level canal — both the Mediterranean Sea and Red Sea are at the same level, so ships can pass through without locks. The Panama Canal needs locks because it crosses a hilly isthmus and must raise ships ~26 m above sea level.",
+          "source": "SSC Geography Canals Tricky",
+          "verified": true
+        },
+        {
+          "text": "India's highest waterfall is:",
+          "options": ["Jog Falls (Karnataka)", "Dudhsagar Falls (Goa)", "Nohkalikai Falls (Meghalaya)", "Kunchikal Falls (Karnataka)"],
+          "answerIndex": 3,
+          "explanation": "Kunchikal Falls (455 m) on the Varahi River in Karnataka is India's highest waterfall. Jog Falls (253 m, also Karnataka) is the most famous but only the 4th highest. Nohkalikai Falls (340 m, Meghalaya) is the highest plunge waterfall in India.",
+          "source": "SSC India Geography",
+          "verified": true
+        },
+        {
+          "text": "Which is the hottest place on Earth (highest recorded temperature)?",
+          "options": ["Sahara Desert, Algeria", "Death Valley, California, USA", "Al-Azizia, Libya", "Lut Desert, Iran"],
+          "answerIndex": 1,
+          "explanation": "Death Valley, California, USA holds the official record for the highest reliably recorded air temperature: 56.7°C on July 10, 1913. Al-Azizia (Libya) previously held the record but was invalidated by the WMO in 2012. Death Valley is also the lowest point in North America.",
+          "source": "SSC Geography Temperature Records",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "A narrow strip of land connecting two larger land masses is called a/an:",
+          "options": ["Peninsula", "Cape", "Isthmus", "Delta"],
+          "answerIndex": 2,
+          "explanation": "An isthmus is a narrow strip of land connecting two larger landmasses. Examples: Isthmus of Panama (connecting North and South America), Isthmus of Suez (connecting Africa and Asia). A peninsula is land surrounded by water on three sides; a cape is a pointed land projecting into the sea.",
+          "source": "SSC Geography Terms",
+          "verified": true
+        },
+        {
+          "text": "A 'fjord' is best described as:",
+          "options": ["A volcanic crater filled with water", "A long narrow deep inlet carved by glaciers", "A river delta region", "A hot desert sand dune formation"],
+          "answerIndex": 1,
+          "explanation": "A fjord is a long, narrow, deep inlet of the sea between high cliffs, formed by glacial erosion of a valley that was later flooded by the sea as glaciers retreated. Famous fjord coastlines: Norway, New Zealand's South Island, Chile (Patagonia).",
+          "source": "SSC Geography Landform Terms",
+          "verified": true
+        },
+        {
+          "text": "The Tibetan Plateau has the distinction of being both the:",
+          "options": ["Largest and coldest plateau", "Largest and highest plateau in the world", "Highest plateau and largest desert", "Oldest plateau and deepest plateau"],
+          "answerIndex": 1,
+          "explanation": "The Tibetan Plateau (~2.5 million km²; average ~4,500 m above sea level) is both the world's largest plateau by area AND the highest plateau — earning it the title 'Roof of the World.' It influences Asian monsoons and is the source of many major rivers.",
+          "source": "SSC Geography Plateaus",
+          "verified": true
+        },
+        {
+          "text": "In which country is the coldest permanently inhabited place, Oymyakon, located?",
+          "options": ["Canada", "Norway", "Russia", "Mongolia"],
+          "answerIndex": 2,
+          "explanation": "Oymyakon in Siberia, Russia is the coldest permanently inhabited place on Earth, recording temperatures as low as −67.7°C. It is in the Sakha Republic (Yakutia). The absolute coldest temperature ever recorded was at Vostok Station, Antarctica (−89.2°C), which is a research station, not a permanent settlement.",
+          "source": "SSC Geography Records",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The Mid-Atlantic Ridge is significant because it is the:",
+          "options": ["World's deepest ocean trench", "World's longest mountain range (underwater)", "World's most active earthquake zone", "World's busiest shipping route"],
+          "answerIndex": 1,
+          "explanation": "The Mid-Atlantic Ridge (~16,000 km) is the world's longest mountain range — though it is almost entirely underwater. It is a divergent plate boundary where the North and South American plates separate from the Eurasian and African plates. Iceland is the most prominent part above sea level.",
+          "source": "SSC Geography Ocean Floor",
+          "verified": true
+        },
+        {
+          "text": "Victoria Falls on the Zambezi River is the world's:",
+          "options": ["Tallest waterfall", "Widest waterfall", "Waterfall with highest discharge", "Deepest plunge waterfall"],
+          "answerIndex": 1,
+          "explanation": "Victoria Falls (1,708 m wide) on the Zambezi River (Zambia/Zimbabwe border) is the world's widest waterfall and has one of the largest single curtains of falling water. Angel Falls (Venezuela) is the tallest. Victoria Falls is a UNESCO World Heritage Site.",
+          "source": "SSC Geography Waterfalls",
+          "verified": true
+        },
+        {
+          "text": "The Panama Canal connects the Atlantic and Pacific Oceans. A ship travelling from the Atlantic to Pacific goes through the canal in which direction?",
+          "options": ["From east to west", "From north to south", "From west to east", "From south to north"],
+          "answerIndex": 0,
+          "explanation": "Despite seeming counterintuitive, a ship going from the Atlantic to Pacific via Panama Canal travels generally from east to west (though the isthmus runs NW-SE, so ships actually travel SE to NW). The Pacific end is further east geographically than the Atlantic end of the canal.",
+          "source": "SSC Geography Canals",
+          "verified": false
+        },
+        {
+          "text": "Greenland is geographically significant because it is the:",
+          "options": ["World's largest island", "World's smallest continent", "Coldest country in the world", "World's most northern country"],
+          "answerIndex": 0,
+          "explanation": "Greenland (~2.16 million km²) is the world's largest island (Australia is larger but classified as a continent). It is an autonomous territory of Denmark. If Australia is excluded as a continent, Greenland is definitively the largest island on Earth.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

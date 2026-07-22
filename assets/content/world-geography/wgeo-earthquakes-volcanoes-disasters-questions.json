@@ -1,0 +1,158 @@
+{
+  "topic": "Earthquakes, Volcanoes & Natural Disasters",
+  "topicId": "wgeo-earthquakes-volcanoes-disasters",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Ring of Fire is located around which ocean?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+          "answerIndex": 3,
+          "explanation": "The Ring of Fire is a horseshoe-shaped zone around the Pacific Ocean, ~40,000 km in length. It accounts for about 90% of the world's earthquakes and ~75% of active volcanoes. It includes the coasts of Chile, USA (Alaska), Japan, Philippines, and Indonesia.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "India's only active volcano is located in:",
+          "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Daman and Diu", "Gujarat coast"],
+          "answerIndex": 1,
+          "explanation": "Barren Island in the Andaman and Nicobar Islands is India's only active volcano. It erupts periodically and is monitored by the Geological Survey of India. Narcondam Island (also in Andaman) is a dormant volcano.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "What does the Richter Scale measure?",
+          "options": ["Intensity of earthquake effects at a location", "Magnitude (energy released) of an earthquake", "Depth of earthquake focus", "Duration of earthquake shaking"],
+          "answerIndex": 1,
+          "explanation": "The Richter Scale measures the magnitude (energy released) of an earthquake at its source. It is logarithmic — each step represents 10× the amplitude and ~31× the energy. The Modified Mercalli Scale (MMI) measures intensity — how much shaking is felt at a specific location.",
+          "source": "SSC Science Geography",
+          "verified": true
+        },
+        {
+          "text": "What is the point on Earth's surface directly above the focus of an earthquake called?",
+          "options": ["Seismograph", "Epicentre", "Hypocenter", "Focus"],
+          "answerIndex": 1,
+          "explanation": "The epicentre is the point on Earth's surface directly above the focus (hypocenter) — where the earthquake originates underground. Ground shaking and damage are typically most intense at or near the epicentre.",
+          "source": "SSC Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "P-waves (Primary seismic waves) differ from S-waves (Secondary seismic waves) in that P-waves:",
+          "options": ["Travel only through solid material", "Travel through both solid and liquid material", "Travel slower than S-waves", "Cause more surface damage"],
+          "answerIndex": 1,
+          "explanation": "P-waves (compressional waves) can travel through both solid and liquid. S-waves (shear waves) can only travel through solid material. The fact that S-waves don't pass through Earth's outer core proved it is liquid. P-waves are faster than S-waves.",
+          "source": "SSC Science Seismology",
+          "verified": false
+        },
+        {
+          "text": "Which type of tectonic plate boundary creates ocean trenches and island arcs?",
+          "options": ["Divergent boundary", "Transform boundary", "Convergent boundary (oceanic-oceanic or oceanic-continental)", "All boundaries equally"],
+          "answerIndex": 2,
+          "explanation": "At convergent boundaries, when oceanic plates collide, one subducts under the other creating ocean trenches (e.g., Mariana Trench) and volcanic island arcs (e.g., Japan, Philippines). When oceanic meets continental, fold mountains form (e.g., Andes).",
+          "source": "SSC Plate Tectonics",
+          "verified": false
+        },
+        {
+          "text": "The 2004 Indian Ocean Tsunami was triggered by an earthquake near:",
+          "options": ["Sri Lanka", "Bay of Bengal near Andaman", "Off the coast of Sumatra, Indonesia", "Off the coast of India"],
+          "answerIndex": 2,
+          "explanation": "The December 26, 2004 Indian Ocean Tsunami was triggered by a 9.1 magnitude earthquake off the northwest coast of Sumatra, Indonesia (near Aceh province). The resulting tsunami killed ~227,000 people across 14 countries.",
+          "source": "SSC Disasters India-World",
+          "verified": true
+        },
+        {
+          "text": "Which is the world's largest recorded earthquake by magnitude?",
+          "options": ["Haiti 2010 (7.0)", "Sumatra 2004 (9.1)", "Japan 2011 (9.0)", "Valdivia, Chile 1960 (9.5)"],
+          "answerIndex": 3,
+          "explanation": "The 1960 Valdivia earthquake in Chile (9.5 Mw) is the largest earthquake ever recorded by seismographs. The 2004 Sumatra earthquake (9.1) caused the deadliest tsunami. Haiti 2010 (7.0) was one of the deadliest by death toll due to shallow depth and proximity to Port-au-Prince.",
+          "source": "SSC Geography Disasters",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Which Indian earthquake prompted revision of India's seismic zoning map?",
+          "options": ["Latur earthquake 1993", "Bhuj earthquake 2001", "Uttarkashi earthquake 1991", "Chamoli earthquake 1999"],
+          "answerIndex": 1,
+          "explanation": "The Bhuj earthquake (January 26, 2001) in Gujarat (7.7 magnitude, ~20,000 deaths) was a major wake-up call. Gujarat's Kutch region was upgraded to Seismic Zone V (highest) in the revised zoning map. The earthquake occurred on Republic Day, causing massive casualties.",
+          "source": "SSC India Disasters",
+          "verified": true
+        },
+        {
+          "text": "Vesuvius eruption in 79 AD buried which ancient Roman city?",
+          "options": ["Rome", "Naples", "Pompeii", "Herculaneum"],
+          "answerIndex": 2,
+          "explanation": "The 79 AD eruption of Mount Vesuvius buried the Roman city of Pompeii under ~4–6 m of volcanic ash and pumice, preserving it remarkably well. Herculaneum was also buried, but Pompeii is the more famous example and more commonly tested.",
+          "source": "SSC History-Geography",
+          "verified": true
+        },
+        {
+          "text": "What type of landslide hazard is particularly associated with Himalayan rivers during monsoon?",
+          "options": ["Rockfall only", "Glacial Lake Outburst Floods (GLOFs) and debris flows", "Submarine landslides", "Mudflats"],
+          "answerIndex": 1,
+          "explanation": "Glacial Lake Outburst Floods (GLOFs) occur when glacial lakes (formed by melting glaciers) suddenly break through moraines, sending catastrophic floods downstream. The 2013 Kedarnath disaster in Uttarakhand combined GLOF, cloudbursts, and landslides, killing ~5,000+ people.",
+          "source": "SSC India Natural Disasters",
+          "verified": false
+        },
+        {
+          "text": "The continental drift theory was proposed by which scientist?",
+          "options": ["Harry Hess", "Alfred Wegener", "Charles Darwin", "James Hutton"],
+          "answerIndex": 1,
+          "explanation": "Alfred Wegener, a German meteorologist and geophysicist, proposed the Continental Drift Theory in 1912. He noted the jigsaw-fit of continents and matching fossils across oceans. His theory was later supported by evidence of seafloor spreading (Harry Hess, 1960s).",
+          "source": "SSC Geography Theory",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The 'Bhuj Earthquake' of 2001 occurred in which Indian state?",
+          "options": ["Maharashtra", "Rajasthan", "Gujarat", "Madhya Pradesh"],
+          "answerIndex": 2,
+          "explanation": "The Bhuj earthquake (January 26, 2001) occurred in the Kutch district of Gujarat, India. With a magnitude of 7.7, it killed approximately 20,000 people and injured over 1,60,000. It remains one of India's deadliest modern earthquakes.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "What is the correct classification of Mount Fuji (Japan)?",
+          "options": ["Active fold mountain", "Active shield volcano", "Dormant stratovolcano", "Extinct caldera"],
+          "answerIndex": 2,
+          "explanation": "Mount Fuji (3,776 m) is a dormant stratovolcano — it last erupted in 1707 (Hōei eruption). It is the iconic composite cone-shaped volcano of Japan, classified as dormant (not erupting recently but capable of future eruption). It is Japan's highest mountain.",
+          "source": "SSC Geography Volcanoes",
+          "verified": true
+        },
+        {
+          "text": "A tsunami is primarily caused by:",
+          "options": ["Tropical cyclone over the ocean", "Submarine earthquake, volcanic eruption, or landslide", "High tides during full moon", "Deep ocean current change"],
+          "answerIndex": 1,
+          "explanation": "Tsunamis are caused by sudden, large displacements of the ocean floor — most commonly by submarine earthquakes at subduction zones. Submarine volcanic eruptions and landslides can also trigger them. They travel at ~700–900 km/h in deep water but slow down and grow enormously tall near shore.",
+          "source": "SSC Science Disasters",
+          "verified": true
+        },
+        {
+          "text": "Which seismic scale measures the INTENSITY (felt effects) of an earthquake at a particular location, rather than its magnitude?",
+          "options": ["Richter Scale", "Moment Magnitude Scale (Mw)", "Modified Mercalli Intensity Scale (MMI)", "Beaufort Scale"],
+          "answerIndex": 2,
+          "explanation": "The Modified Mercalli Intensity Scale (MMI) measures the intensity of shaking experienced at a specific location (I = not felt, XII = total destruction). The Richter and Moment Magnitude scales measure the magnitude (total energy released) at the source. The Beaufort Scale measures wind speed.",
+          "source": "SSC Geography Measurements",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

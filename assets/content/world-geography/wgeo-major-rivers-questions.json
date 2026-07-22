@@ -1,0 +1,158 @@
+{
+  "topic": "Major Rivers of the World",
+  "topicId": "wgeo-major-rivers",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the longest river in the world?",
+          "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+          "answerIndex": 1,
+          "explanation": "The Nile (~6,650 km) is generally accepted as the longest river in the world, flowing northward through northeastern Africa into the Mediterranean Sea. The Amazon (~6,400 km) is debated as the 2nd longest but has the largest discharge and drainage basin.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Yangtze River is the longest river in which continent?",
+          "options": ["Africa", "North America", "South America", "Asia"],
+          "answerIndex": 3,
+          "explanation": "The Yangtze (~6,300 km) is the longest river in Asia and flows entirely within China. The Three Gorges Dam — the world's largest hydroelectric project by installed capacity — is built on the Yangtze River.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Volga River flows into which water body?",
+          "options": ["Black Sea", "Baltic Sea", "Caspian Sea", "North Sea"],
+          "answerIndex": 2,
+          "explanation": "The Volga River (~3,690 km) is the longest river in Europe and flows into the Caspian Sea. It is crucial to Russia and is called 'Mother Volga.' Note: It does NOT flow into any open ocean, making it an endorheic (internally draining) system.",
+          "source": "SSC Geography Europe",
+          "verified": true
+        },
+        {
+          "text": "Which river is known as the 'Sorrow of China'?",
+          "options": ["Yangtze River", "Yellow River (Huang He)", "Pearl River", "Amur River"],
+          "answerIndex": 1,
+          "explanation": "The Yellow River (Huang He, ~5,464 km) is called the 'Sorrow of China' because of its frequent devastating floods throughout Chinese history. It carries enormous amounts of yellow silt (loess) and frequently breaches its banks.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which river has the largest discharge (volume of water) in the world?",
+          "options": ["Nile", "Congo", "Amazon", "Yangtze"],
+          "answerIndex": 2,
+          "explanation": "The Amazon has the greatest water discharge — approximately 20% of all freshwater entering the world's oceans. It also has the largest drainage basin (~7 million km²). The Nile is longest, but the Amazon carries far more water.",
+          "source": "SSC Geography Rivers",
+          "verified": true
+        },
+        {
+          "text": "Brahmaputra River is known by what name in Tibet?",
+          "options": ["Tsangpo (Yarlung Tsangpo)", "Kameng", "Subansiri", "Lohit"],
+          "answerIndex": 0,
+          "explanation": "The Brahmaputra originates in Tibet as the Yarlung Tsangpo, flowing eastward before making a sharp U-turn (hairpin bend) at Namcha Barwa and entering India through Arunachal Pradesh. It then flows west through Assam.",
+          "source": "SSC India Rivers",
+          "verified": true
+        },
+        {
+          "text": "Which African river is the deepest in the world?",
+          "options": ["Nile", "Niger", "Zambezi", "Congo"],
+          "answerIndex": 3,
+          "explanation": "The Congo River is the deepest river in the world (>220 m depth in places) and has the highest water discharge in Africa (2nd highest globally after Amazon). It is also the world's 2nd largest river by discharge.",
+          "source": "SSC Geography Africa",
+          "verified": true
+        },
+        {
+          "text": "The Kosi River, known as the 'Sorrow of Bihar', is a tributary of which river?",
+          "options": ["Brahmaputra", "Ganges", "Yamuna", "Indus"],
+          "answerIndex": 1,
+          "explanation": "The Kosi River (originating in Nepal) joins the Ganges in Bihar. It is called the 'Sorrow of Bihar' because it frequently floods, shifts course, and causes devastating damage. Its unpredictable nature has historically brought great suffering to Bihar.",
+          "source": "SSC India Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Which is the longest river in Australia?",
+          "options": ["Murray River", "Darling River", "Murrumbidgee", "Murray-Darling system"],
+          "answerIndex": 3,
+          "explanation": "The Murray-Darling river system (~3,750 km combined) is the longest river system in Australia. The Murray River alone is the main channel, while the Darling is its major tributary. Together they form Australia's most important river system for agriculture.",
+          "source": "SSC Geography Australia",
+          "verified": false
+        },
+        {
+          "text": "The Three Gorges Dam is built on which river?",
+          "options": ["Yellow River (Huang He)", "Pearl River", "Yangtze River", "Mekong River"],
+          "answerIndex": 2,
+          "explanation": "The Three Gorges Dam in China is built on the Yangtze River. It is the world's largest hydroelectric dam by installed capacity (~22,500 MW). Construction was completed in 2006 and it created a massive reservoir spanning 3 provinces.",
+          "source": "SSC Current Affairs Geography",
+          "verified": true
+        },
+        {
+          "text": "Which river forms the world's largest delta?",
+          "options": ["Amazon", "Nile", "Mississippi", "Ganges-Brahmaputra (Sundarbans)"],
+          "answerIndex": 3,
+          "explanation": "The Sundarbans Delta, formed by the Ganges-Brahmaputra-Meghna river system in India and Bangladesh, is the world's largest river delta. It spans ~80,000 km² and is the site of the world's largest mangrove forest.",
+          "source": "SSC Geography Deltas",
+          "verified": true
+        },
+        {
+          "text": "The Mekong River flows through how many countries?",
+          "options": ["3", "4", "5", "6"],
+          "answerIndex": 3,
+          "explanation": "The Mekong River flows through 6 countries: China (as Lancang River), Myanmar, Laos, Thailand, Cambodia, and Vietnam, before emptying into the South China Sea. Its basin supports over 70 million people.",
+          "source": "SSC Geography SE Asia",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The Nile River flows into which sea?",
+          "options": ["Red Sea", "Arabian Sea", "Mediterranean Sea", "Black Sea"],
+          "answerIndex": 2,
+          "explanation": "The Nile flows northward from equatorial Africa into the Mediterranean Sea, forming the Nile Delta in Egypt. This is a key fact — the Nile flows NORTH (upward on maps), originating in the equatorial region and ending in a Mediterranean delta.",
+          "source": "SSC Geography Africa",
+          "verified": true
+        },
+        {
+          "text": "Which is the longest river in Europe?",
+          "options": ["Rhine", "Danube", "Volga", "Thames"],
+          "answerIndex": 2,
+          "explanation": "The Volga (~3,690 km) is the longest river in Europe. The Danube (2nd longest) flows through 10 countries and into the Black Sea. The Rhine flows into the North Sea. The Thames flows through London into the North Sea.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "Victoria Falls is located on which river?",
+          "options": ["Congo River", "Niger River", "Nile River", "Zambezi River"],
+          "answerIndex": 3,
+          "explanation": "Victoria Falls (Mosi-oa-Tunya, 'the smoke that thunders') is located on the Zambezi River, on the border of Zambia and Zimbabwe. It is the world's widest waterfall (1,708 m). UNESCO World Heritage Site.",
+          "source": "SSC Geography Waterfalls",
+          "verified": true
+        },
+        {
+          "text": "The Indian rivers Narmada and Tapi (Tapti) are unique among major Indian rivers because they:",
+          "options": ["Flow into the Bay of Bengal", "Flow into the Arabian Sea (westward)", "Originate in the Himalayas", "Flow through the Thar Desert"],
+          "answerIndex": 1,
+          "explanation": "Narmada and Tapi are the only two major rivers in peninsular India that flow westward into the Arabian Sea. All other major peninsular rivers (Godavari, Krishna, Kaveri, Mahanadi) flow eastward into the Bay of Bengal.",
+          "source": "SSC India River Systems",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

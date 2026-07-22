@@ -1,0 +1,158 @@
+{
+  "topic": "Oceans, Seas, Straits & Ocean Currents",
+  "topicId": "wgeo-oceans-seas-straits-currents",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "The Strait of Malacca separates which two landmasses?",
+          "options": ["Africa and Arabia", "Malaysia (Malay Peninsula) and Indonesia (Sumatra)", "India and Sri Lanka", "Australia and New Guinea"],
+          "answerIndex": 1,
+          "explanation": "The Strait of Malacca separates the Malay Peninsula (Malaysia/Thailand) from the Indonesian island of Sumatra. It is the world's busiest shipping strait, connecting the Indian Ocean to the South China Sea/Pacific, carrying ~25% of global trade.",
+          "source": "SSC Geography 2018",
+          "verified": true
+        },
+        {
+          "text": "Which is the largest ocean in the world?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+          "answerIndex": 3,
+          "explanation": "The Pacific Ocean (~165 million km²) is the largest ocean, covering more area than all of Earth's land combined. It contains the deepest point (Mariana Trench) and the Ring of Fire.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The Gulf Stream is a major ocean current that flows through the:",
+          "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "Atlantic Ocean"],
+          "answerIndex": 3,
+          "explanation": "The Gulf Stream is a powerful warm ocean current in the North Atlantic Ocean. It originates in the Gulf of Mexico, flows up the eastern coast of North America, and crosses the Atlantic toward Europe as the North Atlantic Drift, moderating Western Europe's climate.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The Palk Strait lies between which two countries?",
+          "options": ["India and Bangladesh", "India and Sri Lanka", "India and Pakistan", "India and Maldives"],
+          "answerIndex": 1,
+          "explanation": "The Palk Strait separates India (Tamil Nadu) from Sri Lanka. It connects the Bay of Bengal (north) with the Gulf of Mannar (south). Adam's Bridge (Rama Setu), a chain of limestone shoals, lies across this shallow strait.",
+          "source": "SSC India Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "The Dead Sea is the saltiest large body of water AND:",
+          "options": ["The largest lake in the world", "The deepest lake in the world", "The lowest point on land", "The oldest sea"],
+          "answerIndex": 2,
+          "explanation": "The Dead Sea shoreline (Jordan/Israel/West Bank) is the lowest point on land at ~430 m below sea level. The Dead Sea is also extremely saline (~340 g/L vs ocean's ~35 g/L). Note: Don Juan Pond in Antarctica is saltier but much smaller.",
+          "source": "SSC Geography Superlatives",
+          "verified": true
+        },
+        {
+          "text": "El Niño typically causes which effect on Indian monsoon?",
+          "options": ["Strengthens Indian monsoon (more rainfall)", "Weakens Indian monsoon (drought tendency)", "Has no effect on Indian monsoon", "Causes the monsoon to arrive early"],
+          "answerIndex": 1,
+          "explanation": "El Niño (warming of central-eastern Pacific) usually weakens the Indian SW monsoon, creating drought tendencies. La Niña (cooling of Pacific) usually strengthens the monsoon. However, the relationship is not absolute — some El Niño years have had normal monsoons.",
+          "source": "SSC India Climate",
+          "verified": true
+        },
+        {
+          "text": "The Suez Canal connects which two bodies of water?",
+          "options": ["Atlantic Ocean and Pacific Ocean", "Black Sea and Caspian Sea", "Mediterranean Sea and Red Sea", "Persian Gulf and Arabian Sea"],
+          "answerIndex": 2,
+          "explanation": "The Suez Canal (Egypt, 193 km) connects the Mediterranean Sea (north) to the Red Sea (south), providing a shortcut between Europe and Asia without going around Africa. Unlike the Panama Canal, the Suez Canal has NO locks — it is at sea level.",
+          "source": "SSC Geography Canals",
+          "verified": true
+        },
+        {
+          "text": "Which ocean current keeps the climate of Western Europe mild?",
+          "options": ["Labrador Current", "Canary Current", "Gulf Stream / North Atlantic Drift", "Benguela Current"],
+          "answerIndex": 2,
+          "explanation": "The Gulf Stream (warm current from Gulf of Mexico) and its extension, the North Atlantic Drift, carry warm tropical water toward NW Europe. Without this, UK, Norway, and other Atlantic-facing countries would be 5–10°C colder, similar to Newfoundland at the same latitude.",
+          "source": "SSC Ocean Currents",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "Approximately what percentage of world's petroleum passes through the Strait of Hormuz?",
+          "options": ["5%", "10%", "20%", "35%"],
+          "answerIndex": 2,
+          "explanation": "Approximately 20% of the world's petroleum (and 30-35% of globally traded oil) passes through the Strait of Hormuz between Iran and Oman. It is the world's most important oil chokepoint, connecting the Persian Gulf to the Arabian Sea.",
+          "source": "SSC Geography Trade",
+          "verified": false
+        },
+        {
+          "text": "Which ocean was officially recognized as the 5th ocean by the International Hydrographic Organization (IHO) in 2000?",
+          "options": ["Coral Ocean", "Arctic Ocean", "Southern (Antarctic) Ocean", "Indian Ocean"],
+          "answerIndex": 2,
+          "explanation": "The Southern Ocean (surrounding Antarctica) was officially recognized as the 5th ocean by the IHO in 2000. It is defined by the Antarctic Circumpolar Current and is the 4th largest ocean by area (~21 million km²).",
+          "source": "SSC Geography Oceans",
+          "verified": false
+        },
+        {
+          "text": "Cold ocean currents on the western coasts of continents tend to create:",
+          "options": ["Tropical rainforests", "Warm, wet climates", "Desert conditions due to dry, stable air", "Monsoon patterns"],
+          "answerIndex": 2,
+          "explanation": "Cold ocean currents (like Benguela off SW Africa, Humboldt off South America, California Current off W USA) create cool, stable atmospheric conditions that suppress rainfall, contributing to desert formation on adjacent coastlines. This explains the Namib Desert, Atacama Desert, and Baja California dryness.",
+          "source": "SSC Climate Currents",
+          "verified": false
+        },
+        {
+          "text": "The Bab-el-Mandeb Strait is strategically important because:",
+          "options": ["It connects the Pacific and Indian Oceans", "It controls access to the Suez Canal from the south", "It is the world's busiest shipping route", "It separates India from Sri Lanka"],
+          "answerIndex": 1,
+          "explanation": "Bab-el-Mandeb (between Yemen and Djibouti) connects the Red Sea to the Gulf of Aden/Indian Ocean. Ships using the Suez Canal must pass through Bab-el-Mandeb at the Red Sea's southern end. Its name means 'Gate of Tears' in Arabic.",
+          "source": "SSC Geography Straits",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The Indian Ocean is unique among oceans because:",
+          "options": ["It is the deepest ocean", "It is entirely in the Eastern Hemisphere and is the only ocean named after a country", "It has the highest salinity", "It is the smallest ocean"],
+          "answerIndex": 1,
+          "explanation": "The Indian Ocean is the only ocean named after a country (India). It is also entirely in the Eastern Hemisphere, bounded by Asia, Africa, and Australia. It is the 3rd largest ocean and the warmest ocean.",
+          "source": "SSC Geography Indian Ocean",
+          "verified": true
+        },
+        {
+          "text": "Which ocean current causes the Namib Desert to be dry along the coast of Southwest Africa?",
+          "options": ["Agulhas Current (warm)", "Mozambique Current (warm)", "Benguela Current (cold)", "South Indian Ocean Current (cold)"],
+          "answerIndex": 2,
+          "explanation": "The Benguela Current (cold) flows northward along the coast of South Africa and Namibia. Cold water cools and stabilizes the air above it, suppressing rainfall along the coast and creating the Namib Desert. It also creates rich fishing grounds due to upwelling.",
+          "source": "SSC Ocean Currents Africa",
+          "verified": true
+        },
+        {
+          "text": "The Panama Canal connects which two oceans?",
+          "options": ["Atlantic and Indian", "Pacific and Indian", "Pacific and Atlantic", "Arctic and Pacific"],
+          "answerIndex": 2,
+          "explanation": "The Panama Canal (80 km, opened 1914) connects the Atlantic Ocean (via Caribbean Sea) to the Pacific Ocean through the Isthmus of Panama. Unlike the Suez Canal, it uses locks to lift ships up to Gatun Lake and then lower them down.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "The Caspian Sea is correctly described as:",
+          "options": ["An arm of the Pacific Ocean", "The world's largest saltwater lake/landlocked water body", "A freshwater lake in Central Asia", "An inland sea connected to the Indian Ocean"],
+          "answerIndex": 1,
+          "explanation": "The Caspian Sea is the world's largest landlocked water body by area (~371,000 km²). It is saline (though less salty than ocean water) and is classified as both a lake and a sea by different authorities. It borders Russia, Azerbaijan, Iran, Turkmenistan, and Kazakhstan.",
+          "source": "SSC Geography Lakes-Seas",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "topic": "World Political Geography — Countries, Capitals & Borders",
+  "topicId": "wgeo-political-geography-countries",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which is the smallest country in the world by area?",
+          "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+          "answerIndex": 2,
+          "explanation": "Vatican City (~0.44 km²) is the smallest country in the world by both area and population, located within Rome, Italy. It is the headquarters of the Roman Catholic Church and the residence of the Pope.",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "The capital of Australia is:",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "answerIndex": 2,
+          "explanation": "Canberra is the capital of Australia. Sydney and Melbourne both claimed to be the capital after federation in 1901; Canberra was purpose-built as a compromise capital and officially became the capital in 1927. Sydney remains Australia's largest city.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "The line separating India and China (Arunachal Pradesh sector) is known as the:",
+          "options": ["Radcliffe Line", "Durand Line", "McMahon Line", "Line of Control"],
+          "answerIndex": 2,
+          "explanation": "The McMahon Line (drawn by Henry McMahon at the 1914 Shimla Convention) is the boundary claimed by India in the northeastern sector (Arunachal Pradesh). China does not recognize it and claims Arunachal Pradesh as part of Tibet.",
+          "source": "SSC India Borders",
+          "verified": true
+        },
+        {
+          "text": "Which country is the world's largest by land area?",
+          "options": ["Canada", "China", "United States", "Russia"],
+          "answerIndex": 3,
+          "explanation": "Russia is the world's largest country by area (~17.1 million km²), spanning 11 time zones across Europe and Asia. Canada is 2nd (~9.98 million km²), followed by USA (~9.83 million km²).",
+          "source": "SSC Geography 2018",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which are the two 'doubly landlocked' countries in the world (surrounded entirely by landlocked countries)?",
+          "options": ["Nepal and Bhutan", "Liechtenstein and San Marino", "Liechtenstein and Uzbekistan", "Switzerland and Austria"],
+          "answerIndex": 2,
+          "explanation": "Only two countries are 'doubly landlocked' (surrounded entirely by landlocked countries): Liechtenstein (in Europe, surrounded by Switzerland and Austria) and Uzbekistan (in Central Asia, surrounded by Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, and Turkmenistan).",
+          "source": "SSC Geography Landlocked",
+          "verified": true
+        },
+        {
+          "text": "Turkey is considered a 'transcontinental country' because:",
+          "options": ["It has territory in both Africa and Asia", "It has territory in both Europe and Asia", "It has territory in both Asia and Oceania", "It controls territory on three continents"],
+          "answerIndex": 1,
+          "explanation": "Turkey is transcontinental because it has territory in both Europe (Thrace, west of the Bosphorus Strait) and Asia (Anatolia). Istanbul itself straddles the Bosphorus Strait, which forms the Europe-Asia boundary at this point.",
+          "source": "SSC Geography Transcontinental",
+          "verified": true
+        },
+        {
+          "text": "South Africa uniquely has three capitals. What are their functions?",
+          "options": ["Legislative, Judicial, Administrative (finance)", "Executive/Administrative, Legislative, Judicial", "Financial, Political, Cultural", "Federal, State, Municipal"],
+          "answerIndex": 1,
+          "explanation": "South Africa has three capitals due to a historical compromise: Pretoria (executive/administrative capital — where the President resides), Cape Town (legislative capital — Parliament sits here), and Bloemfontein (judicial capital — Supreme Court of Appeal).",
+          "source": "SSC Political Geography",
+          "verified": true
+        },
+        {
+          "text": "The world's newest internationally recognized nation (as of 2025) is:",
+          "options": ["Kosovo", "East Timor (Timor-Leste)", "South Sudan", "Montenegro"],
+          "answerIndex": 2,
+          "explanation": "South Sudan, which gained independence from Sudan on July 9, 2011, is the world's newest widely recognized sovereign nation. Kosovo (2008) has partial recognition; South Sudan has near-universal UN membership recognition.",
+          "source": "SSC Current Affairs Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The 38th Parallel is associated with the division of which country?",
+          "options": ["Vietnam", "Korea", "Germany", "India and Pakistan"],
+          "answerIndex": 1,
+          "explanation": "The 38th Parallel (38°N latitude) divides North Korea and South Korea since the 1953 Korean War armistice. The Korean Demilitarized Zone (DMZ) straddles this line. Vietnam was divided at the 17th Parallel (until reunification in 1976).",
+          "source": "SSC Political Geography",
+          "verified": true
+        },
+        {
+          "text": "Which is the largest country in Africa by area (as of 2025)?",
+          "options": ["Sudan", "Egypt", "DRC", "Algeria"],
+          "answerIndex": 3,
+          "explanation": "Algeria (~2.38 million km²) became Africa's largest country after South Sudan's independence from Sudan in 2011, which reduced Sudan's total area. Algeria has been Africa's largest country since then.",
+          "source": "SSC Africa Geography",
+          "verified": true
+        },
+        {
+          "text": "The capital of Pakistan is:",
+          "options": ["Karachi", "Lahore", "Islamabad", "Rawalpindi"],
+          "answerIndex": 2,
+          "explanation": "Islamabad has been Pakistan's capital since 1967 (built as a purpose-designed federal capital). Karachi was the first capital at independence (1947) but is now the financial capital and largest city. Lahore is 2nd largest city.",
+          "source": "SSC Geography Pakistan",
+          "verified": true
+        },
+        {
+          "text": "Which line was drawn by Sir Cyril Radcliffe to partition British India in 1947?",
+          "options": ["McMahon Line", "Durand Line", "Radcliffe Line", "Line of Control"],
+          "answerIndex": 2,
+          "explanation": "The Radcliffe Line, drawn by Sir Cyril Radcliffe in August 1947, partitioned British India into independent India and Pakistan. There are two Radcliffe Lines — one for Punjab (India-West Pakistan) and one for Bengal (India-East Pakistan/Bangladesh).",
+          "source": "SSC History-Geography Partition",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The capital of Turkey is:",
+          "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+          "answerIndex": 1,
+          "explanation": "Ankara is the capital of Turkey (since 1923, after Atatürk established the Turkish Republic). Istanbul (formerly Constantinople) is Turkey's largest city and was the historical capital of the Ottoman Empire and Byzantine Empire.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "Which country has the most people (most populous) in Africa?",
+          "options": ["Egypt", "Ethiopia", "South Africa", "Nigeria"],
+          "answerIndex": 3,
+          "explanation": "Nigeria is Africa's most populous country (~220 million people). Ethiopia is 2nd most populous (~125 million). Nigeria is also Africa's largest economy. Lagos (Nigeria's largest city) is Africa's most populous city.",
+          "source": "SSC Geography Africa",
+          "verified": true
+        },
+        {
+          "text": "Brazil's capital is:",
+          "options": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+          "answerIndex": 2,
+          "explanation": "Brasília has been Brazil's capital since 1960, purpose-built on the central plateau to decentralize the country from the coastal cities. São Paulo is Brazil's largest city and economic hub. Rio de Janeiro was the capital before 1960.",
+          "source": "SSC CGL 2019",
+          "verified": true
+        },
+        {
+          "text": "Kazakhstan is geographically significant as the world's:",
+          "options": ["Largest island nation", "Most densely populated country", "Largest landlocked country", "Highest altitude country"],
+          "answerIndex": 2,
+          "explanation": "Kazakhstan (~2.72 million km²) is the world's largest landlocked country by area. It is the 9th largest country overall. It is bordered by Russia, China, Kyrgyzstan, Uzbekistan, and Turkmenistan — none of which have ocean access.",
+          "source": "SSC Geography Central Asia",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

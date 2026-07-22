@@ -1,0 +1,158 @@
+{
+  "topic": "World Agriculture & Crop Regions",
+  "topicId": "wgeo-world-agriculture-crops",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which country is the world's largest producer of coffee?",
+          "options": ["Colombia", "Ethiopia", "Vietnam", "Brazil"],
+          "answerIndex": 3,
+          "explanation": "Brazil is the world's largest coffee producer (approximately 35–40% of global output), followed by Vietnam (2nd) and Colombia (3rd). Colombia is famous for Arabica quality, and Ethiopia is the birthplace of coffee, but Brazil leads in total quantity.",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "Jute is called the 'Golden Fibre'. The world's largest producer of jute is:",
+          "options": ["India", "Bangladesh", "China", "Myanmar"],
+          "answerIndex": 1,
+          "explanation": "Bangladesh is the world's largest producer of jute, followed by India (2nd). West Bengal (Hugli region) is India's main jute growing area. Jute is used for gunny bags, rope, hessian cloth, and carpet backing.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The crop that grows best in 'black cotton soil' (regur soil) is:",
+          "options": ["Wheat", "Rice", "Cotton", "Jute"],
+          "answerIndex": 2,
+          "explanation": "Black cotton soil (regur soil) is ideal for cotton cultivation. It swells when wet (retaining moisture) and shrinks when dry (aerating roots). Found in Maharashtra, Gujarat, Madhya Pradesh, and Telangana — India's Deccan cotton belt.",
+          "source": "SSC India Agriculture",
+          "verified": true
+        },
+        {
+          "text": "Which crop is India the largest producer of, globally?",
+          "options": ["Rice", "Wheat", "Jute", "Milk"],
+          "answerIndex": 3,
+          "explanation": "India is the world's largest producer of milk (overtook the USA decades ago), accounting for ~23% of global milk production. For crops: India is 2nd in rice, 2nd in wheat, and 2nd in jute. India is also the largest producer of spices and often trades positions with China for cotton.",
+          "source": "SSC Agriculture Production",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "The Green Revolution in India in the 1960s-70s primarily benefited which crops?",
+          "options": ["Rice and Jute", "Wheat and Rice", "Cotton and Sugarcane", "Tea and Coffee"],
+          "answerIndex": 1,
+          "explanation": "The Green Revolution introduced High Yielding Varieties (HYV) of wheat (Norman Borlaug's dwarf wheat from CIMMYT, Mexico) and rice (from IRRI, Philippines). Punjab and Haryana became the heartland of India's wheat revolution; West Bengal and Punjab for rice.",
+          "source": "SSC India Agriculture History",
+          "verified": true
+        },
+        {
+          "text": "Tea requires which type of soil?",
+          "options": ["Alkaline, clay-rich soil", "Neutral pH alluvial soil", "Well-drained acidic soil on hillslopes", "Saline coastal soil"],
+          "answerIndex": 2,
+          "explanation": "Tea grows best in well-drained, acidic soils (pH 4.5–6.0) on hillslopes. Waterlogged soil damages tea roots. This is why Darjeeling (hillslopes, acidic soil, heavy rainfall, cool climate) produces fine-quality tea. Assam's lowland tea grows in different but still well-drained riverine alluvial soil.",
+          "source": "SSC Agriculture Soil Crops",
+          "verified": false
+        },
+        {
+          "text": "Which country is both the world's largest producer AND consumer of sugarcane?",
+          "options": ["India", "China", "Brazil", "Cuba"],
+          "answerIndex": 2,
+          "explanation": "Brazil is the world's largest producer of sugarcane (#1) as well as a massive consumer (primarily for ethanol fuel — Brazil runs most vehicles on sugarcane-derived ethanol). India is the 2nd largest producer and is often the largest consumer since Brazil exports much of its sugar.",
+          "source": "SSC Agriculture World",
+          "verified": false
+        },
+        {
+          "text": "Plantation agriculture differs from subsistence agriculture primarily in that:",
+          "options": ["It uses more water", "It focuses on a single cash crop grown on large estates for export", "It only grows food crops", "It is practiced in cold climates"],
+          "answerIndex": 1,
+          "explanation": "Plantation agriculture involves large estates (often colonial in origin) cultivating a single cash crop (tea, rubber, coffee, cocoa, sugarcane, bananas) for export. It is highly commercial, uses hired labour, and often requires processing facilities on-site. Subsistence agriculture grows diverse food crops for household consumption.",
+          "source": "SSC Agricultural Types",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "India produces approximately what percentage of the world's turmeric?",
+          "options": ["20%", "50%", "80%", "95%"],
+          "answerIndex": 2,
+          "explanation": "India produces approximately 80% of the world's turmeric supply, with Andhra Pradesh (now Telangana — Nizamabad district) being the largest producing state. India is the world's largest producer, consumer, and exporter of turmeric.",
+          "source": "SSC India Spices",
+          "verified": true
+        },
+        {
+          "text": "The IRRI (International Rice Research Institute) is headquartered in:",
+          "options": ["New Delhi, India", "Bangkok, Thailand", "Manila, Philippines", "Beijing, China"],
+          "answerIndex": 2,
+          "explanation": "IRRI (International Rice Research Institute) is headquartered in Los Baños, near Manila, Philippines. It was established in 1960 and played a key role in developing High Yielding Varieties (HYV) of rice during the Green Revolution.",
+          "source": "SSC Agricultural Institutions",
+          "verified": true
+        },
+        {
+          "text": "Shifting cultivation in NE India (called 'Jhum') is a problem because:",
+          "options": ["It is too labour-intensive", "It leads to deforestation and soil erosion when fallow period is reduced", "It uses too much irrigation water", "It only grows one crop"],
+          "answerIndex": 1,
+          "explanation": "Traditional Jhum cultivation involved long fallow periods (10–15 years) allowing forest regeneration. Population pressure has reduced fallow to 2–5 years, preventing proper regeneration, leading to deforestation, loss of biodiversity, soil erosion, and reduced fertility over time.",
+          "source": "SSC Environment Agriculture",
+          "verified": false
+        },
+        {
+          "text": "Which Indian state is the leading producer of natural rubber?",
+          "options": ["Karnataka", "Tamil Nadu", "Assam", "Kerala"],
+          "answerIndex": 3,
+          "explanation": "Kerala is India's leading natural rubber producing state, accounting for ~80% of India's rubber output. The Kottayam, Ernakulam, and Thrissur districts are major rubber growing areas. Karnataka and Tamil Nadu also produce rubber but in smaller quantities.",
+          "source": "SSC India Agriculture State-wise",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The world's largest producer of tea is:",
+          "options": ["India", "Sri Lanka", "Kenya", "China"],
+          "answerIndex": 3,
+          "explanation": "China is the world's largest tea producer (all types — green, black, oolong), accounting for ~45% of global production. India is 2nd (mainly black tea from Assam and Darjeeling), Kenya is 3rd, Sri Lanka is 4th. For tea EXPORTS, China, India, and Kenya are top exporters.",
+          "source": "SSC CGL Agriculture",
+          "verified": true
+        },
+        {
+          "text": "India's saffron (kesar) is produced only in which state?",
+          "options": ["Himachal Pradesh", "Uttarakhand", "Jammu & Kashmir", "Punjab"],
+          "answerIndex": 2,
+          "explanation": "Saffron in India is exclusively grown in Kashmir (Jammu & Kashmir), particularly in the Pampore area near Srinagar. Iran is the world's largest saffron producer (~90% of global supply). Kashmir saffron is considered among the world's finest quality.",
+          "source": "SSC India Spices Geography",
+          "verified": true
+        },
+        {
+          "text": "The 'Corn Belt' of the United States, famous for maize production, is located in which region?",
+          "options": ["Western USA (California)", "Southern USA (Texas, Louisiana)", "Midwestern USA (Iowa, Illinois, Indiana)", "Northeastern USA (New York, Ohio)"],
+          "answerIndex": 2,
+          "explanation": "The US Corn Belt encompasses the Midwestern states — primarily Iowa, Illinois, Indiana, Ohio, and Missouri. This region has deep fertile soils, moderate rainfall, and warm summers ideal for maize. The USA is the world's largest maize producer.",
+          "source": "SSC USA Agriculture",
+          "verified": true
+        },
+        {
+          "text": "Which Indian city is the hub of the diamond cutting and polishing industry?",
+          "options": ["Mumbai", "Hyderabad", "Jaipur", "Surat"],
+          "answerIndex": 3,
+          "explanation": "Surat (Gujarat) is the world centre for diamond cutting and polishing, processing approximately 90% of the world's rough diamonds. The industry employs hundreds of thousands in Surat. Jaipur (Rajasthan) is known for coloured gemstones (emeralds, rubies).",
+          "source": "SSC India Industry",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "topic": "Atmosphere — Layers, Weather & Cyclones",
+  "topicId": "wgeo-atmosphere-weather",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Which layer of the atmosphere contains the ozone layer?",
+          "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+          "answerIndex": 1,
+          "explanation": "The ozone layer is found in the stratosphere, between 15–35 km altitude. Ozone (O₃) absorbs harmful ultraviolet radiation from the Sun. The stratosphere also has temperature increasing with altitude (unlike troposphere).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "All weather phenomena occur in which atmospheric layer?",
+          "options": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere"],
+          "answerIndex": 2,
+          "explanation": "The troposphere (0–12 km) is where all weather phenomena — rain, storms, clouds, cyclones — occur. It contains 75% of the atmosphere's mass and water vapour. Temperature decreases with altitude here (lapse rate ~6.5°C/km).",
+          "source": "SSC CGL 2017",
+          "verified": true
+        },
+        {
+          "text": "In which direction do cyclones rotate in the Northern Hemisphere?",
+          "options": ["Clockwise", "Anti-clockwise", "No rotation", "Alternating directions"],
+          "answerIndex": 1,
+          "explanation": "Cyclones rotate anti-clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere due to the Coriolis Effect. Anticyclones rotate in the opposite direction: clockwise in NH, anti-clockwise in SH.",
+          "source": "SSC CHSL 2018",
+          "verified": true
+        },
+        {
+          "text": "What is the standard atmospheric pressure at sea level?",
+          "options": ["1 mb", "760 mm Hg", "500 mb", "1,013.25 mb"],
+          "answerIndex": 3,
+          "explanation": "Standard sea-level atmospheric pressure is 1013.25 mb (millibars) = 1 atm = 760 mm Hg. All three are equivalent units. Barometers measure this pressure; mercury barometers were invented by Torricelli in 1643.",
+          "source": "SSC Science-Geography",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which atmospheric layer is coldest?",
+          "options": ["Troposphere (at top)", "Stratosphere", "Mesosphere", "Thermosphere"],
+          "answerIndex": 2,
+          "explanation": "The mesopause (top of the mesosphere, ~80 km) is the coldest point in Earth's atmosphere (~−100°C). In the mesosphere, temperature decreases with altitude. Meteors burn up in this layer.",
+          "source": "SSC Atmosphere Layers",
+          "verified": false
+        },
+        {
+          "text": "What type of rainfall is associated with mountain ranges?",
+          "options": ["Convectional rainfall", "Frontal rainfall", "Orographic rainfall", "Cyclonic rainfall"],
+          "answerIndex": 2,
+          "explanation": "Orographic (or relief) rainfall occurs when moist air is forced upward over mountains, cools, and condenses. The windward side gets heavy rain; the leeward (rain shadow) side remains dry. Example: Western Ghats windward vs. Deccan rain shadow.",
+          "source": "SSC Geography Rainfall",
+          "verified": true
+        },
+        {
+          "text": "What is the regional name for a tropical cyclone in the Pacific (western Pacific/South China Sea)?",
+          "options": ["Hurricane", "Cyclone", "Typhoon", "Willy-willy"],
+          "answerIndex": 2,
+          "explanation": "The same tropical cyclone phenomenon is called: Typhoon in the western Pacific and South China Sea (Japan, Philippines, China); Hurricane in the Atlantic and eastern Pacific; Cyclone in the Indian Ocean; Willy-willy in Australia.",
+          "source": "SSC Geography Cyclones",
+          "verified": true
+        },
+        {
+          "text": "High pressure (anticyclone) systems are associated with which weather condition?",
+          "options": ["Heavy rainfall and storms", "Clear, calm, dry weather", "Fog and hail", "Thunderstorms"],
+          "answerIndex": 1,
+          "explanation": "High pressure (anticyclone) brings descending air, which warms and dries as it descends. This suppresses cloud formation, resulting in clear, calm, dry weather. Low pressure (cyclone) brings rising air, condensation, and precipitation.",
+          "source": "SSC Meteorology",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The ISS (International Space Station) orbits in which atmospheric layer?",
+          "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Exosphere"],
+          "answerIndex": 2,
+          "explanation": "The ISS orbits at ~400 km altitude, which falls within the thermosphere (80–700 km). Despite the thermosphere having temperatures up to 2,500°C (due to solar radiation), the very thin air means little heat is transferred to objects there.",
+          "source": "SSC Science Set",
+          "verified": false
+        },
+        {
+          "text": "Which coast of India is more prone to tropical cyclones?",
+          "options": ["West coast (Arabian Sea)", "East coast (Bay of Bengal)", "Both equally", "Neither"],
+          "answerIndex": 1,
+          "explanation": "India's east coast (Bay of Bengal) is more cyclone-prone than the west coast (Arabian Sea). Bay of Bengal is warmer, shallower, and funnel-shaped, creating conditions favourable for cyclone formation and intensification.",
+          "source": "SSC India Geography",
+          "verified": true
+        },
+        {
+          "text": "What percentage of atmospheric mass is found within 30 km of Earth's surface?",
+          "options": ["50%", "75%", "99%", "100%"],
+          "answerIndex": 2,
+          "explanation": "99% of Earth's atmospheric mass is concentrated within 30 km of the surface. The atmosphere gets rapidly less dense with altitude — at 10 km (cruising altitude of jets), pressure is already only about 1/4 of sea level.",
+          "source": "SSC Atmosphere Facts",
+          "verified": false
+        },
+        {
+          "text": "Jet streams are located at what altitude range?",
+          "options": ["2–5 km", "9–16 km", "20–30 km", "50–80 km"],
+          "answerIndex": 1,
+          "explanation": "Jet streams are narrow bands of fast-moving air at 9–16 km altitude (upper troposphere to lower stratosphere). They travel at 100–400 km/h and significantly influence surface weather patterns, including the Indian monsoon.",
+          "source": "SSC Atmosphere Advanced",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "Which gas makes up the highest percentage of Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon dioxide", "Argon", "Nitrogen"],
+          "answerIndex": 3,
+          "explanation": "Nitrogen (N₂) makes up 78.09% of Earth's atmosphere, followed by Oxygen (O₂) at 20.95%, Argon at 0.93%, and CO₂ at ~0.04%. Despite oxygen being essential for life, nitrogen dominates by volume.",
+          "source": "SSC Science CGL",
+          "verified": true
+        },
+        {
+          "text": "What does the instrument 'anemometer' measure?",
+          "options": ["Atmospheric pressure", "Humidity", "Wind speed", "Rainfall"],
+          "answerIndex": 2,
+          "explanation": "An anemometer measures wind speed. A barometer measures atmospheric pressure, a hygrometer measures humidity, and a rain gauge measures rainfall. A wind vane shows wind direction.",
+          "source": "SSC CGL Instruments",
+          "verified": true
+        },
+        {
+          "text": "Trade winds blow from:",
+          "options": ["Polar regions toward equator", "Equator toward sub-tropical highs", "Sub-tropical highs toward equator", "Sub-polar lows toward sub-tropical highs"],
+          "answerIndex": 2,
+          "explanation": "Trade winds blow from sub-tropical high pressure belts (~30°N/S) toward the equatorial low pressure belt (0°). They blow as NE Trades in the Northern Hemisphere and SE Trades in the Southern Hemisphere.",
+          "source": "SSC Geography Wind Systems",
+          "verified": true
+        },
+        {
+          "text": "When warm air rises over cold air along a front, what type of rainfall results?",
+          "options": ["Orographic rainfall", "Convectional rainfall", "Frontal/cyclonic rainfall", "Monsoonal rainfall"],
+          "answerIndex": 2,
+          "explanation": "Frontal (or cyclonic) rainfall occurs when two air masses of different temperatures meet. Warm air rises over the denser cold air, cools, and produces prolonged steady rainfall along the front. Common in temperate regions.",
+          "source": "SSC Geography Rainfall Types",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}

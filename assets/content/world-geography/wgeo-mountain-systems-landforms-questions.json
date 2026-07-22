@@ -1,0 +1,158 @@
+{
+  "topic": "World Mountain Systems & Landforms",
+  "topicId": "wgeo-mountain-systems-landforms",
+  "sections": [
+    {
+      "id": "pyq",
+      "title": "Previous Year Questions",
+      "questions": [
+        {
+          "text": "Mount Everest, the world's highest peak, is located on the border of:",
+          "options": ["India and Nepal", "Nepal and Tibet (China)", "Pakistan and China", "India and China"],
+          "answerIndex": 1,
+          "explanation": "Mount Everest (8,849 m) is located on the border of Nepal and Tibet (China). It was first summited on May 29, 1953 by Edmund Hillary (New Zealand) and Tenzing Norgay (Nepal).",
+          "source": "SSC CGL 2016",
+          "verified": true
+        },
+        {
+          "text": "Which is the second highest mountain peak in the world?",
+          "options": ["Kangchenjunga", "K2 (Godwin-Austen)", "Lhotse", "Makalu"],
+          "answerIndex": 1,
+          "explanation": "K2 (also called Godwin-Austen) at 8,611 m is the world's 2nd highest peak, located in the Karakoram Range in Pakistan-administered Kashmir. Kangchenjunga (8,586 m) is 3rd — the highest peak on Indian territory.",
+          "source": "SSC CGL 2018",
+          "verified": true
+        },
+        {
+          "text": "The Andes is the world's longest mountain range. It runs along the coast of which continent?",
+          "options": ["North America", "Asia", "Africa", "South America"],
+          "answerIndex": 3,
+          "explanation": "The Andes (~7,000 km long) runs along the western coast of South America, passing through Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina. The highest peak is Aconcagua (6,961 m) in Argentina.",
+          "source": "SSC Geography 2019",
+          "verified": true
+        },
+        {
+          "text": "What type of mountains are the Himalayas?",
+          "options": ["Block mountains", "Volcanic mountains", "Fold mountains", "Residual mountains"],
+          "answerIndex": 2,
+          "explanation": "The Himalayas are fold mountains, formed when the Indian tectonic plate collided with the Eurasian plate approximately 50 million years ago. The collision folded up the rocks to form the world's highest mountain range.",
+          "source": "SSC Geography Landforms",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "Tricky Concepts",
+      "questions": [
+        {
+          "text": "Which is the highest peak in Africa?",
+          "options": ["Mount Kenya", "Mount Kilimanjaro", "Rwenzori (Margherita Peak)", "Atlas Mountains (Jbel Toubkal)"],
+          "answerIndex": 1,
+          "explanation": "Mount Kilimanjaro (5,895 m) in Tanzania is the highest peak in Africa. It is a volcanic mountain (stratovolcano), not a fold mountain. Mount Kenya (5,199 m) is 2nd highest in Africa.",
+          "source": "SSC Geography Africa",
+          "verified": true
+        },
+        {
+          "text": "Which mountain range forms the natural boundary between Europe and Asia?",
+          "options": ["Alps", "Caucasus Mountains", "Ural Mountains", "Carpathians"],
+          "answerIndex": 2,
+          "explanation": "The Ural Mountains (running north-south through Russia) form the traditional geographical boundary between Europe and Asia. They are old, heavily eroded mountains with an average height of ~600 m and rich mineral resources.",
+          "source": "SSC Geography Boundaries",
+          "verified": true
+        },
+        {
+          "text": "What is the highest peak in North America?",
+          "options": ["Mt. Logan (Canada)", "Mt. Whitney (USA)", "Denali/Mt. McKinley (Alaska)", "Pico de Orizaba (Mexico)"],
+          "answerIndex": 2,
+          "explanation": "Denali (formerly Mt. McKinley) at 6,190 m in Alaska, USA is the highest peak in North America. Mt. Logan (5,959 m) is the highest in Canada, and Pico de Orizaba (5,636 m) is the highest in Mexico.",
+          "source": "SSC Seven Summits",
+          "verified": true
+        },
+        {
+          "text": "A U-shaped valley is formed by:",
+          "options": ["River erosion", "Wind erosion", "Glacial erosion", "Wave erosion"],
+          "answerIndex": 2,
+          "explanation": "U-shaped valleys are formed by glacial erosion. Glaciers carve wider, deeper valleys with flat floors and steep sides (U-shape). Rivers carve V-shaped valleys with a narrow floor. Fjords are drowned U-shaped glacial valleys.",
+          "source": "SSC Landforms Glacial",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "underrated",
+      "title": "Underrated but Important",
+      "questions": [
+        {
+          "text": "The oldest mountain range in India is:",
+          "options": ["Himalayas", "Aravalli Range", "Western Ghats", "Satpura Range"],
+          "answerIndex": 1,
+          "explanation": "The Aravalli Range is the oldest fold mountain range in India (and one of the oldest in the world). It runs through Rajasthan, Gujarat, Haryana, and Delhi. Being ancient, it has been heavily eroded and is now relatively low in height.",
+          "source": "SSC India Geography",
+          "verified": true
+        },
+        {
+          "text": "Which plateau is called the 'Roof of the World'?",
+          "options": ["Deccan Plateau", "Patagonian Plateau", "Tibetan Plateau", "Colorado Plateau"],
+          "answerIndex": 2,
+          "explanation": "The Tibetan Plateau (average ~4,500 m elevation; area ~2.5 million km²) is called the 'Roof of the World.' It is both the highest and largest plateau on Earth, located in Tibet/Southwestern China and India's far north.",
+          "source": "SSC Geography Plateaus",
+          "verified": true
+        },
+        {
+          "text": "Mont Blanc, the highest peak in the Alps, is located on the border of:",
+          "options": ["France and Switzerland", "France and Italy", "Switzerland and Italy", "Germany and Austria"],
+          "answerIndex": 1,
+          "explanation": "Mont Blanc (4,808 m) is located on the border of France and Italy. It is the highest peak in the Alps and in Western Europe (with the broader European definition using Elbrus in Russia as Europe's highest at 5,642 m).",
+          "source": "SSC Geography Europe",
+          "verified": true
+        },
+        {
+          "text": "Vindhya and Satpura ranges in India are classified as what type of mountains?",
+          "options": ["Fold mountains", "Block/Fault-block mountains", "Volcanic mountains", "Residual mountains"],
+          "answerIndex": 1,
+          "explanation": "Vindhya and Satpura ranges are block (fault-block) mountains — formed when land between parallel faults was uplifted (horst) or surrounding areas dropped (graben). The Narmada River runs through the rift/graben between them.",
+          "source": "SSC India Landforms",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "frequent",
+      "title": "Frequently Tested",
+      "questions": [
+        {
+          "text": "The highest peak outside Asia is:",
+          "options": ["Mont Blanc (France/Italy)", "Kilimanjaro (Tanzania)", "Aconcagua (Argentina)", "Denali (USA)"],
+          "answerIndex": 2,
+          "explanation": "Aconcagua (6,961 m) in the Andes Mountains of Argentina is the highest peak outside Asia. It is the highest in both South America and the Western and Southern Hemispheres.",
+          "source": "SSC CGL Geography",
+          "verified": true
+        },
+        {
+          "text": "The Grand Canyon was carved by which river?",
+          "options": ["Mississippi River", "Missouri River", "Colorado River", "Columbia River"],
+          "answerIndex": 2,
+          "explanation": "The Grand Canyon (446 km long, up to 1.6 km deep) in Arizona, USA was carved over millions of years by the Colorado River. It is one of the world's most famous geomorphological features.",
+          "source": "SSC Geography USA",
+          "verified": true
+        },
+        {
+          "text": "Kangchenjunga, the 3rd highest peak in the world, is located on the border of:",
+          "options": ["India and China", "India and Nepal", "Nepal and Tibet", "India and Bhutan"],
+          "answerIndex": 1,
+          "explanation": "Kangchenjunga (8,586 m) lies on the India-Nepal border in Sikkim/Nepal. It is the highest peak in India or partly in India, and the 3rd highest in the world. K2 (2nd highest) is in Pakistan-administered Kashmir.",
+          "source": "SSC India Mountains",
+          "verified": true
+        },
+        {
+          "text": "The Great Rift Valley, a classic example of a rift (graben) landform, is located in:",
+          "options": ["North America", "Australia", "South America", "East Africa"],
+          "answerIndex": 3,
+          "explanation": "The Great Rift Valley runs through East Africa (from the Afar Triangle in Ethiopia south through Kenya, Tanzania, Mozambique). It is a classic rift valley — land sinking between parallel faults due to divergent tectonic movement, also creating the East African Rift lakes.",
+          "source": "SSC Geography Landforms",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
